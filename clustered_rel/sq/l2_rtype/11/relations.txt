@@ -1,0 +1,3 @@
+/common/topic/notable_types
+/people/person/profession
+/type/object/type

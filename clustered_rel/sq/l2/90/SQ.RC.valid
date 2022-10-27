@@ -1,0 +1,492 @@
+110	what is the name of a track from <e>
+/music/recording/tracks
+
+
+153	what is a track from <e>
+/music/recording/tracks
+
+
+177	which album is <e> on , by blues company
+/music/recording/releases
+
+
+246	which albums were a part of the release <e>
+/music/recording/releases
+
+
+325	what song is <e> a recorded version of
+/music/recording/tracks
+
+
+336	what track is <e> a recording of
+/music/recording/tracks
+
+
+410	which releases contains the recording <e>
+/music/recording/releases
+
+
+423	which release was <e> recorded on
+/music/recording/releases
+
+
+547	what album is <e> listed on
+/music/recording/releases
+
+
+573	what was the release for <e>
+/music/recording/releases
+
+
+659	what track is <e> a recording of
+/music/recording/tracks
+
+
+677	what is a release on the recording <e>
+/music/recording/releases
+
+
+741	what is a track on the recording <e>
+/music/recording/tracks
+
+
+778	what album is <e> from
+/music/recording/releases
+
+
+790	which track can be found in the recording <e>
+/music/recording/tracks
+
+
+791	what release features <e>
+/music/recording/releases
+
+
+859	what track is <e> a recording of
+/music/recording/tracks
+
+
+868	name a track off the recording <e>
+/music/recording/tracks
+
+
+901	what album features the recording of <e>
+/music/recording/releases
+
+
+920	what is a track off the <e> album
+/music/recording/tracks
+
+
+956	what tracks are on <e>
+/music/recording/tracks
+
+
+1143	what song is <e> a recorded version of
+/music/recording/tracks
+
+
+1185	what is the recording <e> off of
+/music/recording/releases
+
+
+1275	what is the name of a release from the recording <e>
+/music/recording/releases
+
+
+1291	what album features the song <e>
+/music/recording/releases
+
+
+1323	what is a track on the recording <e>
+/music/recording/tracks
+
+
+1572	whats a track of the recording <e>
+/music/recording/tracks
+
+
+1625	what is a track on <e>
+/music/recording/tracks
+
+
+1835	what is a track on the <e> album
+/music/recording/tracks
+
+
+1886	which release contains <e>
+/music/recording/releases
+
+
+1894	what 's a release from the recording <e>
+/music/recording/releases
+
+
+1928	what release did <e> come off of
+/music/recording/releases
+
+
+1942	what tracks are on <e>
+/music/recording/tracks
+
+
+2167	which track is part of <e>
+/music/recording/tracks
+
+
+2177	what is a recording from <e>
+/music/recording/releases
+
+
+2368	what release is from the recording <e>
+/music/recording/releases
+
+
+2410	what album is the song <e> featured on
+/music/recording/releases
+
+
+2484	which track is part of <e>
+/music/recording/tracks
+
+
+2538	which track is on <e>
+/music/recording/tracks
+
+
+2563	what was a release in the recording <e>
+/music/recording/releases
+
+
+2642	what release is <e> from
+/music/recording/releases
+
+
+2744	what was <e> released on
+/music/recording/releases
+
+
+2823	what release is the recording <e> from
+/music/recording/releases
+
+
+2847	name a track off of the recording <e>
+/music/recording/tracks
+
+
+2935	what album was <e> released on
+/music/recording/releases
+
+
+3071	what album features the track <e>
+/music/recording/releases
+
+
+3109	what is track of the <e> album
+/music/recording/tracks
+
+
+3464	what was <e> released on
+/music/recording/releases
+
+
+3748	what is a release from the recording <e>
+/music/recording/releases
+
+
+3973	what is a song on <e>
+/music/recording/tracks
+
+
+4034	what track is <e> a recording of
+/music/recording/tracks
+
+
+4077	in which album is <e> featured on
+/music/recording/releases
+
+
+4286	what is the album that features <e>
+/music/recording/releases
+
+
+4394	which movie soundtrack did <e> come off of
+/music/recording/releases
+
+
+4533	what is a track from the recording <e>
+/music/recording/tracks
+
+
+4557	what album was <e> released on
+/music/recording/releases
+
+
+4564	what is the release track on <e>
+/music/recording/releases
+
+
+4666	what 's a song featured on <e>
+/music/recording/releases
+
+
+4808	what release is <e> from
+/music/recording/releases
+
+
+4881	? what was the release for the recording <e>
+/music/recording/releases
+
+
+4943	which album is <e> off of
+/music/recording/releases
+
+
+5154	which release is <e> on
+/music/recording/releases
+
+
+5193	what track was from the recording <e>
+/music/recording/tracks
+
+
+5241	what is the name of the title track for the recording <e>
+/music/recording/tracks
+
+
+5288	the recording <e> was released on what album
+/music/recording/releases
+
+
+5425	what tracks are on <e>
+/music/recording/tracks
+
+
+5430	what is a track featured on the recording <e>
+/music/recording/tracks
+
+
+5487	which release was <e> on
+/music/recording/releases
+
+
+5493	what track is part of <e>
+/music/recording/tracks
+
+
+5530	what is the title track from <e>
+/music/recording/tracks
+
+
+5592	what is the name of the release that had the recording titled <e>
+/music/recording/releases
+
+
+5891	what track is <e> on
+/music/recording/tracks
+
+
+6172	what is the name of a track on the recording <e>
+/music/recording/tracks
+
+
+6287	what song is from the recording <e>
+/music/recording/tracks
+
+
+6299	what track is recorded by <e>
+/music/recording/tracks
+
+
+6346	what 's a release from the recording <e>
+/music/recording/releases
+
+
+6457	what release was the recording <e> featured on
+/music/recording/releases
+
+
+6487	what song came from the recording <e>
+/music/recording/tracks
+
+
+6491	which song was part of <e>
+/music/recording/releases
+
+
+6503	what is the title of a track on the recording <e>
+/music/recording/tracks
+
+
+6535	whats the name of the release whose recording was called <e>
+/music/recording/releases
+
+
+6625	what release came from the recording <e>
+/music/recording/releases
+
+
+6792	<e> was recorded as a part of what release
+/music/recording/releases
+
+
+6823	what album is <e> a part of
+/music/recording/releases
+
+
+6974	which album released <e> ( jxl radio edit remix )
+/music/recording/releases
+
+
+7159	what album was <e> released on
+/music/recording/releases
+
+
+7233	what is a release of <e>
+/music/recording/releases
+
+
+7241	what release featured the song <e>
+/music/recording/releases
+
+
+7323	which release was in the recording <e>
+/music/recording/releases
+
+
+7381	who released the album <e>
+/music/recording/tracks
+
+
+7405	what release is from the recording <e>
+/music/recording/releases
+
+
+7504	what album does <e> appear on
+/music/recording/releases
+
+
+7588	name a track on <e>
+/music/recording/tracks
+
+
+7767	what song is <e> a recording of
+/music/recording/tracks
+
+
+7813	what album was the recording <e> from
+/music/recording/releases
+
+
+7931	what release is <e> on
+/music/recording/releases
+
+
+7956	what is a track on the recording <e>
+/music/recording/tracks
+
+
+7982	what is a release from the recording <e>
+/music/recording/releases
+
+
+8035	what is a release track by <e>
+/music/recording/releases
+
+
+8110	what 's the title track from <e>
+/music/recording/tracks
+
+
+8180	which track is part of <e>
+/music/recording/tracks
+
+
+8235	which tracks are found in the recording <e>
+/music/recording/tracks
+
+
+8568	what release is <e> from
+/music/recording/releases
+
+
+8578	what release includes <e>
+/music/recording/releases
+
+
+8587	what is a release from the recording <e>
+/music/recording/releases
+
+
+8717	which song was part of <e>
+/music/recording/releases
+
+
+8821	what song is from the recording <e>
+/music/recording/tracks
+
+
+8850	the recording <e> was released on what album
+/music/recording/releases
+
+
+8946	name a track by the artist <e>
+/music/recording/tracks
+
+
+8949	which name was the song <e> released under
+/music/recording/tracks
+
+
+9131	in which album is <e> featured on
+/music/recording/releases
+
+
+9351	name a track off the musical recording <e>
+/music/recording/tracks
+
+
+9473	what is a release on the recording <e>
+/music/recording/releases
+
+
+9772	what are song of the <e> album
+/music/recording/tracks
+
+
+9800	name a band that released <e>
+/music/recording/releases
+
+
+9801	what 's the title track off of <e>
+/music/recording/tracks
+
+
+9859	what 's a song from <e>
+/music/recording/tracks
+
+
+9976	what is a name of song in <e>
+/music/recording/releases
+
+
+10007	what 's a release from <e>
+/music/recording/releases
+
+
+10054	what was <e> released on
+/music/recording/releases
+
+
+10135	which track is part of <e>
+/music/recording/tracks
+
+
+10183	which tracks are the recording <e> from
+/music/recording/tracks
+
+
+10253	what is an album released by <e>
+/music/recording/releases
+
+

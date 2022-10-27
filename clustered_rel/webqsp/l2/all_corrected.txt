@@ -1,0 +1,650 @@
+7	who is governor of <e> 2011
+49	who was the first dictator of the <e>
+67	who are the <e> representatives
+115	who is the state governor of <e>
+148	who rules <e> right now
+207	who was the <e> leader during world war ii
+413	who are the senators of <e> 2013
+450	who is <e> state senator
+464	who is in charge of <e> now
+518	who is the president of <e> in 2012
+531	who are the senators of <e> 2012
+539	who is the president of the <e> 2012
+616	who is the newly elected governor of <e>
+670	who are the <e> senators 2013
+688	who is the governor of <e> state now
+728	who is the king of <e> now
+857	who is the current governor of <e> 2010
+936	who is the governor of <e> 2011
+965	who is president of <e>
+969	who is ruling <e>
+1025	who won the governor election in <e>
+1074	who is my state senator <e>
+1085	who are the american senators of <e>
+1099	who is the state governor of <e>
+1122	who won <e> attorney general
+1123	who is the leader of <e> 2011
+1316	who is the <e> state senator
+1354	who is the leader of <e> today
+1365	who is the governor of <e> 2009
+1437	who is the prime minister of <e> 2011
+1468	who is the president of <e> now
+1471	who are the senators of <e> now
+1646	who is the current leader of <e> 2010
+76	what was the title of the book <e> wrote
+88	what was the book written by <e>
+132	what document did <e> write
+294	what was the first book <e> wrote
+295	what books did <e> wrote
+354	what did <e> wrote
+356	what did <e> wrote
+574	what is the name of the book <e> wrote in jail
+635	what other books did <e> write
+732	what books are written by <e>
+777	what book did <e> published
+883	what document did <e> wrote
+1011	what books did <e> write
+1236	what books did <e> wrote
+1244	what is the title of <e> s new book
+1481	what did <e> wrote
+1592	what book did <e> wrote in 1859
+86	who did armie hammer play in the <e>
+275	who does donnie wahlberg play in <e>
+316	who plays <e>
+363	what part did winona ryder play in <e>
+378	who played jacob black in <e>
+387	who plays stephanie plum in <e>
+591	who plays caesar flickerman in the <e>
+617	who plays roxanne in <e>
+630	who does michael keaton play in <e>
+775	what part did jeff conaway play in <e>
+811	who plays charlie in <e> movies
+838	who does amy stiller play in <e>
+842	who played damien in <e>
+843	who played denver in <e>
+871	who played amy squirrel in <e>
+875	who did viggo mortensen play in <e>
+876	who did viggo mortensen play in <e>
+919	who did johnny depp play in <e>
+980	who plays <e>
+1006	who plays eowyn in <e>
+1072	who played bilbo in <e>
+1077	who did tom hanks play in <e>
+1164	who plays anakin skywalker in <e>
+1193	who played carmen cortez in <e>
+1327	who does the voice for chucky in <e>
+1461	who plays <e>
+1495	who plays robin hood in <e>
+1499	who does alyson stoner play in <e>
+1556	who plays king julian <e>
+1561	who did james franco play in <e>
+1590	who played stanley kowalski in <e>
+1610	who plays timon s voice in <e>
+65	which countries speak <e> officially
+185	what countries have <e> as the national language
+204	what countries in the world speak <e>
+272	what countries have <e> as their official language
+336	where <e> is spoken
+488	what countries have <e> as the official language
+554	where is <e> spoken most
+743	where are people who speak <e> from
+898	where do they speak <e>
+954	where are <e> speakers distributed
+1005	which countries speak <e>
+1339	where do they speak <e>
+1342	where is <e> spoken around the world
+1392	where is <e> spoken in the world map
+1396	what countries speak <e> as a first language
+1423	where do they speak <e>
+1478	which countries have <e> as their main language
+1627	which countries speak <e> language
+36	who will play <e> in the film
+82	who played <e> batgirl
+93	who did the voice of <e> in episode 3
+129	who plays <e>
+134	who played <e> in lord of the rings
+329	who plays <e>
+343	who has played <e>
+367	who is <e> in star wars
+371	who played <e> in episode 2
+377	who played <e> in twilight
+409	who was <e>
+441	who voiced <e>
+490	who plays <e> on vampire diaries
+560	who played <e>
+580	who plays <e>
+603	who makes the voice of <e>
+684	who plays <e>
+705	who voiced <e> in the original star wars movies
+719	who would play <e>
+789	who played <e> on west wing
+790	who played <e> in season 1 of family guy
+798	who played harry potter <e> actor
+822	who played <e> in star trek movie
+823	who played <e> in x files
+832	who was the original voice of <e> on family guy
+924	who is the voice of <e>
+967	who plays <e>
+1071	who played <e> in the fellowship of the ring
+1127	who played <e> at the end of return of the jedi
+1139	who is <e> married to in real life
+1150	who does <e> s voice
+1163	who plays <e> in star wars 1
+1319	who does <e> voice
+1341	who was the voice of <e> in the original star wars movie
+1374	who played <e>
+1425	who plays <e> on ncis
+1510	who plays the role of <e> on ncis
+1541	who played <e> in the first movie
+1591	who played <e> in a streetcar named desire movie
+1615	who played <e> in himym
+1624	who plays <e> in scrubs
+3	where is <e> from
+4	where was <e> from
+18	what electorate does <e> represent
+31	where was <e> born and raised
+33	where <e> was born
+38	what country did <e> control
+62	what country did <e> come from
+84	where is <e> from
+97	where did <e> come from
+107	where did <e> grow up
+146	what state does <e> live in
+168	where is <e> from
+173	where was <e> born
+194	where did <e> live as a child
+215	where was <e> raised
+219	where did <e> s parents come from
+242	where does <e> live
+250	where was country singer <e> born
+269	what nationality is <e>
+324	where did <e> grow up
+331	what country did <e> represent
+349	where is <e> from
+360	where did <e> come from
+372	where did <e> come from
+376	where does <e> live 2011
+390	where was <e> born
+418	where does <e> come from
+449	where did <e> live
+459	where <e> come from
+485	where did <e> grow up
+492	what nationality is <e> jacob black
+542	where does chef <e> live
+582	where does <e> come from
+624	where does <e> live
+634	where did <e> grow up
+657	what country does <e> come from
+660	where is <e> from
+674	what country sponsored <e>
+683	where did <e> grow up
+698	where was <e> from
+797	what country is <e> from
+803	what district does <e> represent
+809	where did <e> come from
+828	where does <e> live
+851	where is <e> from
+863	where did <e> and his descendants live
+866	where <e> was born
+892	where was <e> born
+894	where was <e> born
+923	where did <e> and his wife live
+943	where is <e> from originally
+973	which country was <e> born
+975	what country was <e> in charge of
+977	what nationality is <e>
+1031	where did <e> grew up
+1084	what is <e> nationality
+1107	where did <e> live
+1148	where is <e> from
+1158	where all did <e> live
+1165	where does <e> live now
+1169	where did <e> grew up
+1198	where does <e> live 2012
+1211	where was <e> born
+1248	where does <e> live
+1351	where did <e> grow up
+1357	where was <e> born
+1388	where did <e> wrote
+1389	what is <e> jr nationality
+1415	what city does <e> live in
+1428	where is <e>
+1435	what country does <e> play for
+1455	where is <e> s family from
+1457	what city was <e> born in
+1472	where was <e> raised
+1488	what country did <e> live in
+1507	where does <e> live
+1548	where was <e> born at
+1567	where <e> from
+1581	where was the prophet <e> from
+1585	where is <e> from
+1598	where did <e> live
+1602	where does <e> come from
+1604	what state did <e> live in
+1635	where does <e> come from
+1649	when was <e> born
+9	where is the <e> located
+23	what county is <e> in
+27	where is the <e> located on a world map
+41	what county is <e>
+53	what county is <e> in
+63	what county is <e> in
+91	where is the <e> located
+122	where is <e> located
+126	what countries does <e> share borders with
+137	what countries are part of the <e>
+151	what region of the world is <e> associated with
+158	what places make up <e>
+166	where is <e>
+167	where is <e> in world map
+169	what countries are near <e>
+174	where are the <e> located on a map
+179	where is the <e> on world map
+181	what state is <e> in
+187	what countries does the <e> go through
+209	where was <e>
+221	where was <e> located
+226	which countries share a border with <e>
+262	where was the <e> built
+271	what countries share borders with <e>
+274	what county is <e> in
+298	where is <e> volcano
+313	where is the <e> located
+332	where is <e> located
+337	where is <e> located
+339	what states make up the <e> us
+352	what county is <e> in
+403	where is <e> situated
+415	what country borders <e>
+423	what is the second biggest state in the <e>
+451	what are the 7 countries that are part of <e>
+472	what part of the country is <e>
+498	what county is <e> in
+526	where is <e> located on the map
+534	what county is <e> fl in
+535	what did the <e> include
+566	what countries have territories in <e>
+567	what county is <e> in
+627	what county is <e> tx in
+631	where is the <e>
+640	what states share a border with <e>
+650	where was the <e> based
+655	what does <e> border
+677	what province is <e> in ( 7 letters )
+680	what other states border <e>
+689	where is ancient <e>
+707	what 5 countries border <e>
+716	what county is <e> in
+717	where is <e> wa
+733	what countries does <e> border
+753	what country does <e> belong to
+761	what county is <e>
+772	what two countries make up the <e>
+796	what countries included in <e>
+804	where is <e>
+862	what country was <e> found
+885	where is <e>
+893	where is <e> located
+905	what county is <e> in
+907	which country in <e> is divided into provinces
+913	where is the <e> on a map
+914	where <e> in the world
+927	what are the seven nations of <e>
+931	what rainforest is in <e>
+938	where is <e> ga
+1002	where is <e> city
+1010	where is <e>
+1014	what part of the country is <e> considered
+1034	what city is <e> in
+1043	what continent does <e> belong to
+1060	what the largest city in <e>
+1088	what two states is <e> in
+1095	where is the <e>
+1104	where is <e>
+1110	what province is <e> located
+1115	what other countries border <e>
+1126	what other countries does <e> share borders with
+1152	what places are in the <e>
+1153	what places are in the <e>
+1220	what continent is <e> located
+1230	where is <e> located
+1258	what are all the countries in <e>
+1279	where is the <e> in winnipeg
+1303	where do the <e> run
+1306	what ocean is around <e>
+1324	where is <e> on a map
+1349	where is <e> located
+1375	where is <e> located
+1395	where is <e>
+1399	where does the <e> flow
+1404	where do most of the people live in <e>
+1405	where is <e> located
+1413	where is <e> country
+1424	what 3 states border <e>
+1434	where is the city <e>
+1441	where are the <e> located
+1453	where is <e> scotland
+1476	what state is <e> in
+1502	what countries are located near <e>
+1545	where was <e> located
+1554	what county is <e> in
+1611	what part of the country is <e> in
+1612	which island is <e> on
+1647	where was the <e> located
+1648	where is roswell <e>
+135	what airport do you fly into to get to <e>
+213	which airport to fly into <e>
+283	what airport is near <e>
+614	which is the main train station in <e>
+782	what is the name of airport in <e>
+1505	what airport do you fly into in <e>
+13	who is <e> dad
+70	who is <e> mom name
+100	what are <e> sons names
+140	who is <e> father
+241	what is <e> children names
+270	who is <e> son
+392	who was the father of <e>
+483	what were the names of <e> s three children
+552	who is <e> father
+604	who is <e> mom and dad
+696	what is the name of <e> daughter
+729	who are <e> parents
+744	who was queen <e> mom
+746	what is <e> parents name
+747	who is <e> parents
+839	who were <e> children
+856	what are the names of <e> s 3 children
+928	what is <e> baby name
+929	who is the mother of prince <e>
+1037	how many kids were there in the <e>
+1092	who is <e> father
+1097	what did <e> name his son
+1191	who did <e> have a son with
+1217	who is <e> parents
+1277	who was <e> s mother
+1336	where are ike and <e> s children
+1347	who were the children of <e>
+1350	who is <e> parents
+1377	who was <e> son
+1438	who was the son of <e>
+1442	what is <e> mum called
+1456	what are <e> s children called
+1621	what are the names of <e> s kids
+1	what does <e> people speak
+80	what is <e> language called
+81	what language is spoken in <e> today
+85	what language do people from <e> speak
+117	what language does <e> speak
+133	what are the three official languages of <e>
+177	what language <e> people speak
+206	what is the primary language of <e>
+255	what do people in <e> speak
+289	what language do <e> speak
+291	what language do people speak in the <e>
+292	what are the major languages spoken in <e>
+309	what are the two official languages of <e>
+319	what kind of language does <e> speak
+341	what language does <e> speak
+359	what languages do they speak in <e>
+370	what language <e> speak
+384	what language does <e> use
+388	what did the ancient <e> speak
+396	what language is spoken in <e>
+402	what language do most <e> speak
+406	what do people speak in <e>
+455	what language does <e> people speak
+495	what language do <e> people speak
+530	what kind of language does <e> speak
+544	what kind of language do they speak in <e>
+545	what was the first language spoken in <e>
+548	what language do most people speak in <e>
+578	what language is spoken in <e>
+596	what language does <e>
+646	what language do people from <e> speak
+663	what is the main language used in <e>
+693	what language do people from <e> speak
+727	what is the language of <e> s spoken
+766	what do people speak in <e>
+825	what is the dominant language spoken in <e>
+829	what kind of language does <e> speak
+847	what language does <e> speak
+860	what language do the <e> speak
+861	what language do <e> people speak
+956	what language do people speak in the <e>
+960	what language do people speak in <e>
+1067	what language do <e> speak
+1079	what language do they in <e>
+1086	what kind of language does <e> speak
+1101	what do they speak in <e>
+1116	what language does people in <e> speak
+1124	what the language spoken in <e>
+1134	what are the major languages spoken in the <e>
+1144	what language do they speak in <e> yahoo
+1145	what language did they speak in <e>
+1178	what language do people from the <e> speak
+1201	what language is spoken in <e>
+1221	what language speak in <e>
+1226	how many languages do they speak in <e>
+1249	what is the official language of <e> now
+1284	what language do they use in <e>
+1292	what language is mainly spoken in <e>
+1297	what language do they speak in <e>
+1308	what is the most common language spoken in <e>
+1309	what language <e>
+1322	what language is most commonly spoken in <e>
+1330	what language does <e> speak
+1362	what is the most common language in <e>
+1391	what language does <e> speak
+1419	what is the national language of <e>
+1430	what language do <e> speak
+1433	what are the official languages of <e>
+1464	what do people speak in <e>
+1465	what do people in <e> speak
+1486	what language do they speak in <e> south america
+1492	what do they speak in <e>
+1519	what language did the ancient <e> speak
+1547	what is spoken in <e>
+1582	what language do <e> people speak
+1587	what kind of language do <e> speak
+1588	what language do <e> use
+1613	what language do speak in <e>
+1626	what do people in <e> speak
+24	what highschool did <e> go to
+113	what college did <e> go to
+125	what university did <e> attend
+130	what was <e> education
+139	where did <e> attend college
+150	where did <e> go to school
+153	where did <e> go to college wikianswers
+154	what school did <e> go to
+164	what school did <e> go to
+180	where did <e> go to college
+202	where was <e> educated
+205	where <e> went to school
+228	what school did <e> go to
+231	where did <e> graduate
+240	where did <e> go to college
+260	where did <e> go to college
+296	what school did <e> attend
+311	what college did <e> go to
+347	what university did <e> graduated from
+365	where did <e> go to school
+417	where did <e> go to school
+426	what college did <e>
+428	what college did <e> go to
+452	where did <e> go to college
+458	what school did <e> received his doctorate degree from
+481	what college did <e> jr go to
+505	where did <e> go to college
+533	where did <e> go to college
+547	what school did <e>
+556	what highschool did <e> go to
+610	where did <e> go to college
+623	what was <e> education
+669	where did <e> study
+686	where did <e> go to college
+694	where did <e> go to school
+706	what high school did <e> go to
+730	what schools did <e> go to
+737	what colleges did <e> attend
+763	where did <e> go to school
+781	where did <e> go to college
+805	where did <e> go to college
+812	what highschool did <e> attend
+853	what school did <e> go to
+864	where did <e> go to collage
+880	where did <e> graduated from
+917	where did <e> graduated college
+921	what college did <e> go
+940	what does <e> major in
+942	where did <e> go to school
+957	where did <e> go to school
+979	what college did <e>
+1051	where did <e> attend high school
+1052	what college did <e> go to
+1066	what college did <e> go to
+1087	what degree did <e> earn
+1093	what school did <e> go to
+1147	what colleges did <e> attend
+1171	what college did <e> go to
+1197	what school did <e> attend
+1202	what school did <e> go to
+1214	when did <e> go to college
+1218	where did <e> go to school
+1234	where did <e> go to college
+1240	what school does <e> go to
+1243	where did <e> attend high school
+1263	what university did <e> graduated from
+1334	what boarding school did <e> go to
+1364	where did <e> went to school
+1385	where did <e> go to school
+1401	where did <e> get his education
+1474	where does <e> go to school
+1475	where did <e> go to school
+1482	what schools did <e> attend
+1526	what degrees did <e> get
+1542	where did <e> go to college
+1549	where did <e> go to college
+1551	where did <e> go to school
+1553	where did <e> go to school
+1568	what college did <e> go to
+1601	where did <e> go to college
+1609	what did <e> study in college
+1629	what degrees does <e> have
+310	what state is the <e> from
+443	where are the <e> playing
+454	where are the <e> moving to
+468	where did <e> come from
+628	where do the <e> play
+690	where does the <e> practice
+774	where do the <e> play home games
+792	where do ireland play <e>
+817	where do the <e> play
+1062	what is the <e> stadium called
+1252	where do <e> play
+142	what artistic movement did <e> belong to
+282	what art movement did <e> belong to
+293	what type of artist is <e>
+563	what style of art did <e> do
+679	what types of art did <e> do
+745	what type of art did <e> paint
+932	what type of art does <e> do
+1199	what type of art does <e> do
+1449	what artistic style did <e> work in
+1520	what kind of painter was <e>
+12	what did st <e> do
+29	what did <e> do
+39	who is <e>
+64	what did <e> do
+87	what was <e> role in the declaration of independence
+92	what was <e>
+104	what was <e>
+108	what type of books did <e> wrote
+124	where did <e> conduct his research
+128	what did <e> become famous for
+152	what did <e> do
+182	who is <e>
+188	what is <e> famous for
+189	what did <e> do
+210	what is <e> known for
+232	who was <e>
+237	who is sir <e>
+238	what were <e> s achievements
+251	what did <e> become famous for
+267	who is <e> for kids
+290	what makes <e> famous
+302	what was <e> famous for
+401	who were <e>
+421	what does <e> do
+447	what is <e> famous for
+457	what did <e> do to become famous
+497	what is <e> famous for
+504	who was <e>
+529	what did <e> do
+558	who is <e>
+595	what was <e> famous for
+638	what did <e> do
+704	who is <e>
+739	what jobs did <e> have before he was president
+784	where did <e> work
+786	who is <e>
+821	what has <e> accomplished
+824	what was <e>
+827	who was <e>
+877	who was <e> and what did he do
+884	who is <e> facts
+904	what area of science did <e> study
+962	what does <e> work as
+968	what was <e> contributions
+974	who was <e>
+998	who was sir <e> and what did he do
+1001	who is <e>
+1018	what did <e> do
+1026	what does <e> do
+1042	what was <e> known for
+1044	what does <e> do for a living
+1102	what did <e> study
+1112	what did <e> do to earn a living
+1113	what was <e> known for
+1121	what jobs did <e> have
+1135	what did <e> do in his life
+1166	what was <e> famous for
+1175	what was <e> contribution
+1190	who is <e> the golfer
+1213	who was <e>
+1241	what is <e> well known for
+1281	what was <e> s former occupation
+1372	what did <e> do
+1397	who was <e> and what did he do
+1417	what did <e> do
+1422	what did <e> do
+1459	what kind of writing is <e> famous for
+1503	what made <e> famous
+1511	what did <e> do for living
+1557	who is <e>
+1570	who is <e> facts
+1628	where does <e> work
+1637	what did <e> do for a living
+34	where are <e> based
+110	where is the <e> headquarters located
+166	where is <e>
+246	where is the <e> headquarters
+313	where is the <e> located
+618	where is the <e> ericsson company
+622	where is the main headquarters of <e>
+649	where is <e> corporate headquarters
+872	where are <e> headquarters
+1004	where is the national <e> foundation located today
+1192	what city is <e> state in
+1208	where is the <e> based
+1209	what city and state is <e> located in
+1233	where was the first <e> headquarters located
+1349	where is <e> located
+1368	where is <e> based
+1410	where is the headquarters of <e>
+1416	what city is <e> in
+1447	where is the seat of the <e>
+1476	what state is <e> in
+1642	where are the <e> headquarters located

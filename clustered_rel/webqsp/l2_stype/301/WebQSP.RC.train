@@ -1,0 +1,820 @@
+65	what language do the speak in <e>
+location.country.official_language
+country
+
+82	what is the local language of <e>
+location.country.languages_spoken
+country
+
+103	what is the dominant language in <e>
+location.country.official_language
+country
+
+104	what are the main languages of <e>
+location.country.official_language
+country
+
+144	what language does <e>
+location.country.official_language
+country
+
+154	what language do <e> people speak
+location.country.languages_spoken
+country
+
+185	what are the main languages spoken in <e>
+location.country.official_language
+country
+
+187	what language do they speak in <e>
+location.country.official_language
+country
+
+190	what language people speak in <e>
+location.country.languages_spoken
+country
+
+190	what language people speak in <e>
+location.country.official_language
+country
+
+191	what language do people speak in <e> wikipedia
+location.country.languages_spoken
+country
+
+191	what language do people speak in <e> wikipedia
+location.country.official_language
+country
+
+228	what language they speak in the <e>
+location.country.official_language
+country
+
+237	what language they speak in <e>
+location.country.official_language
+country
+
+249	what languages are there in <e>
+location.country.languages_spoken
+country
+
+249	what languages are there in <e>
+location.country.official_language
+country
+
+253	what language do they speak in <e>
+location.country.official_language
+country
+
+317	what language do they speak in <e> wikipedia
+location.country.languages_spoken
+country
+
+317	what language do they speak in <e> wikipedia
+location.country.official_language
+country
+
+340	what language does people in <e> speak
+location.country.languages_spoken
+country
+
+340	what language does people in <e> speak
+location.country.official_language
+country
+
+341	what type of language does <e> speak
+location.country.official_language
+country
+
+373	what do they speak in <e>
+location.country.languages_spoken
+country
+
+373	what do they speak in <e>
+location.country.official_language
+country
+
+432	what language do people speak in <e>
+location.country.languages_spoken
+country
+
+432	what language do people speak in <e>
+location.country.official_language
+country
+
+450	what language do <e> people speak
+location.country.official_language
+country
+
+499	what do people in the <e> speak
+location.country.languages_spoken
+country
+
+499	what do people in the <e> speak
+location.country.official_language
+country
+
+502	what does <e> speak
+location.country.languages_spoken
+country
+
+502	what does <e> speak
+location.country.official_language
+country
+
+524	what language do they <e>
+location.country.languages_spoken
+country
+
+524	what language do they <e>
+location.country.official_language
+country
+
+533	what language is spoken in <e>
+location.country.official_language
+country
+
+535	what do <e> speak
+location.country.languages_spoken
+country
+
+535	what do <e> speak
+location.country.official_language
+country
+
+547	what main language do they speak in <e>
+location.country.official_language
+country
+
+557	what language do people speak in <e>
+location.country.languages_spoken
+country
+
+606	how many languages are there in the <e>
+location.country.languages_spoken
+country
+
+671	what is the main language of <e>
+location.country.official_language
+country
+
+678	what kind of language do they speak in <e>
+location.country.languages_spoken
+country
+
+678	what kind of language do they speak in <e>
+location.country.official_language
+country
+
+685	what kind of language do they speak in <e>
+location.country.official_language
+country
+
+698	what are the 3 official languages of <e>
+location.country.official_language
+country
+
+715	what is the language spoken in <e>
+location.country.languages_spoken
+country
+
+729	what language do u speak in <e>
+location.country.official_language
+country
+
+744	what do they speak in <e>
+location.country.languages_spoken
+country
+
+744	what do they speak in <e>
+location.country.official_language
+country
+
+758	what did <e> speak
+location.country.languages_spoken
+country
+
+771	what do most <e> speak
+location.country.official_language
+country
+
+806	what language do people speak in <e>
+location.country.languages_spoken
+country
+
+806	what language do people speak in <e>
+location.country.official_language
+country
+
+815	what is the language they speak in <e>
+location.country.languages_spoken
+country
+
+815	what is the language they speak in <e>
+location.country.official_language
+country
+
+866	what are the major languages of <e>
+location.country.official_language
+country
+
+884	what language do <e>
+location.country.languages_spoken
+country
+
+884	what language do <e>
+location.country.official_language
+country
+
+888	what language do people speak in <e>
+location.country.languages_spoken
+country
+
+888	what language do people speak in <e>
+location.country.official_language
+country
+
+938	what type of language does <e> speak
+location.country.languages_spoken
+country
+
+938	what type of language does <e> speak
+location.country.official_language
+country
+
+988	what do people in <e> speak
+location.country.languages_spoken
+country
+
+988	what do people in <e> speak
+location.country.official_language
+country
+
+1003	what language is mainly spoken in <e>
+location.country.languages_spoken
+country
+
+1035	what language do the people in <e> speak
+location.country.official_language
+country
+
+1037	what language people speak in <e>
+location.country.languages_spoken
+country
+
+1037	what language people speak in <e>
+location.country.official_language
+country
+
+1055	what language do you speak in <e>
+location.country.languages_spoken
+country
+
+1055	what language do you speak in <e>
+location.country.official_language
+country
+
+1073	what language do they speak in <e> yahoo
+location.country.languages_spoken
+country
+
+1073	what language do they speak in <e> yahoo
+location.country.official_language
+country
+
+1130	what language do you speak in <e>
+location.country.languages_spoken
+country
+
+1130	what language do you speak in <e>
+location.country.official_language
+country
+
+1138	what are the four official languages of <e>
+location.country.official_language
+country
+
+1148	what do people speak in <e>
+location.country.languages_spoken
+country
+
+1148	what do people speak in <e>
+location.country.official_language
+country
+
+1181	what language do the <e> speak
+location.country.languages_spoken
+country
+
+1209	what does <e> people speak
+location.country.languages_spoken
+country
+
+1209	what does <e> people speak
+location.country.official_language
+country
+
+1258	what does <e> speak
+location.country.languages_spoken
+country
+
+1258	what does <e> speak
+location.country.official_language
+country
+
+1265	what other languages does <e> speak
+location.country.languages_spoken
+country
+
+1265	what other languages does <e> speak
+location.country.official_language
+country
+
+1348	what language do <e> use
+location.country.languages_spoken
+country
+
+1355	what are the major languages in <e>
+location.country.official_language
+country
+
+1357	what does the <e> speak
+location.country.languages_spoken
+country
+
+1357	what does the <e> speak
+location.country.official_language
+country
+
+1374	what language is <e> using
+location.country.languages_spoken
+country
+
+1374	what language is <e> using
+location.country.official_language
+country
+
+1405	what language does people speak in <e>
+location.country.languages_spoken
+country
+
+1453	what language <e> use
+location.country.languages_spoken
+country
+
+1453	what language <e> use
+location.country.official_language
+country
+
+1465	what are the official languages in <e>
+location.country.official_language
+country
+
+1470	what do people from <e> speak
+location.country.official_language
+country
+
+1529	what language do <e>
+location.country.official_language
+country
+
+1610	what language does the country <e> speak
+location.country.official_language
+country
+
+1624	what language does the <e> speak
+location.country.official_language
+country
+
+1638	what languages do people speak in <e>
+location.country.languages_spoken
+country
+
+1638	what languages do people speak in <e>
+location.country.official_language
+country
+
+1669	what language do <e> people speak
+location.country.languages_spoken
+country
+
+1669	what language do <e> people speak
+location.country.official_language
+country
+
+1681	what is the language used in <e>
+location.country.languages_spoken
+country
+
+1681	what is the language used in <e>
+location.country.official_language
+country
+
+1683	what is the official language of <e> called
+location.country.official_language
+country
+
+1695	what language <e> speak
+location.country.languages_spoken
+country
+
+1695	what language <e> speak
+location.country.official_language
+country
+
+1739	what is the major language spoken in <e>
+location.country.official_language
+country
+
+1741	what <e> language called
+location.country.languages_spoken
+country
+
+1741	what <e> language called
+location.country.official_language
+country
+
+1776	what language do <e> speak
+location.country.languages_spoken
+country
+
+1776	what language do <e> speak
+location.country.official_language
+country
+
+1794	what is modern <e> language
+location.country.official_language
+country
+
+1903	what is the official language of the <e>
+location.country.languages_spoken
+country
+
+1903	what is the official language of the <e>
+location.country.official_language
+country
+
+1926	what does <e> people speak
+location.country.languages_spoken
+country
+
+1942	what language does people in <e> speak
+location.country.languages_spoken
+country
+
+1942	what language does people in <e> speak
+location.country.official_language
+country
+
+1996	what do <e> people speak
+location.country.languages_spoken
+country
+
+1996	what do <e> people speak
+location.country.official_language
+country
+
+1999	what do <e> people speak
+location.country.languages_spoken
+country
+
+1999	what do <e> people speak
+location.country.official_language
+country
+
+2002	what is the main language spoken in <e>
+location.country.official_language
+country
+
+2028	what do you speak in <e>
+location.country.languages_spoken
+country
+
+2028	what do you speak in <e>
+location.country.official_language
+country
+
+2048	what language do you speak in <e>
+location.country.languages_spoken
+country
+
+2048	what language do you speak in <e>
+location.country.official_language
+country
+
+2069	what is language in <e>
+location.country.languages_spoken
+country
+
+2069	what is language in <e>
+location.country.official_language
+country
+
+2098	what is the language called in <e>
+location.country.languages_spoken
+country
+
+2098	what is the language called in <e>
+location.country.official_language
+country
+
+2108	what language do they speak in <e>
+location.country.languages_spoken
+country
+
+2108	what language do they speak in <e>
+location.country.official_language
+country
+
+2123	what language do <e> people speak
+location.country.languages_spoken
+country
+
+2123	what language do <e> people speak
+location.country.official_language
+country
+
+2144	what do <e> people speak
+location.country.official_language
+country
+
+2167	what language do they in <e>
+location.country.languages_spoken
+country
+
+2167	what language do they in <e>
+location.country.official_language
+country
+
+2185	what do they speak <e>
+location.country.languages_spoken
+country
+
+2185	what do they speak <e>
+location.country.official_language
+country
+
+2189	what is the major language of <e>
+location.country.official_language
+country
+
+2193	what does <e> people speak
+location.country.languages_spoken
+country
+
+2229	what language does <e> people speak
+location.country.languages_spoken
+country
+
+2229	what language does <e> people speak
+location.country.official_language
+country
+
+2247	what language do <e> use
+location.country.languages_spoken
+country
+
+2247	what language do <e> use
+location.country.official_language
+country
+
+2249	what languages do people speak in <e>
+location.country.languages_spoken
+country
+
+2257	what language do they speak <e>
+location.country.languages_spoken
+country
+
+2257	what language do they speak <e>
+location.country.official_language
+country
+
+2266	what language do they speak in <e> wikipedia
+location.country.official_language
+country
+
+2275	what language does <e> use
+location.country.languages_spoken
+country
+
+2275	what language does <e> use
+location.country.official_language
+country
+
+2326	what do they speak in <e>
+location.country.languages_spoken
+country
+
+2326	what do they speak in <e>
+location.country.official_language
+country
+
+2331	what kind of language does <e> speak
+location.country.languages_spoken
+country
+
+2331	what kind of language does <e> speak
+location.country.official_language
+country
+
+2341	what is the primary language of <e>
+location.country.official_language
+country
+
+2350	what is the dominant language of <e>
+location.country.official_language
+country
+
+2360	what language do <e> speak
+location.country.languages_spoken
+country
+
+2360	what language do <e> speak
+location.country.official_language
+country
+
+2371	what is the official language in <e>
+location.country.official_language
+country
+
+2376	what language do they speak in <e>
+location.country.languages_spoken
+country
+
+2431	what is the main language spoken in <e>
+location.country.languages_spoken
+country
+
+2431	what is the main language spoken in <e>
+location.country.official_language
+country
+
+2449	what are the major languages spoken in <e>
+location.country.official_language
+country
+
+2461	what kind of language do <e> speak
+location.country.official_language
+country
+
+2485	what are the official languages of the <e>
+location.country.official_language
+country
+
+2494	what language does <e> use
+location.country.languages_spoken
+country
+
+2545	what do people from <e> speak
+location.country.languages_spoken
+country
+
+2545	what do people from <e> speak
+location.country.official_language
+country
+
+2551	what do <e> speak
+location.country.languages_spoken
+country
+
+2551	what do <e> speak
+location.country.official_language
+country
+
+2592	what is the major language spoken in <e>
+location.country.languages_spoken
+country
+
+2592	what is the major language spoken in <e>
+location.country.official_language
+country
+
+2598	what language do <e> speak
+location.country.languages_spoken
+country
+
+2598	what language do <e> speak
+location.country.official_language
+country
+
+2636	what is the <e> language
+location.country.languages_spoken
+country
+
+2636	what is the <e> language
+location.country.official_language
+country
+
+2646	what do <e> speak
+location.country.languages_spoken
+country
+
+2648	what language did the <e>
+location.country.languages_spoken
+country
+
+2659	what is the second official language of <e>
+location.country.official_language
+country
+
+2662	what is the language called in <e>
+location.country.languages_spoken
+country
+
+2662	what is the language called in <e>
+location.country.official_language
+country
+
+2669	what language do the people speak in <e>
+location.country.languages_spoken
+country
+
+2679	what language do the speak in <e>
+location.country.languages_spoken
+country
+
+2679	what language do the speak in <e>
+location.country.official_language
+country
+
+2684	what does <e> people speak
+location.country.languages_spoken
+country
+
+2684	what does <e> people speak
+location.country.official_language
+country
+
+2730	what languages do they speak in <e>
+location.country.languages_spoken
+country
+
+2730	what languages do they speak in <e>
+location.country.official_language
+country
+
+2754	what language do <e> people talk
+location.country.languages_spoken
+ethnicity
+
+2754	what language do <e> people talk
+location.country.official_language
+ethnicity
+
+2783	what language does people from <e> speak
+location.country.languages_spoken
+country
+
+2783	what language does people from <e> speak
+location.country.official_language
+country
+
+2827	what dialects are spoken in the <e>
+location.country.languages_spoken
+country
+
+2863	what languages do <e> people speak
+location.country.languages_spoken
+country
+
+2863	what languages do <e> people speak
+location.country.official_language
+country
+
+2881	what are the official languages of <e>
+location.country.official_language
+country
+
+2968	what are the primary languages of <e>
+location.country.official_language
+country
+
+2969	what language do they speak in <e> south america
+location.country.official_language
+country
+
+3022	what language does people in <e> speak
+location.country.languages_spoken
+country
+
+3022	what language does people in <e> speak
+location.country.official_language
+country
+
+3048	what language do people in <e> speak
+location.country.languages_spoken
+country
+
+3048	what language do people in <e> speak
+location.country.official_language
+country
+
+3104	what language do they speak <e>
+location.country.languages_spoken
+country
+
+3104	what language do they speak <e>
+location.country.official_language
+country
+

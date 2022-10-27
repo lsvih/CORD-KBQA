@@ -1,0 +1,3556 @@
+69	what 's a book that talks about <e>
+/book/book_subject/works
+medical_specialty
+
+417	what 's a book written about <e>
+/book/book_subject/works
+field_of_study
+
+573	what is a book that has to do with <e>
+/book/book_subject/works
+tv_genre
+
+833	what is a book about <e>
+/book/book_subject/works
+religion
+
+913	what is a book about <e>
+/book/book_subject/works
+tv_genre
+
+942	what are names of books with <e> as a subject
+/book/book_subject/works
+_NOTYPE_
+
+1128	what book deals with <e>
+/book/book_subject/works
+media_genre
+
+1158	what is the title of a book whose subject is <e>
+/book/book_subject/works
+geologic_time_period
+
+1620	which book is about the subject of <e>
+/book/book_subject/works
+film
+
+1630	whats the name of a book on the subject of <e>
+/book/book_subject/works
+religion
+
+1643	name <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+1654	name a book subject about <e>
+/book/book_subject/works
+interest
+
+1694	whats an example of an <e> book
+/book/book_subject/works
+literature_subject
+
+1772	what is a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+1868	what is the name of a book that talks <e>
+/book/book_subject/works
+_NOTYPE_
+
+1919	what book is part of the literary genre <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+1929	what is a book with <e> a subject
+/book/book_subject/works
+_NOTYPE_
+
+2039	what is a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+2101	what is a famous book and film of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+2219	which book 's subject matter is <e>
+/book/book_subject/works
+field_of_study
+
+2241	which book is about <e>
+/book/book_subject/works
+literature_subject
+
+2469	name a <e> book that focuses on stories
+/book/book_subject/works
+media_genre
+
+2674	what is a novel within the literary genre <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+2771	what is a <e> book
+/book/book_subject/works
+field_of_study
+
+2810	what book is about <e>
+/book/book_subject/works
+field_of_study
+
+2927	name a piece of <e> written by jane kenyon
+/book/book_subject/works
+media_genre
+
+2943	what books are written about <e>
+/book/book_subject/works
+field_of_study
+
+3080	what is a book in the genre <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+3192	what 's a book that deals with <e>
+/book/book_subject/works
+tv_genre
+
+3229	name <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+3273	what book deals with the subject of <e>
+/book/book_subject/works
+tv_genre
+
+3457	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+3480	what books about <e>
+/book/book_subject/works
+_NOTYPE_
+
+3490	what is an <e> book
+/book/book_subject/works
+tv_genre
+
+3496	what 's a book that deals with <e>
+/book/book_subject/works
+country
+
+3577	what is a book within the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+3669	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+3900	which books takes place in <e>
+/book/book_subject/works
+_NOTYPE_
+
+3913	what book is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+3917	name <e> about a cat
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+3960	what book is from the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+4002	what is a book about <e>
+/book/book_subject/works
+industry
+
+4184	what are some <e> books
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+4198	what is a book that has <e> as a subject
+/book/book_subject/works
+continent
+
+4242	what is a book about <e>
+/book/book_subject/works
+art_period/movement
+
+4259	what is the name of a <e> book
+/book/book_subject/works
+literary_genre
+
+4299	name an <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+4395	what 's a book about <e>
+/book/book_subject/works
+hobby
+
+4499	what book is about <e>
+/book/book_subject/works
+character_species
+
+4865	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+5006	what is the title of a book in the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+5014	what is the name of a <e> written work
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+5031	what 's an example of an <e> novel
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+5213	which book was written about <e>
+/book/book_subject/works
+tv_genre
+
+5214	which book focuses on <e>
+/book/book_subject/works
+film_subject
+
+5237	what book is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+5274	what book is written on the subject of <e>
+/book/book_subject/works
+tv_genre
+
+5283	<e> is the subject of what book
+/book/book_subject/works
+quotation_subject
+
+5380	what are books of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+5470	what 's a biopic <e> written by paolo bacigalupi
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+5533	name a famous <e>
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+5604	what book is a type of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+5638	what is the name of a book <e> humour literary genre
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+5644	name <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+5757	what book is a type of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+5802	what is a <e> book
+/book/book_subject/works
+tv_genre
+
+5828	what books are written about <e>
+/book/book_subject/works
+media_genre
+
+5832	what book is about <e>
+/book/book_subject/works
+tv_genre
+
+5875	what works is about <e>
+/book/book_subject/works
+_NOTYPE_
+
+5956	what is the title of a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+5982	which book is about the subject of <e>
+/book/book_subject/works
+tv_genre
+
+6042	what books have been written about <e>
+/book/book_subject/works
+tv_genre
+
+6101	what are the names of <e> books by dave duncan
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+6319	what book focuses on <e> as its main subjecgt
+/book/book_subject/works
+_NOTYPE_
+
+6401	what is an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+6536	what is a popular <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+6541	what is the title of a book that deals with <e>
+/book/book_subject/works
+_NOTYPE_
+
+6556	what book covers the topic of <e>
+/book/book_subject/works
+military_conflict
+
+6576	what book is <e>
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+6633	name a <e> book
+/book/book_subject/works
+tv_genre
+
+6684	which <e> is released as part of a trilogy
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+6693	what is a book written about <e>
+/book/book_subject/works
+quotation_subject
+
+7079	what book focuses on <e>
+/book/book_subject/works
+media_genre
+
+7217	what is the title of a book whose subject is <e>
+/book/book_subject/works
+_NOTYPE_
+
+7256	what is the name of a book that is about <e>
+/book/book_subject/works
+quotation_subject
+
+7311	what is the name of a book that centers around <e>
+/book/book_subject/works
+field_of_study
+
+7345	what is a example of an <e> book
+/book/book_subject/works
+field_of_study
+
+7514	which book is written about <e>
+/book/book_subject/works
+tv_genre
+
+7522	what <e> book was written by iain lawrence
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+7586	what would be called part of <e>
+/book/book_subject/works
+_NOTYPE_
+
+7600	what is the title of deke mcclelland 's <e> ( images ) book
+/book/book_subject/works
+_NOTYPE_
+
+7707	what is an example of <e> writing
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+7823	what 's a work that deals with <e>
+/book/book_subject/works
+media_genre
+
+7853	what is ab book about <e> \ \
+/book/book_subject/works
+_NOTYPE_
+
+7880	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+8056	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+8058	what 's a book about <e> written boy roy cooke
+/book/book_subject/works
+field_of_study
+
+8166	which play deals with <e> as it 's main subject
+/book/book_subject/works
+_NOTYPE_
+
+8291	which book focuses on <e>
+/book/book_subject/works
+literature_subject
+
+8318	name a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+8373	what is a book about <e>
+/book/book_subject/works
+tv_genre
+
+8395	what is a book from the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+8523	what 's a <e> that was nominated for the hugo award
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+8593	what is the name of a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+8640	name a <e> book
+/book/book_subject/works
+tv_genre
+
+8688	what is a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+8770	what is a title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+8917	name a work based <e>
+/book/book_subject/works
+_NOTYPE_
+
+8929	what book deals with the subject of <e>
+/book/book_subject/works
+book
+
+8936	what is the title of a book that is a <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+8986	what a novel where the subject is <e>
+/book/book_subject/works
+tv_genre
+
+8992	what books have been written about <e>
+/book/book_subject/works
+field_of_study
+
+9014	name a work from <e>
+/book/book_subject/works
+country
+
+9024	which <e> is written by peter telep
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+9036	what is a <e> book by tony franks-buckley
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+9057	name a work on <e>
+/book/book_subject/works
+tv_genre
+
+9146	what is a book that is <e>
+/book/book_subject/works
+_NOTYPE_
+
+9305	what subject is discussed in <e>
+/book/book_subject/works
+literature_subject
+
+9331	what book 's subject is <e>
+/book/book_subject/works
+city/town/village
+
+9339	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+9426	what book by vincent brome has <e> as its subject
+/book/book_subject/works
+_NOTYPE_
+
+9574	which book wrote <e>
+/book/book_subject/works
+_NOTYPE_
+
+9825	what is a written work whose subject is <e>
+/book/book_subject/works
+tv_genre
+
+9890	what work was written <e>
+/book/book_subject/works
+_NOTYPE_
+
+9914	what is a famous <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+9932	what book is a <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+10056	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+10080	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+10217	what books are written about <e>
+/book/book_subject/works
+city/town/village
+
+10602	which book was written <e>
+/book/book_subject/works
+_NOTYPE_
+
+10612	what would be called a <e>
+/media_common/literary_genre/books_in_this_genre
+musical_genre
+
+10650	name a book from the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+10707	what type of work is the book <e>
+/book/book_subject/works
+religion
+
+10720	what is a notable <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+10963	what books are written on the subject of <e>
+/book/book_subject/works
+medical_specialty
+
+11004	what is the name of a 2006 <e> novel
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+11032	what is a <e> book based around startrek
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+11066	which book is in the subject of <e>
+/book/book_subject/works
+canadian_province
+
+11122	what books have been written about <e>
+/book/book_subject/works
+continent
+
+11256	whats the title of a book whose subject is <e>
+/book/book_subject/works
+_NOTYPE_
+
+11270	what are examples of <e> books
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+11449	what is a 1980 <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+11458	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+11575	what 's a <e> book written by simon hawke
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+11661	what is a book about <e>
+/book/book_subject/works
+political_ideology
+
+11730	what is a book of the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+11781	name a book by mark schreiber that focuses on <e>
+/book/book_subject/works
+country
+
+11968	what is one book that 's considered a <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+12053	what are titles of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+12151	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+12218	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+12363	what book is about <e>
+/book/book_subject/works
+tv_genre
+
+12538	what books have been written <e>
+/book/book_subject/works
+_NOTYPE_
+
+12589	what is a book whose subject is <e>
+/book/book_subject/works
+literary_school_or_movement
+
+12602	what is a written work on the subject of <e>
+/book/book_subject/works
+media_genre
+
+12646	what is a book about <e>
+/book/book_subject/works
+field_of_study
+
+12678	whaich books examine the topic of <e>
+/book/book_subject/works
+field_of_study
+
+12680	which cookbook is relevant to <e>
+/book/book_subject/works
+field_of_study
+
+12921	what is <e> written by martin allerdale grainger
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+13138	what is a book in <e> genre
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+13139	which book is about the subject of <e>
+/book/book_subject/works
+political_ideology
+
+13159	what book is written as <e>
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+13220	what 's a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+website_category
+
+13460	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+13464	whats a book whose subject is <e>
+/book/book_subject/works
+country
+
+13483	what books are about the subject <e>
+/book/book_subject/works
+quotation_subject
+
+13499	what book 's subject matter is <e>
+/book/book_subject/works
+country
+
+13647	which book can be found in the genre of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+13654	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+13702	what 's a book written about <e>
+/book/book_subject/works
+quotation_subject
+
+13819	whats the name of a book that deals with <e>
+/book/book_subject/works
+field_of_study
+
+14023	what 's a major work <e>
+/book/book_subject/works
+_NOTYPE_
+
+14366	which book is written about <e>
+/book/book_subject/works
+field_of_study
+
+14412	which book is <e>
+/book/book_subject/works
+tv_genre
+
+14561	what book belongs to <e>
+/media_common/literary_genre/books_in_this_genre
+website_category
+
+14639	what book written by paula danziger deals with young adult 's <e>
+/book/book_subject/works
+tv_genre
+
+14806	what books have been written about <e>
+/book/book_subject/works
+us_state
+
+14864	what is the title of the work that deals with <e>
+/book/book_subject/works
+_NOTYPE_
+
+14876	what 's a novel written <e>
+/book/book_subject/works
+_NOTYPE_
+
+15019	name <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+15053	name a book from the <e> subject
+/book/book_subject/works
+media_genre
+
+15128	what book discusses <e>
+/book/book_subject/works
+field_of_study
+
+15140	what is the name of the book that is about <e>
+/book/book_subject/works
+_NOTYPE_
+
+15199	what book has a subject of <e>
+/book/book_subject/works
+country
+
+15240	what is the name of a book about <e>
+/book/book_subject/works
+industry
+
+15439	what is a book in the genre <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+15519	which book is a <e>
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+15640	what books are about the subject of <e>
+/book/book_subject/works
+literature_subject
+
+15650	what is the name of a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+15670	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+15697	what books is considered <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+15798	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+15806	what is a work whose subject <e>
+/book/book_subject/works
+country
+
+15855	what books are <e>
+/book/book_subject/works
+_NOTYPE_
+
+15905	what is a type of <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+15944	which book is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+16142	what is the name of a book that focuses mainly on <e>
+/book/book_subject/works
+literature_subject
+
+16183	which book falls under the genre of <e>
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+16257	what <e> work came from a book written by gillian cross
+/book/book_subject/works
+tv_genre
+
+16259	what book is a type of <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+16375	which book was on the subject of the <e>
+/book/book_subject/works
+organization_type
+
+16536	which <e> books that contains animals
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+16578	what is a <e>
+/media_common/literary_genre/books_in_this_genre
+musical_genre
+
+16620	what is a book about <e>
+/book/book_subject/works
+film_subject
+
+16866	name a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+16899	which work was written on the subject of <e>
+/book/book_subject/works
+quotation_subject
+
+16965	what 's a book that talks <e>
+/book/book_subject/works
+_NOTYPE_
+
+17037	what 's a book written on <e>
+/book/book_subject/works
+us_state
+
+17147	what is an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+17218	what are the names of <e> books
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+17345	what books have been written on <e>
+/book/book_subject/works
+field_of_study
+
+17379	what 's a book about the topic <e>
+/book/book_subject/works
+industry
+
+17579	what 's an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+17673	which book is about the subject <e>
+/book/book_subject/works
+country
+
+17760	which book was written about <e>
+/book/book_subject/works
+country
+
+17810	whats an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+17923	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+18046	what book discusses about <e>
+/media_common/literary_genre/books_in_this_genre
+country
+
+18068	what book is about <e>
+/book/book_subject/works
+literature_subject
+
+18095	which book is written about <e>
+/book/book_subject/works
+field_of_study
+
+18132	which book is written about <e>
+/book/book_subject/works
+continent
+
+18139	what are names of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+18229	whats the title of a <e> book
+/book/book_subject/works
+field_of_study
+
+18358	what is the name of a work whose book subject was <e>
+/book/book_subject/works
+country
+
+18374	what is the title of a book about <e>
+/book/book_subject/works
+art_subject
+
+18431	what is a subject that the book <e> focuses on
+/book/book_subject/works
+religious_text
+
+18499	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+18509	name a <e>
+/media_common/literary_genre/books_in_this_genre
+profession
+
+18635	name a <e> book in the early 20th century
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+18809	what 's a written work about <e>
+/book/book_subject/works
+_NOTYPE_
+
+18887	what is a book written about <e>
+/book/book_subject/works
+tv_genre
+
+18916	<e> is the subject of what book
+/book/book_subject/works
+us_state
+
+18944	what book has <e> as it 's main subject
+/book/book_subject/works
+tv_genre
+
+18958	what the book title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+19099	what 's the title of a ken macleod <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+19105	what 's the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+19173	which books are written about <e> at home
+/book/book_subject/works
+tv_genre
+
+19252	what are <e> books
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+19467	<e> is a book subject of what book title
+/book/book_subject/works
+field_of_study
+
+19550	what is the title of a <e>
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+19626	what are book titles in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+19728	name a known literary <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+19742	what is a book in the genre of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+19784	<e> has given birth to which famous novel , later turned movie and television series
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+19912	whats the name of a book whose subject was <e>
+/book/book_subject/works
+_NOTYPE_
+
+19923	name a book that is set in <e>
+/book/book_subject/works
+country
+
+19967	what books have been written about <e>
+/book/book_subject/works
+quotation_subject
+
+20004	what books are about <e>
+/book/book_subject/works
+field_of_study
+
+20115	which book has <e> as its subject
+/book/book_subject/works
+tv_genre
+
+20335	what is the name of a work whose subject is <e>
+/book/book_subject/works
+literature_subject
+
+20360	name a book that deals with <e>
+/book/book_subject/works
+country
+
+20417	which book is written <e>
+/book/book_subject/works
+_NOTYPE_
+
+20487	what is a book that evelyn underhill wrote <e>
+/book/book_subject/works
+_NOTYPE_
+
+20669	what is the title of a work where <e> were the books subject
+/book/book_subject/works
+broadcast_genre
+
+20759	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+20780	what books are about <e>
+/book/book_subject/works
+field_of_study
+
+20821	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+20972	what is <e> by virginia woolf
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+21105	which novel is about <e>
+/book/book_subject/works
+tv_genre
+
+21167	what is a book about the <e>
+/book/book_subject/works
+organization_founder
+
+21232	what book talks on the subject of <e>
+/book/book_subject/works
+_NOTYPE_
+
+21288	whats the title of <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+21322	what book 's subject is <e>
+/book/book_subject/works
+_NOTYPE_
+
+21371	what book is about <e>
+/book/book_subject/works
+field_of_study
+
+21432	what book has <e> as it 's main subject
+/book/book_subject/works
+_NOTYPE_
+
+21489	what is a <e> book
+/book/book_subject/works
+literary_genre
+
+21532	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+21831	which book is a <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+21935	what 's a book written about <e>
+/book/book_subject/works
+country
+
+22262	what is the name of a book that deals with <e>
+/book/book_subject/works
+field_of_study
+
+22302	what can be considered a book under the genre <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+22446	what is a <e> book title
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+22577	what is an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+22663	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+22698	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+22816	what is a 2003 <e> novel
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+22830	what is the name of a book focused on <e>
+/book/book_subject/works
+literature_subject
+
+22972	what 's a biography written about <e>
+/book/book_subject/works
+_NOTYPE_
+
+23083	what is an <e> book
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+23112	what books have <e> as a subject
+/book/book_subject/works
+country
+
+23169	what book focuses on <e>
+/book/book_subject/works
+field_of_study
+
+23186	what books are about <e>
+/book/book_subject/works
+tv_genre
+
+23356	what is a type of <e> book
+/book/book_subject/works
+industry
+
+23425	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+23476	what is a famous book about <e>
+/book/book_subject/works
+tv_genre
+
+23828	what book is considered <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+23921	what is the name of a book that is apart of the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+24028	what is the book under the subject <e>
+/book/book_subject/works
+author
+
+24034	what are books about <e>
+/book/book_subject/works
+film_subject
+
+24143	what is a book that deals with <e>
+/book/book_subject/works
+cuisine
+
+24150	what book is <e>
+/book/book_subject/works
+tv_genre
+
+24301	what is the name of a book on a <e>
+/book/book_subject/works
+animal
+
+24304	what subject was discussed in <e>
+/book/book_subject/works
+quotation_subject
+
+24566	what 's a book that talks specifically about <e>
+/book/book_subject/works
+field_of_study
+
+24581	name a <e> adventure novel written by jack vance
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+24787	what is a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+24875	what book is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+24876	what work is about <e>
+/book/book_subject/works
+field_of_study
+
+24905	which book is of the subject <e>
+/book/book_subject/works
+tv_genre
+
+24927	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+sport
+
+24988	what is the name of a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+25047	what is a book written in <e>
+/book/book_subject/works
+_NOTYPE_
+
+25059	what is a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+25089	what book is about <e>
+/book/book_subject/works
+cuisine
+
+25100	which <e> books are written by troy denning
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+25138	what is a <e> activist book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+25277	what is a book that talks about <e>
+/book/book_subject/works
+literature_subject
+
+25356	what 's an example of a <e> book
+/book/book_subject/works
+tv_genre
+
+25382	what book has main theme as <e>
+/book/book_subject/works
+cause_of_death
+
+25415	name a book from the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+25504	whats the name of a book that focuses on <e>
+/book/book_subject/works
+literature_subject
+
+25582	which book is in the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+25664	name a work from <e>
+/book/book_subject/works
+_NOTYPE_
+
+25700	what is an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+25718	name a book in the genre of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+25740	what 's <e> by lilian jackson braun
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+25801	which book is written about <e>
+/book/book_subject/works
+tv_genre
+
+25844	name a book about <e>
+/book/book_subject/works
+tv_genre
+
+25859	what book is considered <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+25897	what is the name of a <e> book
+/book/book_subject/works
+tv_genre
+
+25913	what is a 1995 <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+25972	what is a book <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+25998	what is a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+26049	name a <e> book
+/book/book_subject/works
+tv_genre
+
+26143	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+26166	what is a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+26263	what is the title of a book about <e>
+/book/book_subject/works
+tv_genre
+
+26269	name the <e> written by milton meltzer
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+26407	what book is about <e>
+/book/book_subject/works
+interest
+
+26518	what is a book that 's subject is <e>
+/book/book_subject/works
+media_genre
+
+26564	what is a novel in the literary drama <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+26752	what is a book about <e>
+/book/book_subject/works
+field_of_study
+
+26968	what is the name of a known <e> book
+/book/book_subject/works
+_NOTYPE_
+
+27032	what book is in the literary genre <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+27043	what book is a <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+27104	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+27144	name a book that is a <e>
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+27181	what book is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+27285	what written work includes <e>
+/book/book_subject/works
+_NOTYPE_
+
+27322	what 's a book that deals with <e>
+/book/book_subject/works
+media_genre
+
+27328	name a book that focuses on <e> as a subject
+/book/book_subject/works
+_NOTYPE_
+
+27338	what is the name of a <e> novel
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+27348	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+27354	what 's a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+27386	what work is <e>
+/book/book_subject/works
+_NOTYPE_
+
+27436	what book has a subject of <e>
+/book/book_subject/works
+quotation_subject
+
+27438	which <e> books were written by toni weschler
+/book/book_subject/works
+field_of_study
+
+27450	what books fall under the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+27472	what is <e> book
+/book/book_subject/works
+field_of_study
+
+27687	what 's a book written about <e>
+/book/book_subject/works
+field_of_study
+
+27712	whats the title of a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+27822	what is a book about <e>
+/book/book_subject/works
+tv_genre
+
+27933	what is the book under the <e> subject
+/book/book_subject/works
+tv_genre
+
+28109	what essay by benjamin kidd talks about <e>
+/book/book_subject/works
+website_category
+
+28269	what are book titles about <e>
+/book/book_subject/works
+quotation_subject
+
+28398	what books are about <e>
+/book/book_subject/works
+religion
+
+28482	name a work of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+28518	what books are about <e>
+/book/book_subject/works
+field_of_study
+
+28538	which book is of the <e> subject
+/book/book_subject/works
+_NOTYPE_
+
+28663	what book is about <e>
+/book/book_subject/works
+quotation_subject
+
+28672	what is a book written about <e>
+/book/book_subject/works
+geographical_feature
+
+28709	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+28842	which book 's subject matter is <e>
+/book/book_subject/works
+literature_subject
+
+29006	what is an example of a <e> book
+/book/book_subject/works
+tv_genre
+
+29220	what book is considered <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+29223	which book is about <e>
+/book/book_subject/works
+country
+
+29259	what is a book written about <e>
+/book/book_subject/works
+country
+
+29372	which books have <e> as a subject
+/book/book_subject/works
+_NOTYPE_
+
+29538	what is an example of <e>
+/book/book_subject/works
+architectural_style
+
+29571	what book contains <e>
+/book/book_subject/works
+field_of_study
+
+29779	what is a book on <e>
+/book/book_subject/works
+field_of_study
+
+29969	what is a <e> book
+/book/book_subject/works
+media_genre
+
+30083	what is the name of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+30152	name a <e> work
+/book/book_subject/works
+literature_subject
+
+30240	name a <e> novel by douglas adams
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+30281	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+30444	which books fall under the genre of <e>
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+30450	name a science fiction <e> popular in the 80 's
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+30679	what are books about <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+30733	what 's a book about <e>
+/book/book_subject/works
+military_conflict
+
+30839	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+30845	what 's a <e> written by deepak chopra
+/book/book_subject/works
+_NOTYPE_
+
+30860	what 's a <e> book by robin jarvis
+/book/book_subject/works
+tv_genre
+
+30943	what is a book about <e>
+/book/book_subject/works
+quotation_subject
+
+30979	what is a <e> book
+/book/book_subject/works
+tv_genre
+
+30980	what is the name of a book written about <e>
+/book/book_subject/works
+neighborhood
+
+31140	what is the name of a book that is an <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+31341	what 's a book written on <e>
+/book/book_subject/works
+organization_type
+
+31437	which book is in the genre <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+31538	what is an <e> book
+/book/book_subject/works
+tv_genre
+
+31556	what is a book about <e>
+/book/book_subject/works
+geographical_feature
+
+31566	what is the name of a <e> book
+/book/book_subject/works
+tv_genre
+
+31576	what is a book about <e>
+/book/book_subject/works
+field_of_study
+
+31702	what is the name of a piece of work that has to do with <e>
+/book/book_subject/works
+tv_genre
+
+31729	what is a book by julian barnes which general theme is <e>
+/book/book_subject/works
+cause_of_death
+
+31906	what is the 1976 science fiction novel where <e> is ilustrated
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+32078	what book is written on <e>
+/book/book_subject/works
+field_of_study
+
+32173	what books have been written about <e>
+/book/book_subject/works
+country
+
+32272	name a book that has to do with <e>
+/book/book_subject/works
+quotation_subject
+
+32281	what book is on the subject of <e>
+/book/book_subject/works
+religion
+
+32308	what books are <e>
+/book/book_subject/works
+_NOTYPE_
+
+32414	what book is on the subject of <e>
+/book/book_subject/works
+field_of_study
+
+32609	which book has <e> as its subject
+/book/book_subject/works
+field_of_study
+
+32668	what is the name of a book that has t odo with <e>
+/book/book_subject/works
+country
+
+32837	what is the title of a <e> book by betty rollin
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+33029	which <e> was written by saul steinberg
+/book/book_subject/works
+comic_book_genre
+
+33130	what is a book found under <e>
+/book/book_subject/works
+field_of_study
+
+33159	what is the name of a book that is considered to be <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+33217	what 's a <e> by r a lafferty
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+33268	what is a book title whose subject is <e>
+/book/book_subject/works
+_NOTYPE_
+
+33305	whats the title of a <e> genre book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+33307	name a book of <e>
+/book/book_subject/works
+visual_art_form
+
+33331	what is an example of a <e>
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+33468	what is an example of a <e> ( genre ) book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+33609	name a non-fictional work on the subject of <e>
+/book/book_subject/works
+field_of_study
+
+33636	which book talks extensively about <e>
+/book/book_subject/works
+city/town/village
+
+33643	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+33741	what is a <e>
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+33826	what book deals with <e>
+/book/book_subject/works
+quotation_subject
+
+33852	what 's a recipe book <e>
+/book/book_subject/works
+_NOTYPE_
+
+33876	what is an <e> book
+/book/book_subject/works
+tv_genre
+
+33885	name a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+33988	what is the name of a book that deals with <e>
+/book/book_subject/works
+media_genre
+
+34133	what is a book whose subject is <e>
+/book/book_subject/works
+quotation_subject
+
+34138	what is a book about <e>
+/book/book_subject/works
+quotation_subject
+
+34347	what book focuses on <e>
+/book/book_subject/works
+_NOTYPE_
+
+34430	a <e> would be what
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+34491	what 's a book with the subject of <e>
+/book/book_subject/works
+tv_genre
+
+34566	what 's a book that covers <e>
+/book/book_subject/works
+architect
+
+34584	what book is based on the <e> subject
+/book/book_subject/works
+tv_genre
+
+34614	what is the title of a book about <e>
+/book/book_subject/works
+literary_series
+
+34919	what is the title of a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+35290	which book is written about <e>
+/book/book_subject/works
+field_of_study
+
+35495	what is a book whose subject is a <e>
+/book/book_subject/works
+quotation_subject
+
+35547	what is a book within the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+35739	which book is written <e>
+/book/book_subject/works
+_NOTYPE_
+
+35793	what is <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+35935	what books have been written about <e>
+/book/book_subject/works
+field_of_study
+
+36075	name a book <e>
+/book/book_subject/works
+media_genre
+
+36083	what is a book on <e>
+/book/book_subject/works
+_NOTYPE_
+
+36293	what book is about <e>
+/book/book_subject/works
+art_period/movement
+
+36426	what is the name of a 2005 <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+36552	what is an example of a book on the topic of <e>
+/book/book_subject/works
+field_of_study
+
+36569	what 's a book dealing with <e>
+/book/book_subject/works
+field_of_study
+
+36589	what 's a novel about <e>
+/book/book_subject/works
+geographical_feature
+
+36600	what is a book that deals with <e>
+/book/book_subject/works
+field_of_study
+
+36721	what is a book whose subject is that of <e>
+/book/book_subject/works
+tv_genre
+
+37068	what 's a book written on <e>
+/book/book_subject/works
+_NOTYPE_
+
+37239	what 's a <e> by thomas pynchon
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+37353	name a book from <e> subject
+/book/book_subject/works
+_NOTYPE_
+
+37629	what is a book in <e> genre
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+37913	name a novela written by charles dickens where he portraits the theme of <e>
+/book/book_subject/works
+quotation_subject
+
+38101	what is a name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+38237	what book is focused on <e>
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+38259	what would be a <e>
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+38270	which work of <e> was written by tom robbins
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+38434	what is a book written about <e>
+/book/book_subject/works
+media_genre
+
+38445	name a book by josephine herbst that focuses on <e>
+/book/book_subject/works
+tv_genre
+
+38582	what books are about <e>
+/book/book_subject/works
+tv_genre
+
+38646	what book is about <e>
+/book/book_subject/works
+film_subject
+
+38762	what book discusses about <e>
+/book/book_subject/works
+literary_genre
+
+38812	name a <e> book written by thornton burgess
+/book/book_subject/works
+tv_genre
+
+38946	what is a <e>
+/book/book_subject/works
+_NOTYPE_
+
+39023	what is a book in the genre <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+39025	what are the names of <e> books
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+39028	what is a <e> book title
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+39133	what book is <e> from
+/book/book_subject/works
+religious_leader
+
+39179	name a book from the genre <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+39185	what is written in <e>
+/book/book_subject/works
+literature_subject
+
+39203	what is a book about <e> called
+/book/book_subject/works
+_NOTYPE_
+
+39255	what is a book about <e>
+/book/book_subject/works
+industry
+
+39323	what book is in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+39384	which <e> book was written by maeve binchy
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+39394	what book is <e> written by tim powers
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+39558	what 's a <e> written by stephen baxter
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+39590	what is a book written about the <e>
+/book/book_subject/works
+event
+
+39703	what is the name of a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+39819	name a book whose subject is <e>
+/book/book_subject/works
+geographical_feature
+
+39870	what is a <e> book
+/book/book_subject/works
+tv_genre
+
+40133	what is a <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+40321	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+40347	what 's a popular <e> book
+/book/book_subject/works
+film_genre
+
+40378	what is a book about the <e>
+/book/book_subject/works
+noble_title
+
+40622	what is a <e> book
+/book/book_subject/works
+tv_genre
+
+40629	what is a book in the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+40817	what 's a book written about <e>
+/book/book_subject/works
+literature_subject
+
+40836	what 's an example of a <e>
+/media_common/literary_genre/books_in_this_genre
+school_category
+
+40980	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+40983	what is one of r.l. stine 's <e> books
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+41230	what 's a book about <e>
+/book/book_subject/works
+literature_subject
+
+41263	which <e> book was written by john grismhan
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+41309	what 's a book that focuses on <e>
+/book/book_subject/works
+country
+
+41312	what is a book that focuses on the theme of <e>
+/book/book_subject/works
+quotation_subject
+
+41323	name a book about <e>
+/book/book_subject/works
+country
+
+41535	what is the title of a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+41611	what 's a <e> book written by james cain
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+41623	what is the name of a <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+41875	what 's a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+41939	what is a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+41955	which 1930 <e> written by leslie charteris
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+41960	what is a <e> featuring dragons
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+42201	what is the name of a book that deals with <e>
+/book/book_subject/works
+military_conflict
+
+42205	what is the title of a <e> book
+/book/book_subject/works
+film_subject
+
+42262	which book was written about <e>
+/book/book_subject/works
+tv_genre
+
+42352	name a <e> book character
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+42529	what is the title of a book in the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+42590	what is the title of a book in the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+42850	what is an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+42868	what is the name of a book that deals with <e>
+/book/book_subject/works
+tv_genre
+
+42888	what books have the subject of <e>
+/book/book_subject/works
+literature_subject
+
+42903	what type of book is about <e>
+/book/book_subject/works
+tv_genre
+
+42965	what works is part of the <e> book subject
+/book/book_subject/works
+_NOTYPE_
+
+43030	name a book in the <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+43106	what are books about <e>
+/book/book_subject/works
+tv_genre
+
+43281	which book is apart of the literary genre <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+43439	what 's a book that tackles the subject of <e>
+/book/book_subject/works
+media_genre
+
+43540	what book is <e>
+/book/book_subject/works
+_NOTYPE_
+
+43745	what book 's main subject is <e>
+/book/book_subject/works
+region
+
+43784	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+43828	what book was written in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+43835	which <e> books are written by richard templar
+/book/book_subject/works
+quotation_subject
+
+43874	what book focuses on <e> as its subject
+/book/book_subject/works
+tv_genre
+
+43899	what book contains <e>
+/book/book_subject/works
+field_of_study
+
+44030	what is the title of a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+44044	name a book on the subject of <e>
+/book/book_subject/works
+cause_of_death
+
+44073	what 's a book dealing with the <e>
+/book/book_subject/works
+literature_subject
+
+44079	what literary work is about <e>
+/book/book_subject/works
+tv_genre
+
+44080	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+44111	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+44207	what is the name of an <e> book
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+44212	what is the name of a book whose subject is <e>
+/book/book_subject/works
+quotation_subject
+
+44478	which books are written <e>
+/book/book_subject/works
+_NOTYPE_
+
+44552	what book 's central theme is <e>
+/book/book_subject/works
+website_category
+
+44681	what is the name of a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+44745	what 's an example of <e> novel
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+44921	what is a book in the <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+44925	what is a <e> book
+/book/book_subject/works
+field_of_study
+
+44930	what is one of david eddings <e> books
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+44991	what book title by catherine cookson is <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+45014	which book 's subject is <e>
+/book/book_subject/works
+_NOTYPE_
+
+45333	whats the title of a work of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+45365	what books have been written <e>
+/book/book_subject/works
+_NOTYPE_
+
+45397	what is the name of a book that deals with <e>
+/book/book_subject/works
+literature_subject
+
+45563	whats an example of a book that is about <e>
+/book/book_subject/works
+medical_specialty
+
+45640	name <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+45670	what book deals with <e>
+/book/book_subject/works
+tv_genre
+
+45760	which book is a <e> book
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+45918	what is a book about being <e>
+/book/book_subject/works
+literature_subject
+
+46020	what is a book written about <e>
+/book/book_subject/works
+religious_practice
+
+46058	what book discusses about <e>
+/book/book_subject/works
+field_of_study
+
+46156	name a book in the <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+46187	name a <e> written by m. p. shiel
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+46379	which book was written on the subject of <e>
+/book/book_subject/works
+tv_genre
+
+46414	what books are written <e>
+/book/book_subject/works
+_NOTYPE_
+
+46515	<e> is the subject of what literary work
+/book/book_subject/works
+tv_genre
+
+46797	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+46807	what book is considered a <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+46839	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+website_category
+
+46858	what book focuses on <e>
+/book/book_subject/works
+_NOTYPE_
+
+46979	what are books about <e>
+/book/book_subject/works
+media_genre
+
+47077	name <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+47104	what is a book written about <e>
+/book/book_subject/works
+country
+
+47124	what is the name of a 2006 <e> book
+/book/book_subject/works
+tv_genre
+
+47151	what book is about <e>
+/book/book_subject/works
+film_genre
+
+47228	what book contains <e>
+/book/book_subject/works
+tv_genre
+
+47273	what is the title of a <e> book
+/book/book_subject/works
+tv_genre
+
+47314	name a book from <e> subject
+/book/book_subject/works
+_NOTYPE_
+
+47421	what subject is the works <e>
+/book/book_subject/works
+field_of_study
+
+47432	name a book whose subject is <e>
+/book/book_subject/works
+_NOTYPE_
+
+47597	what book is about <e>
+/book/book_subject/works
+film_genre
+
+47613	what is a literary work about <e>
+/book/book_subject/works
+_NOTYPE_
+
+47626	which 2005 novel is based on <e> as a subject
+/book/book_subject/works
+tv_genre
+
+47644	what is a piece of work about <e>
+/book/book_subject/works
+field_of_study
+
+47720	which work of literature has the subject <e>
+/book/book_subject/works
+film_subject
+
+47727	what books have been written on <e>
+/book/book_subject/works
+film_subject
+
+48103	<e> is the subject of which book
+/book/book_subject/works
+country
+
+48118	what is a <e> book written by agatha christie
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+48120	what book has the subject of <e>
+/book/book_subject/works
+film_genre
+
+48208	what book is about <e>
+/book/book_subject/works
+literary_genre
+
+48239	what is a book who 's subject is <e>
+/book/book_subject/works
+military_conflict
+
+48470	what 's a <e> book by gail simone
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+48473	who is an individual that had a <e> written about them
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+48492	what is a novel about <e>
+/book/book_subject/works
+book
+
+48571	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+48603	what book is about <e>
+/book/book_subject/works
+field_of_study
+
+48608	what are books that have <e> as a subject
+/book/book_subject/works
+tv_genre
+
+48720	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+literature_subject
+
+48794	what 's the a book that talks about <e>
+/book/book_subject/works
+us_state
+
+48973	what is an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+48974	what book is about <e>
+/book/book_subject/works
+quotation_subject
+
+49037	what books are about <e>
+/book/book_subject/works
+tv_genre
+
+49049	what is the name of a <e> book featuring a collection of short stories
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+49071	what 's a book that deals with <e>
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+49186	what books have been written about <e>
+/book/book_subject/works
+literature_subject
+
+49194	what book is about <e>
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+49447	what book is about <e>
+/book/book_subject/works
+interest
+
+49467	what is a book about <e>
+/book/book_subject/works
+field_of_study
+
+49569	name a book written about <e>
+/book/book_subject/works
+tv_genre
+
+49727	whats the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+49729	what 's would be called a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+49822	which book is about the subject <e>
+/book/book_subject/works
+_NOTYPE_
+
+49871	what books are about <e>
+/book/book_subject/works
+film_genre
+
+49927	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+industry
+
+50004	what is a book written about <e>
+/book/book_subject/works
+field_of_study
+
+50005	what is the name of a <e> novel
+/book/book_subject/works
+tv_genre
+
+50059	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+50151	what 's a notable <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+50198	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+50259	which written book is on the subject of <e>
+/book/book_subject/works
+_NOTYPE_
+
+50452	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+50486	what book discusses about <e> issues
+/book/book_subject/works
+quotation_subject
+
+50514	what 's a book related to <e>
+/book/book_subject/works
+field_of_study
+
+50606	what is the book subject for the work `` <e>
+/book/book_subject/works
+_NOTYPE_
+
+50607	what book is in the <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+50653	what is a book about <e>
+/book/book_subject/works
+tv_genre
+
+50675	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+50680	what is the name of a book in the literary genre of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+50766	what is the title of a book that focuses on <e>
+/book/book_subject/works
+_NOTYPE_
+
+50768	what book is on <e>
+/book/book_subject/works
+field_of_study
+
+50956	what is a <e> book title
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+50960	what book has <e> as the subject
+/book/book_subject/works
+field_of_study
+
+50978	what book is about the <e>
+/book/book_subject/works
+country
+
+50999	which battle is discussed in <e>
+/book/book_subject/works
+country
+
+51208	what 's a book about the subject of <e>
+/book/book_subject/works
+country
+
+51285	what is the name of a book written about a <e>
+/book/book_subject/works
+animal
+
+51352	what is a <e> book title
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+51421	what 's a <e> written by ken follett
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+51431	what is a book from the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+51566	what 's a book about <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+51616	what 's a work <e>
+/book/book_subject/works
+_NOTYPE_
+
+51659	what is a 199 <e> book
+/book/book_subject/works
+tv_genre
+
+51760	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+51814	name an autobiographical book in <e>
+/book/book_subject/works
+_NOTYPE_
+
+51868	whats example of a <e> film
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+51878	what is the name of a book that deals with <e>
+/book/book_subject/works
+_NOTYPE_
+
+51893	what 's a title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+51966	what is a book about <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+51968	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+51981	what 's a book that sits firmly in the <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+52059	what 's a novel that takes place in <e>
+/book/book_subject/works
+us_state
+
+52101	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+52152	what is a book on the subject of <e>
+/book/book_subject/works
+industry
+
+52223	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+video_game_genre
+
+52224	what is the name of an <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+52368	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+52481	what book is considered <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+52508	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+52512	which book is in <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+52594	name a book from the <e> animorphs series
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+52656	what 's a <e> written by holly lisle
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+52721	which <e> book is written by willo davis roberts
+/book/book_subject/works
+tv_genre
+
+52784	name a book <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+52820	<e> is the subject of this book penned by christopher catherwood
+/book/book_subject/works
+tv_genre
+
+52974	what is <e> novel
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+52980	what books have <e> as a subject
+/book/book_subject/works
+us_state
+
+52983	what is a book from clifford a. pickover about <e>
+/book/book_subject/works
+field_of_study
+
+53019	what books are about <e>
+/book/book_subject/works
+field_of_study
+
+53192	what book is written on <e>
+/book/book_subject/works
+_NOTYPE_
+
+53198	what are books about <e>
+/book/book_subject/works
+collection_category
+
+53275	what book is <e>
+/book/book_subject/works
+_NOTYPE_
+
+53342	what is the subject of the <e> book
+/book/book_subject/works
+film_genre
+
+53381	what are some <e> books
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+53420	what is a book where <e> is the subject
+/book/book_subject/works
+_NOTYPE_
+
+53805	which books are about the <e>
+/book/book_subject/works
+_NOTYPE_
+
+53853	what book falls under the literary genre of <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+53916	what 's the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+53984	what is the name of a book that focuses on <e>
+/book/book_subject/works
+field_of_study
+
+54002	whats the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+54025	what books are about <e>
+/book/book_subject/works
+us_state
+
+54042	who is a <e> character created by suzanne collins
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+54068	what book is about <e>
+/book/book_subject/works
+film_genre
+
+54125	what 's a book about <e>
+/book/book_subject/works
+literature_subject
+
+54158	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+54256	what 's a notable <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+54308	what is a written work about <e>
+/book/book_subject/works
+_NOTYPE_
+
+54337	what 2008 book deals with <e>
+/book/book_subject/works
+tv_genre
+
+54390	name a <e> book
+/book/book_subject/works
+tv_genre
+
+54619	what is the title of a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+54696	what books are <e>
+/book/book_subject/works
+_NOTYPE_
+
+54728	what is the name of a 2000 <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+54791	what are <e> books
+/book/book_subject/works
+cause_of_death
+
+54829	what 's a book that involves <e>
+/book/book_subject/works
+_NOTYPE_
+
+55027	what is a book of speculative <e> fiction
+/book/book_subject/works
+tv_genre
+
+55252	what are book which topic is <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+55334	whats the title of a book about <e>
+/book/book_subject/works
+_NOTYPE_
+
+55383	what is a book published under the literary genre <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+55607	what is the name of the work whose subject was primarily <e>
+/book/book_subject/works
+region
+
+55613	what is a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+55623	what is the name of a book that is about <e>
+/book/book_subject/works
+military_conflict
+
+55660	what is a book about an <e>
+/book/book_subject/works
+film_genre
+
+55698	what is a work about <e>
+/book/book_subject/works
+quotation_subject
+
+55768	what 's a <e> book
+/book/book_subject/works
+_NOTYPE_
+
+55884	what is the name of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+55963	what ; s a work dealing with <e>
+/book/book_subject/works
+_NOTYPE_
+
+56011	what is a book written about <e>
+/book/book_subject/works
+tv_genre
+
+56037	<e> is the subject of which written work
+/book/book_subject/works
+field_of_study
+
+56043	what are books about <e>
+/book/book_subject/works
+film_subject
+
+56093	what 's a book on the subject of <e>
+/book/book_subject/works
+field_of_study
+
+56118	what is the title of a book whose subject is <e>
+/book/book_subject/works
+_NOTYPE_
+
+56390	what 's a book that falls under <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+56421	which book was written about <e>
+/book/book_subject/works
+location
+
+56491	what is a <e> book written about boxing
+/book/book_subject/works
+tv_genre
+
+56606	what is a <e> book
+/book/book_subject/works
+media_genre
+
+56632	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+56745	what book is based on the subject of <e>
+/book/book_subject/works
+military_conflict
+
+56834	what book notes <e>
+/book/book_subject/works
+author
+
+56849	name a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+56921	what book was written where <e> is the main subject
+/book/book_subject/works
+celebrity
+
+57274	name a book about <e>
+/book/book_subject/works
+country
+
+57315	what is a book about <e>
+/book/book_subject/works
+film_genre
+
+57445	what is about a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+57506	name a book that focuses on <e>
+/book/book_subject/works
+disease_or_medical_condition
+
+57557	what is a subject of <e>
+/book/book_subject/works
+region
+
+57605	what is a book with <e> as a subject
+/book/book_subject/works
+continent
+
+57773	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+58099	name a book subject in <e>
+/book/book_subject/works
+quotation_subject
+
+58159	what is a book about <e>
+/book/book_subject/works
+literary_genre
+
+58293	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+literary_school_or_movement
+
+58502	what book is about <e>
+/book/book_subject/works
+tv_genre
+
+58508	what 's a book title with the subject of <e>
+/book/book_subject/works
+field_of_study
+
+58705	whats the name of a <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+58726	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+58752	what 's a book focused on <e>
+/book/book_subject/works
+quotation_subject
+
+59026	what work is under the book subject <e>
+/book/book_subject/works
+field_of_study
+
+59203	what is an example of a <e> book
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+59214	what is the title of a <e> book written by jean cayrol
+/book/book_subject/works
+field_of_study
+
+59265	what 's an example of an <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+59284	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+59356	what book focuses on <e>
+/book/book_subject/works
+_NOTYPE_
+
+59436	what 's an example of <e>
+/book/book_subject/works
+_NOTYPE_
+
+59556	what is a book about <e>
+/book/book_subject/works
+us_state
+
+59577	what is a <e> book of short stories by susan sontag
+/book/book_subject/works
+event
+
+59673	what books are <e>
+/book/book_subject/works
+_NOTYPE_
+
+59680	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+59755	what is the name of a book that deals with <e>
+/book/book_subject/works
+_NOTYPE_
+
+59764	what book is written on the subject of <e>
+/book/book_subject/works
+_NOTYPE_
+
+59956	the book <e> covers what european nation
+/book/book_subject/works
+political_ideology
+
+59993	name a <e> literary work
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+60123	what is the name of a <e> novel
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+60178	what book is based on <e>
+/book/book_subject/works
+_NOTYPE_
+
+60391	name a <e> novel
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+60470	what books have been written about <e>
+/book/book_subject/works
+field_of_study
+
+60503	what is a book about <e>
+/book/book_subject/works
+film_genre
+
+60504	name a <e> literary work
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+60549	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+60850	what is an example of an <e> book
+/book/book_subject/works
+tv_genre
+
+61074	what is a book whose literary genre is <e>
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+61162	what book is <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+61207	what is the name of an <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+61435	what 's one book that discusses <e>
+/book/book_subject/works
+country
+
+61447	what is a book whose subject is <e>
+/book/book_subject/works
+tv_genre
+
+61502	what books discuss about <e>
+/book/book_subject/works
+tv_genre
+
+61514	what is the name of a book that is classified as <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+61554	whats a book whose subject is <e>
+/book/book_subject/works
+continent
+
+61619	who is an author that has written a book about <e>
+/book/book_subject/works
+literature_subject
+
+61620	name a <e> book
+/book/book_subject/works
+_NOTYPE_
+
+61623	what books have been written about <e>
+/book/book_subject/works
+media_genre
+
+61974	what book discusses <e>
+/book/book_subject/works
+_NOTYPE_
+
+62186	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+62427	what is a book written about <e>
+/book/book_subject/works
+quotation_subject
+
+62472	name a book on the subject of <e>
+/book/book_subject/works
+military_conflict
+
+62481	which book on <e> is written by william o'malley
+/book/book_subject/works
+field_of_study
+
+62489	which book is of the subject <e>
+/book/book_subject/works
+field_of_study
+
+62562	what 's a <e> written by shakespeare
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+62577	what books are <e>
+/book/book_subject/works
+_NOTYPE_
+
+62579	what is the name of a book that has to do with a <e>
+/book/book_subject/works
+literature_subject
+
+62659	what is a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+62687	what is a 1987 <e> novel
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+62924	what is a book written about <e>
+/book/book_subject/works
+media_genre
+
+63021	what is the name of a book that is <e>
+/book/book_subject/works
+_NOTYPE_
+
+63253	what is a book that is considered to be <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+63319	what book has <e> as a subject
+/book/book_subject/works
+disease_or_medical_condition
+
+63320	what is the name of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+63387	what books are <e>
+/book/book_subject/works
+_NOTYPE_
+
+63448	name a 2003 <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+63499	what is an example of a <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+63569	what 's a notable <e> book
+/media_common/literary_genre/books_in_this_genre
+website_category
+
+63651	which book is <e> christ
+/book/book_subject/works
+_NOTYPE_
+
+63687	what is a book in the genre <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+63741	what is a book within the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+63817	what books are about <e>
+/book/book_subject/works
+industry
+
+63889	what 's a book that talks about <e>
+/media_common/literary_genre/books_in_this_genre
+country
+
+63986	what is a 1913 <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+64030	what is a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+64081	what book is about <e>
+/book/book_subject/works
+literary_genre
+
+64113	what is the name of a book written about <e>
+/book/book_subject/works
+organization_type
+
+64210	what 's a book about <e>
+/book/book_subject/works
+film_genre
+
+64309	which book has <e> as its primary subject
+/book/book_subject/works
+_NOTYPE_
+
+64346	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+64418	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+64444	what is a book with the subject <e>
+/book/book_subject/works
+country
+
+64660	which books were written about <e>
+/book/book_subject/works
+quotation_subject
+
+64749	what book is considered <e> ( genre )
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+64955	what 's a book that discusses <e>
+/book/book_subject/works
+literature_subject
+
+65029	what is a <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+65087	what is a book that talks about <e>
+/book/book_subject/works
+_NOTYPE_
+
+65094	what books are about <e>
+/book/book_subject/works
+beverage_type
+
+65178	name a literary <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+65314	what is the tittle of a <e> and horror novel by john steakley
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+65329	which book was written about <e>
+/book/book_subject/works
+_NOTYPE_
+
+65645	what is the title of a book about <e>
+/book/book_subject/works
+film_genre
+
+65733	what is a book in the <e> section
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+65945	which book is written about <e>
+/book/book_subject/works
+character_species
+
+66001	what book is about <e>
+/book/book_subject/works
+_NOTYPE_
+
+66009	what is a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+66024	name a <e> book
+/book/book_subject/works
+_NOTYPE_
+
+66053	what is the title of a book based on <e>
+/book/book_subject/works
+film_genre
+
+66106	what is a book in the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+66258	what is the book <e> about
+/book/book_subject/works
+book
+
+66276	which book is written about <e>
+/book/book_subject/works
+_NOTYPE_
+
+66372	which book is <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+66507	what is an example of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+66536	what is the name of a <e> book
+/book/book_subject/works
+literary_genre
+
+66707	what 's a book that qualifies as <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+66741	which books contain the subject on <e> founding founders
+/book/book_subject/works
+_NOTYPE_
+
+66744	what is a novel whose subject is <e>
+/book/book_subject/works
+animal_breed
+
+66747	what 's a book about <e>
+/book/book_subject/works
+_NOTYPE_
+
+66759	what is a book about <e>
+/media_common/literary_genre/books_in_this_genre
+film_genre
+
+66770	what 's a book dealing with <e>
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+66775	what is <e> written by iris rainer dart
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+66796	what books are about <e>
+/book/book_subject/works
+field_of_study
+
+66830	which <e> is written by lane smith
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+66888	what was a work in <e>
+/book/book_subject/works
+tv_genre
+
+66958	name a literary work based <e>
+/book/book_subject/works
+_NOTYPE_
+
+66979	what 's an example of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+67028	what 's a history book <e>
+/book/book_subject/works
+_NOTYPE_
+
+67029	what is the title of a book <e>
+/book/book_subject/works
+_NOTYPE_
+
+67077	what is the name of a book about <e>
+/book/book_subject/works
+us_state
+
+67160	what books are about <e>
+/book/book_subject/works
+country
+
+67164	what is the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+67177	what is a book written <e>
+/book/book_subject/works
+_NOTYPE_
+
+67427	what book is about <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+67474	name a <e> book
+/book/book_subject/works
+_NOTYPE_
+
+67495	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+67498	what is the name of a book about <e>
+/book/book_subject/works
+quotation_subject
+
+67536	what is a <e> book
+/book/book_subject/works
+field_of_study
+
+67718	what book deals with the biggest <e> in the us
+/book/book_subject/works
+industry
+
+67843	<e> is the subject of what book
+/book/book_subject/works
+composer
+
+67852	what is a book about <e>
+/book/book_subject/works
+tv_genre
+
+67983	what book is a type of <e> genre
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+68092	what is a <e> book
+/book/book_subject/works
+tv_genre
+
+68209	what is the literary genre of <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+68387	what 's a work about <e>
+/book/book_subject/works
+quotation_subject
+
+68428	what 's a book that talks a lot about <e>
+/book/book_subject/works
+field_of_study
+
+68436	name a <e> book involving vampires
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+68490	which book was about the <e> subject
+/book/book_subject/works
+country
+
+68594	<e> is the subject of what book
+/book/book_subject/works
+belief
+
+68724	what is an example of a <e> novel
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+68762	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+68833	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+68848	what is a book that is considered to be <e>
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+68936	what is a <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+69006	what is the name of a book about <e>
+/book/book_subject/works
+field_of_study
+
+69082	what 's an example of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+69190	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+69225	what is a book about <e>
+/book/book_subject/works
+field_of_study
+
+69246	what is a book about <e>
+/book/book_subject/works
+quotation_subject
+
+69285	what books have been written about <e>
+/book/book_subject/works
+_NOTYPE_
+
+69288	name a <e> book
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+69305	whats the name of a <e> book
+/media_common/literary_genre/books_in_this_genre
+media_genre
+
+69455	what is a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+69859	what is the name of a book with the subject of <e>
+/book/book_subject/works
+field_of_study
+
+69910	what is the name of a book whose subject is <e>
+/book/book_subject/works
+country
+
+69936	what is a book about <e>
+/book/book_subject/works
+field_of_study
+
+69994	which book was about the subject of <e>
+/book/book_subject/works
+field_of_study
+
+70206	which <e> works are written by alan f alford
+/book/book_subject/works
+literature_subject
+
+70294	what 's a work about <e>
+/book/book_subject/works
+military_conflict
+
+70308	which book has <e> as it 's subject
+/book/book_subject/works
+field_of_study
+
+70366	what is an <e> book subject
+/book/book_subject/works
+tv_genre
+
+70415	what 's one book that talks about <e> ( region )
+/book/book_subject/works
+administrative_division
+
+70453	what is a book in the <e> genre
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+70573	what is an example of a book in the <e> literary genre
+/media_common/literary_genre/books_in_this_genre
+field_of_study
+
+70617	what book is a type of <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+70821	what is a book based on the subject <e>
+/book/book_subject/works
+quotation_subject
+
+70881	what is a work about <e>
+/book/book_subject/works
+literature_subject
+
+70932	what are <e> books
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+70977	what book titles are <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+71103	whats the title of a <e> book
+/book/book_subject/works
+literature_subject
+
+71170	what 's a mystery book about the <e>
+/book/book_subject/works
+film_genre
+
+71247	what is a kind of <e> book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+71542	what is the title of a <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+
+71772	what is the name of a book that focuses on <e>
+/book/book_subject/works
+field_of_study
+
+71911	what is the name of a book that is about <e>
+/book/book_subject/works
+us_county
+
+71939	what book is in the genre <e>
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+72053	what is a book about <e>
+/book/book_subject/works
+_NOTYPE_
+
+72079	whats a <e> themed book
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+72086	what 's the title of a <e> short story anthology
+/media_common/literary_genre/books_in_this_genre
+tv_genre
+
+72099	what is a <e> series called
+/media_common/literary_genre/books_in_this_genre
+literary_genre
+
+72213	what 's an example of an <e>
+/media_common/literary_genre/books_in_this_genre
+_NOTYPE_
+

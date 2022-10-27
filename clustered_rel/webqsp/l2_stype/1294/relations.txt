@@ -1,0 +1,2 @@
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+film.film_character.portrayed_in_films..film.performance.actor

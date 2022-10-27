@@ -1,0 +1,160 @@
+15	what books did <e> right
+book.author.book_editions_published
+
+
+15	what books did <e> right
+book.author.works_written
+
+
+31	what is <e> known for
+book.book_subject.works
+
+
+41	what was the name of <e> book
+book.author.works_written
+
+
+115	what did st. <e> do
+book.author.works_written
+
+
+142	what other books did <e> wrote
+book.author.book_editions_published
+
+
+245	what 's the book <e> wrote in prison
+book.author.works_written
+
+
+267	what is the name of the book <e> wrote while in prison
+book.book_subject.works
+
+
+438	what book did <e> write
+book.author.book_editions_published
+
+
+438	what book did <e> write
+book.author.works_written
+
+
+543	what was the title of the first book <e> wrote
+book.author.works_written
+
+
+584	what books did <e> wrote
+book.author.book_editions_published
+
+
+618	what did <e> write
+book.author.works_written
+
+
+814	what did writers of the <e> write about
+book.book_subject.works
+
+
+1076	what is the name of book written by <e>
+book.author.works_written
+
+
+1084	what books did <e> wright
+book.author.book_editions_published
+
+
+1252	what is the work of <e>
+book.book_subject.works
+
+
+1353	what was the name of the book <e> wrote while in prison
+book.author.works_written
+
+
+1431	what books did <e> wrote
+book.author.works_written
+
+
+1504	what books did <e> write
+book.author.works_written
+
+
+1600	what did <e> do as an abolitionist
+book.author.works_written
+
+
+1675	what book did <e> wrote
+book.author.works_written
+
+
+1758	what books did <e> wrote
+book.author.book_editions_published
+
+
+1767	what books did <e> wrote
+book.author.works_written
+
+
+1825	what book did <e> write on evolution
+book.author.works_written
+
+
+1915	what books has <e> written
+book.author.book_editions_published
+
+
+1983	which <e> books are movies
+book.author.works_written
+
+
+2010	what is the name of <e> 's first novel
+book.author.works_written
+
+
+2064	what famous book did <e> wrote
+book.author.works_written
+
+
+2195	what book did <e> wrote about the people in the dust bowl
+book.author.works_written
+
+
+2284	what did <e> write
+book.author.book_editions_published
+
+
+2284	what did <e> write
+book.author.works_written
+
+
+2765	what children 's books did <e> wrote
+book.author.works_written
+
+
+2835	what did <e> write
+book.author.works_written
+
+
+2903	what did the <e> created
+book.book_subject.works
+
+
+2943	what did <e> wrote
+book.author.works_written
+
+
+3017	what was the name of the book that <e> wrote
+book.author.works_written
+
+
+3027	what did <e> writer
+book.author.book_editions_published
+
+
+3027	what did <e> writer
+book.author.works_written
+
+
+3081	what book did <e> wrote
+book.author.book_editions_published
+
+

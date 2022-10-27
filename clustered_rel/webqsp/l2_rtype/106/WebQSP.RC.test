@@ -1,0 +1,340 @@
+24	what highschool did <e> go to
+people.person.education..education.education.institution
+people.person
+
+113	what college did <e> go to
+people.person.education..education.education.institution
+people.person
+
+125	what university did <e> attend
+people.person.education..education.education.institution
+people.person
+
+130	what was <e> education
+people.person.education..education.education.institution
+people.person
+
+139	where did <e> attend college
+people.person.education..education.education.institution
+people.person
+
+149	what did <e> study
+people.person.education..education.education.major_field_of_study
+people.person
+
+150	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+153	where did <e> go to college wikianswers
+people.person.education..education.education.institution
+people.person
+
+154	what school did <e> go to
+people.person.education..education.education.institution
+people.person
+
+164	what school did <e> go to
+people.person.education..education.education.institution
+people.person
+
+180	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+202	where was <e> educated
+people.person.education..education.education.institution
+people.person
+
+205	where <e> went to school
+people.person.education..education.education.institution
+people.person
+
+228	what school did <e> go to
+people.person.education..education.education.institution
+people.person
+
+231	where did <e> graduate
+people.person.education..education.education.institution
+people.person
+
+240	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+260	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+296	what school did <e> attend
+people.person.education..education.education.institution
+people.person
+
+311	what college did <e> go to
+people.person.education..education.education.institution
+people.person
+
+347	what university did <e> graduated from
+people.person.education..education.education.institution
+people.person
+
+365	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+417	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+426	what college did <e>
+people.person.education..education.education.institution
+people.person
+
+428	what college did <e> go to
+people.person.education..education.education.institution
+people.person
+
+452	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+458	what school did <e> received his doctorate degree from
+people.person.education..education.education.institution
+people.person
+
+475	what degrees did <e> get in college
+people.person.education..education.education.degree
+people.person
+
+481	what college did <e> jr go to
+people.person.education..education.education.institution
+people.person
+
+505	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+533	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+547	what school did <e>
+people.person.education..education.education.institution
+people.person
+
+556	what highschool did <e> go to
+people.person.education..education.education.institution
+people.person
+
+610	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+623	what was <e> education
+people.person.education..education.education.institution
+people.person
+
+669	where did <e> study
+people.person.education..education.education.institution
+people.person
+
+686	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+694	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+706	what high school did <e> go to
+people.person.education..education.education.institution
+people.person
+
+730	what schools did <e> go to
+people.person.education..education.education.institution
+people.person
+
+737	what colleges did <e> attend
+people.person.education..education.education.institution
+people.person
+
+763	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+781	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+805	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+812	what highschool did <e> attend
+people.person.education..education.education.institution
+people.person
+
+853	what school did <e> go to
+people.person.education..education.education.institution
+people.person
+
+864	where did <e> go to collage
+people.person.education..education.education.institution
+people.person
+
+880	where did <e> graduated from
+people.person.education..education.education.institution
+people.person
+
+917	where did <e> graduated college
+people.person.education..education.education.institution
+people.person
+
+921	what college did <e> go
+people.person.education..education.education.institution
+people.person
+
+940	what does <e> major in
+people.person.education..education.education.major_field_of_study
+people.person
+
+942	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+957	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+972	what did <e> study
+people.person.education..education.education.major_field_of_study
+people.person
+
+979	what college did <e>
+people.person.education..education.education.institution
+people.person
+
+1051	where did <e> attend high school
+people.person.education..education.education.institution
+people.person
+
+1052	what college did <e> go to
+people.person.education..education.education.institution
+people.person
+
+1066	what college did <e> go to
+people.person.education..education.education.institution
+people.person
+
+1087	what degree did <e> earn
+people.person.education..education.education.degree
+people.person
+
+1093	what school did <e> go to
+people.person.education..education.education.institution
+people.person
+
+1147	what colleges did <e> attend
+people.person.education..education.education.institution
+people.person
+
+1171	what college did <e> go to
+people.person.education..education.education.institution
+people.person
+
+1197	what school did <e> attend
+people.person.education..education.education.institution
+people.person
+
+1202	what school did <e> go to
+people.person.education..education.education.institution
+people.person
+
+1214	when did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+1218	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+1234	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+1240	what school does <e> go to
+people.person.education..education.education.institution
+people.person
+
+1243	where did <e> attend high school
+people.person.education..education.education.institution
+people.person
+
+1263	what university did <e> graduated from
+people.person.education..education.education.institution
+people.person
+
+1334	what boarding school did <e> go to
+people.person.education..education.education.institution
+people.person
+
+1364	where did <e> went to school
+people.person.education..education.education.institution
+people.person
+
+1385	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+1401	where did <e> get his education
+people.person.education..education.education.institution
+people.person
+
+1474	where does <e> go to school
+people.person.education..education.education.institution
+people.person
+
+1475	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+1482	what schools did <e> attend
+people.person.education..education.education.institution
+people.person
+
+1526	what degrees did <e> get
+people.person.education..education.education.degree
+people.person
+
+1542	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+1549	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+1551	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+1553	where did <e> go to school
+people.person.education..education.education.institution
+people.person
+
+1568	what college did <e> go to
+people.person.education..education.education.institution
+people.person
+
+1601	where did <e> go to college
+people.person.education..education.education.institution
+people.person
+
+1609	what did <e> study in college
+people.person.education..education.education.major_field_of_study
+people.person
+
+1629	what degrees does <e> have
+people.person.education..education.education.degree
+people.person
+

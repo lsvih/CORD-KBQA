@@ -1,0 +1,720 @@
+74	what track is on <e>
+/music/release/track
+consumer_product
+
+92	what is a track from the release <e>
+/music/release/track
+musical_release
+
+151	name a track off of <e>
+/music/release/track
+consumer_product
+
+188	what is a song from <e>
+/music/release/track_list
+musical_release
+
+237	what track was of the release titled <e>
+/music/release/track
+musical_release
+
+247	what is a song on <e>
+/music/release/track_list
+musical_release
+
+256	what tracks are on <e>
+/music/release/track_list
+musical_release
+
+453	what is a track in <e>
+/music/release/track_list
+musical_release
+
+491	what track comes from <e>
+/music/release/track
+consumer_product
+
+636	what is a track from the release <e>
+/music/release/track
+consumer_product
+
+641	what track is featured on <e>
+/music/release/track
+consumer_product
+
+679	what song was included in <e>
+/music/release/track_list
+consumer_product
+
+815	what 's a song released on <e>
+/music/release/track_list
+consumer_product
+
+840	what song was released on <e>
+/music/release/track_list
+musical_release
+
+869	what are songs of the <e> album
+/music/release/track_list
+musical_release
+
+885	what is a track off of <e>
+/music/release/track
+musical_release
+
+1122	what tracks are on <e>
+/music/release/track
+consumer_product
+
+1222	what track was featured on the release <e>
+/music/release/track
+consumer_product
+
+1241	what 's a song on the album <e>
+/music/release/track_list
+consumer_product
+
+1304	what is the track list from the release <e>
+/music/release/track_list
+consumer_product
+
+1342	what is a track on the <e> release
+/music/release/track
+_NOTYPE_
+
+1391	what is a song off the album <e>
+/music/release/track
+musical_release
+
+1507	what is the name of the track from the album <e>
+/music/release/track
+musical_release
+
+1536	what track list is in the release <e>
+/music/release/track_list
+musical_release
+
+1557	what is a song from <e> album
+/music/release/track
+consumer_product
+
+1566	what 's a track from <e>
+/music/release/track
+consumer_product
+
+1597	what is the track from <e>
+/music/release/track
+musical_release
+
+1635	what is a song on the album <e>
+/music/release/track
+musical_release
+
+1653	what is the track off of <e>
+/music/release/track
+multi-part_musical_release
+
+1669	what is a track off <e>
+/music/release/track
+musical_release
+
+1670	what song was released on <e>
+/music/release/track_list
+musical_release
+
+1688	what track list is the release <e>
+/music/release/track_list
+musical_release
+
+1727	what 's a song on <e>
+/music/release/track
+musical_release
+
+1786	what is a track on the release <e>
+/music/release/track
+musical_release
+
+1818	what is a song from <e> album
+/music/release/track
+musical_release
+
+1961	what is a track off <e>
+/music/release/track_list
+consumer_product
+
+1964	what is a track released on <e>
+/music/release/track
+consumer_product
+
+1996	what is a track from the release of `` <e>
+/music/release/track
+_NOTYPE_
+
+2025	what is a track on <e>
+/music/release/track
+musical_release
+
+2149	what is the name of the track list for the release <e>
+/music/release/track_list
+musical_release
+
+2203	which track came from the release titled <e>
+/music/release/track
+_NOTYPE_
+
+2243	what is a track on the album <e>
+/music/release/track
+consumer_product
+
+2269	what was the track list on <e>
+/music/release/track_list
+musical_release
+
+2273	what song is from the release <e>
+/music/release/track
+consumer_product
+
+2321	what track is on the release <e>
+/music/release/track_list
+consumer_product
+
+2335	what is the release track on <e>
+/music/release/track
+consumer_product
+
+2478	what track is under the release <e>
+/music/release/track
+consumer_product
+
+2539	what is a track on the release <e>
+/music/release/track
+consumer_product
+
+2551	what is the album with the song <e> on it
+/music/release/track
+consumer_product
+
+2601	what 's a track from <e>
+/music/release/track
+musical_release
+
+2635	what is a song featured in <e>
+/music/release/track_list
+multi-part_musical_release
+
+2726	which track contains <e>
+/music/release/track_list
+musical_release
+
+2834	whats the name of song on the album <e>
+/music/release/track_list
+consumer_product
+
+2844	which track contains <e>
+/music/release/track_list
+consumer_product
+
+2893	what are some examples of songs in the album <e>
+/music/release/track
+musical_release
+
+2994	what track was featured on the release <e>
+/music/release/track
+consumer_product
+
+3007	what is a track on <e>
+/music/release/track
+musical_release
+
+3015	who released the track : <e>
+/music/release/track
+_NOTYPE_
+
+3030	what tracks are on <e>
+/music/release/track_list
+musical_release
+
+3062	which album is <e> from
+/music/release/track_list
+musical_release
+
+3122	what is a song from the release <e>
+/music/release/track_list
+consumer_product
+
+3144	which track contains <e>
+/music/release/track_list
+consumer_product
+
+3203	what is a song featured on <e>
+/music/release/track_list
+consumer_product
+
+3244	what track list is in the release <e>
+/music/release/track_list
+_NOTYPE_
+
+3284	what is song is from <e>
+/music/release/track
+musical_release
+
+3315	what is a song included in <e>
+/music/release/track
+consumer_product
+
+3400	what track was released from <e>
+/music/release/track
+musical_release
+
+3439	which track contains <e>
+/music/release/track_list
+musical_release
+
+3603	<e> is the release that includes what track
+/music/release/track
+musical_release
+
+3607	whats the title of a track from the release <e>
+/music/release/track
+_NOTYPE_
+
+3708	what is a track released from <e>
+/music/release/track_list
+consumer_product
+
+3761	name a track in the album <e>
+/music/release/track
+musical_release
+
+3780	whats the name of the track from the release <e>
+/music/release/track_list
+multi-part_musical_release
+
+3790	what is a song off the cd <e>
+/music/release/track_list
+consumer_product
+
+3803	what is a track from the disc release <e>
+/music/release/track
+musical_release
+
+3807	what is a song that appears on the track list of <e>
+/music/release/track_list
+musical_release
+
+3918	what song is featured on <e>
+/music/release/track
+consumer_product
+
+3926	name a track from <e>
+/music/release/track
+musical_release
+
+3945	what 's song is a part of <e>
+/music/release/track_list
+musical_release
+
+3990	what is an example track from <e>
+/music/release/track
+consumer_product
+
+4000	which tracks are listed in the release <e>
+/music/release/track
+musical_release
+
+4033	what tracks are on <e>
+/music/release/track
+musical_release
+
+4035	what song was included in <e>
+/music/release/track_list
+musical_release
+
+4050	what song is fro <e>
+/music/release/track
+consumer_product
+
+4092	what is a song from <e>
+/music/release/track_list
+consumer_product
+
+4112	what is the name of a track released from <e>
+/music/release/track
+consumer_product
+
+4189	what 's a track featured on <e>
+/music/release/track_list
+_NOTYPE_
+
+4203	which tracks are listed in the release <e>
+/music/release/track_list
+musical_release
+
+4275	what is the release track on <e>
+/music/release/track
+musical_release
+
+4363	what 's a track off <e>
+/music/release/track_list
+musical_release
+
+4511	what is a track featured on the album <e>
+/music/release/track_list
+consumer_product
+
+4521	what 's a track from <e>
+/music/release/track_list
+musical_release
+
+4584	what track is featured on <e>
+/music/release/track_list
+_NOTYPE_
+
+4679	what track spawned from <e>
+/music/release/track
+musical_release
+
+4859	what 's a track from <e>
+/music/release/track
+musical_release
+
+4960	what is a song on <e>
+/music/release/track_list
+consumer_product
+
+5116	what is a track on the release <e>
+/music/release/track
+consumer_product
+
+5135	this track is featured on the release <e> by alison moyet
+/music/release/track
+musical_release
+
+5147	what are the tracks on <e>
+/music/release/track
+musical_release
+
+5298	what is the track list for <e>
+/music/release/track_list
+consumer_product
+
+5323	what is a track from <e>
+/music/release/track
+_NOTYPE_
+
+5328	what are songs of the <e> album
+/music/release/track_list
+musical_release
+
+5330	what is the title of a track on the <e> release
+/music/release/track
+consumer_product
+
+5434	which tracks are listed in the release <e> ( disc 2 )
+/music/release/track
+_NOTYPE_
+
+5531	what is a track from <e> ( disc 1 )
+/music/release/track
+_NOTYPE_
+
+5563	which track list is in the release <e>
+/music/release/track_list
+consumer_product
+
+5607	whats the name of a track that was on the release <e>
+/music/release/track
+_NOTYPE_
+
+5617	what 's a track listed on <e>
+/music/release/track_list
+_NOTYPE_
+
+5653	what is a song that came from the release <e>
+/music/release/track
+musical_release
+
+5702	what was one of the songs on <e>
+/music/release/track
+musical_release
+
+5721	what album is <e> found on
+/music/release/track_list
+consumer_product
+
+5776	what tracks are on the release <e>
+/music/release/track
+consumer_product
+
+5821	what is a song included in <e>
+/music/release/track
+consumer_product
+
+5868	what is a song included in <e>
+/music/release/track_list
+musical_release
+
+5905	name a track from the <e> release
+/music/release/track
+consumer_product
+
+5946	which track was in the release <e>
+/music/release/track
+musical_release
+
+6007	what tracks are on <e>
+/music/release/track_list
+consumer_product
+
+6009	what song was included in <e>
+/music/release/track_list
+consumer_product
+
+6021	what is a song on <e>
+/music/release/track
+consumer_product
+
+6109	what is a track off the <e> album
+/music/release/track_list
+musical_release
+
+6166	what is the release track on <e>
+/music/release/track
+musical_release
+
+6257	what is a track in the <e> album
+/music/release/track_list
+_NOTYPE_
+
+6295	what is the release track off the release titled <e>
+/music/release/track_list
+consumer_product
+
+6336	what is one of the tracks from <e>
+/music/release/track_list
+musical_release
+
+6383	what is a track played at the <e> album
+/music/release/track
+consumer_product
+
+6433	what track was released on <e>
+/music/release/track_list
+musical_release
+
+6459	name a track off of the <e> release
+/music/release/track
+_NOTYPE_
+
+6468	what song is on the album <e>
+/music/release/track
+musical_release
+
+6505	what 's one of the songs from the release <e>
+/music/release/track_list
+consumer_product
+
+6667	what track list is <e> on
+/music/release/track_list
+musical_release
+
+6713	what is a track on the album titled <e>
+/music/release/track_list
+_NOTYPE_
+
+6725	what 's a song off of <e>
+/music/release/track
+musical_release
+
+6764	what songs are on <e>
+/music/release/track_list
+musical_release
+
+6875	what song was released as a part of <e>
+/music/release/track
+musical_release
+
+6877	which tracks were released in <e>
+/music/release/track
+musical_release
+
+6894	what is the name of the track released in <e>
+/music/release/track_list
+consumer_product
+
+6931	what 's a song off of the album <e>
+/music/release/track
+consumer_product
+
+6982	what is a track featured on <e>
+/music/release/track_list
+musical_release
+
+7000	name the compilation that contains the track <e>
+/music/release/track
+musical_release
+
+7037	what is a track from <e>
+/music/release/track
+multi-part_musical_release
+
+7151	what is a song from the <e> album
+/music/release/track
+musical_release
+
+7215	what track list is from the release <e>
+/music/release/track_list
+musical_release
+
+7336	what 's a track off of <e>
+/music/release/track_list
+consumer_product
+
+7421	what is the name of one of the song in the <e> album
+/music/release/track_list
+musical_release
+
+7446	what ; s a track off <e>
+/music/release/track_list
+_NOTYPE_
+
+7537	which track was in the release <e>
+/music/release/track
+musical_release
+
+7708	whats the title of a track featured on <e>
+/music/release/track
+_NOTYPE_
+
+7792	what are songs of the <e> album
+/music/release/track
+_NOTYPE_
+
+7870	what is on the track list for <e>
+/music/release/track_list
+consumer_product
+
+7959	what is the track list of the release <e>
+/music/release/track_list
+musical_release
+
+8031	what is a song on <e>
+/music/release/track_list
+consumer_product
+
+8059	what track list is <e> on
+/music/release/track_list
+musical_release
+
+8219	what is the name of a track from <e>
+/music/release/track
+musical_release
+
+8249	which track contains <e>
+/music/release/track
+consumer_product
+
+8336	what is the release track on <e>
+/music/release/track
+consumer_product
+
+8435	what is a track off <e>
+/music/release/track
+multi-part_musical_release
+
+8516	what is the name of a track of <e>
+/music/release/track
+musical_release
+
+8716	what is a track from <e>
+/music/release/track
+musical_artist
+
+8742	what track was released in <e>
+/music/release/track
+consumer_product
+
+8798	what track list was <e> released from
+/music/release/track_list
+consumer_product
+
+8911	what 's a song released on <e>
+/music/release/track
+_NOTYPE_
+
+8970	what is a song on the album <e>
+/music/release/track
+musical_release
+
+9023	name a track released from <e>
+/music/release/track
+consumer_product
+
+9068	what track was released on <e>
+/music/release/track
+musical_release
+
+9138	what track came from the release <e>
+/music/release/track
+_NOTYPE_
+
+9142	what is a song on the release <e>
+/music/release/track
+consumer_product
+
+9170	what is a track released from <e>
+/music/release/track_list
+musical_release
+
+9261	what is a song on the album <e>
+/music/release/track_list
+musical_release
+
+9304	what track list is found in the release <e>
+/music/release/track_list
+consumer_product
+
+9392	what is a track on <e>
+/music/release/track_list
+musical_recording
+
+9441	what track is from the release <e>
+/music/release/track_list
+consumer_product
+
+9609	what track is from the release <e>
+/music/release/track
+_NOTYPE_
+
+9648	what is a track released from <e>
+/music/release/track
+consumer_product
+
+9651	what is a the track off <e>
+/music/release/track
+musical_release
+
+10042	state a track on the release <e>
+/music/release/track
+musical_release
+
+10105	name a track off the musical release <e>
+/music/release/track_list
+musical_release
+
+10118	which tracks were a part of the release <e>
+/music/release/track
+consumer_product
+
+10144	what is a song off the release <e>
+/music/release/track_list
+musical_release
+
+10148	what is a song on <e>
+/music/release/track
+consumer_product
+
+10249	<e> is from what track list
+/music/release/track_list
+consumer_product
+

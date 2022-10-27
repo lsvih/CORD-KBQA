@@ -1,0 +1,5280 @@
+20	where is <e> from
+/people/person/nationality
+film_actor
+
+33	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+34	what is the place of birth of <e>
+/people/person/place_of_birth
+academic
+
+61	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+81	where was <e> born
+/people/person/place_of_birth
+basketball_player
+
+84	which country is <e> from
+/people/person/nationality
+military_person
+
+106	what nationality is <e>
+/people/person/nationality
+film_actor
+
+114	where was <e> born
+/people/person/place_of_birth
+organization_founder
+
+118	where was <e> 's place of birth
+/people/person/place_of_birth
+military_person
+
+121	which nationality is <e>
+/people/person/nationality
+film_actor
+
+127	which indian city was <e> born in
+/people/person/place_of_birth
+film_director
+
+131	where was <e> born
+/people/person/place_of_birth
+football_player
+
+174	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+176	what is <e> 's birth place
+/people/person/place_of_birth
+football_player
+
+184	which country was <e> born in
+/people/person/place_of_birth
+film_director
+
+233	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+237	was <e> born in washington , d.c. or washington state
+/people/person/place_of_birth
+_NOTYPE_
+
+244	what is the nationality of <e>
+/people/person/nationality
+baseball_player
+
+246	what country is <e> a citizen of
+/people/person/nationality
+film_producer
+
+255	what is <e> 's nationality
+/people/person/nationality
+person
+
+276	which country is <e> from
+/people/person/nationality
+musical_artist
+
+289	where was <e> born
+/people/person/place_of_birth
+composer
+
+295	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+332	is <e> from the united states or canada
+/people/person/nationality
+film_producer
+
+348	of what nationality is <e>
+/people/person/nationality
+author
+
+350	what is the nationality of <e>
+/people/person/nationality
+person
+
+382	where was <e> birthed
+/people/person/place_of_birth
+author
+
+391	what is <e> 's nationality
+/people/person/nationality
+deceased_person
+
+419	what is <e> 's origin
+/people/person/nationality
+film_actor
+
+422	where was <e> born
+/people/person/place_of_birth
+politician
+
+425	which city was <e> born in
+/people/person/place_of_birth
+author
+
+426	in which city was <e> born
+/people/person/place_of_birth
+visual_artist
+
+494	which country was <e> born
+/people/person/place_of_birth
+visual_artist
+
+512	what city and state was <e> born in
+/people/person/place_of_birth
+politician
+
+514	what is <e> 's nationality
+/people/person/nationality
+musical_artist
+
+521	which country is <e> from
+/people/person/nationality
+film_director
+
+533	where was <e> born
+/people/person/place_of_birth
+visual_artist
+
+547	what is <e> 's country of nationality
+/people/person/nationality
+musical_artist
+
+555	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+568	where was <e> birthed
+/people/person/place_of_birth
+composer
+
+579	<e> was born in what country
+/people/person/nationality
+football_player
+
+603	where is the birthplace of <e>
+/people/person/place_of_birth
+film_writer
+
+624	<e> is a national of which state
+/people/person/nationality
+film_director
+
+643	where is <e> from
+/people/person/nationality
+politician
+
+653	where was <e> born
+/people/person/place_of_birth
+military_person
+
+662	what nation is <e> originally from
+/people/person/nationality
+olympic_athlete
+
+664	what nation is <e> from
+/people/person/nationality
+film_story_contributor
+
+672	which country is <e> from
+/people/person/nationality
+deceased_person
+
+686	which canadian city was <e> born in
+/people/person/place_of_birth
+deceased_person
+
+688	what nationality is <e>
+/people/person/nationality
+organization_founder
+
+689	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+696	which southern united state was <e> born in
+/people/person/place_of_birth
+olympic_athlete
+
+713	where was <e> given birth
+/people/person/place_of_birth
+deceased_person
+
+720	what is <e> 's nation of origin
+/people/person/nationality
+visual_artist
+
+778	which city was <e> born
+/people/person/place_of_birth
+u.s._congressperson
+
+782	which city was <e> born
+/people/person/place_of_birth
+tv_actor
+
+784	where in europe was <e> born
+/people/person/place_of_birth
+academic
+
+805	where was <e> born
+/people/person/place_of_birth
+politician
+
+821	where is <e> from
+/people/person/nationality
+deceased_person
+
+831	where in england was <e> 's place of birth
+/people/person/place_of_birth
+tv_writer
+
+845	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+846	where was <e> 's birthplace
+/people/person/place_of_birth
+deceased_person
+
+851	what is the country from which <e> nationality is derived
+/people/person/nationality
+u.s._congressperson
+
+872	where was <e> place of birth
+/people/person/place_of_birth
+author
+
+884	where was <e> birthed
+/people/person/place_of_birth
+football_player
+
+892	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+905	which country is <e> from
+/people/person/nationality
+american_football_player
+
+937	what country does <e> represent
+/people/person/nationality
+film_actor
+
+946	what country is <e> from
+/people/person/nationality
+tv_personality
+
+954	where in europe was <e> born
+/people/person/place_of_birth
+tv_actor
+
+961	where was <e> born
+/people/person/place_of_birth
+film_director
+
+972	what city was <e> born
+/people/person/place_of_birth
+film_crewmember
+
+979	where was <e> born
+/people/person/place_of_birth
+football_player
+
+994	what is <e> 's birth place
+/people/person/place_of_birth
+organization_leader
+
+1018	which european nationality does <e> belong to
+/people/person/nationality
+film_actor
+
+1073	what is the nationality of <e>
+/people/person/nationality
+basketball_player
+
+1079	where was <e> born
+/people/person/place_of_birth
+disaster_victim
+
+1090	where did <e> begin his life
+/people/person/place_of_birth
+politician
+
+1094	which city was <e> born
+/people/person/place_of_birth
+american_football_player
+
+1127	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+1159	where is <e> from
+/people/person/nationality
+film_actor
+
+1163	what is <e> 's country of nationality
+/people/person/nationality
+football_player
+
+1183	where was <e> born
+/people/person/place_of_birth
+football_player
+
+1203	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+1209	where was <e> born in europe
+/people/person/place_of_birth
+author
+
+1214	what is <e> 's nationality
+/people/person/nationality
+author
+
+1226	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+1229	what is <e> 's country of nationality
+/people/person/nationality
+theater_producer
+
+1231	what country is <e> from
+/people/person/nationality
+film_actor
+
+1243	what nationality is <e>
+/people/person/nationality
+politician
+
+1244	where is <e> from
+/people/person/nationality
+film_actor
+
+1245	where was <e> 's place of birth
+/people/person/place_of_birth
+visual_artist
+
+1257	what is <e> 's place of birth
+/people/person/place_of_birth
+film_director
+
+1289	what is <e> 's birthplace
+/people/person/place_of_birth
+deceased_person
+
+1297	what country is <e> originally from
+/people/person/nationality
+author
+
+1323	what is the nationality of <e>
+/people/person/nationality
+film_director
+
+1326	what nationality is <e>
+/people/person/nationality
+author
+
+1385	what nationality is <e>
+/people/person/nationality
+football_player
+
+1398	what is <e> 's place of birth
+/people/person/place_of_birth
+film_director
+
+1399	where is <e> originally from
+/people/person/place_of_birth
+person
+
+1417	what nationality is <e>
+/people/person/nationality
+baseball_player
+
+1420	where exactly was the location of <e> 's birth
+/people/person/place_of_birth
+film_writer
+
+1439	where was <e> born
+/people/person/place_of_birth
+author
+
+1497	what is <e> 's county of nationality
+/people/person/nationality
+golfer
+
+1498	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+1534	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+1544	what is <e> 's nationality
+/people/person/nationality
+person
+
+1557	what was <e> 's place of birth
+/people/person/place_of_birth
+olympic_athlete
+
+1565	where in california was <e> born
+/people/person/place_of_birth
+baseball_player
+
+1569	where was <e> born
+/people/person/place_of_birth
+football_player
+
+1576	where was <e> born
+/people/person/place_of_birth
+tv_actor
+
+1582	where was <e> born
+/people/person/place_of_birth
+baseball_player
+
+1595	where was <e> born
+/people/person/place_of_birth
+author
+
+1597	where is <e> from
+/people/person/nationality
+musical_artist
+
+1599	where was <e> born
+/people/person/place_of_birth
+baseball_player
+
+1608	where is <e> from
+/people/person/nationality
+film_actor
+
+1614	where was <e> place of birth
+/people/person/place_of_birth
+deceased_person
+
+1615	where in asia was <e> born
+/people/person/place_of_birth
+film_producer
+
+1639	which country is <e> from
+/people/person/nationality
+politician
+
+1646	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+1648	where is <e> from
+/people/person/nationality
+tv_actor
+
+1650	what country is <e> from
+/people/person/nationality
+film_director
+
+1678	where was <e> born
+/people/person/place_of_birth
+inventor
+
+1689	what was <e> 's place of birth
+/people/person/place_of_birth
+film_actor
+
+1691	what is <e> place of birth
+/people/person/place_of_birth
+musical_artist
+
+1712	what is the nationality of <e>
+/people/person/nationality
+celebrity
+
+1721	what is <e> 's ethnicity
+/people/person/nationality
+tv_personality
+
+1730	where was <e> born
+/people/person/place_of_birth
+football_player
+
+1734	what is <e> 's birthplace
+/people/person/place_of_birth
+football_player
+
+1758	what country is <e> from
+/people/person/nationality
+film_director
+
+1775	where was <e> given birth at
+/people/person/place_of_birth
+football_player
+
+1776	which country is <e> from
+/people/person/nationality
+deceased_person
+
+1779	which country is <e> from
+/people/person/nationality
+film_actor
+
+1801	where is <e> from
+/people/person/nationality
+politician
+
+1804	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+1819	what is the nationality of <e>
+/people/person/nationality
+author
+
+1850	what large city in brazil was <e> born
+/people/person/place_of_birth
+musical_artist
+
+1855	where was <e> born
+/people/person/place_of_birth
+military_person
+
+1873	where is <e> 's place of birth
+/people/person/place_of_birth
+film_actor
+
+1876	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+1906	where is <e> from
+/people/person/nationality
+award_winner
+
+1949	where was <e> born
+/people/person/place_of_birth
+basketball_player
+
+2009	what nation is <e> from
+/people/person/nationality
+deceased_person
+
+2033	what is <e> 's nationality
+/people/person/nationality
+author
+
+2038	what is the birth place of <e>
+/people/person/place_of_birth
+football_player
+
+2039	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+2059	which country is <e> from
+/people/person/nationality
+musician
+
+2066	what european country is <e> from
+/people/person/nationality
+visual_artist
+
+2072	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+2091	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+2094	where was <e> born
+/people/person/place_of_birth
+football_player
+
+2108	what country is <e> from
+/people/person/nationality
+film_director
+
+2130	where was <e> born
+/people/person/place_of_birth
+author
+
+2131	what city on the west coast is the place of birth of <e>
+/people/person/place_of_birth
+judge
+
+2133	which country is <e> ( writer ) from
+/people/person/nationality
+author
+
+2148	which country is <e> from
+/people/person/nationality
+author
+
+2162	where was <e> born
+/people/person/place_of_birth
+film_production_designer
+
+2185	where was <e> 's place of birth
+/people/person/place_of_birth
+military_person
+
+2222	what swedish city was <e> born in
+/people/person/place_of_birth
+politician
+
+2231	what was <e> 's place of birth
+/people/person/place_of_birth
+film_writer
+
+2251	where was <e> born
+/people/person/place_of_birth
+cricket_player
+
+2269	which city was <e> born
+/people/person/place_of_birth
+theater_choreographer
+
+2282	what is <e> 's place of birth
+/people/person/place_of_birth
+musical_artist
+
+2284	what is the place of birth of <e>
+/people/person/place_of_birth
+architect
+
+2293	is <e> from united kingdom or united states
+/people/person/nationality
+tv_actor
+
+2296	where was <e> born
+/people/person/place_of_birth
+author
+
+2316	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+2342	where was <e> born
+/people/person/place_of_birth
+football_player
+
+2346	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+2358	what is the nationality of <e>
+/people/person/nationality
+person
+
+2408	what country was <e> from
+/people/person/nationality
+deceased_person
+
+2420	what country is <e> a citizen of
+/people/person/nationality
+film_actor
+
+2427	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+2445	where was <e> born
+/people/person/place_of_birth
+author
+
+2512	what nationality is <e>
+/people/person/nationality
+film_story_contributor
+
+2513	what is <e> 's country of nationality
+/people/person/nationality
+deceased_person
+
+2527	where was <e> 's place of birth
+/people/person/place_of_birth
+person
+
+2529	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+2536	which empire is <e> from
+/people/person/nationality
+military_person
+
+2553	where is <e> from
+/people/person/nationality
+opera_singer
+
+2566	where was <e> born
+/people/person/place_of_birth
+film_writer
+
+2576	is <e> from austria or russia
+/people/person/nationality
+film_actor
+
+2586	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+2589	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+2602	what is <e> 's nationality
+/people/person/nationality
+politician
+
+2611	what is <e> 's country of nationality
+/people/person/nationality
+film_actor
+
+2613	in what us city was <e> born
+/people/person/place_of_birth
+composer
+
+2659	what is <e> 's nationality
+/people/person/nationality
+musical_artist
+
+2663	what country is <e> from
+/people/person/nationality
+opera_singer
+
+2678	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+2690	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+2705	what nationality is <e>
+/people/person/nationality
+baseball_player
+
+2726	where was <e> given birth
+/people/person/place_of_birth
+person_or_being_in_fiction
+
+2731	where was <e> born
+/people/person/place_of_birth
+olympic_athlete
+
+2747	where was <e> born
+/people/person/place_of_birth
+football_player
+
+2773	where in mississippi was <e> born
+/people/person/place_of_birth
+military_person
+
+2796	where was the birthplace of <e>
+/people/person/place_of_birth
+politician
+
+2801	what nationality is <e>
+/people/person/nationality
+football_player
+
+2804	what nation is <e> from
+/people/person/nationality
+deceased_person
+
+2806	which country is <e> from
+/people/person/nationality
+award-winning_work
+
+2851	which city was <e> born
+/people/person/place_of_birth
+organization_founder
+
+2864	which russian city was <e> born
+/people/person/place_of_birth
+noble_person
+
+2871	what city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+2883	what country is <e> from
+/people/person/nationality
+film_actor
+
+2884	which country does <e> have nationality in
+/people/person/nationality
+film_story_contributor
+
+2894	what is <e> 's place of birth
+/people/person/place_of_birth
+boxer
+
+2900	what city was <e> ( american football ) born
+/people/person/place_of_birth
+american_football_player
+
+2901	where in japan was <e> born
+/people/person/place_of_birth
+musical_artist
+
+2909	what country is <e> from
+/people/person/nationality
+author
+
+2944	where was <e> born
+/people/person/place_of_birth
+blogger
+
+2955	where was <e> born at
+/people/person/place_of_birth
+ice_hockey_player
+
+2962	what country is <e> originally from
+/people/person/nationality
+author
+
+2968	what is <e> 's nationality
+/people/person/nationality
+u.s._congressperson
+
+2971	where was <e> born
+/people/person/place_of_birth
+football_player
+
+2975	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+2979	which city was <e> given birth at
+/people/person/place_of_birth
+author
+
+2983	what is <e> 's nationality
+/people/person/nationality
+musical_artist
+
+3013	where was <e> born
+/people/person/place_of_birth
+author
+
+3024	what is <e> 's nationality
+/people/person/nationality
+award_winner
+
+3034	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+3063	where was <e> born
+/people/person/place_of_birth
+ice_hockey_coach
+
+3072	what nationality is <e>
+/people/person/nationality
+cricket_player
+
+3083	where was <e> born
+/people/person/place_of_birth
+composer
+
+3089	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+3096	where city in minnesota was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+3105	where was <e> born
+/people/person/place_of_birth
+politician
+
+3112	what nation is <e> from
+/people/person/nationality
+film_actor
+
+3140	which country is <e> from
+/people/person/nationality
+musical_artist
+
+3153	where is <e> from
+/people/person/nationality
+person
+
+3163	which major city was <e> born in
+/people/person/place_of_birth
+military_person
+
+3178	where was <e> born
+/people/person/place_of_birth
+author
+
+3179	where is <e> originally from
+/people/person/nationality
+musical_group
+
+3184	where was <e> place of birth
+/people/person/place_of_birth
+_NOTYPE_
+
+3198	what is <e> 's nationality
+/people/person/nationality
+composer
+
+3217	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+3225	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+3233	what nation is <e> from
+/people/person/nationality
+author
+
+3258	what nationality is <e>
+/people/person/nationality
+olympic_athlete
+
+3265	where was <e> born
+/people/person/place_of_birth
+basketball_player
+
+3277	what city was <e> born in
+/people/person/place_of_birth
+visual_artist
+
+3288	where was <e> born
+/people/person/place_of_birth
+film_producer
+
+3300	which city was <e> born
+/people/person/place_of_birth
+american_football_player
+
+3311	where is <e> from
+/people/person/nationality
+tv_actor
+
+3314	what is <e> 's nationality
+/people/person/nationality
+deceased_person
+
+3315	what nationality is <e>
+/people/person/nationality
+person
+
+3316	which nation is <e> from
+/people/person/nationality
+award_winner
+
+3325	what is <e> 's nationality
+/people/person/nationality
+visual_artist
+
+3368	what was <e> born
+/people/person/place_of_birth
+tennis_player
+
+3382	is <e> from the united states or canada
+/people/person/nationality
+film_actor
+
+3406	what country is <e> from
+/people/person/nationality
+person
+
+3412	what is <e> 's nationality
+/people/person/nationality
+person
+
+3416	where was <e> given birth
+/people/person/place_of_birth
+musical_artist
+
+3417	what nationality is <e>
+/people/person/nationality
+film_actor
+
+3424	what country is <e> a citizen of
+/people/person/nationality
+film_actor
+
+3440	what country is <e> from
+/people/person/nationality
+film_actor
+
+3471	what is <e> 's nationality
+/people/person/nationality
+author
+
+3483	where was <e> born
+/people/person/place_of_birth
+tv_actor
+
+3513	where was <e> born
+/people/person/place_of_birth
+football_player
+
+3517	where is <e> from
+/people/person/nationality
+film_actor
+
+3528	which country is <e> from
+/people/person/nationality
+film
+
+3535	what city was <e> born
+/people/person/place_of_birth
+visual_artist
+
+3543	which country does <e> hail from
+/people/person/nationality
+deceased_person
+
+3550	where is <e> from
+/people/person/nationality
+author
+
+3562	which country is <e> from originally
+/people/person/nationality
+olympic_athlete
+
+3622	what is <e> 's nationality
+/people/person/nationality
+author
+
+3644	what is the nationality of <e>
+/people/person/nationality
+olympic_athlete
+
+3650	which city in california was <e> born
+/people/person/place_of_birth
+video_game_designer
+
+3670	what canadian city was <e> birthed in
+/people/person/place_of_birth
+composer
+
+3672	what country is <e> from
+/people/person/nationality
+author
+
+3678	where was <e> born
+/people/person/place_of_birth
+visual_artist
+
+3709	where was <e> given birth
+/people/person/place_of_birth
+film_actor
+
+3714	what is <e> 's nationality
+/people/person/nationality
+film_writer
+
+3736	<e> is a citizen of what country
+/people/person/nationality
+deceased_person
+
+3738	where was <e> born
+/people/person/place_of_birth
+person_or_entity_appearing_in_film
+
+3749	which country does <e> have nationality in
+/people/person/nationality
+film_producer
+
+3760	what is the nationality of <e>
+/people/person/nationality
+tv_producer
+
+3769	what is country did <e> originate from
+/people/person/nationality
+deceased_person
+
+3770	what country does <e> have nationality in
+/people/person/nationality
+football_player
+
+3782	what nationality is <e>
+/people/person/nationality
+film_actor
+
+3796	what is <e> 's nationality
+/people/person/nationality
+american_football_player
+
+3831	where was <e> born
+/people/person/place_of_birth
+boxer
+
+3837	what is <e> 's place of birth
+/people/person/place_of_birth
+author
+
+3863	which country is <e> from
+/people/person/nationality
+monarch
+
+3873	what west coast city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+3913	where is <e> from
+/people/person/nationality
+person
+
+3921	where is <e> from
+/people/person/nationality
+football_player
+
+3926	what country is <e> from
+/people/person/nationality
+tv_personality
+
+3949	which country is <e> from
+/people/person/nationality
+musical_artist
+
+3960	where was <e> born
+/people/person/place_of_birth
+u.s._congressperson
+
+3976	where was <e> 's place of birth
+/people/person/place_of_birth
+film_actor
+
+3995	what is <e> 's nationality
+/people/person/nationality
+american_football_player
+
+4001	what country is <e> from
+/people/person/nationality
+baseball_player
+
+4013	where was <e> 's place of birth
+/people/person/place_of_birth
+composer
+
+4015	where in the united states was <e> born
+/people/person/place_of_birth
+military_person
+
+4022	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+4029	where was <e> born in
+/people/person/place_of_birth
+film_actor
+
+4032	where was <e> 's place of birth
+/people/person/place_of_birth
+football_player
+
+4040	which city was <e> born
+/people/person/place_of_birth
+academic
+
+4052	which place was <e> born in
+/people/person/place_of_birth
+_NOTYPE_
+
+4086	what south american country gives <e> his nationality
+/people/person/nationality
+film_actor
+
+4101	where is <e> from
+/people/person/nationality
+politician
+
+4102	which country is <e> from
+/people/person/nationality
+film_actor
+
+4116	where was <e> born in
+/people/person/place_of_birth
+organization_leader
+
+4130	where was <e> born
+/people/person/place_of_birth
+film_director
+
+4137	where is <e> 's place of birth
+/people/person/place_of_birth
+football_player
+
+4190	what is <e> 's country of nationality
+/people/person/nationality
+musical_artist
+
+4194	what country is <e> from
+/people/person/nationality
+film
+
+4207	where is <e> from
+/people/person/nationality
+author
+
+4216	which city was <e> born in
+/people/person/place_of_birth
+film_producer
+
+4223	what state was <e> born in
+/people/person/place_of_birth
+author
+
+4227	what nationality is <e>
+/people/person/nationality
+academic
+
+4239	which nation is <e> from
+/people/person/nationality
+author
+
+4266	what country is <e> from
+/people/person/nationality
+film_director
+
+4270	where was <e> born
+/people/person/place_of_birth
+baseball_player
+
+4273	which nation state is <e> from
+/people/person/nationality
+deceased_person
+
+4276	what is the birth place of <e>
+/people/person/place_of_birth
+american_football_player
+
+4287	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+4290	where is <e> born
+/people/person/place_of_birth
+tv_actor
+
+4310	what nationality is <e>
+/people/person/nationality
+film_producer
+
+4316	which country is <e> from
+/people/person/nationality
+film_actor
+
+4368	where was <e> born
+/people/person/place_of_birth
+author
+
+4373	what californian city was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+4385	where in norway was <e> 's place of birth
+/people/person/place_of_birth
+_NOTYPE_
+
+4391	what eastern country contains <e> 's nationality
+/people/person/nationality
+_NOTYPE_
+
+4399	which country does <e> have nationality in
+/people/person/nationality
+musical_artist
+
+4425	which country is <e> from
+/people/person/nationality
+american_football_player
+
+4456	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+4462	where in louisiana is <e> from
+/people/person/place_of_birth
+american_football_player
+
+4473	where was <e> born
+/people/person/place_of_birth
+american_football_player
+
+4499	where was the birthplace of <e>
+/people/person/place_of_birth
+politician
+
+4503	from which european country is <e> from
+/people/person/nationality
+person
+
+4520	what is the birthplace of <e>
+/people/person/place_of_birth
+film_actor
+
+4567	in which texas city <e> was born in
+/people/person/place_of_birth
+football_player
+
+4585	which country does <e> have nationality in
+/people/person/nationality
+american_football_player
+
+4587	where was <e> born
+/people/person/place_of_birth
+military_commander
+
+4591	<e> the israeli spy , was born in what city
+/people/person/place_of_birth
+_NOTYPE_
+
+4592	is <e> from the untied states or canada
+/people/person/nationality
+musical_artist
+
+4599	what european country is <e> from
+/people/person/nationality
+film
+
+4655	where is <e> from
+/people/person/nationality
+basketball_player
+
+4668	where was <e> born
+/people/person/place_of_birth
+ice_hockey_player
+
+4678	what is <e> 's nationality
+/people/person/nationality
+composer
+
+4681	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+4710	where was <e> born
+/people/person/nationality
+basketball_player
+
+4777	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+4802	where was <e> ( economist ) born
+/people/person/place_of_birth
+academic
+
+4825	where in england was <e> born in
+/people/person/place_of_birth
+_NOTYPE_
+
+4828	where was <e> 's place of birth
+/people/person/place_of_birth
+u.s._congressperson
+
+4849	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+4883	which city was <e> born
+/people/person/place_of_birth
+musical_artist
+
+4894	what nationality does <e> belong to
+/people/person/nationality
+award_winner
+
+4898	what country was <e> born in
+/people/person/place_of_birth
+inventor
+
+4905	which country was <e> born in
+/people/person/nationality
+deceased_person
+
+4911	which country is <e> from
+/people/person/nationality
+tv_producer
+
+4951	which city was <e> born
+/people/person/place_of_birth
+film_director
+
+4965	what is <e> 's nationality
+/people/person/nationality
+author
+
+4970	what is <e> 's place of origin
+/people/person/nationality
+film_actor
+
+4978	what latin city is <e> from
+/people/person/place_of_birth
+film_director
+
+4983	where was <e> born
+/people/person/place_of_birth
+conductor
+
+4989	what is the nationality of <e>
+/people/person/nationality
+tv_actor
+
+4995	which natinoality is <e>
+/people/person/nationality
+_NOTYPE_
+
+5026	where was <e> born
+/people/person/place_of_birth
+visual_artist
+
+5068	where was <e> born
+/people/person/place_of_birth
+tv_actor
+
+5102	where was <e> born
+/people/person/place_of_birth
+football_player
+
+5108	where was <e> born
+/people/person/place_of_birth
+author
+
+5133	where is <e> from
+/people/person/nationality
+musical_artist
+
+5164	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+5178	where is <e> from
+/people/person/nationality
+deceased_person
+
+5208	<e> is a citizen of what european country
+/people/person/nationality
+football_player
+
+5248	what is <e> 's nationality
+/people/person/nationality
+tv_personality
+
+5250	where was <e> birthed
+/people/person/place_of_birth
+film_director
+
+5262	where was <e> born
+/people/person/place_of_birth
+politician
+
+5277	what is the nationality of <e>
+/people/person/nationality
+politician
+
+5317	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+5351	which south american nation is <e> place of death
+/people/person/place_of_birth
+film_actor
+
+5371	what was <e> 's place of birth
+/people/person/place_of_birth
+film_cinematographer
+
+5375	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+5400	what is the nationality of <e>
+/people/person/nationality
+person
+
+5425	where was <e> born
+/people/person/place_of_birth
+olympic_athlete
+
+5428	what is the nationality of <e>
+/people/person/nationality
+u.s._congressperson
+
+5441	of what nationality is <e>
+/people/person/nationality
+football_player
+
+5443	where was <e> born
+/people/person/place_of_birth
+military_person
+
+5445	where was <e> born
+/people/person/place_of_birth
+person
+
+5452	what is the nationality of <e>
+/people/person/nationality
+deceased_person
+
+5493	where was <e> born
+/people/person/place_of_birth
+football_player
+
+5504	what country is <e> from
+/people/person/nationality
+film
+
+5516	which country was <e> from
+/people/person/nationality
+film_actor
+
+5542	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+5550	what is the birth place of <e>
+/people/person/place_of_birth
+author
+
+5551	where was <e> born
+/people/person/place_of_birth
+person
+
+5575	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+5583	what is the nationality of <e>
+/people/person/nationality
+film_director
+
+5584	what nation is <e> from
+/people/person/nationality
+football_player
+
+5588	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+5596	where is <e> from
+/people/person/nationality
+film_actor
+
+5631	what was <e> 's place of birth
+/people/person/place_of_birth
+musical_artist
+
+5642	what city was <e> born in
+/people/person/place_of_birth
+politician
+
+5734	whats <e> 's country of origin
+/people/person/nationality
+film_director
+
+5763	where was <e> born
+/people/person/place_of_birth
+award_winner
+
+5766	what country gives <e> his nationality
+/people/person/nationality
+football_player
+
+5781	where was the place of birth of <e>
+/people/person/place_of_birth
+politician
+
+5783	which nordic country does <e> belong to
+/people/person/nationality
+film_actor
+
+5787	what country was <e> born in
+/people/person/place_of_birth
+film_director
+
+5791	which country does <e> come from
+/people/person/nationality
+person
+
+5822	where was <e> born
+/people/person/place_of_birth
+composer
+
+5857	in which city was <e> born
+/people/person/place_of_birth
+football_player
+
+5866	where is <e> originally from
+/people/person/place_of_birth
+musical_group
+
+5872	where is <e> from
+/people/person/nationality
+film_director
+
+5897	what is the nationality of <e>
+/people/person/nationality
+tv_program_creator
+
+5902	what country is <e> from
+/people/person/nationality
+tv_program
+
+5906	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+5923	where is <e> from
+/people/person/place_of_birth
+military_person
+
+5924	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+5930	what is <e> 's place of origin
+/people/person/nationality
+u.s._congressperson
+
+5941	where was <e> 's place of birth
+/people/person/place_of_birth
+composer
+
+5949	where was <e> born
+/people/person/place_of_birth
+u.s._congressperson
+
+5953	what country gives <e> his nationality
+/people/person/nationality
+author
+
+5985	where was <e> born at
+/people/person/place_of_birth
+musical_artist
+
+6038	where is the birth place of <e>
+/people/person/place_of_birth
+author
+
+6056	where was <e> born
+/people/person/place_of_birth
+tv_actor
+
+6060	where was <e> born at
+/people/person/place_of_birth
+author
+
+6071	what city was <e> born
+/people/person/place_of_birth
+composer
+
+6077	what city and china was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+6093	what country is <e> ( politician ) from
+/people/person/nationality
+person
+
+6098	what is the nationality of <e>
+/people/person/nationality
+politician
+
+6141	what country is <e> from
+/people/person/nationality
+musical_artist
+
+6150	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+6207	which european nation does <e> belong to
+/people/person/nationality
+deceased_person
+
+6221	what is the nationality of <e>
+/people/person/nationality
+politician
+
+6231	where was the <e> born
+/people/person/place_of_birth
+noble_person
+
+6244	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+6252	where was <e> born
+/people/person/place_of_birth
+football_player
+
+6265	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+6320	where in italy was <e> born
+/people/person/place_of_birth
+film_actor
+
+6352	which city in europe was <e> born in
+/people/person/place_of_birth
+film_director
+
+6357	what is <e> place of birth
+/people/person/place_of_birth
+_NOTYPE_
+
+6376	in what city was <e> born
+/people/person/place_of_birth
+american_football_player
+
+6384	name the nationality of <e>
+/people/person/nationality
+musical_artist
+
+6389	what nationality is <e>
+/people/person/nationality
+film_actor
+
+6397	what country is <e> from
+/people/person/nationality
+author
+
+6421	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+6436	where is <e> from
+/people/person/nationality
+tv_personality
+
+6456	where was <e> born
+/people/person/place_of_birth
+tv_character
+
+6475	which country is <e> from
+/people/person/nationality
+author
+
+6485	what is the nationality of <e>
+/people/person/nationality
+boxer
+
+6514	what is <e> 's nationality
+/people/person/nationality
+person
+
+6516	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+6526	what is <e> country of nationality
+/people/person/nationality
+film_actor
+
+6553	what is the place of birth of <e>
+/people/person/place_of_birth
+deceased_person
+
+6599	what country is <e> from
+/people/person/nationality
+author
+
+6619	what country is <e> from
+/people/person/nationality
+tv_personality
+
+6640	where was <e> born
+/people/person/place_of_birth
+tv_writer
+
+6645	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+6677	from which country is <e> from
+/people/person/nationality
+football_player
+
+6694	what is <e> nationality
+/people/person/nationality
+u.s._congressperson
+
+6697	which country was <e> from
+/people/person/nationality
+film_actor
+
+6711	what was <e> 's place of birth
+/people/person/place_of_birth
+author
+
+6715	what is the birth place of <e>
+/people/person/place_of_birth
+athlete
+
+6717	what is <e> 's nationality
+/people/person/nationality
+person
+
+6738	which nationality is <e>
+/people/person/nationality
+musical_artist
+
+6782	what is <e> 's nationality
+/people/person/nationality
+person
+
+6799	what was <e> 's place of birth
+/people/person/place_of_birth
+deceased_person
+
+6835	where was <e> born
+/people/person/place_of_birth
+military_person
+
+6836	what is <e> 's nationality
+/people/person/nationality
+person
+
+6887	what nationality is <e>
+/people/person/nationality
+film_director
+
+6923	where in australia was <e> born in
+/people/person/place_of_birth
+film_producer
+
+6926	what city in new york was <e> born in
+/people/person/place_of_birth
+_NOTYPE_
+
+7004	where was <e> born
+/people/person/place_of_birth
+author
+
+7053	where was <e> born
+/people/person/place_of_birth
+film_director
+
+7090	where was <e> born
+/people/person/place_of_birth
+author
+
+7103	what is the nationality of <e>
+/people/person/nationality
+deceased_person
+
+7113	where is <e> from
+/people/person/nationality
+award_winner
+
+7132	which country is <e> from
+/people/person/nationality
+film_actor
+
+7134	which country is <e> from
+/people/person/nationality
+person_or_entity_appearing_in_film
+
+7146	which country does <e> have nationality in
+/people/person/nationality
+computer_scientist
+
+7147	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+7162	in what city of suriname was <e> born
+/people/person/place_of_birth
+olympic_athlete
+
+7169	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+7180	which country is <e> from
+/people/person/nationality
+award_nominee
+
+7186	what nationality is <e>
+/people/person/nationality
+film_actor
+
+7201	what is <e> 's nationality
+/people/person/nationality
+deceased_person
+
+7206	where was <e> born at
+/people/person/place_of_birth
+person
+
+7207	which country was <e> born in
+/people/person/nationality
+football_player
+
+7222	<e> was born in which mexican city
+/people/person/place_of_birth
+_NOTYPE_
+
+7290	what nationality is <e>
+/people/person/nationality
+musical_artist
+
+7344	in which city and state was <e> born
+/people/person/place_of_birth
+american_football_player
+
+7416	which city was <e> born
+/people/person/place_of_birth
+deceased_person
+
+7420	where was the place of birth of <e>
+/people/person/place_of_birth
+film_actor
+
+7435	which country was <e> born
+/people/person/place_of_birth
+film_director
+
+7436	where was <e> born
+/people/person/place_of_birth
+author
+
+7443	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+7444	what country is the italian <e> from
+/people/person/nationality
+film_writer
+
+7479	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+7491	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+7527	where is the place of birth of <e>
+/people/person/place_of_birth
+musical_artist
+
+7558	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+7581	what nation is <e> from
+/people/person/nationality
+record_producer
+
+7582	which county in pennsylvania is <e> from
+/people/person/place_of_birth
+_NOTYPE_
+
+7616	what is <e> 's nationality
+/people/person/nationality
+musician
+
+7623	which city was <e> born
+/people/person/place_of_birth
+cricket_player
+
+7626	what city was <e> born in
+/people/person/place_of_birth
+film_director
+
+7628	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+7645	where was <e> born
+/people/person/place_of_birth
+film_director
+
+7671	where is <e> nationality of origin
+/people/person/nationality
+_NOTYPE_
+
+7701	what is the nationality of journalist <e>
+/people/person/nationality
+person
+
+7730	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+7737	where was <e> born
+/people/person/place_of_birth
+olympic_athlete
+
+7756	is <e> from argentina or costa rica
+/people/person/nationality
+_NOTYPE_
+
+7761	is <e> from the united kingdom or france
+/people/person/nationality
+military_person
+
+7777	what country is <e> from
+/people/person/place_of_birth
+film
+
+7794	what is the nationality of <e>
+/people/person/nationality
+olympic_athlete
+
+7813	where was <e> born
+/people/person/place_of_birth
+politician
+
+7842	which city was <e> born
+/people/person/place_of_birth
+deceased_person
+
+7875	what is <e> 's place of birth
+/people/person/place_of_birth
+politician
+
+7881	where was <e> born
+/people/person/place_of_birth
+person
+
+7895	which country is <e> from
+/people/person/nationality
+musical_artist
+
+7903	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+7908	where was <e> 's first breath taken
+/people/person/place_of_birth
+academic
+
+7936	which country is <e> originally from
+/people/person/place_of_birth
+film_actor
+
+7954	what nationality is <e>
+/people/person/nationality
+baseball_player
+
+7964	where was <e> born
+/people/person/place_of_birth
+author
+
+7982	what was <e> born
+/people/person/place_of_birth
+american_football_player
+
+7991	what nation does <e> claim nationality from
+/people/person/nationality
+person
+
+8000	what is <e> 's nationality
+/people/person/nationality
+author
+
+8030	which city was was <e> born
+/people/person/place_of_birth
+basketball_player
+
+8050	what is <e> 's place of birth
+/people/person/place_of_birth
+film_actor
+
+8069	where does <e> claim nationality
+/people/person/nationality
+military_person
+
+8091	which city was <e> born
+/people/person/place_of_birth
+deceased_person
+
+8133	what city was <e> born in
+/people/person/place_of_birth
+musician
+
+8155	which caribbean country is <e> from
+/people/person/nationality
+football_player
+
+8158	what is <e> european nationality
+/people/person/nationality
+_NOTYPE_
+
+8160	which country is <e> from
+/people/person/nationality
+film_actor
+
+8199	where is <e> from originally
+/people/person/nationality
+military_person
+
+8221	what nationality is <e>
+/people/person/nationality
+basketball_player
+
+8233	where is <e> from
+/people/person/nationality
+musical_artist
+
+8240	which country is <e> from
+/people/person/nationality
+film_editor
+
+8265	where was the birthplace of <e>
+/people/person/place_of_birth
+politician
+
+8278	which country is <e> from
+/people/person/nationality
+person
+
+8280	what is <e> 's birthplace
+/people/person/place_of_birth
+film_director
+
+8289	which us state is <e> 's birthplace
+/people/person/place_of_birth
+film_actor
+
+8292	where was <e> born
+/people/person/place_of_birth
+football_player
+
+8302	what is <e> nationality
+/people/person/nationality
+film_director
+
+8308	which country is <e> from
+/people/person/nationality
+person
+
+8309	what city in texas was <e> born in
+/people/person/place_of_birth
+_NOTYPE_
+
+8348	in which midwestern city was <e> born
+/people/person/place_of_birth
+film_actor
+
+8350	<e> is of what nationality
+/people/person/nationality
+person
+
+8354	where was the <e> born
+/people/person/place_of_birth
+composer
+
+8376	what country is <e> from
+/people/person/nationality
+author
+
+8380	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+8381	what country is <e> from
+/people/person/nationality
+tv_personality
+
+8413	what is <e> 's country of nationality
+/people/person/nationality
+film_actor
+
+8415	which country is <e> from
+/people/person/nationality
+film_actor
+
+8421	where does <e> hail from
+/people/person/nationality
+film_actor
+
+8435	where was <e> born
+/people/person/place_of_birth
+person
+
+8441	where is <e> from
+/people/person/nationality
+bassist
+
+8472	where was <e> born
+/people/person/place_of_birth
+football_player
+
+8486	where was <e> born
+/people/person/place_of_birth
+award_winner
+
+8513	which nationality does <e> belong to
+/people/person/nationality
+film_actor
+
+8515	what country is <e> from originally
+/people/person/nationality
+composer
+
+8563	where was <e> born
+/people/person/place_of_birth
+chef
+
+8567	what israeli city is <e> from
+/people/person/place_of_birth
+noble_person
+
+8585	which country is <e> from
+/people/person/nationality
+basketball_player
+
+8588	what city was <e> born in
+/people/person/place_of_birth
+football_player
+
+8597	where was <e> born
+/people/person/place_of_birth
+film_writer
+
+8621	what nationality is <e>
+/people/person/nationality
+visual_artist
+
+8630	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+8655	where did <e> 's life start
+/people/person/place_of_birth
+american_football_head_coach
+
+8666	which country is <e> from
+/people/person/nationality
+football_player
+
+8668	what nationality was <e>
+/people/person/nationality
+military_person
+
+8676	what is the nationality of someone from <e>
+/people/person/nationality
+film_actor
+
+8677	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+8680	where was <e> born
+/people/person/place_of_birth
+politician
+
+8707	<e> was born in what city that is home to the eiffel tower
+/people/person/place_of_birth
+_NOTYPE_
+
+8720	where was hungarian football player <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+8724	which country is <e> from
+/people/person/nationality
+film_director
+
+8748	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+8754	what is the place of birth of <e>
+/people/person/place_of_birth
+author
+
+8757	where was <e> 's place of birth
+/people/person/place_of_birth
+politician
+
+8781	where in michigan was <e> born
+/people/person/place_of_birth
+film_writer
+
+8784	where was <e> from
+/people/person/place_of_birth
+musical_group
+
+8807	what country is <e> from
+/people/person/nationality
+film
+
+8833	where was <e> born
+/people/person/place_of_birth
+academic
+
+8891	where is <e> form
+/people/person/nationality
+_NOTYPE_
+
+8903	what country was <e> born
+/people/person/nationality
+_NOTYPE_
+
+8905	where is <e> from
+/people/person/nationality
+film
+
+8907	where is <e> from
+/people/person/nationality
+deceased_person
+
+8931	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+8935	what country is <e> from
+/people/person/nationality
+film
+
+8964	what is the birth place of <e>
+/people/person/place_of_birth
+film_actor
+
+8968	what is the nationality of <e>
+/people/person/nationality
+american_football_player
+
+9018	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+9022	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+9033	what country is <e> from
+/people/person/nationality
+person_or_entity_appearing_in_film
+
+9050	what country was <e> born in
+/people/person/place_of_birth
+athlete
+
+9055	what country was <e> born in
+/people/person/place_of_birth
+organization_leader
+
+9062	where was <e> born
+/people/person/place_of_birth
+american_football_player
+
+9071	which country is <e> from
+/people/person/nationality
+film
+
+9080	where was <e> born
+/people/person/place_of_birth
+politician
+
+9082	what country is <e> a citizen of
+/people/person/nationality
+author
+
+9114	what was the place of birth of <e>
+/people/person/place_of_birth
+musical_artist
+
+9116	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+9117	what country gave <e> his or her nationality
+/people/person/nationality
+musical_artist
+
+9144	in which northern french city was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+9148	where was <e> birthed
+/people/person/place_of_birth
+organization_leader
+
+9155	where in england was <e> born
+/people/person/place_of_birth
+politician
+
+9190	what country is <e> from
+/people/person/nationality
+american_football_player
+
+9212	what country gives <e> his nationality
+/people/person/nationality
+musical_artist
+
+9214	what country is <e> from
+/people/person/nationality
+film
+
+9216	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+9220	what is the birth place of <e>
+/people/person/place_of_birth
+theater_actor
+
+9250	what is <e> 's nationality
+/people/person/nationality
+deceased_person
+
+9273	which country is <e> from
+/people/person/nationality
+boxer
+
+9274	where is <e> from
+/people/person/nationality
+musical_artist
+
+9275	where was <e> born at
+/people/person/place_of_birth
+film_director
+
+9303	what city was <e> given birth in
+/people/person/place_of_birth
+broadcast_artist
+
+9308	where was <e> born
+/people/person/place_of_birth
+visual_artist
+
+9321	where was <e> born
+/people/person/place_of_birth
+politician
+
+9363	which country was <e> from
+/people/person/nationality
+film
+
+9376	what city was <e> born in
+/people/person/place_of_birth
+tv_actor
+
+9377	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+9385	where was <e> given birth
+/people/person/place_of_birth
+author
+
+9399	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+9445	what is <e> 's place of birth in europe
+/people/person/place_of_birth
+film_actor
+
+9448	where was <e> born in
+/people/person/place_of_birth
+film_actor
+
+9463	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+9465	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+9487	where was <e> born
+/people/person/place_of_birth
+film_story_contributor
+
+9491	where was <e> born
+/people/person/place_of_birth
+basketball_player
+
+9504	what country is <e> from
+/people/person/nationality
+film_actor
+
+9510	what city in westchester county is <e> from
+/people/person/place_of_birth
+baseball_player
+
+9567	where was <e> born
+/people/person/place_of_birth
+football_player
+
+9575	what country is <e> from
+/people/person/nationality
+film
+
+9582	what is the nationality of <e>
+/people/person/nationality
+film_director
+
+9602	which country is <e> from
+/people/person/nationality
+film_director
+
+9620	which russian city was <e> born in
+/people/person/place_of_birth
+author
+
+9623	what is <e> 's nationality
+/people/person/nationality
+musical_artist
+
+9647	where in brazil was <e> born
+/people/person/place_of_birth
+football_player
+
+9664	what is the nationality of <e>
+/people/person/nationality
+tennis_player
+
+9675	where was <e> born
+/people/person/place_of_birth
+film_director
+
+9676	where in austria was <e> born
+/people/person/place_of_birth
+deceased_person
+
+9738	where was <e> 's place of birth
+/people/person/place_of_birth
+sports_official
+
+9767	what is the nationality of <e>
+/people/person/nationality
+visual_artist
+
+9773	what country is <e> from
+/people/person/nationality
+basketball_player
+
+9797	where was <e> born
+/people/person/place_of_birth
+organization_founder
+
+9814	what nationality is <e>
+/people/person/nationality
+author
+
+9846	which netherlands city was <e> born in
+/people/person/place_of_birth
+politician
+
+9872	where is <e> from
+/people/person/nationality
+musical_group
+
+9896	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+9933	which country does <e> have nationality in
+/people/person/nationality
+visual_artist
+
+9935	which country was <e> born in
+/people/person/nationality
+film_actor
+
+9938	what is the nationality of <e>
+/people/person/nationality
+film_director
+
+9973	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+9974	what is <e> 's country of nationality
+/people/person/nationality
+film_actor
+
+9984	where was <e> born
+/people/person/place_of_birth
+visual_artist
+
+9997	what is <e> 's nationality
+/people/person/nationality
+tv_actor
+
+10047	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+10064	what city was <e> born in
+/people/person/place_of_birth
+u.s._congressperson
+
+10085	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+10100	where was <e> born
+/people/person/place_of_birth
+film_director
+
+10102	what country is <e> a citizen of
+/people/person/nationality
+film_writer
+
+10103	where is <e> from
+/people/person/place_of_birth
+musical_artist
+
+10119	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+10131	what is <e> 's nationality
+/people/person/nationality
+politician
+
+10169	what is <e> 's place of birth
+/people/person/place_of_birth
+film_actor
+
+10196	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+10200	what is <e> 's nationality
+/people/person/nationality
+politician
+
+10215	which country does <e> belong to
+/people/person/nationality
+organization_leader
+
+10221	was <e> born in manhattan or boston
+/people/person/place_of_birth
+musical_artist
+
+10277	where in europe is <e> from
+/people/person/nationality
+film_actor
+
+10285	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+10294	what is <e> 's nationality
+/people/person/nationality
+author
+
+10295	where is <e> from
+/people/person/nationality
+film_actor
+
+10306	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+10308	what is <e> 's place of birth
+/people/person/place_of_birth
+golfer
+
+10316	what country is <e> from
+/people/person/nationality
+award_winner
+
+10337	where is <e> from
+/people/person/nationality
+fashion_designer
+
+10396	where was actor <e> born in
+/people/person/place_of_birth
+film_actor
+
+10416	which country is <e> from
+/people/person/nationality
+author
+
+10432	where was <e> born
+/people/person/place_of_birth
+politician
+
+10459	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+10466	which country is <e> from
+/people/person/nationality
+musical_group
+
+10472	where was <e> born
+/people/person/place_of_birth
+award_winner
+
+10486	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+10495	which nationality is <e>
+/people/person/nationality
+computer_scientist
+
+10501	where was <e> born
+/people/person/place_of_birth
+composer
+
+10549	where was <e> born
+/people/person/place_of_birth
+author
+
+10552	what is <e> 's nationality
+/people/person/nationality
+film_production_designer
+
+10561	which city was <e> born in
+/people/person/place_of_birth
+american_football_player
+
+10569	which state was <e> born
+/people/person/place_of_birth
+author
+
+10577	where is <e> originally from
+/people/person/nationality
+record_producer
+
+10601	what city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+10604	which middle eastern city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+10630	which country is <e> from
+/people/person/nationality
+author
+
+10635	where was <e> born
+/people/person/place_of_birth
+monarch
+
+10637	what italian city was the place of birth of <e>
+/people/person/place_of_birth
+noble_person
+
+10642	what country was <e> from
+/people/person/nationality
+politician
+
+10676	which northern country was <e> born in
+/people/person/place_of_birth
+deceased_person
+
+10677	where was <e> born in
+/people/person/place_of_birth
+author
+
+10678	where in california was <e> born
+/people/person/place_of_birth
+award_winner
+
+10689	what is <e> 's nationality
+/people/person/nationality
+film_director
+
+10725	where was <e> born
+/people/person/place_of_birth
+american_football_player
+
+10765	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+10781	where in italy was <e> born
+/people/person/place_of_birth
+film_actor
+
+10800	what country is <e> from
+/people/person/nationality
+deceased_person
+
+10846	where was <e> born
+/people/person/place_of_birth
+athlete
+
+10847	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+10857	where was <e> born
+/people/person/place_of_birth
+football_player
+
+10858	what is <e> 's country of nationality
+/people/person/nationality
+film_actor
+
+10864	where was <e> born
+/people/person/place_of_birth
+basketball_player
+
+10871	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+10876	where was <e> born
+/people/person/place_of_birth
+author
+
+10880	which country did <e> have nationality
+/people/person/nationality
+_NOTYPE_
+
+10900	where was <e> born
+/people/person/place_of_birth
+american_football_player
+
+10910	where is <e> from
+/people/person/nationality
+organization_leader
+
+10912	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+10927	what country is <e> from
+/people/person/nationality
+composer
+
+10935	what nation is <e> from
+/people/person/nationality
+author
+
+10986	what north american country was <e> born into
+/people/person/nationality
+_NOTYPE_
+
+11006	which country is <e> from
+/people/person/nationality
+football_player
+
+11022	what nation is <e> from
+/people/person/nationality
+football_player
+
+11035	what country was <e> ( governor ) born in
+/people/person/nationality
+politician
+
+11055	where is <e> from
+/people/person/nationality
+film_actor
+
+11071	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+11074	where was <e> born
+/people/person/place_of_birth
+person
+
+11088	what nationality is <e>
+/people/person/nationality
+ice_hockey_player
+
+11093	which nationality is <e>
+/people/person/nationality
+author
+
+11095	what is <e> 's birth place
+/people/person/place_of_birth
+football_player
+
+11102	where is <e> 's country of nationality
+/people/person/nationality
+american_football_player
+
+11121	where is <e> from
+/people/person/nationality
+film_actor
+
+11126	where exactly was <e> born
+/people/person/place_of_birth
+film_cinematographer
+
+11164	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+11201	what american country does <e> claim nationality
+/people/person/nationality
+film_actor
+
+11204	which state was <e> born
+/people/person/place_of_birth
+astronaut
+
+11233	what is <e> 's country of nationality
+/people/person/nationality
+film_actor
+
+11234	where is <e> from
+/people/person/nationality
+film_actor
+
+11246	where was <e> born
+/people/person/place_of_birth
+film_producer
+
+11253	where is <e> from
+/people/person/nationality
+film_actor
+
+11329	what is <e> 's birthplace
+/people/person/place_of_birth
+film_actor
+
+11341	which country is <e> from
+/people/person/nationality
+olympic_athlete
+
+11373	where is <e> from
+/people/person/nationality
+composer
+
+11383	what country is <e> from
+/people/person/nationality
+wine
+
+11402	where is <e> from
+/people/person/nationality
+tv_actor
+
+11405	which city was <e> born in
+/people/person/place_of_birth
+composer
+
+11412	where was <e> born
+/people/person/place_of_birth
+astronomer
+
+11431	what country is <e> from
+/people/person/nationality
+consumer_product
+
+11458	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+11462	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+11464	what is the nationality of <e>
+/people/person/nationality
+video_game_actor
+
+11475	where was <e> born in
+/people/person/place_of_birth
+composer
+
+11481	which nationality is <e>
+/people/person/nationality
+person
+
+11492	what is <e> 's nationality
+/people/person/nationality
+film_director
+
+11504	where was <e> born
+/people/person/place_of_birth
+sports_official
+
+11509	what nationality is <e>
+/people/person/nationality
+musical_artist
+
+11519	where was <e> born
+/people/person/nationality
+film_actor
+
+11546	where was <e> born
+/people/person/place_of_birth
+fictional_character
+
+11550	which city was <e> born in
+/people/person/place_of_birth
+football_player
+
+11560	where was <e> born
+/people/person/place_of_birth
+baseball_player
+
+11567	where was <e> born in
+/people/person/place_of_birth
+politician
+
+11580	where was <e> born
+/people/person/place_of_birth
+author
+
+11585	which european country is <e> from
+/people/person/nationality
+politician
+
+11609	what is <e> 's nationality
+/people/person/nationality
+person
+
+11647	which country is <e> from
+/people/person/nationality
+film_actor
+
+11656	what country is <e> from
+/people/person/nationality
+composer
+
+11678	where was <e> born
+/people/person/place_of_birth
+person
+
+11705	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+11717	what is <e> 's nationality
+/people/person/nationality
+record_producer
+
+11743	what is the birth place of <e>
+/people/person/place_of_birth
+person
+
+11751	where was <e> born
+/people/person/place_of_birth
+football_player
+
+11752	what is <e> 's nationality
+/people/person/nationality
+tv_actor
+
+11758	in which city of new jersey was <e> born
+/people/person/place_of_birth
+baseball_player
+
+11782	what is the name of the city where <e> was born
+/people/person/place_of_birth
+_NOTYPE_
+
+11801	which country is <e> from
+/people/person/nationality
+architect
+
+11826	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+11843	what nationality is <e>
+/people/person/nationality
+award_winner
+
+11845	where was the birth place of <e>
+/people/person/place_of_birth
+composer
+
+11846	where was <e> born
+/people/person/place_of_birth
+football_player
+
+11852	what city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+11856	what is the country that <e> claims nationality
+/people/person/nationality
+football_player
+
+11869	which country was <e> born in
+/people/person/place_of_birth
+tv_actor
+
+11872	what is <e> 's country of nationality
+/people/person/nationality
+football_player
+
+11873	where was <e> born
+/people/person/place_of_birth
+film_music_contributor
+
+11939	what is the birth place of <e>
+/people/person/place_of_birth
+football_player
+
+11961	what is <e> 's nationality
+/people/person/nationality
+conductor
+
+11977	what is <e> 's nationality
+/people/person/nationality
+baseball_player
+
+11983	according to records , where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+11988	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+11991	where was <e> born
+/people/person/place_of_birth
+politician
+
+12010	what nationality is <e>
+/people/person/nationality
+football_player
+
+12059	where is <e> from
+/people/person/nationality
+film_actor
+
+12061	what is <e> birthplace
+/people/person/place_of_birth
+olympic_athlete
+
+12096	what is <e> 's nationality
+/people/person/nationality
+author
+
+12148	where was <e> born at
+/people/person/place_of_birth
+person
+
+12150	what is <e> 's nationality
+/people/person/nationality
+organization_founder
+
+12161	what is the place of birth of <e>
+/people/person/place_of_birth
+religious_leader
+
+12192	what country was <e> born in
+/people/person/place_of_birth
+american_football_player
+
+12214	which country is <e> ( politician ) from
+/people/person/nationality
+politician
+
+12216	which city and country was <e> born in
+/people/person/place_of_birth
+deceased_person
+
+12224	where was <e> born
+/people/person/place_of_birth
+person
+
+12239	what is the nationality of <e>
+/people/person/nationality
+tv_writer
+
+12253	<e> is from which country
+/people/person/nationality
+film_actor
+
+12268	where was <e> born
+/people/person/place_of_birth
+organization_founder
+
+12271	where was <e> born
+/people/person/place_of_birth
+guitarist
+
+12283	what nationality is <e>
+/people/person/nationality
+surgeon
+
+12293	what country gives <e> her nationality
+/people/person/nationality
+_NOTYPE_
+
+12302	where was <e> born
+/people/person/place_of_birth
+competitor
+
+12316	where was the birthplace of <e>
+/people/person/place_of_birth
+film_actor
+
+12327	what is <e> ( singer ) 's nationality
+/people/person/nationality
+musical_artist
+
+12337	what nationality is <e>
+/people/person/nationality
+olympic_athlete
+
+12387	where was <e> born
+/people/person/place_of_birth
+tv_actor
+
+12388	where was <e> born
+/people/person/place_of_birth
+composer
+
+12391	what is the nationality of <e>
+/people/person/nationality
+composer
+
+12393	where was <e> born
+/people/person/place_of_birth
+record_producer
+
+12397	where city was <e> born in
+/people/person/place_of_birth
+musical_artist
+
+12409	where was <e> born
+/people/person/place_of_birth
+film_art_director
+
+12419	where was <e> born
+/people/person/place_of_birth
+baseball_player
+
+12431	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+12445	where is <e> from
+/people/person/nationality
+author
+
+12447	of which nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+12470	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+12499	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+12509	where is <e> from
+/people/person/nationality
+tv_personality
+
+12515	where in scandinavia is <e> from
+/people/person/nationality
+musical_artist
+
+12536	what country is <e> from
+/people/person/nationality
+football_player
+
+12537	what is the nationality of <e>
+/people/person/nationality
+conductor
+
+12550	what country gives nationality to <e>
+/people/person/nationality
+film_actor
+
+12555	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+12566	what nationality is <e>
+/people/person/nationality
+author
+
+12578	which country was <e> born in
+/people/person/place_of_birth
+tv_actor
+
+12587	where was <e> 's place of birth
+/people/person/place_of_birth
+person
+
+12592	is <e> from sweden or finland
+/people/person/nationality
+ice_hockey_player
+
+12606	where was <e> born
+/people/person/place_of_birth
+person
+
+12667	where was <e> born
+/people/person/place_of_birth
+celebrity
+
+12676	where was <e> born
+/people/person/place_of_birth
+football_player
+
+12687	<e> claims nationality from which nation
+/people/person/nationality
+deceased_person
+
+12690	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+12734	what city is <e> from
+/people/person/place_of_birth
+organization_founder
+
+12736	what nationality is <e>
+/people/person/nationality
+person
+
+12747	where was <e> born
+/people/person/place_of_birth
+basketball_coach
+
+12754	what nation is <e> from
+/people/person/nationality
+football_player
+
+12757	which country is <e> from
+/people/person/nationality
+tv_producer
+
+12778	where was <e> born
+/people/person/place_of_birth
+ice_hockey_player
+
+12791	what is <e> 's nationality
+/people/person/nationality
+tv_personality
+
+12804	where was <e> born
+/people/person/place_of_birth
+military_person
+
+12845	what is <e> 's nationality
+/people/person/nationality
+author
+
+12849	what is <e> 's country of origin
+/people/person/nationality
+film_actor
+
+12869	what country is <e> from
+/people/person/nationality
+tv_program
+
+12886	what country gives nationality to <e>
+/people/person/nationality
+author
+
+12890	which country is <e> from
+/people/person/nationality
+musical_artist
+
+12891	what is <e> nationality
+/people/person/nationality
+person
+
+12908	where was <e> born
+/people/person/place_of_birth
+tv_actor
+
+13046	what is the nationality of <e>
+/people/person/nationality
+american_football_player
+
+13058	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+13068	which city was <e> born
+/people/person/place_of_birth
+politician
+
+13076	where was <e> born
+/people/person/place_of_birth
+politician
+
+13095	what is <e> 's birth place
+/people/person/place_of_birth
+musical_artist
+
+13125	in what city was <e> born
+/people/person/place_of_birth
+politician
+
+13132	what country is <e> from
+/people/person/nationality
+person
+
+13134	what is <e> 's nationality
+/people/person/nationality
+u.s._congressperson
+
+13146	where is <e> from
+/people/person/nationality
+film_actor
+
+13157	what state did <e> originate from
+/people/person/place_of_birth
+tv_producer
+
+13171	where was <e> 's place of birth
+/people/person/place_of_birth
+american_football_player
+
+13208	what is <e> 's nationality
+/people/person/nationality
+author
+
+13219	where was <e> born
+/people/person/place_of_birth
+composer
+
+13226	what is <e> 's nationality
+/people/person/nationality
+film_director
+
+13243	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+13281	where was <e> born
+/people/person/place_of_birth
+cricket_bowler
+
+13290	what is <e> 's nationality
+/people/person/nationality
+person
+
+13311	whats the nationality of <e>
+/people/person/nationality
+football_player
+
+13323	where was <e> born
+/people/person/place_of_birth
+athlete
+
+13353	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+13356	is <e> a citizen of the united states or australia
+/people/person/nationality
+politician
+
+13360	where was <e> born
+/people/person/place_of_birth
+noble_person
+
+13368	what is <e> 's nationality
+/people/person/nationality
+ice_hockey_player
+
+13374	what is the nationality of <e>
+/people/person/nationality
+baseball_player
+
+13386	which country is <e> from
+/people/person/nationality
+academic
+
+13400	what is the nationality of <e>
+/people/person/nationality
+basketball_player
+
+13406	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+13409	what nationality is <e>
+/people/person/nationality
+film_actor
+
+13413	which country does <e> have nationality in
+/people/person/nationality
+politician
+
+13419	which country is <e> from
+/people/person/nationality
+ice_hockey_player
+
+13420	what is <e> 's nationality
+/people/person/nationality
+american_football_player
+
+13422	what is <e> 's nationality
+/people/person/nationality
+person
+
+13436	which nation is <e> from
+/people/person/nationality
+film_actor
+
+13466	which city was <e> born
+/people/person/place_of_birth
+film_actor
+
+13505	what nationality is <e>
+/people/person/nationality
+football_player
+
+13516	which country was <e> born in
+/people/person/place_of_birth
+author
+
+13522	where 's <e> from
+/people/person/nationality
+film_director
+
+13526	where was <e> originally from
+/people/person/nationality
+film_art_director
+
+13533	which country was <e> born in
+/people/person/place_of_birth
+author
+
+13534	where was <e> born
+/people/person/place_of_birth
+baseball_player
+
+13606	what north american country is <e> from
+/people/person/nationality
+film_actor
+
+13615	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+13619	what is the place of birth of <e>
+/people/person/place_of_birth
+film_actor
+
+13636	which city was <e> born
+/people/person/place_of_birth
+architect
+
+13642	what nationality is <e>
+/people/person/nationality
+person
+
+13643	where is <e> born
+/people/person/place_of_birth
+visual_artist
+
+13646	what is <e> 's country of nationality
+/people/person/nationality
+american_football_player
+
+13648	where was <e> born
+/people/person/place_of_birth
+person
+
+13653	which country is <e> from
+/people/person/nationality
+film_producer
+
+13676	what is <e> 's nationality
+/people/person/nationality
+politician
+
+13723	where is <e> from
+/people/person/nationality
+film_director
+
+13731	where was the birthplace of <e>
+/people/person/place_of_birth
+football_player
+
+13740	where was <e> born
+/people/person/place_of_birth
+football_player
+
+13780	what is the place of birth of <e>
+/people/person/place_of_birth
+film_director
+
+13810	which country is <e> from
+/people/person/nationality
+golfer
+
+13823	what nationality is <e>
+/people/person/nationality
+film_actor
+
+13828	where in brazil was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+13829	which country is <e> from
+/people/person/nationality
+author
+
+13835	where country is <e> from
+/people/person/nationality
+composer
+
+13836	where was <e> born
+/people/person/place_of_birth
+athlete
+
+13872	which country does <e> claim nationality from
+/people/person/nationality
+_NOTYPE_
+
+13888	which country is <e> from
+/people/person/nationality
+politician
+
+13966	where is <e> originally from
+/people/person/nationality
+visual_artist
+
+13984	where is <e> from
+/people/person/nationality
+author
+
+13995	which nation is <e> a citizen of
+/people/person/nationality
+film_director
+
+14005	is <e> 's nationality from the united states or mexico
+/people/person/nationality
+film_actor
+
+14006	what country is <e> from
+/people/person/nationality
+author
+
+14007	where is <e> from
+/people/person/nationality
+film_actor
+
+14042	where was basketball player <e> born
+/people/person/place_of_birth
+basketball_player
+
+14065	where was <e> born
+/people/person/place_of_birth
+tv_personality
+
+14113	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+14115	where was <e> born
+/people/person/place_of_birth
+politician
+
+14123	which nationalisty is <e>
+/people/person/nationality
+american_football_player
+
+14136	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+14139	what is the place of birth of <e>
+/people/person/place_of_birth
+visual_artist
+
+14141	what nationality is <e>
+/people/person/nationality
+film_production_designer
+
+14146	where was <e> born
+/people/person/place_of_birth
+composer
+
+14165	where did <e> die
+/people/person/place_of_birth
+film_actor
+
+14182	what is <e> 's nationality
+/people/person/nationality
+composer
+
+14207	what is <e> 's nationality
+/people/person/nationality
+visual_artist
+
+14218	what part of italy was <e> born in
+/people/person/place_of_birth
+deceased_person
+
+14238	in which city was <e> born
+/people/person/place_of_birth
+musical_artist
+
+14251	what was the nationality of <e>
+/people/person/nationality
+basketball_player
+
+14262	what country is <e> from
+/people/person/nationality
+film_actor
+
+14305	what is <e> ( portuguese footballer ) 's nationality
+/people/person/nationality
+football_player
+
+14312	what country is <e> from
+/people/person/nationality
+tv_writer
+
+14316	what was the nationality of <e>
+/people/person/nationality
+author
+
+14332	what is the birthplace of <e>
+/people/person/place_of_birth
+film_actor
+
+14337	what is <e> 's birth place
+/people/person/place_of_birth
+tv_character
+
+14344	which state is <e> originally from
+/people/person/place_of_birth
+film_actor
+
+14349	which turkey city was <e> born in
+/people/person/place_of_birth
+musical_artist
+
+14352	where is <e> originally from
+/people/person/nationality
+deceased_person
+
+14353	where did <e> 's mother give birth to her
+/people/person/place_of_birth
+film_actor
+
+14361	what is <e> 's county of nationality
+/people/person/nationality
+_NOTYPE_
+
+14391	where in california was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+14398	what was <e> 's birthplace
+/people/person/place_of_birth
+monarch
+
+14414	what country is <e> from
+/people/person/nationality
+composer
+
+14428	what country is <e> from
+/people/person/nationality
+film_actor
+
+14491	which nation is <e> from
+/people/person/nationality
+basketball_player
+
+14518	which country is <e> from
+/people/person/nationality
+football_player
+
+14523	is <e> from the united kingdom or france
+/people/person/nationality
+author
+
+14533	what is <e> 's nationality
+/people/person/nationality
+politician
+
+14553	where was <e> given birth
+/people/person/place_of_birth
+film_actor
+
+14592	where is <e> from
+/people/person/nationality
+football_player
+
+14613	what was <e> 's place of birth
+/people/person/place_of_birth
+person
+
+14626	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+14629	where was <e> born
+/people/person/place_of_birth
+author
+
+14639	where was <e> born
+/people/person/place_of_birth
+politician
+
+14661	what country is louis Émile <e> citizen of
+/people/person/nationality
+_NOTYPE_
+
+14697	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+14743	where was the woman <e> born
+/people/person/place_of_birth
+organization_founder
+
+14756	where was <e> born
+/people/person/place_of_birth
+person
+
+14786	where was the place of birth of <e>
+/people/person/place_of_birth
+football_player
+
+14792	where is <e> from
+/people/person/nationality
+musical_artist
+
+14793	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+14852	what country is <e> originally from
+/people/person/nationality
+surgeon
+
+14889	what country does <e> live
+/people/person/nationality
+author
+
+14908	this is the nationality of actress and entertainer <e>
+/people/person/nationality
+film_actor
+
+14914	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+14930	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+14940	which california city was <e> born in
+/people/person/place_of_birth
+film_editor
+
+14946	where is <e> from
+/people/person/nationality
+deceased_person
+
+14961	what nationality is <e>
+/people/person/nationality
+film_producer
+
+14973	where was <e> born
+/people/person/place_of_birth
+composer
+
+14978	what nationality is <e>
+/people/person/nationality
+politician
+
+14986	where was <e> born
+/people/person/place_of_birth
+film_director
+
+14992	what nationality does <e> belong to
+/people/person/nationality
+football_player
+
+15016	where was <e> born
+/people/person/place_of_birth
+football_player
+
+15025	this city in belgium is where actor <e> was born
+/people/person/place_of_birth
+film_actor
+
+15061	which city in california was <e> born in
+/people/person/place_of_birth
+film_actor
+
+15086	what is <e> 's nationality
+/people/person/nationality
+composer
+
+15087	what country does <e> get his nationality from
+/people/person/nationality
+film_actor
+
+15124	what city is the birth place of <e>
+/people/person/place_of_birth
+judge
+
+15129	what nationality is <e>
+/people/person/nationality
+film_actor
+
+15148	where was <e> born
+/people/person/place_of_birth
+chef
+
+15162	where was <e> born
+/people/person/place_of_birth
+politician
+
+15193	what location was <e> born in
+/people/person/place_of_birth
+baseball_player
+
+15199	where was <e> born
+/people/person/place_of_birth
+academic
+
+15207	what is <e> 's country of origin
+/people/person/nationality
+tv_program
+
+15225	what nationality is <e>
+/people/person/nationality
+person
+
+15245	what is <e> 's place of birth
+/people/person/place_of_birth
+musical_artist
+
+15249	what is the nationality of <e>
+/people/person/nationality
+film_writer
+
+15250	what country is <e> from
+/people/person/nationality
+person
+
+15263	what is the birth place of <e>
+/people/person/place_of_birth
+film_actor
+
+15330	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+15350	where was <e> born
+/people/person/place_of_birth
+award_winner
+
+15354	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+15363	what country is <e> from
+/people/person/nationality
+film
+
+15372	what country gives nationality to <e>
+/people/person/nationality
+deceased_person
+
+15375	what nationality is <e>
+/people/person/nationality
+politician
+
+15381	what was the place of birth of <e>
+/people/person/place_of_birth
+film_actor
+
+15390	where was <e> 's birth place
+/people/person/place_of_birth
+noble_person
+
+15427	what is the nationality of <e>
+/people/person/nationality
+film_director
+
+15429	what is <e> 's nationality
+/people/person/nationality
+academic
+
+15440	where was <e> birthed
+/people/person/place_of_birth
+musical_artist
+
+15448	where is <e> from
+/people/person/nationality
+cuisine
+
+15464	what country is <e> from
+/people/person/nationality
+film_director
+
+15508	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+15556	where is <e> from
+/people/person/nationality
+musical_artist
+
+15560	where was <e> given birth
+/people/person/place_of_birth
+politician
+
+15564	which country is <e> from
+/people/person/nationality
+physician
+
+15569	what country is <e> from
+/people/person/nationality
+film_actor
+
+15617	where was <e> born
+/people/person/place_of_birth
+composer
+
+15630	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+15716	what is <e> 's nationality
+/people/person/nationality
+politician
+
+15722	what is <e> nationality
+/people/person/nationality
+_NOTYPE_
+
+15750	what is the place of birth for <e>
+/people/person/place_of_birth
+_NOTYPE_
+
+15781	what nationality is <e>
+/people/person/nationality
+author
+
+15792	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+15799	where is <e> from
+/people/person/nationality
+astronaut
+
+15830	which country was <e> born in
+/people/person/place_of_birth
+athlete
+
+15838	what country is <e> originally from
+/people/person/nationality
+deceased_person
+
+15839	which city was <e> born
+/people/person/place_of_birth
+football_player
+
+15853	where is <e> from
+/people/person/nationality
+military_person
+
+15866	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+15901	what is <e> 's nationality
+/people/person/nationality
+ice_hockey_player
+
+15908	what country does <e> declare nationality
+/people/person/nationality
+u.s._congressperson
+
+15910	where is <e> from
+/people/person/nationality
+military_person
+
+15923	what was the place of birth of <e>
+/people/person/place_of_birth
+film_actor
+
+15956	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+15996	what is the nationality of <e>
+/people/person/nationality
+football_player
+
+16003	where was <e> born
+/people/person/place_of_birth
+composer
+
+16040	which country was <e> born in
+/people/person/place_of_birth
+film_actor
+
+16045	what is <e> 's nationality
+/people/person/nationality
+politician
+
+16056	which country was <e> born in
+/people/person/nationality
+american_football_player
+
+16063	which city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+16069	where was <e> born
+/people/person/place_of_birth
+olympic_athlete
+
+16071	where was the birth place of <e>
+/people/person/place_of_birth
+_NOTYPE_
+
+16072	what country was <e> from
+/people/person/nationality
+_NOTYPE_
+
+16086	what country is <e> from
+/people/person/nationality
+film
+
+16130	which country is <e> from
+/people/person/nationality
+musical_artist
+
+16147	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+16177	whats that nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+16223	where is <e> from
+/people/person/place_of_birth
+film_director
+
+16258	where was <e> born
+/people/person/place_of_birth
+composer
+
+16264	what state was <e> born in
+/people/person/place_of_birth
+author
+
+16274	where is <e> from
+/people/person/nationality
+author
+
+16282	what is the place of birth of <e> Švankmajer
+/people/person/place_of_birth
+_NOTYPE_
+
+16316	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+16319	which city in mexico was <e> born in
+/people/person/place_of_birth
+architect
+
+16320	what is <e> 's nationality
+/people/person/nationality
+film_director
+
+16330	what is the nationality of <e>
+/people/person/nationality
+musical_artist
+
+16356	what is <e> 's country of nationality
+/people/person/nationality
+deceased_person
+
+16380	where was <e> born
+/people/person/place_of_birth
+composer
+
+16382	what is <e> 's place of birth
+/people/person/place_of_birth
+author
+
+16398	where is <e> from
+/people/person/nationality
+baseball_player
+
+16465	what nationality does <e> belong to
+/people/person/nationality
+_NOTYPE_
+
+16489	which country is <e> from
+/people/person/nationality
+football_player
+
+16508	which country is <e> from
+/people/person/nationality
+musical_artist
+
+16543	which nation is <e> from
+/people/person/nationality
+guitarist
+
+16558	what is <e> 's nationality
+/people/person/nationality
+film_director
+
+16559	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+16561	where is <e> from
+/people/person/place_of_birth
+film_producer
+
+16583	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+16585	what was <e> 's place of birth
+/people/person/place_of_birth
+cricket_bowler
+
+16592	where was <e> born
+/people/person/place_of_birth
+composer
+
+16594	what nation is <e> from
+/people/person/nationality
+film_director
+
+16595	what is the nationality of <e>
+/people/person/nationality
+author
+
+16605	what county and state did <e> originate from
+/people/person/place_of_birth
+physician
+
+16615	what was <e> 's place of birth
+/people/person/place_of_birth
+athlete
+
+16645	where in canada was <e> born
+/people/person/place_of_birth
+academic
+
+16663	where was <e> born
+/people/person/place_of_birth
+football_player
+
+16696	what is the nationality of <e>
+/people/person/nationality
+composer
+
+16706	which country does <e> have nationality in
+/people/person/nationality
+athlete
+
+16739	what country is <e> from
+/people/person/nationality
+film
+
+16743	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+16744	what is <e> 's nationality
+/people/person/nationality
+celebrity
+
+16752	where was <e> born
+/people/person/place_of_birth
+american_football_player
+
+16766	where is <e> from
+/people/person/nationality
+cricket_player
+
+16787	what is the nationality of the famous person <e>
+/people/person/nationality
+cricket_player
+
+16792	what is <e> 's nationality
+/people/person/nationality
+author
+
+16798	what country is <e> from
+/people/person/nationality
+tv_actor
+
+16800	where in estonia was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+16811	which country is <e> from
+/people/person/nationality
+guitarist
+
+16817	what city was <e> born in
+/people/person/place_of_birth
+film_producer
+
+16836	what country is <e> from
+/people/person/nationality
+film
+
+16875	where was <e> born
+/people/person/place_of_birth
+organization_leader
+
+16919	where was <e> originally from
+/people/person/place_of_birth
+theater_actor
+
+16924	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+16930	where was <e> born
+/people/person/place_of_birth
+author
+
+16964	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+16985	what is <e> 's nationality
+/people/person/nationality
+organization_founder
+
+17046	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+17075	where was <e> born
+/people/person/nationality
+film_director
+
+17078	which country does <e> belong to
+/people/person/nationality
+person
+
+17097	what country is <e> a citizen of
+/people/person/nationality
+military_person
+
+17144	where was <e> born
+/people/person/place_of_birth
+tv_program_creator
+
+17178	where was <e> born
+/people/person/place_of_birth
+person
+
+17194	what state was <e> born in
+/people/person/place_of_birth
+person
+
+17239	what is the nationality of <e>
+/people/person/nationality
+deceased_person
+
+17259	where was <e> born
+/people/person/place_of_birth
+tv_actor
+
+17269	what country gives nationality to <e>
+/people/person/nationality
+football_player
+
+17272	which american city was <e> born in
+/people/person/place_of_birth
+film_actor
+
+17289	where was <e> born
+/people/person/place_of_birth
+politician
+
+17314	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+17321	what country is <e> from
+/people/person/nationality
+tv_program
+
+17335	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+17364	what is the nationality of <e>
+/people/person/nationality
+inventor
+
+17378	which city was <e> born
+/people/person/place_of_birth
+musical_artist
+
+17421	which was <e> born
+/people/person/place_of_birth
+organization_leader
+
+17430	which country does <e> represent
+/people/person/nationality
+musical_artist
+
+17451	what is the nationality of <e>
+/people/person/nationality
+tennis_tournament_champion
+
+17459	which country is <e> from
+/people/person/nationality
+organization_leader
+
+17464	which hawaiian city is <e> 's place of birth
+/people/person/place_of_birth
+tv_actor
+
+17474	<e> is a citizen of what european country
+/people/person/nationality
+film_writer
+
+17507	where was <e> born
+/people/person/place_of_birth
+tv_actor
+
+17533	which city was <e> born in
+/people/person/place_of_birth
+film_director
+
+17554	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+17565	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+17579	where was <e> born
+/people/person/place_of_birth
+author
+
+17587	where is <e> from
+/people/person/nationality
+musical_artist
+
+17604	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+17656	what city is <e> from
+/people/person/place_of_birth
+deceased_person
+
+17662	where is <e> from
+/people/person/nationality
+film_actor
+
+17668	where was <e> born
+/people/person/place_of_birth
+film_director
+
+17699	where in the us was <e> born
+/people/person/place_of_birth
+american_football_player
+
+17701	which country is <e> from
+/people/person/nationality
+tv_program_creator
+
+17705	what is the nationality of <e>
+/people/person/nationality
+person
+
+17730	what country was <e> born at
+/people/person/place_of_birth
+tv_actor
+
+17743	which county was <e> born
+/people/person/place_of_birth
+person
+
+17748	where was <e> born
+/people/person/place_of_birth
+tv_writer
+
+17750	what city did <e> originate from
+/people/person/place_of_birth
+film_director
+
+17769	what country was <e> born in
+/people/person/nationality
+politician
+
+17771	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+17791	what country is <e> from
+/people/person/nationality
+composer
+
+17793	what is <e> 's country of nationality
+/people/person/nationality
+composer
+
+17807	where was <e> born
+/people/person/place_of_birth
+award_winner
+
+17815	where was <e> born
+/people/person/place_of_birth
+football_player
+
+17822	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+17844	where was <e> born
+/people/person/place_of_birth
+person
+
+17851	what is <e> 's country of nationality
+/people/person/nationality
+film_director
+
+17875	what country was <e> born in
+/people/person/place_of_birth
+_NOTYPE_
+
+17887	what is the nationality of <e>
+/people/person/nationality
+film_actor
+
+17892	what is <e> 's nationality
+/people/person/nationality
+olympic_athlete
+
+17902	where was costume designer <e> born
+/people/person/place_of_birth
+film_costumer_designer
+
+17905	where was <e> born
+/people/person/place_of_birth
+athlete
+
+17921	what is <e> nationality
+/people/person/nationality
+_NOTYPE_
+
+17953	where is <e> from
+/people/person/nationality
+musical_artist
+
+17963	where is <e> from
+/people/person/nationality
+film_actor
+
+17984	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+17993	what is <e> 's nationality
+/people/person/nationality
+inventor
+
+17995	where was <e> born
+/people/person/place_of_birth
+u.s._congressperson
+
+18023	what nation is <e> from
+/people/person/nationality
+_NOTYPE_
+
+18024	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+18063	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+18077	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+18187	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+18202	which country was <e> born in
+/people/person/nationality
+person
+
+18209	which nation was <e> born into
+/people/person/nationality
+basketball_player
+
+18245	where was <e> born
+/people/person/place_of_birth
+cyclist
+
+18259	where was <e> born
+/people/person/place_of_birth
+football_player
+
+18275	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+18288	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+18289	where was <e> born
+/people/person/place_of_birth
+football_player
+
+18298	what is <e> 's nationality
+/people/person/nationality
+film_actor
+
+18301	where was <e> born
+/people/person/place_of_birth
+politician
+
+18325	where was <e> born
+/people/person/place_of_birth
+film_director
+
+18326	in which country was <e> born
+/people/person/place_of_birth
+politician
+
+18336	which city was <e> born
+/people/person/place_of_birth
+author
+
+18366	where is <e> 's place of birth
+/people/person/place_of_birth
+film_actor
+
+18401	what country is <e> from
+/people/person/nationality
+film
+
+18416	what is the place of birth of <e>
+/people/person/place_of_birth
+_NOTYPE_
+
+18429	what empire was <e> a part of
+/people/person/nationality
+academic
+
+18430	what city was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+18431	what is <e> 's nationality
+/people/person/nationality
+american_football_player
+
+18433	where in asia was <e> born
+/people/person/place_of_birth
+film_set_decorator
+
+18434	what is <e> 's country of nationality
+/people/person/nationality
+tv_actor
+
+18436	which hampton was <e> born in
+/people/person/place_of_birth
+football_player
+
+18486	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+18490	what is <e> 's nationality
+/people/person/nationality
+musical_artist
+
+18539	where did <e> 's mother give birth
+/people/person/place_of_birth
+award_winner
+
+18544	where was <e> born
+/people/person/place_of_birth
+religious_leader
+
+18568	where was <e> born
+/people/person/place_of_birth
+deceased_person
+
+18574	to what nation does <e> belong
+/people/person/nationality
+person
+
+18581	which city was <e> born
+/people/person/place_of_birth
+musical_artist
+
+18625	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+18637	what nationality is <e> from
+/people/person/nationality
+film_actor
+
+18653	where was <e> born in
+/people/person/place_of_birth
+person
+
+18668	which country does <e> have nationality in
+/people/person/nationality
+tv_personality
+
+18672	where is <e> 's country of nationality
+/people/person/nationality
+award_winner
+
+18687	where was <e> born
+/people/person/place_of_birth
+football_player
+
+18718	where was <e> born
+/people/person/place_of_birth
+architect
+
+18731	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+18734	which country does <e> have nationality in
+/people/person/nationality
+_NOTYPE_
+
+18755	where in illinois was <e> born
+/people/person/place_of_birth
+politician
+
+18789	what was <e> 's place of birth
+/people/person/place_of_birth
+deceased_person
+
+18801	where was <e> born
+/people/person/place_of_birth
+organization_leader
+
+18813	where in italy was <e> 's birth place
+/people/person/place_of_birth
+film_actor
+
+18823	what country gives <e> his or her nationality
+/people/person/nationality
+baseball_player
+
+18826	what is <e> 's country of origin
+/people/person/nationality
+_NOTYPE_
+
+18836	which city did <e> die
+/people/person/place_of_birth
+american_football_player
+
+18851	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+18888	where was <e> born
+/people/person/place_of_birth
+award_winner
+
+18892	what city was <e> born in
+/people/person/place_of_birth
+visual_artist
+
+18905	which country was <e> born in
+/people/person/nationality
+deceased_person
+
+18908	what country is <e> from
+/people/person/nationality
+football_player
+
+18909	what city was <e> born in
+/people/person/place_of_birth
+football_player
+
+18929	which city was <e> born in
+/people/person/place_of_birth
+deceased_person
+
+18937	where is <e> from
+/people/person/nationality
+musical_artist
+
+18970	where was <e> born
+/people/person/place_of_birth
+author
+
+18974	<e> was born in which large uruguay city
+/people/person/place_of_birth
+football_player
+
+18984	where was <e> 's place of birth
+/people/person/place_of_birth
+deceased_person
+
+18993	what town was <e> born in
+/people/person/place_of_birth
+athlete
+
+18999	where was <e> born
+/people/person/place_of_birth
+person
+
+19003	what country does <e> get her nationality from
+/people/person/nationality
+author
+
+19025	which city was <e> born
+/people/person/place_of_birth
+film_actor
+
+19030	what is <e> 's nationality
+/people/person/nationality
+inventor
+
+19035	what historical nationality does <e> belong to
+/people/person/nationality
+_NOTYPE_
+
+19042	where was <e> given birth
+/people/person/place_of_birth
+film_actor
+
+19053	where was <e> born
+/people/person/place_of_birth
+football_player
+
+19081	which country is <e> from
+/people/person/nationality
+politician
+
+19089	what is <e> 's nationality
+/people/person/nationality
+film_director
+
+19093	which city was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+19104	where was <e> born
+/people/person/place_of_birth
+football_player
+
+19106	where was <e> born
+/people/person/place_of_birth
+film_cinematographer
+
+19112	where was <e> born
+/people/person/place_of_birth
+organization_leader
+
+19125	what country is <e> from
+/people/person/nationality
+award_winner
+
+19129	what country is <e> from
+/people/person/nationality
+american_football_player
+
+19139	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+19147	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+19176	what is <e> 's place of birth
+/people/person/place_of_birth
+_NOTYPE_
+
+19181	which city was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+19187	what is <e> 's birthplace
+/people/person/place_of_birth
+author
+
+19192	where was the birthplace of <e>
+/people/person/place_of_birth
+film_actor
+
+19239	where was <e> born
+/people/person/place_of_birth
+film_actor
+
+19261	in what eastern county was <e> born
+/people/person/place_of_birth
+composer
+
+19272	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+19322	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+19328	where was <e> born
+/people/person/place_of_birth
+film_director
+
+19342	what is <e> 's country of nationality
+/people/person/nationality
+_NOTYPE_
+
+19350	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+19380	what is <e> 's nationality
+/people/person/nationality
+award_winner
+
+19404	what is <e> 's nationality
+/people/person/nationality
+football_player
+
+19409	where is <e> from
+/people/person/place_of_birth
+musical_artist
+
+19413	where was <e> 's place of birth
+/people/person/place_of_birth
+politician
+
+19418	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+19446	where is <e> 's nationality
+/people/person/nationality
+basketball_player
+
+19461	what country is <e> from
+/people/person/nationality
+author
+
+19465	what is <e> 's nationality
+/people/person/nationality
+_NOTYPE_
+
+19476	where is <e> from
+/people/person/nationality
+author
+
+19480	what country is <e> from
+/people/person/nationality
+_NOTYPE_
+
+19522	what city and state was <e> born
+/people/person/place_of_birth
+musical_artist
+
+19534	what is <e> birth place
+/people/person/place_of_birth
+_NOTYPE_
+
+19559	what nation is <e> from
+/people/person/nationality
+_NOTYPE_
+
+19573	what is <e> 's nationality
+/people/person/nationality
+_NOTYPE_
+
+19588	where is <e> from
+/people/person/nationality
+film_actor
+
+19625	what is <e> 's birth place
+/people/person/place_of_birth
+_NOTYPE_
+
+19654	where was <e> born
+/people/person/place_of_birth
+tennis_tournament_champion
+
+19673	where was the birthplace of <e>
+/people/person/place_of_birth
+_NOTYPE_
+
+19699	where was <e> born
+/people/person/place_of_birth
+musical_artist
+
+19704	<e> was born here
+/people/person/place_of_birth
+author
+
+19715	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+19736	which country was <e> born in
+/people/person/place_of_birth
+_NOTYPE_
+
+19750	where was <e> born
+/people/person/place_of_birth
+person
+
+19759	where was <e> 's place of birth
+/people/person/place_of_birth
+film_actor
+
+19783	where was <e> born
+/people/person/place_of_birth
+politician
+
+19790	where is the birth place of <e>
+/people/person/place_of_birth
+film_actor
+
+19812	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+19828	which country is <e> from
+/people/person/nationality
+_NOTYPE_
+
+19852	where in texas was <e> born
+/people/person/place_of_birth
+film_director
+
+19874	which country gives <e> his or her nationality
+/people/person/nationality
+politician
+
+19910	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+19935	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+19942	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+
+19964	which country does <e> identify with
+/people/person/nationality
+author
+
+19965	which european country is <e> from
+/people/person/nationality
+film_story_contributor
+
+19982	what was <e> 's place of birth
+/people/person/place_of_birth
+musical_artist
+
+19991	which nation is <e> originally from
+/people/person/nationality
+organization_leader
+
+20003	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20021	where is the birthplace of <e>
+/people/person/place_of_birth
+musical_artist
+
+20024	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20025	what country is <e> a citizen of
+/people/person/nationality
+football_player
+
+20050	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20071	which famous city is <e> from
+/people/person/place_of_birth
+author
+
+20086	what is the nationality of <e> ( painter )
+/people/person/nationality
+visual_artist
+
+20104	what was <e> 's place of birth
+/people/person/place_of_birth
+author
+
+20107	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20113	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20152	what country is <e> from
+/people/person/place_of_birth
+_NOTYPE_
+
+20156	what is <e> 's nationality
+/people/person/nationality
+_NOTYPE_
+
+20186	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20198	what is <e> 's place of birth
+/people/person/place_of_birth
+_NOTYPE_
+
+20204	where is <e> originally from
+/people/person/nationality
+_NOTYPE_
+
+20231	what country gives <e> nationality
+/people/person/nationality
+film_actor
+
+20239	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+20261	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20284	which italian city was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20300	where was <e> from
+/people/person/nationality
+_NOTYPE_
+
+20303	which city in france was <e> born
+/people/person/place_of_birth
+academic
+
+20333	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20342	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20355	whats the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+20377	what country is <e> from
+/people/person/nationality
+_NOTYPE_
+
+20381	<e> was born here
+/people/person/place_of_birth
+ice_hockey_player
+
+20389	what was the name of the town <e> was born in
+/people/person/place_of_birth
+_NOTYPE_
+
+20401	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20403	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20433	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20454	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20460	what is <e> 's nation of origin
+/people/person/nationality
+film_actor
+
+20463	what is the nationality of <e>
+/people/person/nationality
+_NOTYPE_
+
+20493	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20501	what country is <e> from
+/people/person/nationality
+_NOTYPE_
+
+20529	which country does <e> belong to
+/people/person/nationality
+film_director
+
+20531	where was <e> born
+/people/person/place_of_birth
+_NOTYPE_
+
+20541	what is <e> 's nationality
+/people/person/nationality
+_NOTYPE_
+
+20558	what country is <e> from
+/people/person/nationality
+_NOTYPE_
+
+20575	what country is <e> a citizen of
+/people/person/nationality
+deceased_person
+
+20582	what country was <e> born to
+/people/person/nationality
+deceased_person
+
+20600	where was <e> born in denmark
+/people/person/place_of_birth
+musical_artist
+
+20609	what nationality is <e>
+/people/person/nationality
+_NOTYPE_
+

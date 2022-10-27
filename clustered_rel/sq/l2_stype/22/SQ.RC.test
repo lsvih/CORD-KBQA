@@ -1,0 +1,1180 @@
+155	what album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+352	what is a song from <e>
+/music/release_track/recording
+_NOTYPE_
+
+541	what release is the track <e> from
+/music/release_track/recording
+_NOTYPE_
+
+563	what album was the track <e> from
+/music/release_track/release
+_NOTYPE_
+
+570	what album release includes the track <e>
+/music/release_track/release
+_NOTYPE_
+
+573	what album is the track <e> on
+/music/release_track/release
+_NOTYPE_
+
+617	which recording was the release track <e> included on
+/music/release_track/recording
+_NOTYPE_
+
+619	what is a recorded version of <e>
+/music/release_track/recording
+_NOTYPE_
+
+651	what was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+780	what is a release from the track <e>
+/music/release_track/release
+_NOTYPE_
+
+783	what album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+810	what release track and recording is named <e>
+/music/release_track/recording
+_NOTYPE_
+
+829	which release is <e> off of
+/music/release_track/release
+_NOTYPE_
+
+906	what album was <e> released in
+/music/release_track/recording
+_NOTYPE_
+
+916	name a track from <e>
+/music/release_track/release
+_NOTYPE_
+
+976	what is the name of the album with the track <e>
+/music/release_track/release
+_NOTYPE_
+
+1002	which song is part of <e>
+/music/release_track/release
+_NOTYPE_
+
+1386	what is a recording of <e>
+/music/release_track/recording
+_NOTYPE_
+
+1629	which release track was released in <e>
+/music/release_track/release
+_NOTYPE_
+
+1640	what album is <e> featured on
+/music/release_track/release
+_NOTYPE_
+
+1664	what release does <e> belong to
+/music/release_track/recording
+_NOTYPE_
+
+1698	which release is <e> the release track off of
+/music/release_track/release
+_NOTYPE_
+
+1810	the track <e> is from what album
+/music/release_track/release
+_NOTYPE_
+
+1872	what is one of the album 's released by <e>
+/music/release_track/release
+_NOTYPE_
+
+1941	what release was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+1958	what release did the track <e> come off of
+/music/release_track/release
+_NOTYPE_
+
+1997	on what release is the release track <e>
+/music/release_track/release
+_NOTYPE_
+
+2027	what is the release track on <e>
+/music/release_track/recording
+_NOTYPE_
+
+2043	what is a release track from <e>
+/music/release_track/recording
+_NOTYPE_
+
+2079	name a track from the release <e>
+/music/release_track/release
+musical_release
+
+2098	what album is <e> a song on
+/music/release_track/release
+_NOTYPE_
+
+2101	what is the recording from <e>
+/music/release_track/recording
+_NOTYPE_
+
+2119	what album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+2414	what 's the name for the recording version of <e>
+/music/release_track/recording
+_NOTYPE_
+
+2493	what is the release track on <e>
+/music/release_track/recording
+_NOTYPE_
+
+2658	which release contains the track <e>
+/music/release_track/release
+_NOTYPE_
+
+2715	what album has <e> as the release track
+/music/release_track/release
+_NOTYPE_
+
+2819	what release featured the track <e>
+/music/release_track/release
+_NOTYPE_
+
+3044	what release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+3056	what is the release type of the track <e>
+/music/release_track/release
+_NOTYPE_
+
+3186	which release is <e> on
+/music/release_track/release
+_NOTYPE_
+
+3271	what is the release track on <e>
+/music/release_track/release
+_NOTYPE_
+
+3291	what is the recording from the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+3359	what recording include the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+3370	the track <e> was released from what
+/music/release_track/release
+_NOTYPE_
+
+3444	what is a recording of <e>
+/music/release_track/recording
+_NOTYPE_
+
+3497	what is a release from <e>
+/music/release_track/recording
+_NOTYPE_
+
+3677	what recording included the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+3737	what recording is named after the release track <e>
+/music/release_track/recording
+_NOTYPE_
+
+3785	what is a recording of <e>
+/music/release_track/recording
+_NOTYPE_
+
+3849	which album has the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+3853	which released is <e> from
+/music/release_track/release
+_NOTYPE_
+
+3916	what is the release track on <e>
+/music/release_track/release
+_NOTYPE_
+
+4082	which song was part of <e>
+/music/release_track/release
+_NOTYPE_
+
+4269	the track <e> is part of what release
+/music/release_track/release
+_NOTYPE_
+
+4527	what is a track made by <e>
+/music/release_track/release
+_NOTYPE_
+
+4545	what recording is the song <e> on
+/music/release_track/recording
+_NOTYPE_
+
+4725	what is a recorded version of <e>
+/music/release_track/recording
+_NOTYPE_
+
+4749	what release has the track <e> on it
+/music/release_track/release
+_NOTYPE_
+
+4768	what was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+4835	the release track <e> is from which recording
+/music/release_track/recording
+_NOTYPE_
+
+4850	which recording is <e> from
+/music/release_track/recording
+_NOTYPE_
+
+4967	<e> is a track from what recording and film
+/music/release_track/recording
+_NOTYPE_
+
+5073	what is a track from <e>
+/music/release_track/release
+_NOTYPE_
+
+5087	what is a compilation album made by <e>
+/music/release_track/release
+_NOTYPE_
+
+5121	what was the release of the release track <e>
+/music/release_track/release
+_NOTYPE_
+
+5143	what is the release that the track <e> is from
+/music/release_track/release
+_NOTYPE_
+
+5560	which release was <e> from
+/music/release_track/release
+_NOTYPE_
+
+5670	which release has the track <e>
+/music/release_track/release
+_NOTYPE_
+
+5700	what is a track released from <e>
+/music/release_track/release
+_NOTYPE_
+
+5713	what album is <e> a track on
+/music/release_track/release
+_NOTYPE_
+
+5934	what is a track of the <e> album
+/music/release_track/recording
+_NOTYPE_
+
+6049	what release featured the track <e>
+/music/release_track/release
+_NOTYPE_
+
+6099	what is the release that <e> is from
+/music/release_track/release
+_NOTYPE_
+
+6101	whats the name of the release that had the release track titled <e> on it
+/music/release_track/release
+_NOTYPE_
+
+6161	name a track released by <e>
+/music/release_track/recording
+_NOTYPE_
+
+6216	what 's recording is the release track <e> from
+/music/release_track/recording
+_NOTYPE_
+
+6224	what album did the release <e> come from
+/music/release_track/release
+_NOTYPE_
+
+6360	what is a release of <e>
+/music/release_track/release
+_NOTYPE_
+
+6399	the track <e> is from what release
+/music/release_track/release
+_NOTYPE_
+
+6461	what is the album name from which the title track <e> comes
+/music/release_track/release
+_NOTYPE_
+
+6466	what album is <e> on
+/music/release_track/recording
+_NOTYPE_
+
+6659	what is a recording of <e>
+/music/release_track/recording
+_NOTYPE_
+
+6914	in what album is contained the <e> song
+/music/release_track/release
+_NOTYPE_
+
+6958	what is the recording from the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+6988	which song was released in <e>
+/music/release_track/release
+_NOTYPE_
+
+6994	what album is <e> on
+/music/release_track/release
+_NOTYPE_
+
+7027	what album does the title track <e> come from
+/music/release_track/recording
+_NOTYPE_
+
+7034	what is the release from the track <e>
+/music/release_track/release
+_NOTYPE_
+
+7045	what album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+7220	what album release includes the track <e>
+/music/release_track/release
+_NOTYPE_
+
+7243	what album did the single <e> come from
+/music/release_track/release
+_NOTYPE_
+
+7246	what album is <e> featured on
+/music/release_track/release
+_NOTYPE_
+
+7402	what album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+7525	which released has <e> as the track
+/music/release_track/release
+_NOTYPE_
+
+7546	what was released in <e>
+/music/release_track/release
+_NOTYPE_
+
+7611	what release is <e> a part of
+/music/release_track/release
+_NOTYPE_
+
+7634	what release has a track titled <e>
+/music/release_track/release
+_NOTYPE_
+
+7707	what album is <e> the release track on
+/music/release_track/release
+_NOTYPE_
+
+7745	what is the recording from <e>
+/music/release_track/recording
+_NOTYPE_
+
+7749	what is the release track on <e>
+/music/release_track/release
+_NOTYPE_
+
+7773	what was the release for the release track <e>
+/music/release_track/release
+_NOTYPE_
+
+7915	which album has <e> on it
+/music/release_track/release
+_NOTYPE_
+
+7980	what 's the release track from <e>
+/music/release_track/recording
+_NOTYPE_
+
+7990	what album is <e> listed on
+/music/release_track/release
+_NOTYPE_
+
+8048	which releases contain the track <e>
+/music/release_track/release
+_NOTYPE_
+
+8058	what album included the track <e>
+/music/release_track/release
+_NOTYPE_
+
+8082	what 's the recorded version of <e>
+/music/release_track/recording
+_NOTYPE_
+
+8087	what release did <e> come from
+/music/release_track/release
+_NOTYPE_
+
+8098	what album is <e> on
+/music/release_track/recording
+_NOTYPE_
+
+8187	what is the recording of <e> called
+/music/release_track/recording
+_NOTYPE_
+
+8346	what is the title track on <e>
+/music/release_track/recording
+_NOTYPE_
+
+8377	what 's the recorded version of <e>
+/music/release_track/recording
+_NOTYPE_
+
+8407	what is the release from the track <e>
+/music/release_track/release
+_NOTYPE_
+
+8527	witch album does <e> appear on
+/music/release_track/release
+_NOTYPE_
+
+8584	what is the album <e> is from
+/music/release_track/release
+_NOTYPE_
+
+8587	what is a recording with the release track <e>
+/music/release_track/recording
+_NOTYPE_
+
+8603	which song is part of <e>
+/music/release_track/release
+_NOTYPE_
+
+8753	what release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+8785	what is the release track on <e>
+/music/release_track/recording
+_NOTYPE_
+
+8798	what is the name of the recording that contains the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+8844	what kind of music is <e>
+/music/release_track/release
+musical_group
+
+8984	which album is <e> released in
+/music/release_track/recording
+_NOTYPE_
+
+9058	what release is from the track <e>
+/music/release_track/release
+_NOTYPE_
+
+9101	what album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+9130	which record is part of <e>
+/music/release_track/recording
+_NOTYPE_
+
+9189	what release did <e> come from
+/music/release_track/release
+_NOTYPE_
+
+9324	what is the album were the song <e> can be found
+/music/release_track/release
+_NOTYPE_
+
+9370	what is the title track on <e>
+/music/release_track/recording
+_NOTYPE_
+
+9432	which album is <e> featured on
+/music/release_track/recording
+_NOTYPE_
+
+9434	which record is part of <e>
+/music/release_track/recording
+_NOTYPE_
+
+9508	what release was <e> from
+/music/release_track/release
+_NOTYPE_
+
+9732	what release featured the track <e>
+/music/release_track/release
+_NOTYPE_
+
+9873	which albums contain the song <e>
+/music/release_track/recording
+_NOTYPE_
+
+9915	which album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+9952	what is <e> the release track of
+/music/release_track/recording
+_NOTYPE_
+
+9980	which albums contain the track <e>
+/music/release_track/release
+_NOTYPE_
+
+9999	which recording contains the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+10108	which album was <e> on
+/music/release_track/release
+_NOTYPE_
+
+10189	what album is <e> featured on
+/music/release_track/release
+_NOTYPE_
+
+10361	what album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+10448	which recording has the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+10627	which release contains the track <e>
+/music/release_track/release
+_NOTYPE_
+
+10657	what release is from the track <e>
+/music/release_track/release
+_NOTYPE_
+
+10675	which record is part of <e>
+/music/release_track/recording
+_NOTYPE_
+
+10723	what is a release track from <e>
+/music/release_track/recording
+_NOTYPE_
+
+10792	what album was <e> on
+/music/release_track/release
+_NOTYPE_
+
+10793	which recored is part of <e>
+/music/release_track/recording
+_NOTYPE_
+
+10901	what train album is <e> listed on
+/music/release_track/release
+_NOTYPE_
+
+10939	what release was <e> from
+/music/release_track/release
+_NOTYPE_
+
+10955	what release is <e> on
+/music/release_track/release
+_NOTYPE_
+
+10992	what album was <e> released on
+/music/release_track/release
+musical_recording
+
+11076	what is the single from <e>
+/music/release_track/release
+_NOTYPE_
+
+11081	what album was <e> released in
+/music/release_track/release
+_NOTYPE_
+
+11125	<e> is a track on what release
+/music/release_track/release
+_NOTYPE_
+
+11202	what album has the song <e>
+/music/release_track/recording
+_NOTYPE_
+
+11223	what was the album that <e> was released in
+/music/release_track/recording
+_NOTYPE_
+
+11235	what album is <e> featured on
+/music/release_track/recording
+_NOTYPE_
+
+11324	which recording contains the release track <e>
+/music/release_track/recording
+_NOTYPE_
+
+11395	which album is <e> a track of
+/music/release_track/release
+_NOTYPE_
+
+11406	<e> is a release track from which album
+/music/release_track/release
+_NOTYPE_
+
+11460	which compilation is <e> a track on
+/music/release_track/release
+_NOTYPE_
+
+11633	which record is part of <e>
+/music/release_track/recording
+_NOTYPE_
+
+11659	the release track <e> is from which release
+/music/release_track/release
+_NOTYPE_
+
+11702	what is the release from <e>
+/music/release_track/release
+_NOTYPE_
+
+11800	which release has the song <e> in it
+/music/release_track/release
+_NOTYPE_
+
+11905	what release can <e> be found on
+/music/release_track/release
+_NOTYPE_
+
+11962	what is the recording with the self titled track <e>
+/music/release_track/recording
+_NOTYPE_
+
+11982	what album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+12058	which releases contain the track <e>
+/music/release_track/release
+_NOTYPE_
+
+12163	what recording is on the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+12226	what musical release was <e> from
+/music/release_track/release
+_NOTYPE_
+
+12248	which albums contain the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+12451	what album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+12489	from what release can the track <e> be found
+/music/release_track/release
+_NOTYPE_
+
+12568	what is a song from <e>
+/music/release_track/recording
+musical_release
+
+12638	name a track released by <e>
+/music/release_track/recording
+_NOTYPE_
+
+12652	what is a release on the release track <e>
+/music/release_track/release
+_NOTYPE_
+
+12693	which album was the track <e> released with
+/music/release_track/release
+_NOTYPE_
+
+12697	what 's a recorded version of the song <e>
+/music/release_track/recording
+_NOTYPE_
+
+12771	which release is <e> on
+/music/release_track/release
+_NOTYPE_
+
+12823	which release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+12864	which release was the track <e> from
+/music/release_track/release
+_NOTYPE_
+
+12966	which album was <e> on
+/music/release_track/release
+_NOTYPE_
+
+13041	what release includes the release track <e>
+/music/release_track/release
+_NOTYPE_
+
+13054	which album was <e> part of
+/music/release_track/release
+_NOTYPE_
+
+13062	what is the release track on <e>
+/music/release_track/recording
+_NOTYPE_
+
+13135	what album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+13199	what is a recording of the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+13200	what is a recording of <e>
+/music/release_track/recording
+musical_recording
+
+13227	what album is <e> featured on
+/music/release_track/release
+_NOTYPE_
+
+13253	what 's the recorded version of the song <e>
+/music/release_track/recording
+_NOTYPE_
+
+13305	what album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+13364	which release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+13479	what is the release track on <e>
+/music/release_track/recording
+_NOTYPE_
+
+13503	the release track <e> is from what work of art
+/music/release_track/release
+_NOTYPE_
+
+13523	the track titled <e> was off of which album
+/music/release_track/release
+_NOTYPE_
+
+13564	what is the album <e> is on
+/music/release_track/release
+_NOTYPE_
+
+13566	which release was <e> in
+/music/release_track/release
+_NOTYPE_
+
+13617	which album is <e> featured
+/music/release_track/release
+_NOTYPE_
+
+13831	what release is the track <e> from
+/music/release_track/release
+_NOTYPE_
+
+13847	what is a release track from <e>
+/music/release_track/release
+_NOTYPE_
+
+13915	what is the release track on <e>
+/music/release_track/recording
+_NOTYPE_
+
+13918	which record is part of <e>
+/music/release_track/recording
+_NOTYPE_
+
+13965	what album was <e> on
+/music/release_track/recording
+_NOTYPE_
+
+13974	the release track <e> is from what body of work
+/music/release_track/recording
+_NOTYPE_
+
+14000	the release track <e> is from what release
+/music/release_track/release
+_NOTYPE_
+
+14177	which album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+14179	what are songs in the <e> album
+/music/release_track/recording
+_NOTYPE_
+
+14220	what 's the release that <e> is from
+/music/release_track/release
+_NOTYPE_
+
+14311	what release has the track <e> on it
+/music/release_track/release
+_NOTYPE_
+
+14510	what recording is on the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+14550	what album is <e> a part of
+/music/release_track/release
+_NOTYPE_
+
+14648	what release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+14688	what is the release track on <e>
+/music/release_track/release
+musical_recording
+
+14760	what is a recording of <e>
+/music/release_track/recording
+_NOTYPE_
+
+14840	the release track <e> is from which recording
+/music/release_track/recording
+_NOTYPE_
+
+14869	what album is <e> featured on
+/music/release_track/release
+_NOTYPE_
+
+14906	<e> is the release track off what recording
+/music/release_track/recording
+_NOTYPE_
+
+14921	what are tracks of the <e> album
+/music/release_track/recording
+_NOTYPE_
+
+14926	what was the release for the release track <e>
+/music/release_track/release
+_NOTYPE_
+
+14954	what album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+14955	what release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+14972	which release contains the track <e>
+/music/release_track/release
+_NOTYPE_
+
+15003	what release is <e> on
+/music/release_track/release
+_NOTYPE_
+
+15097	what 's the recorded version of <e>
+/music/release_track/recording
+_NOTYPE_
+
+15128	what album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+15216	what album was <e> featured on
+/music/release_track/release
+_NOTYPE_
+
+15438	what is the release of the track <e>
+/music/release_track/release
+_NOTYPE_
+
+15518	which album did <e> get released on
+/music/release_track/release
+_NOTYPE_
+
+15575	the release track <e> is from what
+/music/release_track/release
+_NOTYPE_
+
+15584	which release contained <e>
+/music/release_track/release
+_NOTYPE_
+
+15816	<e> is the release track from what recording
+/music/release_track/recording
+_NOTYPE_
+
+15935	which recording is on the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+15975	what is a track in the <e> album
+/music/release_track/release
+_NOTYPE_
+
+16145	what release is the song <e> on
+/music/release_track/release
+_NOTYPE_
+
+16269	the release track <e> is from what body of work
+/music/release_track/release
+_NOTYPE_
+
+16333	what release does the track <e> come from
+/music/release_track/release
+_NOTYPE_
+
+16336	what is the release track on <e>
+/music/release_track/recording
+consumer_product
+
+16338	what recording featured the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+16533	what is a track from <e>
+/music/release_track/release
+_NOTYPE_
+
+16601	what is the release of the track <e>
+/music/release_track/release
+_NOTYPE_
+
+16649	what is a recording of <e>
+/music/release_track/recording
+musical_recording
+
+16650	what album can <e> be found on
+/music/release_track/release
+_NOTYPE_
+
+16803	<e> is a track from what musical release
+/music/release_track/release
+_NOTYPE_
+
+16954	what 's the recorded version of <e>
+/music/release_track/recording
+_NOTYPE_
+
+17006	what is the album name that contains the recording <e>
+/music/release_track/recording
+_NOTYPE_
+
+17052	which album contains the track <e>
+/music/release_track/release
+_NOTYPE_
+
+17163	who released the track <e>
+/music/release_track/release
+_NOTYPE_
+
+17349	what release has the track <e>
+/music/release_track/release
+_NOTYPE_
+
+17362	which release is the track <e> on
+/music/release_track/release
+_NOTYPE_
+
+17472	<e> is the single from which album
+/music/release_track/release
+_NOTYPE_
+
+17480	which release is <e> the release track from
+/music/release_track/release
+_NOTYPE_
+
+17549	which recording contains the track <e>
+/music/release_track/recording
+_NOTYPE_
+
+17661	which release contains the track <e>
+/music/release_track/release
+_NOTYPE_
+
+17718	what record is <e> part of
+/music/release_track/recording
+_NOTYPE_
+
+17720	what album is <e> on
+/music/release_track/release
+_NOTYPE_
+
+17761	which release is <e> the release track off of
+/music/release_track/release
+_NOTYPE_
+
+17774	whats the recording with the release track <e>
+/music/release_track/recording
+_NOTYPE_
+
+17806	name a recording by <e>
+/music/release_track/recording
+_NOTYPE_
+
+17901	which album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+18055	which release is the track <e> in
+/music/release_track/release
+_NOTYPE_
+
+18117	what album is <e> a part of
+/music/release_track/release
+_NOTYPE_
+
+18224	what is a track from <e>
+/music/release_track/release
+_NOTYPE_
+
+18273	which record is part of <e>
+/music/release_track/recording
+_NOTYPE_
+
+18414	which release is <e> on
+/music/release_track/release
+_NOTYPE_
+
+18421	what release includes the track <e>
+/music/release_track/release
+_NOTYPE_
+
+18424	what is a track on <e>
+/music/release_track/release
+_NOTYPE_
+
+18437	what release is <e> a part of
+/music/release_track/recording
+_NOTYPE_
+
+18530	what album has the track <e> on it
+/music/release_track/release
+_NOTYPE_
+
+18618	<e> is part of which album
+/music/release_track/release
+_NOTYPE_
+
+18628	what is <e> the release track off of
+/music/release_track/recording
+_NOTYPE_
+
+18631	what release can you find the track <e> on
+/music/release_track/release
+_NOTYPE_
+
+18642	what album featured the song <e>
+/music/release_track/release
+_NOTYPE_
+
+18861	on which release can the track <e> be found
+/music/release_track/release
+_NOTYPE_
+
+18955	which recording is the track <e> on
+/music/release_track/recording
+_NOTYPE_
+
+19092	which song is part of <e>
+/music/release_track/release
+_NOTYPE_
+
+19136	what album is <e> from
+/music/release_track/release
+_NOTYPE_
+
+19207	what was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+19358	what album is the song <e> on
+/music/release_track/recording
+_NOTYPE_
+
+19362	<e> is the release track from which album
+/music/release_track/release
+_NOTYPE_
+
+19487	what release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+19561	what album is <e> featured on
+/music/release_track/release
+_NOTYPE_
+
+19620	<e> contained what song
+/music/release_track/recording
+_NOTYPE_
+
+19669	what release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+19671	the release track <e> is from what
+/music/release_track/release
+_NOTYPE_
+
+19740	what is an album released in <e>
+/music/release_track/release
+_NOTYPE_
+
+19914	what album was <e> released on
+/music/release_track/release
+_NOTYPE_
+
+19954	what recording did the track <e> come from
+/music/release_track/recording
+_NOTYPE_
+
+20020	what release is the track <e> from
+/music/release_track/release
+_NOTYPE_
+
+20210	which release is <e> from
+/music/release_track/release
+_NOTYPE_
+
+20246	what is a track of the <e> album
+/music/release_track/recording
+_NOTYPE_
+
+20255	what is a song in the <e> album
+/music/release_track/release
+_NOTYPE_
+
+20445	on what release can <e> be heard
+/music/release_track/release
+_NOTYPE_
+
+20585	what release is <e> on
+/music/release_track/release
+_NOTYPE_
+

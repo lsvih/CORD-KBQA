@@ -1,0 +1,108 @@
+48	what other books did <e> write
+book.author.book_editions_published
+
+
+76	what was the title of the book <e> wrote
+book.author.works_written
+
+
+88	what was the book written by <e>
+book.author.book_editions_published
+
+
+88	what was the book written by <e>
+book.author.works_written
+
+
+132	what document did <e> write
+book.author.works_written
+
+
+294	what was the first book <e> wrote
+book.author.works_written
+
+
+295	what books did <e> wrote
+book.author.book_editions_published
+
+
+300	what book did <e> write
+book.author.book_editions_published
+
+
+354	what did <e> wrote
+book.author.book_editions_published
+
+
+354	what did <e> wrote
+book.author.works_written
+
+
+356	what did <e> wrote
+book.author.works_written
+
+
+574	what is the name of the book <e> wrote in jail
+book.author.works_written
+
+
+635	what other books did <e> write
+book.author.book_editions_published
+
+
+635	what other books did <e> write
+book.author.works_written
+
+
+732	what books are written by <e>
+book.author.book_editions_published
+
+
+732	what books are written by <e>
+book.author.works_written
+
+
+777	what book did <e> published
+book.author.works_written
+
+
+883	what document did <e> wrote
+book.author.works_written
+
+
+1011	what books did <e> write
+book.author.book_editions_published
+
+
+1011	what books did <e> write
+book.author.works_written
+
+
+1174	what are some books that <e> wrote
+book.author.book_editions_published
+
+
+1174	what are some books that <e> wrote
+book.book_subject.works
+
+
+1236	what books did <e> wrote
+book.author.book_editions_published
+
+
+1236	what books did <e> wrote
+book.author.works_written
+
+
+1244	what is the title of <e> 's new book
+book.author.works_written
+
+
+1481	what did <e> wrote
+book.author.works_written
+
+
+1592	what book did <e> wrote in 1859
+book.author.works_written
+
+

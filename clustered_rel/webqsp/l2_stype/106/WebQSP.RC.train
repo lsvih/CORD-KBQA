@@ -1,0 +1,540 @@
+19	what high school did president <e> attend
+people.person.education..education.education.institution
+us_president
+
+59	what college did <e> attend
+people.person.education..education.education.institution
+celebrity
+
+61	what school did <e> attend
+people.person.education..education.education.institution
+visual_artist
+
+88	where did <e> go to school
+people.person.education..education.education.institution
+author
+
+92	what high school did <e> go to
+people.person.education..education.education.institution
+musical_artist
+
+109	where did <e> go to college
+people.person.education..education.education.institution
+author
+
+110	what did <e> study at university
+people.person.education..education.education.major_field_of_study
+politician
+
+112	what school did <e> go to
+people.person.education..education.education.institution
+disaster_victim
+
+130	where did pres <e> go to college
+people.person.education..education.education.institution
+us_president
+
+134	where did <e> go to college
+people.person.education..education.education.institution
+film_actor
+
+159	where did <e> go to school
+people.person.education..education.education.institution
+musical_artist
+
+160	what college did <e>
+people.person.education..education.education.institution
+film_director
+
+170	what school did <e> attend
+people.person.education..education.education.institution
+author
+
+172	what college did <e>
+people.person.education..education.education.institution
+american_football_player
+
+181	where did <e> go to school
+people.person.education..education.education.institution
+academic
+
+269	where did <e> study
+people.person.education..education.education.institution
+politician
+
+290	what did <e> study in school
+people.person.education..education.education.major_field_of_study
+us_president
+
+305	what college did <e> go to
+people.person.education..education.education.institution
+tv_producer
+
+311	where did <e> go to high school
+people.person.education..education.education.institution
+musical_artist
+
+321	where did <e> go to high school
+people.person.education..education.education.institution
+american_football_player
+
+369	where did <e> go to college
+people.person.education..education.education.institution
+american_football_player
+
+412	what did <e> go to college for
+people.person.education..education.education.major_field_of_study
+author
+
+440	what college did <e>
+people.person.education..education.education.institution
+american_football_player
+
+462	what college did <e> go to
+people.person.education..education.education.institution
+celebrity
+
+474	where did <e> go to prep school
+people.person.education..education.education.institution
+noble_person
+
+511	what college did <e> graduated from
+people.person.education..education.education.institution
+music_video_performer
+
+614	where did <e> junior go to college
+people.person.education..education.education.institution
+author
+
+629	where did <e> go to high school
+people.person.education..education.education.institution
+basketball_player
+
+645	what college did <e> go to
+people.person.education..education.education.institution
+american_football_player
+
+672	what college did <e>
+people.person.education..education.education.institution
+american_football_player
+
+677	what college did <e> go to
+people.person.education..education.education.institution
+basketball_player
+
+688	where did <e> go to school
+people.person.education..education.education.institution
+celebrity
+
+733	what school did <e> go to
+people.person.education..education.education.institution
+baseball_player
+
+750	where did pres. <e> go to school
+people.person.education..education.education.institution
+us_president
+
+763	what middle school did <e> attend
+people.person.education..education.education.institution
+us_president
+
+766	where did <e> go to school
+people.person.education..education.education.institution
+academic
+
+769	where did <e> go to school
+people.person.education..education.education.institution
+author
+
+777	where did <e> attend school
+people.person.education..education.education.institution
+us_president
+
+819	where did <e> go to highschool
+people.person.education..education.education.institution
+basketball_player
+
+833	where did <e> play high school basketball
+people.person.education..education.education.institution
+celebrity
+
+905	where did <e> go to school
+people.person.education..education.education.institution
+composer
+
+923	where did <e> go to college
+people.person.education..education.education.institution
+baseball_player
+
+977	where did <e> go to school
+people.person.education..education.education.institution
+academic
+
+982	where <e> went to school
+people.person.education..education.education.institution
+author
+
+1043	where did <e> graduate from college
+people.person.education..education.education.institution
+musical_artist
+
+1054	where did <e> go to school
+people.person.education..education.education.institution
+author
+
+1137	what did <e> go to college for
+people.person.education..education.education.major_field_of_study
+celebrity
+
+1147	where did <e> go to school
+people.person.education..education.education.institution
+politician
+
+1152	what university did <e> graduated from
+people.person.education..education.education.institution
+us_president
+
+1154	where did president <e> go to school
+people.person.education..education.education.institution
+us_president
+
+1175	which college did <e> attend
+people.person.education..education.education.institution
+us_president
+
+1255	where did <e> go to college
+people.person.education..education.education.institution
+golfer
+
+1257	what school did <e> go to
+people.person.education..education.education.institution
+musical_artist
+
+1261	what college did <e> attend
+people.person.education..education.education.institution
+us_president
+
+1281	where did <e> went to school
+people.person.education..education.education.institution
+author
+
+1282	where did <e> go to college
+people.person.education..education.education.institution
+physician
+
+1299	where did <e> go to school
+people.person.education..education.education.institution
+author
+
+1303	what was basketball player <e> 's major in college
+people.person.education..education.education.major_field_of_study
+celebrity
+
+1351	where was <e> educated
+people.person.education..education.education.institution
+us_president
+
+1361	where did <e> jay go to college
+people.person.education..education.education.institution
+american_football_player
+
+1366	what school did <e> go to
+people.person.education..education.education.institution
+organization_leader
+
+1380	where did <e> go to college
+people.person.education..education.education.institution
+basketball_coach
+
+1411	where <e> go to school
+people.person.education..education.education.institution
+inventor
+
+1419	where did <e> go to high school
+people.person.education..education.education.institution
+academic
+
+1461	which college did <e> graduated
+people.person.education..education.education.institution
+us_president
+
+1467	what highschool did <e> graduated from
+people.person.education..education.education.institution
+organization_leader
+
+1550	what was <e> 's education
+people.person.education..education.education.institution
+author
+
+1560	where did <e> go to college
+people.person.education..education.education.institution
+politician
+
+1569	where did <e> attend high school
+people.person.education..education.education.institution
+basketball_player
+
+1576	where <e> went to college
+people.person.education..education.education.institution
+organization_leader
+
+1577	what did <e> study at university
+people.person.education..education.education.degree
+politician
+
+1579	from which university did <e> receive his bachelor 's degree
+people.person.education..education.education.institution
+us_president
+
+1601	what college did <e> attend
+people.person.education..education.education.institution
+american_football_player
+
+1643	where <e> go to school
+people.person.education..education.education.institution
+us_president
+
+1657	what was <e> education
+people.person.education..education.education.institution
+inventor
+
+1670	where did <e> go to high school
+people.person.education..education.education.institution
+celebrity
+
+1749	where did <e> go to high school
+people.person.education..education.education.institution
+us_president
+
+1759	what year did <e> go to college
+people.person.education..education.education.institution
+author
+
+1772	what school did <e> go to
+people.person.education..education.education.institution
+academic
+
+1786	where did <e> go to school
+people.person.education..education.education.institution
+author
+
+1790	what college did <e> go to
+people.person.education..education.education.institution
+american_football_player
+
+1857	where did <e> go to high school
+people.person.education..education.education.institution
+us_president
+
+1865	where did <e> go to college
+people.person.education..education.education.institution
+politician
+
+1894	where did <e> go to high school
+people.person.education..education.education.institution
+us_president
+
+1913	what degree did <e> get
+people.person.education..education.education.degree
+author
+
+1919	what college did <e> attend
+people.person.education..education.education.institution
+american_football_player
+
+1937	where did <e> attend college
+people.person.education..education.education.institution
+u.s._congressperson
+
+1940	where did <e> attend college
+people.person.education..education.education.institution
+american_football_player
+
+2021	what school did <e> go to
+people.person.education..education.education.institution
+author
+
+2027	what school did <e> go to
+people.person.education..education.education.institution
+celebrity
+
+2031	what primary school did <e> go to
+people.person.education..education.education.institution
+academic
+
+2045	what university did <e> graduate from
+people.person.education..education.education.institution
+organization_leader
+
+2066	where did <e> go to college
+people.person.education..education.education.institution
+tv_writer
+
+2067	where did <e> get his education
+people.person.education..education.education.institution
+academic
+
+2082	where did <e> go to college
+people.person.education..education.education.institution
+author
+
+2088	where did <e> went to school
+people.person.education..education.education.institution
+us_president
+
+2100	what college did <e> go to
+people.person.education..education.education.institution
+physician
+
+2112	where did chris <e> go
+people.person.education..education.education.institution
+politician
+
+2145	what prep school did <e> attend
+people.person.education..education.education.institution
+politician
+
+2157	where did <e> go to school
+people.person.education..education.education.institution
+us_president
+
+2246	where did <e> go to high school
+people.person.education..education.education.institution
+physician
+
+2250	what college did <e> attend
+people.person.education..education.education.institution
+olympic_athlete
+
+2281	what education does <e> have
+people.person.education..education.education.institution
+tv_producer
+
+2302	what kind of education did <e> have
+people.person.education..education.education.institution
+us_president
+
+2323	what college <e> go to
+people.person.education..education.education.institution
+basketball_player
+
+2335	where did <e> go to school
+people.person.education..education.education.institution
+baseball_player
+
+2339	where was <e> education
+people.person.education..education.education.institution
+author
+
+2353	what university did <e> go to
+people.person.education..education.education.institution
+american_football_player
+
+2357	where did <e> study
+people.person.education..education.education.institution
+academic
+
+2364	what college did <e> attend
+people.person.education..education.education.institution
+organization_leader
+
+2400	where did <e> go to college
+people.person.education..education.education.institution
+u.s._congressperson
+
+2415	what school did <e> attend
+people.person.education..education.education.institution
+celebrity
+
+2452	where did <e> go to prep school
+people.person.education..education.education.institution
+politician
+
+2458	what college did <e> go to
+people.person.education..education.education.institution
+author
+
+2489	where did dr <e> get his doctorate
+people.person.education..education.education.institution
+author
+
+2515	where did president <e> go to college
+people.person.education..education.education.institution
+us_president
+
+2524	what college did <e> attend
+people.person.education..education.education.institution
+basketball_player
+
+2539	what university did <e> attend
+people.person.education..education.education.institution
+us_president
+
+2552	where does <e> go to school
+people.person.education..education.education.institution
+celebrity
+
+2555	what colleges did <e> attend
+people.person.education..education.education.institution
+author
+
+2556	what schools did <e> attend
+people.person.education..education.education.institution
+us_president
+
+2567	what college did <e> attend
+people.person.education..education.education.institution
+american_football_player
+
+2584	where did <e> go to school
+people.person.education..education.education.institution
+u.s._congressperson
+
+2605	what does <e> have a degree in
+people.person.education..education.education.major_field_of_study
+us_president
+
+2626	what highschool did <e> go to
+people.person.education..education.education.institution
+celebrity
+
+2657	what school did <e> attend
+people.person.education..education.education.institution
+author
+
+2757	where did <e> went to school
+people.person.education..education.education.institution
+celebrity
+
+2777	where did <e> go to school
+people.person.education..education.education.institution
+celebrity
+
+2897	where did <e> attend college
+people.person.education..education.education.institution
+u.s._congressperson
+
+2941	where did chef <e> go to school
+people.person.education..education.education.institution
+american_football_player
+
+2963	where did <e> play high school football
+people.person.education..education.education.institution
+american_football_player
+
+2975	where did <e> go to high school
+people.person.education..education.education.institution
+musical_artist
+
+2988	where did <e> go to high school
+people.person.education..education.education.institution
+celebrity
+
+3079	where did dr. <e> go to school
+people.person.education..education.education.institution
+author
+
+3089	what college did <e> go to
+people.person.education..education.education.institution
+american_football_player
+

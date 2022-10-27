@@ -1,0 +1,3836 @@
+55	what is the genre for the film <e>
+/film/film/genre
+film
+
+93	what genre is the movie <e>
+/film/film/genre
+film
+
+133	what kind of film is <e>
+/film/film/genre
+film
+
+135	what is <e> movie about
+/media_common/netflix_title/netflix_genres
+film
+
+149	what types of movie is <e>
+/film/film/genre
+film
+
+159	what type of film is <e>
+/film/film/genre
+film
+
+166	what language is spoken in <e>
+/media_common/netflix_title/netflix_genres
+film
+
+177	what kind of film is <e>
+/film/film/genre
+film
+
+188	what type of film is <e>
+/film/film/genre
+film
+
+199	what kind of film is <e>
+/film/film/genre
+film
+
+201	what is the genre of <e>
+/tv/tv_program/genre
+tv_program
+
+217	what type of film is <e>
+/film/film/genre
+film
+
+236	what netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+297	what sort of movie is <e>
+/film/film/genre
+film
+
+307	what 's the broadest genre that describes <e>
+/film/film/genre
+film
+
+313	what type of film is <e>
+/film/film/genre
+film
+
+341	what type of film is <e>
+/film/film/genre
+film
+
+353	what sort of film is <e>
+/film/film/genre
+film
+
+358	what kinds of movie is <e>
+/film/film/genre
+award-winning_work
+
+364	what kind of film is <e>
+/film/film/genre
+film
+
+381	what is the genre of <e> tv program
+/tv/tv_program/genre
+tv_program
+
+424	which type of film is <e> released in
+/film/film/genre
+film
+
+440	what type of film is <e>
+/film/film/genre
+film
+
+455	what type of film is <e>
+/film/film/genre
+film
+
+490	what genre of film is <e>
+/film/film/genre
+film
+
+565	what types of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+578	what television genre is <e>
+/tv/tv_program/genre
+tv_program
+
+606	what is the genre of <e>
+/media_common/netflix_title/netflix_genres
+musical_album
+
+648	what film genre is the movie <e>
+/film/film/genre
+film
+
+665	which genre does the title <e> fall under
+/media_common/netflix_title/netflix_genres
+film
+
+667	what film genre is <e>
+/film/film/genre
+film
+
+718	what is the genre of the netflix title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+742	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+744	what type of film is <e>
+/film/film/genre
+film
+
+781	which genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+793	what is the genre of the movie <e>
+/film/film/genre
+film
+
+817	what kind of netflix title is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+864	on netflix , which categories does <e> fall into
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+881	which language is spoken in <e>
+/media_common/netflix_title/netflix_genres
+film
+
+883	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+902	what is the genre of the film <e>
+/film/film/genre
+award-winning_work
+
+903	what kind of tv show is <e>
+/tv/tv_program/genre
+tv_program
+
+935	which genre does <e> follow
+/film/film/genre
+film
+
+941	what is the netflix genre of the film <e>
+/media_common/netflix_title/netflix_genres
+film
+
+1000	what kind of film is <e>
+/film/film/genre
+film
+
+1020	whats the netflix genre of the film <e>
+/media_common/netflix_title/netflix_genres
+film
+
+1057	what genre is the film <e>
+/film/film/genre
+film
+
+1085	what genre is the <e>
+/film/film/genre
+_NOTYPE_
+
+1088	which genre does <e> belong to
+/film/film/genre
+film
+
+1136	what is discussed in the show <e>
+/tv/tv_program/genre
+tv_program
+
+1156	what kind of a film is <e>
+/film/film/genre
+film
+
+1160	what is the genre of the film <e>
+/film/film/genre
+film
+
+1161	which genre is the film <e> from
+/media_common/netflix_title/netflix_genres
+film
+
+1196	what genre of film is <e> in
+/film/film/genre
+film
+
+1253	what genre is <e> on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+1261	what netflix category does <e> fall under
+/media_common/netflix_title/netflix_genres
+film
+
+1307	which netflix genre is <e> categorized under
+/media_common/netflix_title/netflix_genres
+tv_program
+
+1424	what kind of movie is <e>
+/film/film/genre
+film
+
+1431	what type of film is <e>
+/film/film/genre
+film
+
+1466	is <e> a war film or a romance
+/film/film/genre
+film
+
+1484	what genre of film is <e>
+/film/film/genre
+film
+
+1521	what kind of film is <e>
+/film/film/genre
+film
+
+1570	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+1593	which genre is the film <e> in
+/film/film/genre
+film
+
+1618	what style tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+1637	what type of movie is the neflix film <e>
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+1677	what is the movie genre of <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+1685	is <e> a feature film or a short film
+/film/film/genre
+film
+
+1706	what type of program is <e>
+/tv/tv_program/genre
+tv_program
+
+1718	what type of music is <e>
+/media_common/netflix_title/netflix_genres
+musical_album
+
+1727	what genre is <e> found under
+/media_common/netflix_title/netflix_genres
+film
+
+1737	what genre is <e> under on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+1757	what kind of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+1795	what kind of film is <e>
+/film/film/genre
+film
+
+1863	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+1878	what kind of show is <e>
+/tv/tv_program/genre
+award-winning_work
+
+1938	what genre is <e>
+/film/film/genre
+film
+
+1948	what netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+2004	what genre is the film <e>
+/film/film/genre
+film
+
+2006	what genre is the film <e>
+/film/film/genre
+film
+
+2034	what is the genre of the film <e>
+/film/film/genre
+film
+
+2054	what kind of movie is <e>
+/film/film/genre
+film
+
+2081	what kind of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+2092	which genre is <e>
+/film/film/genre
+film
+
+2109	what kinds of movie is <e>
+/film/film/genre
+award-winning_work
+
+2139	what kind of film is <e> classified as
+/film/film/genre
+film
+
+2186	what genre of film does <e> belong to
+/film/film/genre
+film
+
+2217	which genre of film is <e>
+/film/film/genre
+film
+
+2226	what kind of movie is <e>
+/film/film/genre
+film
+
+2239	what genre is <e>
+/film/film/genre
+film
+
+2242	what genre is the film <e>
+/film/film/genre
+film
+
+2243	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+2262	what kind of movie is <e>
+/film/film/genre
+film
+
+2291	which genre is dragon ball z : <e>
+/film/film/genre
+_NOTYPE_
+
+2297	what kind of movie is <e>
+/film/film/genre
+film
+
+2311	what kind of a film is <e>
+/film/film/genre
+film
+
+2314	is <e> a drama or comedy
+/tv/tv_program/genre
+tv_program
+
+2349	what kind of film is the movie <e>
+/film/film/genre
+film
+
+2361	what kinds of movie is <e>
+/film/film/genre
+film
+
+2366	what kind of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+2368	what kind of movie is <e>
+/film/film/genre
+film
+
+2369	what kind of film is <e>
+/film/film/genre
+film
+
+2375	what style film is <e>
+/film/film/genre
+_NOTYPE_
+
+2376	which genre of film is <e>
+/film/film/genre
+film
+
+2384	what kind of film is <e>
+/film/film/genre
+film
+
+2438	what kind of film is <e>
+/film/film/genre
+film
+
+2457	<e> can be found under what genre on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+2458	what genre is the film <e>
+/film/film/genre
+film
+
+2476	what movie genre is <e> ( film ) categorized as
+/media_common/netflix_title/netflix_genres
+film
+
+2496	what type of movie is the <e>
+/film/film/genre
+film
+
+2498	what was the genre of netflix title <e>
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+2508	what genre is <e>
+/film/film/genre
+film
+
+2560	what kind of film is <e>
+/film/film/genre
+concert_film
+
+2620	what kind of film is <e>
+/film/film/genre
+film
+
+2629	what types of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+tv_episode
+
+2642	what is the genre from the film <e>
+/film/film/genre
+film
+
+2651	what is the topic of the title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+2668	what kind of tv show is <e>
+/tv/tv_program/genre
+tv_program
+
+2718	<e> is what type of tv program
+/tv/tv_program/genre
+_NOTYPE_
+
+2721	what genre does the netflix title <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+2729	what kind of program is <e>
+/tv/tv_program/genre
+tv_program
+
+2740	what type of film is <e>
+/film/film/genre
+adaptation
+
+2743	what film genre is <e>
+/film/film/genre
+film
+
+2748	what kind of netflix film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+2770	what genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+2772	what genre of movies is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+2800	what kind of movie was <e>
+/film/film/genre
+film
+
+2811	what is <e> classified under on netflix
+/media_common/netflix_title/netflix_genres
+tv_episode
+
+2853	what genre is <e>
+/tv/tv_program/genre
+tv_program
+
+2865	which kind of film is <e> ( film ) in
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+2868	what genre of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+2916	what genre is <e> a part of
+/media_common/netflix_title/netflix_genres
+film
+
+2917	what type of dialect is spoken in the <e> movie
+/media_common/netflix_title/netflix_genres
+film
+
+2950	what is the genre of the film <e>
+/film/film/genre
+film
+
+2964	what kind of movie is <e>
+/film/film/genre
+film
+
+2966	what kind of film is <e>
+/film/film/genre
+film
+
+2980	what is <e> considered as
+/film/film/genre
+film
+
+2987	what kind of movie is <e>
+/film/film/genre
+film
+
+3026	what kind of film is <e>
+/film/film/genre
+film
+
+3043	what sort of show is <e>
+/tv/tv_program/genre
+tv_program
+
+3052	what kind of film is <e>
+/film/film/genre
+film
+
+3065	what is the genre for the movie <e>
+/film/film/genre
+film
+
+3077	which netflix genre does <e> ( 2008 film ) fall under
+/media_common/netflix_title/netflix_genres
+film
+
+3088	which genre does the film <e> belong to
+/film/film/genre
+film
+
+3093	what film genre is <e> considered to be
+/media_common/netflix_title/netflix_genres
+film
+
+3095	what is the film genre of <e>
+/film/film/genre
+film
+
+3200	what movie category does <e> fall within
+/media_common/netflix_title/netflix_genres
+film
+
+3206	what types of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+3244	what type of film is <e>
+/film/film/genre
+film
+
+3267	what is the genre of the film <e>
+/media_common/netflix_title/netflix_genres
+film
+
+3276	what is the film genre for <e>
+/film/film/genre
+film
+
+3285	what type of program is <e>
+/tv/tv_program/genre
+tv_program
+
+3286	what is <e> classified as on netflix
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+3305	what type of music is the film <e>
+/film/film/genre
+concert_film
+
+3332	what film genre is <e>
+/film/film/genre
+film
+
+3372	what kind of movie is <e>
+/film/film/genre
+film
+
+3401	which genre of film is <e>
+/film/film/genre
+film
+
+3425	what type of film is <e>
+/film/film/genre
+film
+
+3461	what kind of film is a <e>
+/film/film/genre
+film
+
+3493	what types of movie is <e>
+/film/film/genre
+film
+
+3501	what song is on the film <e>
+/film/film/genre
+film
+
+3505	what type of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+3511	what kind of western is <e>
+/film/film/genre
+film
+
+3518	what kind of film is <e>
+/film/film/genre
+film
+
+3531	<e> is what type of movie
+/film/film/genre
+film
+
+3542	what film genre is <e>
+/film/film/genre
+film
+
+3579	which movie genre is <e>
+/film/film/genre
+adaptation
+
+3585	what kind of film is <e>
+/film/film/genre
+film
+
+3612	what kind of film is <e>
+/film/film/genre
+film
+
+3614	what is the genre of the netflix title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+3638	in what netflix genre is the movie <e>
+/media_common/netflix_title/netflix_genres
+film
+
+3641	what is the genre of <e>
+/media_common/netflix_title/netflix_genres
+book
+
+3747	how would a person classify <e>
+/media_common/netflix_title/netflix_genres
+film
+
+3755	what kind of show is the <e>
+/tv/tv_program/genre
+tv_program
+
+3780	what kind of film genre is the movie <e>
+/film/film/genre
+_NOTYPE_
+
+3797	which type of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+3811	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+3827	what netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+3842	what type of film is <e>
+/film/film/genre
+film
+
+3858	what is the genre of <e>
+/film/film/genre
+musical_group
+
+3898	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+3902	what kind of movie is the film <e>
+/film/film/genre
+film
+
+3903	what is the genre of the show <e>
+/tv/tv_program/genre
+recurring_competition
+
+3919	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+3927	which genre does the film <e> fall under
+/film/film/genre
+award-winning_work
+
+3928	what kind of film is <e>
+/film/film/genre
+film
+
+3936	what sort of film is <e>
+/film/film/genre
+film
+
+3965	what kinds of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+3975	what netflix genre is <e> under
+/media_common/netflix_title/netflix_genres
+film
+
+3982	what type of film is <e>
+/film/film/genre
+film
+
+4000	what type of film is <e>
+/film/film/genre
+film
+
+4011	what kind of film is <e>
+/film/film/genre
+film
+
+4044	what kind of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+4084	of what genre is the film <e>
+/film/film/genre
+film
+
+4110	what type of film is <e>
+/film/film/genre
+film
+
+4111	which film genre is <e> in
+/film/film/genre
+film
+
+4134	is <e> fantasy or science fiction
+/film/film/genre
+film
+
+4136	what genre of film is <e> in
+/film/film/genre
+film
+
+4139	what netflix genre houses <e>
+/media_common/netflix_title/netflix_genres
+tv_program
+
+4224	what netflix genre does <e> fall under
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+4262	is <e> a animation or crime fiction film
+/film/film/genre
+film
+
+4291	what is the genre of <e> ( film )
+/film/film/genre
+film
+
+4299	what genre is the film <e> on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+4317	is <e> a full or short film
+/film/film/genre
+film
+
+4328	what genre was the 2009 film <e>
+/film/film/genre
+film
+
+4336	what types of music is used in <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+4352	what film genre is <e>
+/film/film/genre
+film
+
+4357	was the film <e> in color or black-and-white
+/film/film/genre
+film
+
+4383	what kind of film is <e>
+/film/film/genre
+film
+
+4436	what kinds of movie is <e>
+/film/film/genre
+film
+
+4447	what type of movie is <e>
+/film/film/genre
+film
+
+4482	<e> is a film of what genre
+/film/film/genre
+film
+
+4502	what is <e> classified as
+/film/film/genre
+film
+
+4574	what type of film is <e> considered to be
+/film/film/genre
+film
+
+4603	what 's one of the categories that netflix puts <e>
+/media_common/netflix_title/netflix_genres
+film
+
+4660	what type of film is <e>
+/film/film/genre
+film
+
+4707	what genre of film is <e>
+/film/film/genre
+film
+
+4726	what genre of film is <e>
+/film/film/genre
+film
+
+4753	what of film is <e>
+/film/film/genre
+film
+
+4772	what type of netflix film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+4816	what is the netflix genre of the netflix title <e>
+/media_common/netflix_title/netflix_genres
+concert_film
+
+4827	what type of film is <e>
+/film/film/genre
+film
+
+4842	what is <e>
+/media_common/netflix_title/netflix_genres
+musical_recording
+
+4860	what netflix genre is <e> categorized in
+/media_common/netflix_title/netflix_genres
+adaptation
+
+4881	was <e> a tv or theatrical movie
+/film/film/genre
+film
+
+4891	what genre is <e> classified as
+/film/film/genre
+film
+
+4893	what kind of film is <e>
+/film/film/genre
+film
+
+4907	what kind of film is <e>
+/film/film/genre
+film
+
+4915	what types of movie is <e> ( film ) in netflix
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+4952	what movie genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+4960	is <e> a fantasy or comedy
+/film/film/genre
+film
+
+4998	which netflix genre is <e> found under
+/media_common/netflix_title/netflix_genres
+film
+
+5006	which genre is <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+5008	what type of film is <e>
+/film/film/genre
+tv_program
+
+5028	what kind of film is <e>
+/film/film/genre
+award-winning_work
+
+5034	what is the genre of the movie <e>
+/media_common/netflix_title/netflix_genres
+film
+
+5056	what type of film is the clay animated movie <e>
+/film/film/genre
+film
+
+5139	what kind of film is <e>
+/film/film/genre
+tv_episode
+
+5140	what kind of tv show was <e>
+/tv/tv_program/genre
+tv_program
+
+5152	which genre can one find <e> under on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+5184	what genre is the tv show <e>
+/tv/tv_program/genre
+tv_program
+
+5198	what 's the best way to describe <e>
+/film/film/genre
+film
+
+5199	what kind of movie is <e>
+/film/film/genre
+film
+
+5203	what genre of film is <e>
+/film/film/genre
+film
+
+5209	what genre is <e>
+/film/film/genre
+film
+
+5241	what netflix genre is the film <e>
+/media_common/netflix_title/netflix_genres
+film
+
+5290	what types of movie is <e>
+/film/film/genre
+film
+
+5340	what kind of film is <e>
+/film/film/genre
+film
+
+5355	what kind of film is <e>
+/film/film/genre
+film
+
+5372	what types of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+5469	what 's the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+5599	what type of film is <e>
+/film/film/genre
+film
+
+5601	what kind of film is <e>
+/film/film/genre
+film
+
+5611	what tv genre is the program <e> considered to be
+/tv/tv_program/genre
+tv_program
+
+5612	what type of movie is <e>
+/film/film/genre
+award-winning_work
+
+5616	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+5660	what is the genre of the film <e>
+/film/film/genre
+film
+
+5665	what sort of film is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+5667	what kind of television show is <e>
+/tv/tv_program/genre
+tv_program
+
+5686	what genre of tv program is <e>
+/tv/tv_program/genre
+award-winning_work
+
+5716	what genre of film is the movie <e>
+/film/film/genre
+tv_program
+
+5730	what genre of film is <e>
+/film/film/genre
+film
+
+5815	where on netflix is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+5843	what genre does <e> fall under
+/film/film/genre
+film
+
+5856	what genre is <e>
+/tv/tv_program/genre
+tv_program
+
+5890	what kind of genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+5900	what kind of film is <e>
+/film/film/genre
+film
+
+5915	what sort of movie is <e>
+/film/film/genre
+tv_program
+
+5947	what genre of film is <e>
+/film/film/genre
+film
+
+6010	which genre of film is <e>
+/film/film/genre
+film
+
+6017	is <e> an adventure or horror movie
+/film/film/genre
+film
+
+6036	what type of film is <e>
+/film/film/genre
+film
+
+6043	what netflix genre is <e> under
+/media_common/netflix_title/netflix_genres
+film
+
+6051	what language is the movie <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+6069	what kind of film is <e>
+/film/film/genre
+film
+
+6091	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+6094	what type of movie is <e>
+/film/film/genre
+film
+
+6095	the film <e> is considered what type of genre
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+6159	what type of program is <e>
+/tv/tv_program/genre
+tv_program
+
+6208	what type of film is <e>
+/film/film/genre
+film
+
+6211	what netflix genre included <e>
+/media_common/netflix_title/netflix_genres
+tv_program
+
+6272	what genre of film is <e>
+/film/film/genre
+film
+
+6304	what kind of program is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+6323	what genre is <e>
+/film/film/genre
+musical_group
+
+6329	what film genre is <e>
+/film/film/genre
+film
+
+6353	what genre film is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+6369	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+6370	what genre of film is <e>
+/film/film/genre
+film
+
+6386	what is the genre of the film <e>
+/film/film/genre
+film
+
+6403	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+6413	what genre is the film <e>
+/film/film/genre
+film
+
+6424	what genre of film is <e>
+/film/film/genre
+film
+
+6459	what tv genre is <e>
+/tv/tv_program/genre
+tv_program
+
+6473	what was the netflix genre of the title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+6496	what kind of film is <e>
+/film/film/genre
+film
+
+6498	what genre is the film <e>
+/film/film/genre
+film
+
+6504	what genre is <e> in on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+6510	what was the genre of the film <e>
+/film/film/genre
+film
+
+6511	what is the genre of the tv program <e>
+/tv/tv_program/genre
+tv_program
+
+6519	what type of movie is <e>
+/film/film/genre
+film
+
+6523	what type of film is <e>
+/film/film/genre
+film
+
+6551	what is the netflix genre that houses <e>
+/media_common/netflix_title/netflix_genres
+concert_film
+
+6577	the netflix title <e> is classified as what type of film genre
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+6585	what genre is <e>
+/film/film/genre
+film
+
+6601	what genre of tv show is <e> in
+/tv/tv_program/genre
+tv_program
+
+6603	what type of film is the <e>
+/film/film/genre
+film
+
+6614	what kind of a movie is <e>
+/film/film/genre
+tv_program
+
+6650	what genre is <e>
+/film/film/genre
+musical_album
+
+6660	what kind of film is <e>
+/film/film/genre
+film
+
+6676	what movie genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+6708	what kind of film is <e>
+/film/film/genre
+film
+
+6734	what kind of film is <e>
+/film/film/genre
+film
+
+6759	what is the genre of <e>
+/tv/tv_program/genre
+musical_artist
+
+6803	what kind of film is <e>
+/film/film/genre
+film
+
+6818	in which category on netflix can the title <e> be found
+/media_common/netflix_title/netflix_genres
+film
+
+6837	what kind of film is <e>
+/film/film/genre
+film
+
+6840	which netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+6844	what type of movie is <e>
+/film/film/genre
+film
+
+6879	what genre does <e> fall under
+/film/film/genre
+film
+
+6886	is <e> a drama or comedy
+/film/film/genre
+film
+
+6902	what is the film genre of <e>
+/film/film/genre
+film
+
+6918	is <e> an action film or comedy
+/film/film/genre
+film
+
+6930	what type of movie is <e>
+/film/film/genre
+film
+
+6935	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+6955	what type of film is <e>
+/film/film/genre
+award-winning_work
+
+7002	what type of film is <e>
+/film/film/genre
+film
+
+7043	what types of movie is <e>
+/film/film/genre
+film
+
+7052	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+7065	what kind of film is <e>
+/film/film/genre
+film
+
+7094	what genre is <e> on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+7120	what movie genre is <e>
+/film/film/genre
+tv_program
+
+7153	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+7175	what netflix genre is the film <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+7194	where would a person find <e> on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+7217	what is the genre of the film <e>
+/film/film/genre
+film
+
+7253	what netflix genre is <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+7260	what film genre is <e>
+/film/film/genre
+film
+
+7261	what kind of movie is <e>
+/film/film/genre
+film
+
+7277	what type of film is <e> ( film )
+/media_common/netflix_title/netflix_genres
+film
+
+7292	which genre of film is <e>
+/film/film/genre
+film
+
+7337	what type of movie is <e>
+/film/film/genre
+film
+
+7391	what kinds of movie is <e>
+/film/film/genre
+tv_program
+
+7395	what netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+7415	what type of movie was <e>
+/film/film/genre
+film
+
+7417	what genre of film is <e>
+/film/film/genre
+film
+
+7447	what category of film is <e>
+/film/film/genre
+award-winning_work
+
+7448	what genre is <e> categorized as
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+7464	what type of film is <e>
+/film/film/genre
+film
+
+7483	is there a label for <e>
+/film/film/genre
+film
+
+7497	what kinds of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+7513	what type of film is <e>
+/film/film/genre
+film
+
+7554	what genre is <e> in on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+7559	what type of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+7586	what film genre is <e>
+/film/film/genre
+tv_program
+
+7588	what genre of film is <e>
+/film/film/genre
+film
+
+7617	what kind of film is <e>
+/film/film/genre
+award-winning_work
+
+7620	what genre is <e>
+/film/film/genre
+film
+
+7632	what type of movie is <e>
+/film/film/genre
+film
+
+7685	what film genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+7711	what genre of tv is <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+7723	what type of program is <e>
+/tv/tv_program/genre
+tv_program
+
+7739	what genre does <e> fall under
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+7767	what types of movie is <e>
+/film/film/genre
+film
+
+7795	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+7796	what kind of film is <e> in
+/film/film/genre
+film
+
+7809	what is the genre on netflix you could find the movie <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+7822	what is the genre for <e>
+/media_common/netflix_title/netflix_genres
+film
+
+7901	is <e> a drama or comedy
+/film/film/genre
+film
+
+7953	what genre of film is <e>
+/film/film/genre
+film
+
+7965	what genre of film is <e>
+/film/film/genre
+film
+
+7974	what genre is <e>
+/film/film/genre
+musical_album
+
+8009	what is the genre of the film <e>
+/film/film/genre
+film
+
+8018	what genre was the netflix title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+8027	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+8042	what genre on netflix is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+8045	of which genre is <e>
+/film/film/genre
+film
+
+8046	<e> is considered as what type of film
+/film/film/genre
+film
+
+8059	what film genre is <e>
+/film/film/genre
+film
+
+8072	what type of genre is <e>
+/film/film/genre
+film
+
+8079	what type of genre is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+8084	what type of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+8117	in what netflix genre would you find the film <e>
+/media_common/netflix_title/netflix_genres
+film
+
+8148	what is the genre of the netflix movie <e>
+/media_common/netflix_title/netflix_genres
+film
+
+8180	what type of film is <e>
+/film/film/genre
+film
+
+8244	what genre is the film <e>
+/film/film/genre
+film
+
+8300	what type of film is <e>
+/film/film/genre
+film
+
+8313	what genre is the film <e>
+/film/film/genre
+film
+
+8316	what category is <e> under on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+8335	what language is <e> featured in
+/media_common/netflix_title/netflix_genres
+film
+
+8339	what kind of film is <e>
+/film/film/genre
+film
+
+8373	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+8378	what kind of film is <e>
+/film/film/genre
+film
+
+8386	what film genre is <e>
+/film/film/genre
+film
+
+8400	is <e> an action movie or documentary
+/film/film/genre
+film
+
+8426	which netflix genre does <e> fit under
+/media_common/netflix_title/netflix_genres
+film
+
+8431	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+8448	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+8511	whats the genre of the film <e>
+/film/film/genre
+_NOTYPE_
+
+8547	what type of film is <e>
+/film/film/genre
+film
+
+8570	what kind of movie is <e>
+/film/film/genre
+film
+
+8592	what type of film is <e>
+/film/film/genre
+film
+
+8600	what netflix genre does the title <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+8637	what is <e> genre on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+8648	what type of film is <e>
+/film/film/genre
+film
+
+8652	<e> is what type of film
+/film/film/genre
+film
+
+8673	what kinds of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+8675	what genre on netflix is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+8706	what genre is the film <e>
+/film/film/genre
+film
+
+8739	what type of movie is <e>
+/film/film/genre
+film
+
+8752	what type of movie is <e>
+/film/film/genre
+award-winning_work
+
+8765	what type of show would <e> be considered as
+/tv/tv_program/genre
+tv_program
+
+8816	what kind of film is <e>
+/film/film/genre
+film
+
+8830	what genre is <e>
+/film/film/genre
+film
+
+8836	what is the genre of the movie <e>
+/media_common/netflix_title/netflix_genres
+film
+
+8867	what types of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+8869	what genre is the film <e>
+/film/film/genre
+film
+
+8870	what style of film is <e> under
+/film/film/genre
+award-winning_work
+
+8949	what kinds of movie is <e>
+/film/film/genre
+film
+
+8957	what is the genre of the netflix title <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+8973	what kind of film is <e>
+/film/film/genre
+film
+
+8976	what type of film is <e>
+/film/film/genre
+film
+
+8987	what netflix genre is the film <e> ( film )
+/media_common/netflix_title/netflix_genres
+film
+
+8990	what type of music is <e>
+/film/film/genre
+musical_album
+
+9003	what kind of movie is <e>
+/film/film/genre
+tv_program
+
+9004	what genre is the film <e>
+/film/film/genre
+film
+
+9077	what type of film is <e>
+/film/film/genre
+film
+
+9081	what genre is the netflix title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+9108	what genre in netflix is <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+9150	what netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+9160	what movie genre is <e>
+/film/film/genre
+film
+
+9176	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+9197	what types of movie is <e>
+/film/film/genre
+film
+
+9203	what types of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+9213	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+9228	what types of movie is <e>
+/film/film/genre
+film
+
+9229	what kind of film is <e>
+/film/film/genre
+film
+
+9238	what was the genre of the film <e>
+/film/film/genre
+film
+
+9249	what foreign language is <e> titled as in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+9257	what kind of film is <e>
+/film/film/genre
+film
+
+9288	what netflix genre does <e> fall into
+/media_common/netflix_title/netflix_genres
+film
+
+9309	what types of movie is <e>
+/film/film/genre
+film
+
+9412	what netflix genre is <e> a part of
+/media_common/netflix_title/netflix_genres
+film
+
+9420	which genre is <e> located in on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+9424	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+9441	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+9442	is <e> a short film or a documentary
+/film/film/genre
+symptom
+
+9472	is <e> science fiction or drama
+/film/film/genre
+film
+
+9482	what is the netflix genre of the title <e> ( film )
+/media_common/netflix_title/netflix_genres
+film
+
+9534	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+9540	what genre on netflix is the title <e> located in
+/media_common/netflix_title/netflix_genres
+film
+
+9589	what type of program is <e>
+/tv/tv_program/genre
+award-winning_work
+
+9599	what kind of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+9633	what is the genre of the netflix film <e> ( film )
+/media_common/netflix_title/netflix_genres
+film
+
+9635	what kind of movie is <e>
+/film/film/genre
+film
+
+9646	<e> is under what genre
+/tv/tv_program/genre
+tv_program
+
+9653	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+9681	what genre on netflix is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+9709	what kind of music is played in the movie <e>
+/film/film/genre
+film
+
+9719	what types of movie is <e>
+/film/film/genre
+film
+
+9722	which genre does <e> fall under
+/media_common/netflix_title/netflix_genres
+film
+
+9727	what type of genre is <e>
+/film/film/genre
+film
+
+9787	what genre is the tv program <e>
+/tv/tv_program/genre
+tv_program
+
+9813	what kind of film is <e>
+/film/film/genre
+film
+
+9882	what sort of film is <e>
+/film/film/genre
+film
+
+9885	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+9890	what genre of film is <e>
+/film/film/genre
+film
+
+9902	what kind of film is <e>
+/film/film/genre
+award-winning_work
+
+9948	which genre does <e> belong to
+/film/film/genre
+award-winning_work
+
+9977	what is the movie <e> 's genre
+/film/film/genre
+film
+
+9995	which category does <e> fall into
+/film/film/genre
+film
+
+10015	which genre of film is <e>
+/film/film/genre
+film
+
+10027	<e> was filmed in which language
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+10035	which language is spoken in <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+10049	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+10067	what kind of film is <e>
+/film/film/genre
+film
+
+10089	which genre in netflix can <e> be found under
+/media_common/netflix_title/netflix_genres
+film
+
+10127	how is the netflix title <e> classified
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+10178	what genre is the film `` <e>
+/film/film/genre
+_NOTYPE_
+
+10184	what kind of film is <e>
+/film/film/genre
+film
+
+10197	which genre does netflix put <e>
+/media_common/netflix_title/netflix_genres
+film
+
+10202	what kind of film is <e>
+/film/film/genre
+film
+
+10207	what is the genre of the tv program <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+10243	what genre is <e>
+/film/film/genre
+film
+
+10244	what genre of film is <e> in
+/film/film/genre
+film
+
+10268	what type of genre is <e>
+/film/film/genre
+film
+
+10272	what style of film is <e>
+/film/film/genre
+film
+
+10319	what genre of film is <e>
+/film/film/genre
+film
+
+10346	what genre of film is <e>
+/film/film/genre
+film
+
+10354	what sort of movie is <e>
+/film/film/genre
+film
+
+10360	what film genre is <e>
+/film/film/genre
+film
+
+10368	what genre of film is <e>
+/film/film/genre
+film
+
+10369	<e> is what type of film
+/film/film/genre
+film
+
+10385	what genre of film is <e>
+/film/film/genre
+film
+
+10453	is <e> a thriller ( genre ) or mystery
+/film/film/genre
+film
+
+10457	what genre is the tv program <e>
+/tv/tv_program/genre
+tv_program
+
+10469	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+10489	what is <e> classified as
+/film/film/genre
+film
+
+10502	what type of movie is <e>
+/film/film/genre
+film
+
+10541	what is the genre of <e>
+/film/film/genre
+tv_program
+
+10572	which netflix genre does <e> affiliate with
+/media_common/netflix_title/netflix_genres
+film
+
+10584	what type of movie is <e>
+/film/film/genre
+film
+
+10607	what genre is <e> in
+/film/film/genre
+film
+
+10628	what kind of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+10651	what genre is <e>
+/film/film/genre
+musical_group
+
+10653	what kind of film was <e>
+/film/film/genre
+_NOTYPE_
+
+10691	is <e> a romance film or comedy
+/film/film/genre
+film
+
+10692	what type of film is <e>
+/film/film/genre
+film
+
+10715	what netflix genre is <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+10736	what genre does <e> fall under
+/film/film/genre
+_NOTYPE_
+
+10738	what type of film is <e>
+/film/film/genre
+film
+
+10740	what type of film is <e>
+/film/film/genre
+film
+
+10776	what genre is <e>
+/film/film/genre
+book
+
+10802	what kind of show is <e>
+/tv/tv_program/genre
+award-winning_work
+
+10822	what genre of film is <e>
+/film/film/genre
+award-winning_work
+
+10879	what kind of fiction is <e>
+/tv/tv_program/genre
+award-winning_work
+
+10914	what film genre is `` <e>
+/film/film/genre
+_NOTYPE_
+
+10930	what was the genre of the film <e>
+/film/film/genre
+film
+
+10931	what type of film genre is <e>
+/film/film/genre
+film
+
+10934	what is the genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+10948	what kind of show is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+10957	what kind of show is <e>
+/tv/tv_program/genre
+film
+
+10987	what 's the best way to describe <e>
+/film/film/genre
+film
+
+10988	what netflix genre is the title <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+11034	what is the genre of the movie <e>
+/media_common/netflix_title/netflix_genres
+film
+
+11067	what film genre is <e>
+/film/film/genre
+film
+
+11100	what kind of movie was <e>
+/film/film/genre
+_NOTYPE_
+
+11124	what category is <e> under on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+11139	what kind of movie is <e>
+/film/film/genre
+film
+
+11156	what is the genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+11185	what is genre of the film <e>
+/film/film/genre
+tv_episode
+
+11188	what kind of show is <e> on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+11214	what category is <e> on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+11220	what 's a genre that describes <e>
+/film/film/genre
+film
+
+11237	what genre of film is <e> in
+/film/film/genre
+film
+
+11265	what kind of film is <e>
+/film/film/genre
+award-winning_work
+
+11267	what film genre is <e>
+/film/film/genre
+award-winning_work
+
+11279	what film genre is the movie <e>
+/film/film/genre
+award-winning_work
+
+11284	which netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+11289	what genre is the film <e>
+/film/film/genre
+film
+
+11295	is <e> a thriller or horror movie
+/film/film/genre
+film
+
+11317	what kind of film is <e>
+/film/film/genre
+film
+
+11328	what kind of film is <e>
+/film/film/genre
+film
+
+11371	what genre of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+11444	what type of film is <e>
+/film/film/genre
+tv_program
+
+11474	what type of genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+11486	what genre of film is <e>
+/film/film/genre
+film
+
+11515	what genre of film is <e>
+/film/film/genre
+film
+
+11665	what sort of film is <e>
+/film/film/genre
+film
+
+11676	what kind of film is <e>
+/film/film/genre
+film
+
+11680	which genre does <e> fall under
+/film/film/genre
+film
+
+11707	what type of movie is <e>
+/film/film/genre
+film
+
+11710	what type of film is <e>
+/film/film/genre
+concert_film
+
+11737	the film <e> is not in color so it is in what
+/film/film/genre
+film
+
+11785	what kind of movie is <e>
+/film/film/genre
+tv_program
+
+11805	what type of filmis <e>
+/film/film/genre
+film
+
+11847	what kind of netflix film is <e>
+/media_common/netflix_title/netflix_genres
+concert_film
+
+11858	what kind of genre of film is <e>
+/film/film/genre
+film
+
+11903	what type of film is <e>
+/film/film/genre
+film
+
+11907	what film genre is the movie <e>
+/film/film/genre
+film
+
+11913	what genre of netflix is <e> in
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+11923	what film genre does <e> fall under
+/film/film/genre
+film
+
+11925	what type of film is <e>
+/film/film/genre
+film
+
+11940	what kind of film is <e>
+/film/film/genre
+film
+
+11946	what kind of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+11966	what kind of film is <e>
+/film/film/genre
+film
+
+11992	what netflix genre does the title <e> fall under
+/media_common/netflix_title/netflix_genres
+film
+
+12028	what netflix genre does the film <e> ( film ) belong to
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+12042	what kind of television show is <e>
+/tv/tv_program/genre
+tv_program
+
+12048	what genre of film is <e>
+/film/film/genre
+film
+
+12077	what genre of television does <e> fall underneath
+/tv/tv_program/genre
+_NOTYPE_
+
+12085	what type of film is <e>
+/film/film/genre
+film
+
+12091	what film genre was <e>
+/film/film/genre
+_NOTYPE_
+
+12092	what film genre is the movie <e>
+/film/film/genre
+_NOTYPE_
+
+12095	what kind of film is <e>
+/film/film/genre
+film
+
+12100	what is the netflix genre of the film <e>
+/media_common/netflix_title/netflix_genres
+film
+
+12152	what movie genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+12170	what is the genre for the tv program <e>
+/tv/tv_program/genre
+tv_program
+
+12188	what is the genre of the film <e>
+/film/film/genre
+film
+
+12198	what genre of program is <e>
+/tv/tv_program/genre
+tv_program
+
+12203	which netflix genre is <e> apart of
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+12210	under what genre is the film <e>
+/film/film/genre
+film
+
+12223	what is the genre in the movie <e>
+/film/film/genre
+film
+
+12254	what type of film is <e>
+/film/film/genre
+film
+
+12267	what is <e> 's genre on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+12297	what kind of movie is <e>
+/film/film/genre
+film
+
+12350	whats the genre of the film <e>
+/film/film/genre
+_NOTYPE_
+
+12368	what genre is the film <e> ( 2006 film )
+/film/film/genre
+film
+
+12383	what is the genre of <e>
+/media_common/netflix_title/netflix_genres
+tv_program
+
+12412	what kind of film is <e>
+/film/film/genre
+film
+
+12425	what kind of movie is <e>
+/film/film/genre
+film
+
+12428	what type of movie is <e>
+/film/film/genre
+award-winning_work
+
+12478	what genre is <e>
+/film/film/genre
+film
+
+12538	<e> is a film under what genre
+/film/film/genre
+film
+
+12548	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+12556	what type of film is <e>
+/film/film/genre
+film
+
+12562	what type of genre is <e> affiliated with
+/media_common/netflix_title/netflix_genres
+film
+
+12574	what genre on netflix is the movie <e>
+/media_common/netflix_title/netflix_genres
+film
+
+12586	what kind of film is <e>
+/film/film/genre
+film
+
+12596	what genre of film is <e> recorded in
+/film/film/genre
+film
+
+12623	is <e> a thriller ( genre ) or comedy
+/film/film/genre
+film
+
+12703	what type of film is <e>
+/film/film/genre
+film
+
+12728	what is the genre of the film <e> ( film )
+/film/film/genre
+film
+
+12744	what kind of film is <e>
+/film/film/genre
+film
+
+12772	what type of movie is <e>
+/film/film/genre
+film
+
+12780	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+12805	what netflix genre does <e> fall into
+/media_common/netflix_title/netflix_genres
+film
+
+12816	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+12819	where can <e> be found on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+12875	what is the genre of the film <e>
+/film/film/genre
+film
+
+12880	what genre is the film <e>
+/film/film/genre
+film
+
+12939	what kind of netlfix film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+12953	what type of film is <e>
+/film/film/genre
+film
+
+12955	<e> is a film from this genre
+/film/film/genre
+film
+
+12956	what genre is <e> under in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+12958	which category would <e> ( film ) appear in on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+12960	what type of movie is <e>
+/film/film/genre
+film
+
+13010	which netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+13025	what type of genre is <e>
+/film/film/genre
+film
+
+13043	what kind of film is <e>
+/film/film/genre
+film
+
+13063	which movie genre is <e> found in
+/film/film/genre
+film
+
+13067	which genre is <e>
+/film/film/genre
+film
+
+13071	what kind of program is <e>
+/tv/tv_program/genre
+tv_program
+
+13091	what type of movie is <e>
+/film/film/genre
+film
+
+13102	what genre is <e> in
+/film/film/genre
+film
+
+13197	what genre does <e> belong to on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+13209	what type of movie is <e>
+/film/film/genre
+film
+
+13247	what is the genre of the film <e>
+/film/film/genre
+film
+
+13260	which genre is <e>
+/film/film/genre
+film
+
+13299	how can <e> be classified
+/film/film/genre
+film
+
+13327	what is the genre of <e>
+/film/film/genre
+film
+
+13337	what kind of tv show is <e>
+/tv/tv_program/genre
+tv_program
+
+13361	what genre is the film <e>
+/media_common/netflix_title/netflix_genres
+film
+
+13365	which genre would <e> be under
+/media_common/netflix_title/netflix_genres
+film
+
+13407	what kind of film is <e>
+/film/film/genre
+film
+
+13439	what type of movie is <e>
+/film/film/genre
+award-winning_work
+
+13462	what is the genre of <e>
+/film/film/genre
+film
+
+13475	what is the genre of the tv program <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+13483	what type of film is <e>
+/film/film/genre
+film
+
+13572	what kinds of tv program is <e>
+/tv/tv_program/genre
+award-winning_work
+
+13597	what kind of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+13604	what genre is the film <e>
+/film/film/genre
+film
+
+13609	is <e> a drama or comedy
+/film/film/genre
+tv_program
+
+13672	<e> is considered what type of motion picture
+/film/film/genre
+film
+
+13690	which country is discussed in <e>
+/media_common/netflix_title/netflix_genres
+film
+
+13756	what genre is <e>
+/film/film/genre
+musical_album
+
+13781	what netflix genre is <e> located in
+/media_common/netflix_title/netflix_genres
+tv_program
+
+13790	what film genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+13794	what kind of film is <e>
+/film/film/genre
+film
+
+13799	what kind of show is <e>
+/tv/tv_program/genre
+tv_program
+
+13837	what type of show is <e>
+/media_common/netflix_title/netflix_genres
+tv_program
+
+13845	what genre is <e>
+/film/film/genre
+film
+
+13856	what is the genre of the film <e>
+/film/film/genre
+award-winning_work
+
+13865	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+13887	what is the genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+13903	what type of movie is <e>
+/film/film/genre
+film
+
+13913	what film genre is <e>
+/film/film/genre
+film
+
+13920	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+13941	what genre is the netflix title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+13945	what style of film format is <e>
+/film/film/genre
+film
+
+13973	what genre is the tv program <e>
+/tv/tv_program/genre
+tv_program
+
+13979	what kind of movie is <e> classified as
+/film/film/genre
+film
+
+13980	what netflix genre is <e> categorized under
+/media_common/netflix_title/netflix_genres
+film
+
+13989	whats the genre for the film <e> # 1
+/film/film/genre
+_NOTYPE_
+
+14015	what 's a good descriptor of <e>
+/film/film/genre
+tv_program
+
+14051	what genre is the film <e>
+/film/film/genre
+film
+
+14058	what genre of film is <e>
+/film/film/genre
+film
+
+14096	what is the genre of the film <e>
+/film/film/genre
+film
+
+14140	what type of film is <e>
+/film/film/genre
+film
+
+14189	what genre on netflix is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+14243	what is the genre of <e>
+/media_common/netflix_title/netflix_genres
+book
+
+14253	what genre is <e>
+/film/film/genre
+book
+
+14256	is <e> a drama or a comedy
+/media_common/netflix_title/netflix_genres
+film
+
+14285	is <e> an action film or romance film
+/tv/tv_program/genre
+comic_book_series
+
+14401	what film genre is <e>
+/film/film/genre
+film
+
+14413	what genre is the movie <e> ( film )
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+14473	which genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+14489	what type of film is <e>
+/film/film/genre
+film
+
+14515	what kind of film is <e>
+/film/film/genre
+film
+
+14532	what type of tv show is <e>
+/tv/tv_program/genre
+tv_program
+
+14535	what genre of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+14548	the film <e> is considered to be a part of which film genre
+/film/film/genre
+film
+
+14569	what type of tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+14580	which genre is <e> under
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+14590	what genre of film is <e>
+/film/film/genre
+film
+
+14646	what type of film is <e>
+/film/film/genre
+film
+
+14670	what type of genre is <e>
+/film/film/genre
+_NOTYPE_
+
+14709	what type of movie is the <e>
+/film/film/genre
+_NOTYPE_
+
+14715	what kind of film is <e>
+/film/film/genre
+film
+
+14772	what category of film is <e>
+/film/film/genre
+film
+
+14790	what type of movie genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+14797	which european country is the film <e> released in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+14814	what type of movie is <e>
+/film/film/genre
+film
+
+14820	what is the genre of <e>
+/film/film/genre
+musical_artist
+
+14821	what types of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+14832	what type of film is `` <e>
+/film/film/genre
+_NOTYPE_
+
+14853	what genre is <e>
+/film/film/genre
+film
+
+14913	which genre of film is <e>
+/film/film/genre
+film
+
+14958	what film genre is <e> considered
+/film/film/genre
+film
+
+14966	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+14971	<e> is which type of movie
+/film/film/genre
+film
+
+15033	what genre is <e>
+/film/film/genre
+broadcast_content
+
+15066	what genre of film is <e>
+/film/film/genre
+film
+
+15068	what types of music is used in <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+15074	what category is <e> available under on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+15085	what genre category is <e>
+/film/film/genre
+film
+
+15111	what kind of movie is <e>
+/film/film/genre
+film
+
+15114	what genre is <e>
+/film/film/genre
+book
+
+15118	what kind of film is <e> under
+/film/film/genre
+film
+
+15122	what film genre is <e>
+/film/film/genre
+film
+
+15123	what kinds of movie is <e> netflix
+/media_common/netflix_title/netflix_genres
+film
+
+15132	what kind of film is <e>
+/film/film/genre
+film
+
+15135	what type of movie is <e>
+/film/film/genre
+film
+
+15138	what type of film <e>
+/film/film/genre
+film
+
+15153	which film genre does <e> fall under
+/film/film/genre
+film
+
+15169	what netflix genre is <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+15180	what type of genre is <e> titled under netflix
+/media_common/netflix_title/netflix_genres
+film
+
+15206	what type of film is <e>
+/film/film/genre
+film
+
+15282	what kind of movie is <e>
+/film/film/genre
+film
+
+15305	what type of film is <e>
+/film/film/genre
+film
+
+15310	what kind of film is <e>
+/film/film/genre
+film
+
+15327	what types of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+15336	what type of program is <e>
+/tv/tv_program/genre
+tv_program
+
+15358	what genre is <e>
+/film/film/genre
+musical_album
+
+15388	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+15396	what type of netflix genre is <e> under
+/media_common/netflix_title/netflix_genres
+film
+
+15418	what kind of film is <e>
+/film/film/genre
+film
+
+15422	what genre is the film <e>
+/film/film/genre
+film
+
+15458	what kind of film is <e>
+/film/film/genre
+film
+
+15465	where on netflix is the movie <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+15477	what genre is the film <e>
+/film/film/genre
+film
+
+15489	what kind of film is <e>
+/film/film/genre
+film
+
+15542	what film genre is <e>
+/film/film/genre
+film
+
+15546	what type of film is <e>
+/film/film/genre
+award-winning_work
+
+15561	which genre of film is <e> in
+/film/film/genre
+film
+
+15585	which genre of film is <e> considered
+/film/film/genre
+film
+
+15608	what type of film is <e>
+/film/film/genre
+award-winning_work
+
+15636	what genre is <e> on netflix
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+15639	what is the best way to describe <e>
+/film/film/genre
+film
+
+15642	what kind of netflix film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+15677	what type of genre is <e> filmed in
+/film/film/genre
+award-winning_work
+
+15688	what netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+15693	what type of film is <e>
+/film/film/genre
+film
+
+15700	what is the genre of <e>
+/film/film/genre
+film
+
+15708	what types of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+15727	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+15763	what type of show is <e>
+/tv/tv_program/genre
+tv_program
+
+15786	what 's the broadest genre description of <e>
+/film/film/genre
+award-winning_work
+
+15800	what genre is <e> ( film )
+/film/film/genre
+film
+
+15827	what kind of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+15841	what category of film is <e>
+/film/film/genre
+film
+
+15944	what kind of movie is <e>
+/film/film/genre
+award-winning_work
+
+15948	what genre does the film <e> belong to
+/film/film/genre
+film
+
+15964	what kind of movie is <e>
+/film/film/genre
+film
+
+15976	what type of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+15987	what type of netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+16042	what type of film is <e>
+/film/film/genre
+film
+
+16095	what kind of film is <e>
+/film/film/genre
+film
+
+16109	what genre is the film <e>
+/film/film/genre
+film
+
+16114	what kind of movie is <e>
+/film/film/genre
+film
+
+16128	what sort of film is <e>
+/film/film/genre
+film
+
+16141	what type of film is <e>
+/film/film/genre
+award-winning_work
+
+16146	how would you classify the movie <e>
+/film/film/genre
+film
+
+16152	what type of film is <e>
+/film/film/genre
+film
+
+16186	what genre is <e>
+/film/film/genre
+musical_group
+
+16192	what type of program is <e>
+/tv/tv_program/genre
+tv_program
+
+16202	what film genre is <e>
+/film/film/genre
+film
+
+16262	what is the genre of the film <e>
+/film/film/genre
+film
+
+16266	what is the genre of the film `` <e>
+/film/film/genre
+_NOTYPE_
+
+16293	what is the genre of the film <e>
+/film/film/genre
+film
+
+16343	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+16350	what is the genre on netflix for <e>
+/media_common/netflix_title/netflix_genres
+adapted_work
+
+16352	what genre of film is <e>
+/film/film/genre
+award-winning_work
+
+16402	what type of program is <e>
+/tv/tv_program/genre
+award-winning_work
+
+16455	<e> can be categorized as what type of film
+/film/film/genre
+film
+
+16500	what category of film is <e>
+/film/film/genre
+award-winning_work
+
+16513	what kind of netflix film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+16535	which category is <e> filed under
+/film/film/genre
+film
+
+16539	what is the genre of <e>
+/media_common/netflix_title/netflix_genres
+musical_album
+
+16549	what genre does the television program <e> belong to
+/tv/tv_program/genre
+award-winning_work
+
+16606	what kind of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+16637	what kind of movie is <e>
+/film/film/genre
+film
+
+16646	what is <e> classified as on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+16652	what kind of netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+16656	which genre of film is <e> under
+/film/film/genre
+award-winning_work
+
+16717	what is the genre of the film <e>
+/film/film/genre
+film
+
+16762	where on netflix does <e> live
+/media_common/netflix_title/netflix_genres
+film
+
+16764	what netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+concert_film
+
+16776	what sort of movie is <e>
+/film/film/genre
+film
+
+16795	what type of movie is <e>
+/film/film/genre
+film
+
+16804	which genre is <e> classified as
+/film/film/genre
+_NOTYPE_
+
+16810	what kind of show is <e>
+/film/film/genre
+_NOTYPE_
+
+16815	what netflix genre does <e> belong to
+/media_common/netflix_title/netflix_genres
+film
+
+16828	what type of film is <e>
+/film/film/genre
+film
+
+16901	what type of film is <e>
+/film/film/genre
+film
+
+16939	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+16995	what film genre is <e>
+/film/film/genre
+film
+
+16998	what kind of show is <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+17028	what type of show is <e>
+/tv/tv_program/genre
+tv_program
+
+17034	what kind of movie is <e>
+/film/film/genre
+film
+
+17040	which genre of film is <e> ( film )
+/film/film/genre
+film
+
+17069	what kind of tv show is <e>
+/tv/tv_program/genre
+tv_program
+
+17071	what type of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+17085	which country does netflix say <e> comes from
+/media_common/netflix_title/netflix_genres
+film
+
+17112	what is the netflix genre of the film <e>
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+17116	what film genre is <e>
+/film/film/genre
+film
+
+17133	what genre is the film `` <e>
+/film/film/genre
+_NOTYPE_
+
+17143	what genre on netflix is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+17159	what television genre is <e>
+/tv/tv_program/genre
+tv_program
+
+17195	what type of film is <e> technically
+/film/film/genre
+film
+
+17216	what type of film is <e>
+/film/film/genre
+film
+
+17221	what genre is <e>
+/film/film/genre
+film
+
+17223	what kind of movie is <e>
+/film/film/genre
+film
+
+17238	what film genre is <e> under netflix
+/media_common/netflix_title/netflix_genres
+film
+
+17245	what film genre does <e> fall under
+/film/film/genre
+film
+
+17257	what kind of film is <e>
+/film/film/genre
+film
+
+17298	what netflix genre is the title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+17320	what genre is <e>
+/film/film/genre
+musical_artist
+
+17345	what kind of film is <e>
+/film/film/genre
+film
+
+17403	what genre does the film <e> fall under
+/film/film/genre
+_NOTYPE_
+
+17423	what type of program is <e> ( tv series )
+/tv/tv_program/genre
+tv_program
+
+17427	what kind of movie is <e>
+/film/film/genre
+film
+
+17453	<e> was shot in what color
+/film/film/genre
+_NOTYPE_
+
+17493	what kind of film is <e>
+/film/film/genre
+film
+
+17498	what kind of genre is <e>
+/media_common/netflix_title/netflix_genres
+musical_album
+
+17501	what kind of movie is <e>
+/film/film/genre
+film
+
+17510	what category of film is <e>
+/film/film/genre
+film
+
+17512	what kinds of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+17539	what type of film is <e> considered
+/film/film/genre
+film
+
+17611	what is the netflix section where <e> ( film ) can be found
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+17617	what kind of tv program is <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+17620	which genre of film is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+17638	what kind of film is <e>
+/film/film/genre
+film
+
+17647	what is the subject of the film <e>
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+17657	what type of film is <e>
+/film/film/genre
+film
+
+17670	what netflix genre is <e> under
+/media_common/netflix_title/netflix_genres
+film
+
+17698	what kind of bollywod movie is <e>
+/film/film/genre
+film
+
+17790	which genre of film is <e>
+/film/film/genre
+tv_program
+
+17811	what netflix genre is <e> in
+/media_common/netflix_title/netflix_genres
+film
+
+17827	what genre is <e> found on in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+17855	what genre is <e>
+/tv/tv_program/genre
+musical_album
+
+17874	what type of program is <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+17876	what kind of film is <e>
+/film/film/genre
+film
+
+17881	which genre of film is <e>
+/film/film/genre
+film
+
+17883	what type of film is <e>
+/film/film/genre
+film
+
+17894	what kind of film is <e>
+/film/film/genre
+film
+
+17895	which genre of film is <e>
+/film/film/genre
+film
+
+17909	what other format was the netflix title <e> released as
+/media_common/netflix_title/netflix_genres
+film
+
+17916	what types of movie is <e>
+/film/film/genre
+film
+
+17919	which film genre is <e> in
+/film/film/genre
+_NOTYPE_
+
+17936	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+17941	what types of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18004	what type of movie is <e>
+/film/film/genre
+film
+
+18020	what language is spoken in the movie <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18039	what genre is the netflix title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18050	what genre is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+18072	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18098	what movie category is <e> in
+/film/film/genre
+film
+
+18139	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18152	the tv program <e> falls into which genre
+/tv/tv_program/genre
+tv_program
+
+18160	what kinds of movie is <e>
+/film/film/genre
+film
+
+18167	what kind of program is <e>
+/tv/tv_program/genre
+film_genre
+
+18194	what type of show was the tv program <e>
+/tv/tv_program/genre
+tv_program
+
+18195	what movie genre is <e>
+/film/film/genre
+award-winning_work
+
+18196	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18276	what kind of film is <e>
+/film/film/genre
+film
+
+18281	what language was <e> in
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+18297	what type of film is <e> considered to be on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+18332	what sort of film is <e>
+/film/film/genre
+tv_program
+
+18352	what types of movie is <e>
+/film/film/genre
+_NOTYPE_
+
+18371	what kind of tv show is <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+18382	what kind of film is <e>
+/film/film/genre
+film
+
+18387	what film genre does <e> fall in
+/film/film/genre
+film
+
+18396	what is the netflix genre of the title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18410	what type of movie was the film <e>
+/film/film/genre
+_NOTYPE_
+
+18507	what genre on netflix is <e>
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+18511	which style of film is <e>
+/film/film/genre
+film
+
+18547	what category of film is <e>
+/film/film/genre
+_NOTYPE_
+
+18610	what genre film is <e>
+/film/film/genre
+award-winning_work
+
+18696	which genre on netflix is the movie <e> under
+/media_common/netflix_title/netflix_genres
+film
+
+18697	what kind of movie is <e>
+/film/film/genre
+film
+
+18722	what is the film genre of <e>
+/film/film/genre
+film
+
+18767	what netflix genre is <e> under
+/media_common/netflix_title/netflix_genres
+film
+
+18787	what netflix genre does the title <e> belong to
+/media_common/netflix_title/netflix_genres
+concert_film
+
+18825	what film genre is <e>
+/film/film/genre
+film
+
+18830	what genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18870	what film genre is <e>
+/film/film/genre
+_NOTYPE_
+
+18946	what is the genre of the tv show <e>
+/tv/tv_program/genre
+award-winning_work
+
+18949	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+18987	what type of movie is <e>
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+19024	what type of show is <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+19036	what kind of movie is <e>
+/film/film/genre
+film
+
+19066	what kind of film is <e>
+/film/film/genre
+film
+
+19083	what is the genre of film that <e> falls within
+/film/film/genre
+film
+
+19108	what was the genre of the film <e>
+/film/film/genre
+film
+
+19143	what kind of film is <e>
+/film/film/genre
+_NOTYPE_
+
+19155	where might you find the netflix title <e>
+/media_common/netflix_title/netflix_genres
+film
+
+19180	what type of film is <e>
+/tv/tv_program/genre
+tv_program
+
+19183	what television drama is the program <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+19186	what sort of movie is <e>
+/film/film/genre
+film
+
+19198	what is the genre associated with the film <e>
+/film/film/genre
+film
+
+19205	what is the genre of the film <e>
+/film/film/genre
+film
+
+19231	what is the classification of <e>
+/film/film/genre
+_NOTYPE_
+
+19269	what is the film <e> genre
+/film/film/genre
+film
+
+19270	what genre is <e> classified as
+/film/film/genre
+book
+
+19327	what film genre is <e> classified as
+/film/film/genre
+film
+
+19334	what types of movie is <e> in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+19345	which netflix genre can <e> be found under
+/media_common/netflix_title/netflix_genres
+adaptation
+
+19349	what genre of film is <e> # 3
+/film/film/genre
+_NOTYPE_
+
+19359	what type of genre is <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+19390	which genre of <e> associated with
+/film/film/genre
+film
+
+19482	what kinds of movie is <e>
+/film/film/genre
+film
+
+19496	what is the genre of the film <e>
+/film/film/genre
+film
+
+19520	what is the genre of the film <e>
+/film/film/genre
+film
+
+19525	which genre of tv show is <e>
+/tv/tv_program/genre
+tv_program
+
+19526	what type of film is <e> in
+/film/film/genre
+film
+
+19577	what genre on netflix is <e> categorized under
+/media_common/netflix_title/netflix_genres
+film
+
+19595	what kind of movie is the film <e>
+/film/film/genre
+film
+
+19606	what kind of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+19658	which netflix genre is <e> ( film ) the film from
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+19724	what kinds of movie is <e>
+/film/film/genre
+film
+
+19725	what film genre is `` <e>
+/film/film/genre
+_NOTYPE_
+
+19799	what kind of film is <e>
+/film/film/genre
+_NOTYPE_
+
+19810	what kind of film is <e>
+/film/film/genre
+_NOTYPE_
+
+19823	what genre is the film <e>
+/film/film/genre
+_NOTYPE_
+
+19850	what kind of movie is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+19915	what type of movie is <e>
+/film/film/genre
+_NOTYPE_
+
+19922	which netflix genre is <e> found under
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+19931	which genre on netflix can you find <e>
+/media_common/netflix_title/netflix_genres
+film
+
+19944	where is <e> on netflix
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+19988	which genre is the talk show <e>
+/tv/tv_program/genre
+tv_program
+
+20007	what movie genre is <e>
+/film/film/genre
+film
+
+20017	to what genre does the film <e> belong
+/film/film/genre
+film
+
+20081	what type of movie is <e>
+/film/film/genre
+_NOTYPE_
+
+20129	what format is <e> in
+/tv/tv_program/genre
+tv_program
+
+20178	what netflix genre is <e> apart of
+/media_common/netflix_title/netflix_genres
+film
+
+20256	what style of film is <e> in
+/media_common/netflix_title/netflix_genres
+award-winning_work
+
+20271	what type of film is the movie <e>
+/film/film/genre
+film
+
+20274	what is the genre of the film <e>
+/film/film/genre
+_NOTYPE_
+
+20278	which film genre is <e> from
+/film/film/genre
+film
+
+20280	what genre is <e>
+/media_common/netflix_title/netflix_genres
+_NOTYPE_
+
+20331	what is the genre for the tv program <e>
+/tv/tv_program/genre
+tv_program
+
+20348	what style tv program is <e>
+/tv/tv_program/genre
+tv_program
+
+20359	what kind of film is <e>
+/film/film/genre
+_NOTYPE_
+
+20380	what type of film is <e>
+/film/film/genre
+film
+
+20400	what 's a good description of <e>
+/film/film/genre
+film
+
+20402	what type of show is <e>
+/tv/tv_program/genre
+_NOTYPE_
+
+20409	what is the netflix genre of <e>
+/media_common/netflix_title/netflix_genres
+film
+
+20438	what genre is <e>
+/film/film/genre
+_NOTYPE_
+
+20444	where can <e> be found on netflix
+/media_common/netflix_title/netflix_genres
+film
+
+20479	what type of film is <e> titled as in netflix
+/media_common/netflix_title/netflix_genres
+film
+
+20491	which genre of film is <e>
+/film/film/genre
+film
+
+20507	what kind of movie is the netflix movie <e>
+/media_common/netflix_title/netflix_genres
+film
+
+20511	what type of film is `` <e>
+/film/film/genre
+_NOTYPE_
+
+20566	what 's a netflix specific genre for <e>
+/media_common/netflix_title/netflix_genres
+film
+
+20579	what kind of movie is <e>
+/film/film/genre
+film
+
+20592	which netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+20593	what netflix genre is <e>
+/media_common/netflix_title/netflix_genres
+film
+
+20597	what kinds of movie is <e>
+/film/film/genre
+film
+
+20608	what is the film genre for <e>
+/film/film/genre
+film
+

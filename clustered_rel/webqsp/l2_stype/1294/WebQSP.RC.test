@@ -1,0 +1,228 @@
+36	who will play <e> in the film
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+82	who played <e> batgirl
+film.film_character.portrayed_in_films..film.performance.actor
+comic_book_character
+
+93	who did the voice of <e> in episode 3
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+103	who plays <e>
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+129	who plays <e>
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+
+134	who played <e> in lord of the rings
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+247	who plays <e> in star trek
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+fictional_character
+
+329	who plays <e>
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+fictional_character
+
+343	who has played <e>
+film.film_character.portrayed_in_films..film.performance.actor
+comic_book_character
+
+367	who is <e> in star wars
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+371	who played <e> in episode 2
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+377	who played <e> in twilight
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+409	who was <e>
+film.film_character.portrayed_in_films..film.performance.actor
+_NOTYPE_
+
+441	who voiced <e>
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+film_character
+
+490	who plays <e> on vampire diaries
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+
+560	who played <e>
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+580	who plays <e>
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+fictional_character
+
+603	who makes the voice of <e>
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+fictional_character
+
+637	who does the voice for <e>
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+684	who plays <e>
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+
+705	who voiced <e> in the original star wars movies
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+719	who would play <e>
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+film_character
+
+736	who plays <e>
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+789	who played <e> on west wing
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+
+790	who played <e> in season 1 of family guy
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+fictional_character
+
+798	who played harry potter <e> actor
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+818	who plays <e>
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+822	who played <e> in star trek movie
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+822	who played <e> in star trek movie
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+822	who played <e> in star trek movie
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+822	who played <e> in star trek movie
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+822	who played <e> in star trek movie
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+822	who played <e> in star trek movie
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+822	who played <e> in star trek movie
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+823	who played <e> in x files
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+832	who was the original voice of <e> on family guy
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+fictional_character
+
+852	who does <e> voice
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+924	who is the voice of <e>
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+937	who did <e> voice
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+967	who plays <e>
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+comic_book_character
+
+1071	who played <e> in the fellowship of the ring
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+1127	who played <e> at the end of return of the jedi
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+1139	who is <e> married to in real life
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+
+1150	who does <e> 's voice
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+fictional_character
+
+1163	who plays <e> in star wars 1
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+1276	who plays <e>
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+1319	who does <e> voice
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+
+1341	who was the voice of <e> in the original star wars movie
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+1374	who played <e>
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+1425	who plays <e> on ncis
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+
+1504	who originally voiced <e>
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+1510	who plays the role of <e> on ncis
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+
+1513	who plays <e>
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+1541	who played <e> in the first movie
+film.film_character.portrayed_in_films..film.performance.actor
+film_character
+
+1591	who played <e> in a streetcar named desire movie
+film.film_character.portrayed_in_films..film.performance.actor
+theater_character
+
+1615	who played <e> in himym
+film.film_character.portrayed_in_films..film.performance.actor
+fictional_character
+
+1624	who plays <e> in scrubs
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor
+tv_character
+

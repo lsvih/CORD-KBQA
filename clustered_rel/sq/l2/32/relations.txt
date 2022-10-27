@@ -1,0 +1,2 @@
+/medicine/drug_formulation/active_ingredients
+/medicine/drug_formulation/active_ingredient_moieties

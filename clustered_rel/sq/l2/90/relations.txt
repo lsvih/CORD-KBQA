@@ -1,0 +1,2 @@
+/music/recording/releases
+/music/recording/tracks

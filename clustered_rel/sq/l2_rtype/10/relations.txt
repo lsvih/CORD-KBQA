@@ -1,0 +1,3 @@
+/music/album/album_content_type
+/music/album/release_type
+/music/album/genre

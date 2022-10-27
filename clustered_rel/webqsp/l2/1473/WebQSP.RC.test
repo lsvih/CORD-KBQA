@@ -1,0 +1,92 @@
+34	where are <e> based
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+110	where is the <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+166	where is <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+246	where is the <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+313	where is the <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+313	where is the <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+618	where is the <e> ericsson company
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+622	where is the main headquarters of <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+649	where is <e> corporate headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+752	what is penn state 's <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+872	where are <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1004	where is the national <e> foundation located today
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1192	what city is <e> state in
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1208	where is the <e> based
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1209	what city and state is <e> located in
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1233	where was the first <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1349	where is <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1368	where is <e> based
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1410	where is the headquarters of <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1416	what city is <e> in
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1447	where is the seat of the <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1476	what state is <e> in
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1642	where are the <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+
+

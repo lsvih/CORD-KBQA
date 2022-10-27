@@ -1,0 +1,276 @@
+17	who is the prime minister of <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+27	what is the president of <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+77	who are the current senators from <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+98	who is the current president of the <e> in 2010
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+111	who is the president of the <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+award_winner
+
+120	who was elected president of the <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+138	who is the senator of the <e> 2010
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+188	who is the new senator of <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+339	who was the first <e> president
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+426	who is the prime minister of <e> now
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+496	who is the senator of <e> 2010
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+561	who is the leader of <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+626	who was the leader of the <e> in 1945
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+643	who won the governor election in <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+746	who is the prime minister of <e> now
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+795	who is the current leader of <e> today
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+829	who is ruling <e> now
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+856	who is the leader of <e> 2012
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+882	who are senators from <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+915	who was governor of <e> in 2003
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+1060	who is the governor of <e> 2009
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+1069	what is the king of <e> 's name
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1078	who is prime minister of <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1082	who is the new governor of <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+1099	who is the leader of <e> 2012
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1110	who is prime minister of <e> 2012
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1114	who runs <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1174	who was the president of <e> in 1980
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1207	who is the state senator of <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+1220	who are the current <e> senators
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+1232	who is my state senator and representative <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+1325	who is ruling <e> now
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1325	who is ruling <e> now
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1407	who controls <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1430	who is the current leader of <e> today
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1598	who is the current president of <e> 2010
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1606	who was the governor of <e> in 1996
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+1639	who is president of <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1656	who is the leader of <e> now
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1694	who is the elected governor of <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+1724	who is the president of <e> in 2009
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1747	who is the leader of the <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1761	who are the two current senators of <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+1838	who is the current president of <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1867	what is the president of <e> 's name
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+1901	who are the senators of <e> 2013
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+1911	who won the presidential race in <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2011	who is the governor of <e> 2010
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+2090	who was the prime minister of <e> in 1998
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2131	who is the current governor of <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+2148	who is the present president of <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2180	who is the current president of <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2233	who are the two current <e> senators
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+2248	who won governor race in <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+2277	who was the prime minister of <e> in 1958
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2391	what is the current leader of <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2395	who is the president of <e> in 2012
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2430	who won governor in <e> 2010
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+2475	who is the senator of the state of <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+2490	who is the governor of <e> currently
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+2532	who was the leader of the <e> in 1948
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2606	who is the political leader of <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+2706	who are senators from <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+2712	who are the current senators from <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+
+2817	who won the governor election in <e>
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+us_state
+
+2848	who is the leader of <e> right now
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+3016	who is the current president of <e> 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+3033	who is <e> 's president right now 2011
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+country
+
+3046	who are the two state senators of <e>
+government.political_district.representatives..government.government_position_held.office_holder
+us_state
+

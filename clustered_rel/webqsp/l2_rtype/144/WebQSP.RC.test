@@ -1,0 +1,136 @@
+13	who is <e> dad
+people.person.parents
+people.person
+
+70	who is <e> mom name
+people.person.parents
+people.person
+
+100	what are <e> sons names
+people.person.children
+people.person
+
+140	who is <e> father
+people.person.parents
+people.person
+
+241	what is <e> children names
+people.person.children
+people.person
+
+270	who is <e> son
+people.person.children
+people.person
+
+392	who was the father of <e>
+people.person.parents
+people.person
+
+483	what were the names of <e> 's three children
+people.person.children
+people.person
+
+552	who is <e> father
+people.person.parents
+people.person
+
+604	who is <e> mom and dad
+people.person.parents
+people.person
+
+696	what is the name of <e> daughter
+people.person.children
+people.person
+
+729	who are <e> parents
+people.person.parents
+people.person
+
+744	who was queen <e> mom
+people.person.parents
+people.person
+
+746	what is <e> parents name
+people.person.parents
+people.person
+
+747	who is <e> parents
+people.person.parents
+people.person
+
+839	who were <e> children
+people.person.children
+people.person
+
+856	what are the names of <e> 's 3 children
+people.person.children
+people.person
+
+928	what is <e> baby name
+people.person.children
+people.person
+
+929	who is the mother of prince <e>
+people.person.parents
+people.person
+
+1037	how many kids were there in the <e>
+people.person.children
+people.person
+
+1092	who is <e> father
+people.person.parents
+people.person
+
+1097	what did <e> name his son
+people.person.children
+people.person
+
+1191	who did <e> have a son with
+people.person.children
+people.person
+
+1217	who is <e> parents
+people.person.parents
+people.person
+
+1277	who was <e> 's mother
+people.person.parents
+people.person
+
+1336	where are ike and <e> 's children
+people.person.children
+people.person
+
+1347	who were the children of <e>
+people.person.children
+people.person
+
+1350	who is <e> parents
+people.person.parents
+people.person
+
+1377	who was <e> son
+people.person.children
+people.person
+
+1426	who ruled after <e> died
+people.person.children
+people.person
+
+1438	who was the son of <e>
+people.person.children
+people.person
+
+1442	what is <e> mum called
+people.person.parents
+people.person
+
+1456	what are <e> 's children called
+people.person.children
+people.person
+
+1621	what are the names of <e> 's kids
+people.person.children
+people.person
+

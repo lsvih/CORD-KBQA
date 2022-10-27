@@ -1,0 +1,220 @@
+66	where is <e>
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+66	where is <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+83	what city and state was <e> established
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+147	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+computer_manufacturer/brand
+
+148	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+business_operation
+
+148	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.state_province_region
+business_operation
+
+149	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+automobile_company
+
+299	where is <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+publisher
+
+302	where is the <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+327	what state is <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+328	what state is <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+441	where is the <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+tv_network
+
+522	where is located <e>
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+530	where do <e> come from
+organization.organization.headquarters..location.mailing_address.citytown
+automobile_company
+
+545	where is the <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+545	where is the <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+555	where does <e> operate
+organization.organization.headquarters..location.mailing_address.citytown
+membership_organization
+
+575	where is headquarters of <e>
+organization.organization.headquarters..location.mailing_address.citytown
+award_winner
+
+585	where is <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+award_winner
+
+609	where is the <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+610	where is the <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+637	what city is fc <e> 04 in
+organization.organization.headquarters..location.mailing_address.citytown
+football_team
+
+657	where is the <e>
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+657	where is the <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+784	where is the head office of <e>
+organization.organization.headquarters..location.mailing_address.citytown
+business_operation
+
+966	where is <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+966	where is <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+1050	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+computer_manufacturer/brand
+
+1095	what state is <e> online located
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+1489	where is the university of <e>
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+1719	where are <e> brakes from
+organization.organization.headquarters..location.mailing_address.citytown
+business_operation
+
+1722	where 's <e>
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+1722	where 's <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+1723	where 's <e>
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+1723	where 's <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+1727	where is the <e>
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+1727	where is the <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+1735	where is <e>
+organization.organization.headquarters..location.mailing_address.citytown
+spacecraft_manufacturer
+
+1796	in what state was <e> established
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+1847	where is <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+computer_manufacturer/brand
+
+1874	where are the headquarters of the <e> organization found
+organization.organization.headquarters..location.mailing_address.citytown
+membership_organization
+
+1927	what state is <e> located in
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+1941	what city is <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+2026	where is <e> based
+organization.organization.headquarters..location.mailing_address.citytown
+computer_manufacturer/brand
+
+2115	where is <e> at
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+2201	where is <e> from
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+2201	where is <e> from
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+2261	where is the main headquarters of the <e>
+organization.organization.headquarters..location.mailing_address.citytown
+membership_organization
+
+2293	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+business_operation
+
+2355	where is <e> based out of
+organization.organization.headquarters..location.mailing_address.citytown
+venture_funded_company
+
+2501	where are <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+business_operation
+
+2825	where is located <e>
+organization.organization.headquarters..location.mailing_address.citytown
+college/university
+
+2895	what state is the <e> in
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+
+2944	where is <e> made
+organization.organization.headquarters..location.mailing_address.citytown
+automobile_company
+
+2954	where is <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+college/university
+

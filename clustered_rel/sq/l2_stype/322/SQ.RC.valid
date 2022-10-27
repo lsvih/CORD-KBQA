@@ -1,0 +1,124 @@
+802	<e> produced what film
+/film/producer/film
+film_director
+
+1000	which movie was produced by <e>
+/film/producer/film
+celebrity
+
+1680	what 's a movie that <e> has produced
+/film/producer/film
+film_actor
+
+1830	what is a film produced by <e>
+/film/producer/film
+film_producer
+
+1877	what is a film that <e> executive produced
+/film/producer/films_executive_produced
+organization_leader
+
+2104	which film did the <e> help produce
+/film/producer/film
+_NOTYPE_
+
+2308	which film did <e> produce
+/film/producer/film
+film_producer
+
+2769	which film was produced by <e>
+/film/producer/film
+film_director
+
+3087	which film did <e> produce
+/film/producer/film
+film_producer
+
+3103	what film was produced by <e>
+/film/producer/film
+film_producer
+
+3606	what film did <e> produce
+/film/producer/film
+film_director
+
+3828	<e> has been the executive producer of what film
+/film/producer/films_executive_produced
+film_producer
+
+3950	what film did <e> produce
+/film/producer/films_executive_produced
+tv_producer
+
+4686	which films did <e> produce
+/film/producer/films_executive_produced
+film_producer
+
+4770	what witch movie did <e> produce
+/film/producer/film
+film_director
+
+4995	what film did <e> produce
+/film/producer/film
+film_producer
+
+5212	<e> produced what film
+/film/producer/film
+_NOTYPE_
+
+6239	<e> was the producer of this biographical film
+/film/producer/film
+_NOTYPE_
+
+6259	which film was produced by <e>
+/film/producer/film
+film_producer
+
+6840	what film did <e> produce
+/film/producer/films_executive_produced
+celebrity
+
+7049	which film was produced by <e>
+/film/producer/film
+film_producer
+
+7077	what film did <e> executively produce
+/film/producer/films_executive_produced
+film_director
+
+7094	what is the name of a film that was produced by <e>
+/film/producer/film
+award_nominee
+
+7319	which film did <e> produce
+/film/producer/films_executive_produced
+film_producer
+
+7512	name a film produced by <e>
+/film/producer/film
+film_director
+
+7845	name film produced by <e> ( tv producer )
+/film/producer/film
+tv_writer
+
+8710	which film did <e> produce
+/film/producer/films_executive_produced
+film_producer
+
+8846	what film was <e> a producer on
+/film/producer/film
+tv_producer
+
+8956	what is a film produced by <e>
+/film/producer/film
+film_producer
+
+9445	what is a film title produced by <e>
+/film/producer/film
+film_director
+
+9884	what is the tittle of the movie produced by <e>
+/film/producer/film
+film_director
+

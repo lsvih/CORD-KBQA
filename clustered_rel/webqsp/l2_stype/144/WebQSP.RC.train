@@ -1,0 +1,200 @@
+24	who was <e> 's mom
+people.person.parents
+deceased_person
+
+32	what is <e> 's son 's name
+people.person.children
+celebrity
+
+42	who was <e> 's parents called
+people.person.parents
+monarch
+
+46	what are the names of <e> kids
+people.person.children
+organization_founder
+
+158	who are <e> 's parents
+people.person.parents
+musical_artist
+
+204	who is <e> and tamera mowry parents
+people.person.parents
+film_actor
+
+224	who are <e> 's parents names
+people.person.parents
+author
+
+298	who was <e> 's mother
+people.person.parents
+literature_subject
+
+436	what are the names of <e> children
+people.person.children
+celebrity
+
+449	what was <e> 's father 's name
+people.person.parents
+author
+
+451	what <e> kids names
+people.person.children
+celebrity
+
+478	what <e> name her daughter
+people.person.children
+celebrity
+
+538	who is <e> dad
+people.person.parents
+basketball_player
+
+570	who was king or queen after <e>
+people.person.children
+monarch
+
+824	who was <e> father
+people.person.parents
+author
+
+857	who is <e> 's daughter
+people.person.children
+film_actor
+
+877	what is <e> 's son name
+people.person.children
+basketball_player
+
+911	what is the name of <e> 's son
+people.person.children
+organization_founder
+
+999	who are <e> 's parents
+people.person.parents
+military_person
+
+1134	what are <e> kids names
+people.person.children
+politician
+
+1185	who was the grandson of <e> 's father
+people.person.parents
+religious_leader
+
+1190	who was <e> 's parents
+people.person.parents
+celebrity
+
+1218	what are <e> 's parents names
+people.person.parents
+musical_artist
+
+1238	who is <e> parents
+people.person.parents
+american_football_player
+
+1264	who is <e> father
+people.person.parents
+monarch
+
+1333	what is <e> 's mom 's name
+people.person.parents
+musical_artist
+
+1344	who raised <e>
+people.person.parents
+monarch
+
+1438	what <e> baby girls name
+people.person.children
+celebrity
+
+1446	what is <e> 's daughters name
+people.person.children
+celebrity
+
+1463	who are <e> children
+people.person.children
+tv_writer
+
+1527	who was <e> father
+people.person.parents
+monarch
+
+1617	who were queen <e> parents
+people.person.parents
+monarch
+
+1684	what was the name of <e> parents
+people.person.parents
+author
+
+1746	who was <e> 's mother
+people.person.parents
+monarch
+
+1770	what are the name of <e> sons
+people.person.children
+politician
+
+1788	what is <e> 's parents names
+people.person.parents
+author
+
+1806	who is <e> 's son
+people.person.children
+musical_artist
+
+2014	when were the <e> kids born
+people.person.children
+politician
+
+2104	who were <e> 's parents
+people.person.parents
+author
+
+2235	what were <e> 's parents names
+people.person.parents
+military_commander
+
+2637	what is father name of <e>
+people.person.parents
+film_actor
+
+2690	what was the name of <e> children
+people.person.children
+author
+
+2733	who is <e> 's parents
+people.person.parents
+deceased_person
+
+2789	what were <e> 's parents names
+people.person.parents
+military_commander
+
+2812	who is <e> mother
+people.person.parents
+composer
+
+2853	what is <e> 's dad 's name
+people.person.parents
+celebrity
+
+2977	who is <e> parents
+people.person.parents
+celebrity
+
+2993	when did <e> 's dad die
+people.person.parents
+musical_artist
+
+3018	who is <e> descended from
+people.person.parents
+religious_leader
+
+3082	what are <e> 's sons names
+people.person.children
+politician
+

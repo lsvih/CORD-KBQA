@@ -1,0 +1,2 @@
+/cvg/cvg_publisher/games_published
+/cvg/cvg_publisher/game_versions_published

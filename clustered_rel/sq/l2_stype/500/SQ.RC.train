@@ -1,0 +1,1300 @@
+48	who did <e> influence
+/influence/influence_node/influenced
+author
+
+212	who influenced <e>
+/influence/influence_node/influenced
+tv_writer
+
+647	whom did <e> influence
+/influence/influence_node/influenced
+inventor
+
+891	who influenced <e>
+/influence/influence_node/influenced_by
+politician
+
+1051	who did <e> influence
+/influence/influence_node/influenced
+author
+
+1077	who was <e> influenced by
+/influence/influence_node/influenced_by
+visual_artist
+
+1097	who was influenced <e>
+/influence/influence_node/influenced_by
+author
+
+1147	what philosopher influenced <e>
+/influence/influence_node/influenced_by
+academic
+
+1434	who 's been influenced by <e>
+/influence/influence_node/influenced
+tv_writer
+
+1768	who influenced <e>
+/influence/influence_node/influenced
+celebrity
+
+1782	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+1791	who influenced <e>
+/influence/influence_node/influenced_by
+visual_artist
+
+1867	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+2022	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+2620	who was <e> influenced by
+/influence/influence_node/influenced_by
+military_commander
+
+2623	who has <e> influenced
+/influence/influence_node/influenced
+composer
+
+2813	who was <e> the comedian influenced by
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+3152	who was <e> influenced by
+/influence/influence_node/influenced_by
+tv_actor
+
+3255	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+3268	which scientist was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+3530	who is a person that <e> was influenced by
+/influence/influence_node/influenced_by
+author
+
+3968	who did <e> influence
+/influence/influence_node/influenced
+academic
+
+4169	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+4732	who has <e> influenced
+/influence/influence_node/influenced
+academic
+
+4898	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+5138	who inspired <e>
+/influence/influence_node/influenced_by
+author
+
+5142	who has <e> influenced
+/influence/influence_node/influenced
+inventor
+
+5258	what is the name of the english poet who translated <e>
+/influence/influence_node/influenced
+author
+
+5695	who was influenced by <e>
+/influence/influence_node/influenced
+author
+
+6898	which german astronomer was influenced by <e>
+/influence/influence_node/influenced
+astronomer
+
+7033	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+7250	who was influenced by <e>
+/influence/influence_node/influenced_by
+author
+
+7328	who was influenced by <e>
+/influence/influence_node/influenced
+author
+
+7361	who was <e> influenced by
+/influence/influence_node/influenced_by
+visual_artist
+
+7475	who influenced <e>
+/influence/influence_node/influenced
+author
+
+7561	who was an influence on <e>
+/influence/influence_node/influenced_by
+musical_artist
+
+7620	who influenced <e>
+/influence/influence_node/influenced
+musical_group
+
+7759	what russian physician and writer had a great influence on <e>
+/influence/influence_node/influenced_by
+author
+
+7811	<e> influenced what comedian
+/influence/influence_node/influenced
+_NOTYPE_
+
+7814	who influenced the american thinker <e>
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+7867	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+7979	who influenced <e>
+/influence/influence_node/influenced
+academic
+
+8089	who influenced <e>
+/influence/influence_node/influenced
+tv_writer
+
+8182	who did <e> influence
+/influence/influence_node/influenced
+academic
+
+8369	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+8755	who influenced <e>
+/influence/influence_node/influenced
+author
+
+8901	which singer was influenced by <e>
+/influence/influence_node/influenced
+musical_artist
+
+9474	who did <e> influence
+/influence/influence_node/influenced
+author
+
+9532	whom did <e> influence
+/influence/influence_node/influenced
+author
+
+9663	who was a major influence for <e>
+/influence/influence_node/influenced_by
+author
+
+9742	which famous novelist did <e> ( novelist ) influence
+/influence/influence_node/influenced
+author
+
+9751	who was influenced <e>
+/influence/influence_node/influenced
+academic
+
+9835	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+9997	what horror novelist influenced <e>
+/influence/influence_node/influenced_by
+author
+
+10045	who did <e> play an influential role on
+/influence/influence_node/influenced
+author
+
+10350	who did <e> help influence
+/influence/influence_node/influenced
+academic
+
+10971	what band influenced <e>
+/influence/influence_node/influenced_by
+musical_group
+
+11117	who was <e> influenced by
+/influence/influence_node/influenced_by
+person
+
+11467	who was <e> influenced by
+/influence/influence_node/influenced_by
+organization_leader
+
+11915	which painter influenced <e>
+/influence/influence_node/influenced_by
+visual_artist
+
+12190	who influenced <e> ( novelist )
+/influence/influence_node/influenced_by
+author
+
+12648	which musician did <e> have an influence on
+/influence/influence_node/influenced
+musical_artist
+
+12844	who influenced <e>
+/influence/influence_node/influenced_by
+celebrity
+
+13188	who influenced <e> writing
+/influence/influence_node/influenced
+_NOTYPE_
+
+13396	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+13640	name someone who was influenced by <e>
+/influence/influence_node/influenced_by
+tv_writer
+
+13726	who was one of the film directors <e> influenced
+/influence/influence_node/influenced
+film_director
+
+13877	who was someone influenced by <e>
+/influence/influence_node/influenced
+organization_leader
+
+13900	which american writer was <e> influential to
+/influence/influence_node/influenced
+author
+
+13924	<e> influenced whom
+/influence/influence_node/influenced
+author
+
+14315	who influenced <e>
+/influence/influence_node/influenced
+tv_writer
+
+14574	who has influenced <e>
+/influence/influence_node/influenced
+author
+
+14906	who was and influence of <e> 's
+/influence/influence_node/influenced_by
+visual_artist
+
+14951	who influenced <e>
+/influence/influence_node/influenced_by
+tv_producer
+
+15027	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+15031	<e> was an influence to who
+/influence/influence_node/influenced
+physician
+
+15501	who did <e> influence
+/influence/influence_node/influenced
+organization_founder
+
+15675	who did <e> influence
+/influence/influence_node/influenced
+celebrity
+
+15730	who was <e> influenced by
+/influence/influence_node/influenced_by
+visual_artist
+
+15841	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+16215	who has <e> influenced
+/influence/influence_node/influenced
+academic
+
+16434	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+16513	who was an influential figure for <e>
+/influence/influence_node/influenced_by
+academic
+
+16568	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+16691	which botanist was <e> influenced by
+/influence/influence_node/influenced_by
+academic
+
+16790	who was <e> influenced by
+/influence/influence_node/influenced_by
+visual_artist
+
+17299	which philosopher did <e> influence
+/influence/influence_node/influenced
+religious_leader
+
+17446	who influenced <e>
+/influence/influence_node/influenced
+author
+
+17448	who did <e> influence
+/influence/influence_node/influenced
+author
+
+17641	who influenced <e>
+/influence/influence_node/influenced
+inventor
+
+17679	who was influenced by <e>
+/influence/influence_node/influenced
+tv_writer
+
+18215	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+19037	which author influenced <e>
+/influence/influence_node/influenced_by
+author
+
+19487	what german architect influenced <e>
+/influence/influence_node/influenced_by
+architect
+
+19627	who was <e> mentor
+/influence/influence_node/influenced
+_NOTYPE_
+
+19725	name a comedian influenced by <e>
+/influence/influence_node/influenced
+tv_writer
+
+19914	who was an influence on <e>
+/influence/influence_node/influenced_by
+author
+
+19994	who influenced <e>
+/influence/influence_node/influenced_by
+u.s._congressperson
+
+20197	<e> influenced which other poet
+/influence/influence_node/influenced
+author
+
+20681	who influenced <e> way of thinking
+/influence/influence_node/influenced
+_NOTYPE_
+
+20714	who did <e> influence
+/influence/influence_node/influenced
+musical_artist
+
+20943	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+21059	who did <e> influence
+/influence/influence_node/influenced
+academic
+
+21286	who was one of <e> 's influences
+/influence/influence_node/influenced_by
+author
+
+21802	which activist influenced <e>
+/influence/influence_node/influenced_by
+author
+
+21981	who did <e> influence
+/influence/influence_node/influenced
+deceased_person
+
+22256	who did <e> influence
+/influence/influence_node/influenced
+author
+
+22378	who is someone that influenced <e>
+/influence/influence_node/influenced_by
+author
+
+22554	what person influenced <e>
+/influence/influence_node/influenced
+musical_group
+
+22722	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+22861	who is <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+23588	who did <e> influence
+/influence/influence_node/influenced
+author
+
+23881	name a person <e> influenced
+/influence/influence_node/influenced
+author
+
+24017	who was influenced by <e>
+/influence/influence_node/influenced
+visual_artist
+
+24176	who did <e> influence
+/influence/influence_node/influenced
+deceased_person
+
+24472	who was <e> influenced by
+/influence/influence_node/influenced_by
+celebrity
+
+24729	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+24801	who did <e> influence
+/influence/influence_node/influenced_by
+academic
+
+24936	who did <e> influence
+/influence/influence_node/influenced
+organization_leader
+
+25455	who did <e> influence
+/influence/influence_node/influenced
+musical_artist
+
+26046	who has <e> influenced
+/influence/influence_node/influenced
+author
+
+26501	who influenced <e>
+/influence/influence_node/influenced_by
+academic
+
+26504	who did <e> influence with his work
+/influence/influence_node/influenced_by
+academic
+
+26509	who did <e> influence
+/influence/influence_node/influenced
+author
+
+26543	which writer influenced <e>
+/influence/influence_node/influenced_by
+author
+
+26649	who did <e> influence
+/influence/influence_node/influenced
+academic
+
+26838	which author was influenced by <e>
+/influence/influence_node/influenced
+_NOTYPE_
+
+26981	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+27025	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+27070	who did <e> influence
+/influence/influence_node/influenced
+author
+
+27131	which comedian did <e> influence
+/influence/influence_node/influenced
+celebrity
+
+27185	who was <e> mentor
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+27236	who did <e> influence
+/influence/influence_node/influenced
+academic
+
+27374	who was an influence on <e>
+/influence/influence_node/influenced_by
+author
+
+27566	who was influenced by <e>
+/influence/influence_node/influenced
+composer
+
+27748	<e> was influenced by which artist
+/influence/influence_node/influenced_by
+author
+
+27894	who did <e> influence
+/influence/influence_node/influenced
+author
+
+27985	who has <e> influenced
+/influence/influence_node/influenced
+award_winner
+
+28157	who did <e> help influence
+/influence/influence_node/influenced
+academic
+
+28232	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+28960	who influenced <e>
+/influence/influence_node/influenced_by
+academic
+
+29459	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+29491	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+29629	which greek philosopher was influenced by <e>
+/influence/influence_node/influenced_by
+author
+
+29652	who did <e> influence
+/influence/influence_node/influenced_by
+author
+
+30233	who is one of <e> influences
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+30902	who did <e> influence
+/influence/influence_node/influenced
+author
+
+31117	who is <e> inspired by
+/influence/influence_node/influenced_by
+academic
+
+31371	who is someone that <e> influenced
+/influence/influence_node/influenced
+author
+
+32241	<e> was an influence on which russian-born french philosopher
+/influence/influence_node/influenced
+author
+
+32447	who did <e> play an influential role on
+/influence/influence_node/influenced
+_NOTYPE_
+
+32462	who is a known to be influenced by <e> 's work
+/influence/influence_node/influenced
+academic
+
+32864	who did <e> influence
+/influence/influence_node/influenced
+founding_figure
+
+33183	what was <e> influenced by
+/influence/influence_node/influenced_by
+operating_system
+
+33432	who was <e> influenced by
+/influence/influence_node/influenced_by
+astronomer
+
+33449	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+33623	what was the influence to <e>
+/influence/influence_node/influenced_by
+video_game
+
+33673	who did <e> inspire
+/influence/influence_node/influenced
+_NOTYPE_
+
+33915	who did <e> influence
+/influence/influence_node/influenced
+academic
+
+34124	<e> had an influential impact on whom
+/influence/influence_node/influenced
+author
+
+34209	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+34374	who influenced <e>
+/influence/influence_node/influenced_by
+person
+
+34392	who was <e> 's influencer
+/influence/influence_node/influenced_by
+author
+
+34871	who is an inspiration <e>
+/influence/influence_node/influenced_by
+author
+
+34927	<e> influenced which danish author
+/influence/influence_node/influenced
+_NOTYPE_
+
+34961	who was an influence on <e>
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+35143	<e> influenced who
+/influence/influence_node/influenced
+_NOTYPE_
+
+35250	what was <e> 's main influence
+/influence/influence_node/influenced_by
+author
+
+35251	who did <e> influence
+/influence/influence_node/influenced
+musical_group
+
+35438	who was <e> influenced by
+/influence/influence_node/influenced_by
+academic
+
+35530	who influenced <e>
+/influence/influence_node/influenced
+politician
+
+35575	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+35776	who influenced <e>
+/influence/influence_node/influenced_by
+film_actor
+
+35857	what known person did <e> influence
+/influence/influence_node/influenced
+_NOTYPE_
+
+36106	what philosopher influenced <e>
+/influence/influence_node/influenced_by
+author
+
+36109	who was <e> influenced by
+/influence/influence_node/influenced_by
+composer
+
+36241	what writer was inspired by <e>
+/influence/influence_node/influenced
+author
+
+36473	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+37596	who did <e> influence
+/influence/influence_node/influenced
+author
+
+37859	who influenced <e>
+/influence/influence_node/influenced_by
+architect
+
+37874	whom did <e> influence
+/influence/influence_node/influenced
+_NOTYPE_
+
+37995	who did <e> influence
+/influence/influence_node/influenced
+author
+
+38188	who was <e> influenced by
+/influence/influence_node/influenced_by
+tv_writer
+
+38567	who is <e> influenced by
+/influence/influence_node/influenced_by
+blogger
+
+38818	what playwright did <e> influence
+/influence/influence_node/influenced
+author
+
+38962	who was influenced by <e>
+/influence/influence_node/influenced
+visual_artist
+
+39067	who was <e> influenced by
+/influence/influence_node/influenced_by
+film_actor
+
+39241	who did <e> influence
+/influence/influence_node/influenced
+author
+
+39317	who did <e> influence
+/influence/influence_node/influenced
+visual_artist
+
+39491	who was the influencer of <e>
+/influence/influence_node/influenced
+author
+
+39499	who was influenced by <e>
+/influence/influence_node/influenced
+academic
+
+40769	who was <e> influenced by
+/influence/influence_node/influenced_by
+musical_artist
+
+41025	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+41086	what literary character influenced the <e>
+/influence/influence_node/influenced_by
+religious_leader
+
+41102	who was influenced by <e>
+/influence/influence_node/influenced
+founding_figure
+
+41247	who was influenced by <e>
+/influence/influence_node/influenced
+award_nominee
+
+41302	who was influenced by <e>
+/influence/influence_node/influenced_by
+celebrity
+
+41348	who did <e> influence
+/influence/influence_node/influenced
+academic
+
+41558	what wildlife expert and journalist was influenced by <e>
+/influence/influence_node/influenced
+academic
+
+41597	what economist was influenced by <e>
+/influence/influence_node/influenced
+academic
+
+41647	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+42193	what greek philosopher had an impact on <e>
+/influence/influence_node/influenced_by
+author
+
+42309	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+42767	who was <e> influenced by
+/influence/influence_node/influenced_by
+visual_artist
+
+42812	who is a major influencer of <e>
+/influence/influence_node/influenced_by
+film_actor
+
+42839	who influenced <e>
+/influence/influence_node/influenced
+tv_writer
+
+42932	what writer was influenced by <e>
+/influence/influence_node/influenced
+author
+
+42963	who is <e> ( engineer ) influenced by
+/influence/influence_node/influenced_by
+engineer
+
+43188	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+43373	who influenced <e>
+/influence/influence_node/influenced
+visual_artist
+
+43378	who was <e> influenced by
+/influence/influence_node/influenced_by
+blogger
+
+43681	who influenced <e>
+/influence/influence_node/influenced_by
+academic
+
+44008	who played a major influence on <e>
+/influence/influence_node/influenced_by
+author
+
+44808	who was the influencer of <e>
+/influence/influence_node/influenced_by
+author
+
+44865	who was influenced by <e>
+/influence/influence_node/influenced
+literary_school_or_movement
+
+46102	who did <e> influence
+/influence/influence_node/influenced_by
+author
+
+46482	which modern artist was influenced by <e>
+/influence/influence_node/influenced
+musical_group
+
+46744	who is one of <e> influences
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+46806	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+46881	who did <e> influence
+/influence/influence_node/influenced
+tv_writer
+
+47193	who influenced <e>
+/influence/influence_node/influenced_by
+deceased_person
+
+47238	who was <e> influenced by
+/influence/influence_node/influenced
+author
+
+47293	who influenced <e>
+/influence/influence_node/influenced
+visual_artist
+
+47766	who was influenced by <e>
+/influence/influence_node/influenced
+author
+
+48742	who did influence <e>
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+49102	to whom was <e> an influence
+/influence/influence_node/influenced
+_NOTYPE_
+
+49116	was was influenced by <e>
+/influence/influence_node/influenced
+academic
+
+49204	who did <e> influence greatly
+/influence/influence_node/influenced_by
+composer
+
+49363	who was gottlob <e> influence for
+/influence/influence_node/influenced
+_NOTYPE_
+
+49608	which person has <e> influenced
+/influence/influence_node/influenced
+author
+
+50055	what writer influenced <e>
+/influence/influence_node/influenced_by
+author
+
+50314	who has <e> influenced
+/influence/influence_node/influenced_by
+author
+
+50824	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+51401	who influenced <e>
+/influence/influence_node/influenced_by
+organization_founder
+
+51585	who influenced <e>
+/influence/influence_node/influenced_by
+academic
+
+51699	who did <e> influence
+/influence/influence_node/influenced
+politician
+
+51741	who was <e> biggest influencers
+/influence/influence_node/influenced_by
+author
+
+51879	who influenced the work of the swedish writer <e>
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+52143	who was a influence to <e>
+/influence/influence_node/influenced
+_NOTYPE_
+
+52311	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+52399	who was the influencer of <e>
+/influence/influence_node/influenced_by
+author
+
+52685	what japanese writer influenced <e>
+/influence/influence_node/influenced_by
+author
+
+53116	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+53131	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+53229	who influenced <e>
+/influence/influence_node/influenced_by
+film_director
+
+53328	who was an influencer of <e>
+/influence/influence_node/influenced
+film_character
+
+53383	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+54254	who influenced <e> ( agriculturist )
+/influence/influence_node/influenced
+inventor
+
+54334	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+54463	who influenced <e>
+/influence/influence_node/influenced_by
+visual_artist
+
+54521	who did <e> end up influencing
+/influence/influence_node/influenced
+astronomer
+
+54613	who was <e> influenced by
+/influence/influence_node/influenced_by
+visual_artist
+
+54624	who did <e> have an influence on
+/influence/influence_node/influenced
+musical_artist
+
+54684	who was influenced by <e>
+/influence/influence_node/influenced
+person
+
+54766	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+54950	whom did <e> influence
+/influence/influence_node/influenced
+_NOTYPE_
+
+55314	who did <e> influence
+/influence/influence_node/influenced
+author
+
+55449	who was a person influenced by <e>
+/influence/influence_node/influenced
+author
+
+55639	who influenced <e>
+/influence/influence_node/influenced
+film_actor
+
+56257	what comedian was influenced by <e>
+/influence/influence_node/influenced_by
+person
+
+57199	who was one of <e> influence
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+57511	who influenced <e>
+/influence/influence_node/influenced_by
+visual_artist
+
+58015	who is someone that <e> influenced
+/influence/influence_node/influenced
+author
+
+58432	who did <e> influence
+/influence/influence_node/influenced
+academic
+
+58592	who was influenced by <e>
+/influence/influence_node/influenced_by
+author
+
+58737	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+58780	who influenced the comedian <e>
+/influence/influence_node/influenced_by
+musical_artist
+
+59158	who influenced <e>
+/influence/influence_node/influenced_by
+military_commander
+
+59672	who did <e> influence
+/influence/influence_node/influenced
+author
+
+59905	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+60045	what person did <e> influence
+/influence/influence_node/influenced
+_NOTYPE_
+
+60274	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+60316	which novelist did <e> influence
+/influence/influence_node/influenced
+author
+
+60380	who did <e> influence
+/influence/influence_node/influenced
+author
+
+61242	name one person who has been influenced by <e>
+/influence/influence_node/influenced
+author
+
+61483	who has <e> have an influence on
+/influence/influence_node/influenced
+author
+
+61763	name an african american author who shares her beliefs with <e>
+/influence/influence_node/influenced
+author
+
+61810	who influenced <e>
+/influence/influence_node/influenced_by
+visual_artist
+
+61951	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+61969	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+62627	who did <e> influence
+/influence/influence_node/influenced
+religious_leader
+
+62649	who did <e> influence
+/influence/influence_node/influenced
+author
+
+63656	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+63779	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+63791	who has <e> influenced
+/influence/influence_node/influenced
+organization_founder
+
+63800	who influenced <e>
+/influence/influence_node/influenced_by
+programming_language
+
+63978	who was influenced by <e>
+/influence/influence_node/influenced
+inventor
+
+64356	which english poet influenced <e>
+/influence/influence_node/influenced_by
+visual_artist
+
+64604	who influenced <e> 's work
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+64663	who influenced <e>
+/influence/influence_node/influenced_by
+architect
+
+64769	who was influenced by <e>
+/influence/influence_node/influenced
+_NOTYPE_
+
+64852	who has <e> influenced
+/influence/influence_node/influenced
+computer_scientist
+
+64858	who did <e> influence
+/influence/influence_node/influenced
+author
+
+65148	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+65344	who is <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+65608	who did <e> play an influencing role with
+/influence/influence_node/influenced
+author
+
+65881	who was <e> influenced by
+/influence/influence_node/influenced_by
+film_actor
+
+66188	who was <e> influenced by
+/influence/influence_node/influenced_by
+author
+
+66315	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+66666	<e> was influenced by which polymath
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+67053	who did <e> influence
+/influence/influence_node/influenced
+visual_artist
+
+67145	who influenced <e>
+/influence/influence_node/influenced_by
+author
+
+67193	who has <e> helped to influence
+/influence/influence_node/influenced
+author
+
+67290	who was <e> influenced by
+/influence/influence_node/influenced_by
+celebrity
+
+67440	who influenced <e>
+/influence/influence_node/influenced
+author
+
+67733	who has <e> influenced
+/influence/influence_node/influenced
+academic
+
+67777	who has <e> influenced
+/influence/influence_node/influenced
+_NOTYPE_
+
+67783	who was <e> influenced by
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+67867	who influenced <e>
+/influence/influence_node/influenced
+_NOTYPE_
+
+67920	who did <e> influence
+/influence/influence_node/influenced
+author
+
+68145	<e> influenced whom
+/influence/influence_node/influenced
+author
+
+68574	who influenced <e>
+/influence/influence_node/influenced
+_NOTYPE_
+
+68903	who was <e> influenced by
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+69664	who influenced <e>
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+69704	who was <e> ( novelist ) influenced by
+/influence/influence_node/influenced_by
+author
+
+70684	who served as an influence on <e>
+/influence/influence_node/influenced
+visual_artist
+
+70791	who was <e> influenced by
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+70796	what writer influenced <e>
+/influence/influence_node/influenced_by
+author
+
+70981	who did <e> influence
+/influence/influence_node/influenced
+visual_artist
+
+71230	who did <e> influence
+/influence/influence_node/influenced
+_NOTYPE_
+
+71331	who influenced <e>
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+71361	who did <e> influence
+/influence/influence_node/influenced
+_NOTYPE_
+
+71509	who influenced <e>
+/influence/influence_node/influenced_by
+_NOTYPE_
+
+71784	who did <e> influence
+/influence/influence_node/influenced
+_NOTYPE_
+
+72227	who was <e> especially influenced by
+/influence/influence_node/influenced_by
+author
+

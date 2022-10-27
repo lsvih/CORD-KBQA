@@ -1,0 +1,60 @@
+310	what state is the <e> from
+sports.sports_team.location
+professional_sports_team
+
+443	where are the <e> playing
+sports.sports_team.arena_stadium
+professional_sports_team
+
+454	where are the <e> moving to
+sports.sports_team.location
+professional_sports_team
+
+468	where did <e> come from
+sports.sports_team.location
+professional_sports_team
+
+628	where do the <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+690	where does the <e> practice
+sports.sports_team.arena_stadium
+professional_sports_team
+
+774	where do the <e> play home games
+sports.sports_team.arena_stadium
+professional_sports_team
+
+792	where do ireland play <e>
+sports.sports_team.arena_stadium
+sports_team
+
+817	where do the <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+1045	what city does <e> play in
+sports.sports_team.location
+football_team
+
+1062	what is the <e> stadium called
+sports.sports_team.arena_stadium
+professional_sports_team
+
+1212	where is the home stadium of the <e>
+sports.sports_team.arena_stadium
+professional_sports_team
+
+1252	where do <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+1260	where does <e> play
+sports.sports_team.location
+football_team
+
+1265	where is the <e> stadium located
+sports.sports_team.location
+professional_sports_team
+

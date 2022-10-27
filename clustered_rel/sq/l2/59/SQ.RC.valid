@@ -1,0 +1,2144 @@
+6	where is <e> located
+/location/location/containedby
+
+
+80	what country is <e> a part of
+/location/location/containedby
+
+
+82	what region is <e> located in
+/location/location/containedby
+
+
+84	what us state contains <e>
+/location/location/containedby
+
+
+86	which country is <e> in
+/location/location/containedby
+
+
+87	where is <e>
+/location/location/containedby
+
+
+123	in which country is the town of <e> located
+/location/location/containedby
+
+
+126	what city is in <e>
+/location/location/contains
+
+
+129	wher is <e>
+/location/location/containedby
+
+
+135	what us state is <e> within
+/location/location/containedby
+
+
+248	which places contains the zip code <e>
+/location/location/containedby
+
+
+252	in which county in illinois is <e> located
+/location/location/containedby
+
+
+257	what counties are in <e>
+/location/location/contains
+
+
+266	where is <e> located
+/location/location/containedby
+
+
+280	what is contained by <e>
+/location/location/contains
+
+
+281	what can be found within <e>
+/location/location/contains
+
+
+284	what county contains <e>
+/location/location/containedby
+
+
+354	which places contain <e>
+/location/location/containedby
+
+
+414	where is <e> ( metra ) lovated
+/location/location/containedby
+
+
+418	what are cities in <e>
+/location/location/contains
+
+
+434	name a place within <e>
+/location/location/contains
+
+
+448	which country is <e> located in
+/location/location/containedby
+
+
+451	where is <e>
+/location/location/containedby
+
+
+488	where is the location of <e>
+/location/location/contains
+
+
+509	what us state is <e> in
+/location/location/containedby
+
+
+512	where is <e> located within the united states
+/location/location/containedby
+
+
+550	in which area is <e> located in
+/location/location/containedby
+
+
+596	where is <e> located
+/location/location/containedby
+
+
+598	where is <e> located
+/location/location/containedby
+
+
+618	what house is in <e>
+/location/location/contains
+
+
+640	where is <e> located
+/location/location/containedby
+
+
+730	what is the name of a city found in pasco county in <e>
+/location/location/contains
+
+
+735	what is the northernmost states of germany located in <e>
+/location/location/containedby
+
+
+766	where in sicily is <e> located in
+/location/location/contains
+
+
+793	name one location in <e>
+/location/location/contains
+
+
+824	where is <e>
+/location/location/containedby
+
+
+827	what state is <e> in
+/location/location/containedby
+
+
+836	what county possesses <e>
+/location/location/containedby
+
+
+852	which east coast state is <e> located in
+/location/location/containedby
+
+
+890	which hot springs is locted in <e>
+/location/location/contains
+
+
+897	what area is in <e>
+/location/location/contains
+
+
+902	what town on the southeast of <e>
+/location/location/contains
+
+
+917	name a community located in <e>
+/location/location/contains
+
+
+931	what country is <e> in
+/location/location/containedby
+
+
+932	which state is <e> located in
+/location/location/containedby
+
+
+934	which county is <e> in
+/location/hud_county_place/county
+
+
+946	which state is <e> located
+/location/location/containedby
+
+
+949	where is <e> located at
+/location/location/containedby
+
+
+955	which prairie style house in chicago is located on <e>
+/location/location/contains
+
+
+966	what city is located in <e>
+/location/location/contains
+
+
+967	what area contains the location <e>
+/location/location/containedby
+
+
+995	which austrailian state is <e> in
+/location/location/containedby
+
+
+1044	which country is <e> in
+/location/location/containedby
+
+
+1048	what 's a town in <e>
+/location/us_county/hud_county_place
+
+
+1052	in which country is <e> found
+/location/location/containedby
+
+
+1069	where is the <e> located
+/location/location/containedby
+
+
+1075	what is the name of a place in <e>
+/location/location/contains
+
+
+1092	what is a area in <e>
+/location/location/contains
+
+
+1107	what county is <e> apart of
+/location/hud_county_place/county
+
+
+1114	where in the world is <e>
+/location/location/containedby
+
+
+1119	what state is <e> in
+/location/location/containedby
+
+
+1123	which region contains <e>
+/location/location/containedby
+
+
+1126	what is a place in <e>
+/location/location/contains
+
+
+1128	what country is <e> within
+/location/location/containedby
+
+
+1131	name a location in <e>
+/location/location/contains
+
+
+1144	what county is <e> apart of
+/location/location/containedby
+
+
+1155	where is <e> at
+/location/location/containedby
+
+
+1158	where is <e>
+/location/location/containedby
+
+
+1177	what 's in the area covered by the zip code <e>
+/location/location/containedby
+
+
+1178	where is <e>
+/location/location/containedby
+
+
+1188	where is <e> found
+/location/location/containedby
+
+
+1199	which city as the <e>
+/location/location/containedby
+
+
+1201	what state is <e> in
+/location/location/containedby
+
+
+1203	what is a city in <e>
+/location/location/contains
+
+
+1262	where is <e>
+/location/location/containedby
+
+
+1273	what 's a town in <e>
+/location/location/contains
+
+
+1286	where is the <e>
+/location/location/containedby
+
+
+1333	what is a place located in <e>
+/location/location/contains
+
+
+1336	what is a located based in <e>
+/location/location/contains
+
+
+1347	which county is <e> located in
+/location/location/containedby
+
+
+1361	what is in <e>
+/location/location/contains
+
+
+1363	what is the location of <e>
+/location/location/containedby
+
+
+1385	name a historic town in <e>
+/location/location/contains
+
+
+1400	what 's a city in <e> ( u.s. state )
+/location/location/contains
+
+
+1403	what area can be found within <e>
+/location/location/contains
+
+
+1441	in which area is <e> located
+/location/location/containedby
+
+
+1469	what is a natural bay with 1 mile long beach located in <e>
+/location/location/contains
+
+
+1487	which country is <e> from
+/location/location/containedby
+
+
+1489	what county is <e> based in
+/location/location/containedby
+
+
+1504	where is <e> located
+/location/location/containedby
+
+
+1518	what country contains <e>
+/location/location/containedby
+
+
+1554	name a city located in <e>
+/location/location/contains
+
+
+1569	in which northern county is <e> located
+/location/location/containedby
+
+
+1605	where is <e> located at
+/location/location/containedby
+
+
+1610	which area can be found in <e>
+/location/location/contains
+
+
+1614	what cities are in <e>
+/location/location/contains
+
+
+1617	what is in <e>
+/location/location/contains
+
+
+1663	where is <e> contained
+/location/location/containedby
+
+
+1687	what city is located in <e>
+/location/location/contains
+
+
+1720	what village is located in <e>
+/location/location/contains
+
+
+1750	what is the name of a park located in the <e>
+/location/location/contains
+
+
+1761	which districk is located in <e>
+/location/location/containedby
+
+
+1763	what 's an upazila in <e>
+/location/location/contains
+
+
+1765	which country is <e> located in
+/location/location/containedby
+
+
+1778	where is <e> located
+/location/location/containedby
+
+
+1782	where is <e>
+/location/location/containedby
+
+
+1798	what asian country is <e> located
+/location/location/containedby
+
+
+1805	which country is <e> in
+/location/location/containedby
+
+
+1810	what 's a smaller village in <e>
+/location/location/contains
+
+
+1828	where is <e> located
+/location/location/containedby
+
+
+1851	which country locates <e>
+/location/location/containedby
+
+
+1910	what is a comune in the province of pisa in the italian <e>
+/location/location/contains
+
+
+1919	what can be found in <e>
+/location/location/contains
+
+
+1922	what state is <e> located in
+/location/location/containedby
+
+
+1965	what 's an example of a hamlet in <e>
+/location/location/contains
+
+
+1969	where is <e>
+/location/location/containedby
+
+
+1973	which country does the <e> run through
+/location/location/containedby
+
+
+1978	what is located in the <e>
+/location/location/contains
+
+
+2024	what state is <e> in
+/location/location/containedby
+
+
+2092	what botanical garden is in <e>
+/location/location/contains
+
+
+2107	what state is <e> in
+/location/location/containedby
+
+
+2168	whats the name of a stadium located in <e>
+/location/location/contains
+
+
+2191	what is the name of a town in <e>
+/location/location/contains
+
+
+2192	in which southern county is <e> located
+/location/location/containedby
+
+
+2193	<e> is in what country
+/location/location/containedby
+
+
+2195	which county is <e> in
+/location/location/containedby
+
+
+2206	which places are located in <e> ( australia )
+/location/location/contains
+
+
+2216	which mountain is located in <e>
+/location/location/contains
+
+
+2217	where is <e> located
+/location/location/containedby
+
+
+2239	where is <e> located
+/location/location/containedby
+
+
+2249	where is <e> located
+/location/location/containedby
+
+
+2253	where is <e>
+/location/location/containedby
+
+
+2256	where is <e> located
+/location/location/containedby
+
+
+2264	what country is <e> within
+/location/location/containedby
+
+
+2267	what 's a temple found in <e>
+/location/location/contains
+
+
+2272	where in the world is <e>
+/location/location/containedby
+
+
+2301	what city is the <e> in
+/location/location/containedby
+
+
+2350	what is located within <e> borders
+/location/location/contains
+
+
+2353	where is <e> located
+/location/location/containedby
+
+
+2356	where in ireland is <e> located in
+/location/location/containedby
+
+
+2361	where in europe is <e> located
+/location/location/containedby
+
+
+2377	where is the <e>
+/location/location/containedby
+
+
+2415	which county can <e> be found in
+/location/hud_county_place/county
+
+
+2456	which country is <e> located in
+/location/location/containedby
+
+
+2458	what area is <e> in
+/location/location/containedby
+
+
+2460	what state is <e> in
+/location/location/containedby
+
+
+2569	what is located in <e>
+/location/location/contains
+
+
+2574	what county is <e> located in
+/location/location/containedby
+
+
+2583	which city is placed in <e>
+/location/us_county/hud_county_place
+
+
+2586	what is the name of a place located in <e>
+/location/us_county/hud_county_place
+
+
+2599	what is a town located in <e>
+/location/location/contains
+
+
+2602	whats the name of an italian town in <e>
+/location/location/contains
+
+
+2648	what country is <e> in
+/location/location/containedby
+
+
+2650	name a location within <e>
+/location/location/contains
+
+
+2652	name a location in <e>
+/location/location/contains
+
+
+2668	name a place that can be found in <e>
+/location/location/contains
+
+
+2670	what is a train station is <e>
+/location/location/contains
+
+
+2717	which country is <e> in
+/location/location/containedby
+
+
+2757	which state is <e> located in
+/location/location/contains
+
+
+2764	where is <e> located
+/location/location/containedby
+
+
+2765	where is a place to visit in <e>
+/location/location/contains
+
+
+2791	what sovereign state is <e> located in
+/location/location/containedby
+
+
+2803	name a volcano located in <e>
+/location/location/contains
+
+
+2819	in which county in south dakota is <e> located
+/location/hud_county_place/county
+
+
+2828	which country locates <e>
+/location/location/containedby
+
+
+2883	what is an example of a city in <e>
+/location/us_county/hud_county_place
+
+
+2904	which area is <e> a part of
+/location/location/containedby
+
+
+2930	what country is <e> in
+/location/location/containedby
+
+
+2942	what us state is <e> in
+/location/location/containedby
+
+
+3014	what state is <e> in
+/location/location/containedby
+
+
+3021	what universities are <e>
+/location/location/contains
+
+
+3029	where in florida is <e>
+/location/location/containedby
+
+
+3055	where is <e> located
+/location/location/containedby
+
+
+3061	what was contained in <e>
+/location/location/containedby
+
+
+3066	where is <e>
+/location/location/containedby
+
+
+3164	where is the <e> located
+/location/location/contains
+
+
+3198	what state is <e> in
+/location/location/containedby
+
+
+3199	what county is <e> in
+/location/location/containedby
+
+
+3246	what is the name of a location in the <e>
+/location/location/contains
+
+
+3247	where is the area <e> located
+/location/location/containedby
+
+
+3248	what hill is located in <e>
+/location/location/contains
+
+
+3258	where does <e> lie
+/location/location/containedby
+
+
+3275	where is <e> based in
+/location/location/containedby
+
+
+3300	what continent is <e> in
+/location/location/containedby
+
+
+3308	what country is <e> in
+/location/location/containedby
+
+
+3391	name a city and state in <e>
+/location/location/contains
+
+
+3406	where is <e> located
+/location/location/containedby
+
+
+3416	whats the name of a river located in <e>
+/location/location/contains
+
+
+3428	what state is <e> in
+/location/location/containedby
+
+
+3451	which county and state is <e> located in
+/location/hud_county_place/county
+
+
+3465	<e> contains what historic place
+/location/location/contains
+
+
+3469	where is <e> located in
+/location/location/containedby
+
+
+3472	what 's the name of a famous skyscraper in <e>
+/location/location/contains
+
+
+3484	what is a village found in <e>
+/location/location/contains
+
+
+3518	which country is <e> in
+/location/location/containedby
+
+
+3548	what state is <e> in
+/location/location/containedby
+
+
+3614	what educational university is in <e>
+/location/location/contains
+
+
+3639	name a place in <e>
+/location/location/contains
+
+
+3643	what creek is located in virginia <e>
+/location/location/contains
+
+
+3670	what county is <e> contained by
+/location/location/containedby
+
+
+3675	what is the city in the <e>
+/location/location/contains
+
+
+3679	where is <e>
+/location/location/containedby
+
+
+3696	which county is <e> located in
+/location/location/containedby
+
+
+3733	what state is <e> in
+/location/location/containedby
+
+
+3747	which places contains the <e>
+/location/location/containedby
+
+
+3805	what is a commune in <e> of italy
+/location/location/contains
+
+
+3808	what county is <e> located in
+/location/hud_county_place/county
+
+
+3824	which state is the <e> located in
+/location/location/containedby
+
+
+3846	which county is the <e> located in
+/location/location/containedby
+
+
+3940	which country locates <e>
+/location/location/containedby
+
+
+3943	what 's a place in <e>
+/location/location/contains
+
+
+3988	name a city in <e>
+/location/us_county/hud_county_place
+
+
+4010	what 's a beauty institute located in <e>
+/location/location/contains
+
+
+4123	what is the name of the country that <e> is located in
+/location/location/containedby
+
+
+4144	what country surrounds <e>
+/location/location/containedby
+
+
+4148	which district is <e> in
+/location/location/containedby
+
+
+4163	what is a place in colorado <e>
+/location/location/contains
+
+
+4165	what parks are <e>
+/location/location/contains
+
+
+4190	where is <e> located
+/location/location/containedby
+
+
+4201	what is a secondary school in <e>
+/location/location/contains
+
+
+4245	where is <e> located
+/location/location/containedby
+
+
+4249	what locations are in <e>
+/location/location/contains
+
+
+4264	where is <e> within the united states
+/location/location/containedby
+
+
+4321	in what region of italy is <e> located
+/location/location/containedby
+
+
+4338	which county is <e> located in
+/location/location/containedby
+
+
+4356	what school can be found in <e>
+/location/location/contains
+
+
+4386	what 's a commune located in <e>
+/location/location/contains
+
+
+4393	which state is <e> located
+/location/location/containedby
+
+
+4402	name a place in <e>
+/location/location/contains
+
+
+4406	where is <e> located
+/location/location/containedby
+
+
+4409	what is a city in <e>
+/location/location/contains
+
+
+4423	which county contains the <e>
+/location/location/containedby
+
+
+4477	where is <e> located
+/location/location/containedby
+
+
+4526	where is <e> found
+/location/location/containedby
+
+
+4538	whats a region located in <e>
+/location/location/containedby
+
+
+4541	what is an attraction in <e>
+/location/location/contains
+
+
+4542	what airport can be found in <e>
+/location/location/contains
+
+
+4546	what county and state is <e> located in
+/location/location/containedby
+
+
+4554	what county is <e> apart of
+/location/hud_county_place/county
+
+
+4565	in which state is <e> located
+/location/location/containedby
+
+
+4593	what city is <e> in
+/location/location/containedby
+
+
+4632	where is <e>
+/location/location/containedby
+
+
+4633	which town is located in <e>
+/location/location/contains
+
+
+4665	which country is the <e> located in
+/location/location/containedby
+
+
+4698	where is <e> located
+/location/location/containedby
+
+
+4712	what surrounds <e>
+/location/location/containedby
+
+
+4738	what is contained in the location <e>
+/location/location/contains
+
+
+4741	what state is <e> in
+/location/location/containedby
+
+
+4764	where is <e> located
+/location/hud_county_place/county
+
+
+4791	name a location in <e>
+/location/location/contains
+
+
+4792	what is <e> within
+/location/location/containedby
+
+
+4813	in which country is <e> located
+/location/location/containedby
+
+
+4822	which county is <e> located in
+/location/hud_county_place/county
+
+
+4830	name a township in <e>
+/location/location/contains
+
+
+4839	name a place located in <e>
+/location/location/contains
+
+
+4842	where is <e> located
+/location/location/containedby
+
+
+4854	what is the name of a town located in <e>
+/location/location/contains
+
+
+4857	what country is <e> located
+/location/location/containedby
+
+
+4860	in what state is <e> located
+/location/location/containedby
+
+
+4865	whereis <e> located
+/location/location/containedby
+
+
+4945	what town is found in <e>
+/location/location/contains
+
+
+4974	which places are a part of the <e> zip code
+/location/location/contains
+
+
+5001	which state does <e> reside in
+/location/location/containedby
+
+
+5015	in what southern state is <e> located
+/location/location/containedby
+
+
+5021	what is a city in surrey county <e>
+/location/location/contains
+
+
+5028	what city is located within <e>
+/location/location/contains
+
+
+5056	in what zip code does <e> lie
+/location/location/containedby
+
+
+5094	what county includes <e>
+/location/location/containedby
+
+
+5120	which country is <e> in
+/location/location/containedby
+
+
+5124	whats the name of a city that is located in new york in <e>
+/location/location/contains
+
+
+5150	name an airport in <e>
+/location/location/contains
+
+
+5173	where is the location of <e>
+/location/location/containedby
+
+
+5199	where is <e>
+/location/location/containedby
+
+
+5200	what state is <e> in
+/location/location/containedby
+
+
+5220	where is <e> located
+/location/location/containedby
+
+
+5234	where is <e>
+/location/location/containedby
+
+
+5236	what county is <e> in
+/location/location/containedby
+
+
+5238	which county is <e> located in
+/location/location/containedby
+
+
+5256	what 's a landmark <e>
+/location/location/contains
+
+
+5265	in which country is the coastal city of <e> located
+/location/location/containedby
+
+
+5282	where is <e> located
+/location/us_county/hud_county_place
+
+
+5297	name a community located in <e>
+/location/location/contains
+
+
+5338	what 's a wetland site located <e>
+/location/location/contains
+
+
+5352	name a location contained in <e>
+/location/location/contains
+
+
+5362	where is <e> located
+/location/location/containedby
+
+
+5381	what 's a city located in alabama in <e>
+/location/location/contains
+
+
+5401	where is <e>
+/location/location/containedby
+
+
+5419	what state is <e> in
+/location/location/containedby
+
+
+5456	what is an island that is apart of <e>
+/location/location/contains
+
+
+5489	what state is <e> from
+/location/location/containedby
+
+
+5498	where is the <e> located
+/location/location/containedby
+
+
+5511	which state is <e> located in
+/location/location/containedby
+
+
+5541	which asian country is <e> within
+/location/location/containedby
+
+
+5557	which asian nation is <e> located in
+/location/location/containedby
+
+
+5573	what is located on <e>
+/location/location/containedby
+
+
+5618	what country is <e> in
+/location/location/containedby
+
+
+5623	where would you find <e>
+/location/location/containedby
+
+
+5652	what college is in <e>
+/location/location/contains
+
+
+5660	<e> is contained by what province
+/location/location/containedby
+
+
+5667	where is <e> located at
+/location/location/containedby
+
+
+5679	what city is located in <e>
+/location/location/contains
+
+
+5706	where is <e>
+/location/location/containedby
+
+
+5732	what province is <e> located in
+/location/location/containedby
+
+
+5807	what state is <e> in
+/location/location/containedby
+
+
+5827	what locations are in <e>
+/location/location/contains
+
+
+5877	what is a township located in <e>
+/location/location/contains
+
+
+5899	where is <e> located
+/location/location/containedby
+
+
+5907	what is the name of a city in <e>
+/location/location/contains
+
+
+5918	whats a name of a city found in <e>
+/location/location/contains
+
+
+5919	what island group is <e> a part of
+/location/location/containedby
+
+
+5926	name a town in <e>
+/location/location/contains
+
+
+5943	which country is <e> in
+/location/location/containedby
+
+
+5956	what city in <e> in
+/location/location/containedby
+
+
+5989	what state is <e> in
+/location/location/containedby
+
+
+6067	which country locates <e>
+/location/location/containedby
+
+
+6080	which places are located in <e>
+/location/location/contains
+
+
+6117	in what state is <e> in
+/location/location/containedby
+
+
+6121	what is the name of a city in <e>
+/location/us_county/hud_county_place
+
+
+6130	where is <e> located
+/location/location/containedby
+
+
+6211	what county and state does <e> lie in
+/location/location/containedby
+
+
+6275	which country contains <e>
+/location/location/containedby
+
+
+6281	what country is <e> in
+/location/location/containedby
+
+
+6356	what state is the <e> located
+/location/location/containedby
+
+
+6359	what county is <e> within
+/location/hud_county_place/county
+
+
+6390	in what american state is the town <e> located
+/location/location/containedby
+
+
+6436	where is the location of <e>
+/location/location/containedby
+
+
+6461	which zip code is <e> located in
+/location/location/containedby
+
+
+6478	which county is <e> located in
+/location/location/containedby
+
+
+6488	where is <e>
+/location/location/containedby
+
+
+6495	where is <e> located
+/location/location/containedby
+
+
+6507	what state is <e> located in
+/location/location/containedby
+
+
+6524	what state is <e> in
+/location/location/containedby
+
+
+6526	where is <e> located
+/location/location/containedby
+
+
+6545	where is the location of <e>
+/location/location/containedby
+
+
+6555	what is a city located in <e>
+/location/us_county/hud_county_place
+
+
+6568	where is the school <e> located
+/location/location/containedby
+
+
+6577	which county is <e> located in
+/location/hud_county_place/county
+
+
+6602	what country contains <e>
+/location/location/containedby
+
+
+6704	in what country is <e> located
+/location/location/containedby
+
+
+6784	what county is <e> located in
+/location/location/containedby
+
+
+6799	what state is <e> located in
+/location/location/containedby
+
+
+6806	what is the name of a college that is located in <e>
+/location/location/contains
+
+
+6808	which country is <e> located in
+/location/location/containedby
+
+
+6833	what county includes <e>
+/location/location/containedby
+
+
+6845	are the <e> in the united states or canada
+/location/location/containedby
+
+
+6859	what here is <e>
+/location/location/contains
+
+
+6880	which country is <e> in
+/location/location/containedby
+
+
+6893	what 's a city in <e>
+/location/location/contains
+
+
+6938	what are the townships found in <e>
+/location/location/contains
+
+
+6946	what secondary college is located in <e> ( australia )
+/location/location/contains
+
+
+6949	what is in <e>
+/location/location/contains
+
+
+6952	the <e> is contained by what country
+/location/location/containedby
+
+
+6953	which county is <e> in
+/location/hud_county_place/county
+
+
+6994	<e> is located in what new jersey city
+/location/location/contains
+
+
+7007	where is <e> in the united states
+/location/location/containedby
+
+
+7010	what county is <e> in
+/location/location/containedby
+
+
+7013	where is <e> located in
+/location/location/containedby
+
+
+7023	which county is <e> in
+/location/location/containedby
+
+
+7041	which state is <e> located in
+/location/location/containedby
+
+
+7045	name a place in <e>
+/location/location/contains
+
+
+7076	which country is <e> located in
+/location/location/containedby
+
+
+7093	which country locates <e>
+/location/location/containedby
+
+
+7100	what 's an organization in <e>
+/location/location/contains
+
+
+7141	what 's a village within <e>
+/location/location/contains
+
+
+7164	name an address in the postal code <e>
+/location/location/contains
+
+
+7211	which state is <e> located
+/location/location/containedby
+
+
+7235	what airports are in the <e>
+/location/location/contains
+
+
+7245	what county is <e> in
+/location/location/containedby
+
+
+7281	is <e> in alberta or onatario
+/location/location/containedby
+
+
+7289	where is the location of <e>
+/location/location/containedby
+
+
+7291	which location can be found in <e>
+/location/location/contains
+
+
+7338	what state does <e> belong to
+/location/location/containedby
+
+
+7344	which state on the easetern seaboard is <e> in
+/location/location/containedby
+
+
+7348	what is a college known for its arts and science program in <e>
+/location/location/contains
+
+
+7360	where would you find <e>
+/location/location/containedby
+
+
+7364	what 's a town that 's on <e>
+/location/location/contains
+
+
+7380	what city is <e> located in
+/location/location/containedby
+
+
+7400	which are is <e> located in
+/location/location/containedby
+
+
+7407	what is a market town in <e>
+/location/location/contains
+
+
+7434	which country is <e> located in
+/location/location/containedby
+
+
+7440	which county is <e> located in
+/location/location/containedby
+
+
+7461	in which town is <e> located in
+/location/location/containedby
+
+
+7478	what country contains <e>
+/location/location/containedby
+
+
+7506	the <e> is a part of what country
+/location/location/containedby
+
+
+7507	which state is <e> in
+/location/location/containedby
+
+
+7530	name a place in <e>
+/location/location/contains
+
+
+7541	what location is <e> contained in
+/location/location/containedby
+
+
+7572	what 's a place inside <e>
+/location/location/contains
+
+
+7633	where is the <e>
+/location/location/containedby
+
+
+7640	which country is the <e> in
+/location/location/containedby
+
+
+7688	where is <e> located
+/location/location/containedby
+
+
+7690	in which country is <e> located
+/location/location/containedby
+
+
+7698	what country is <e> in
+/location/location/containedby
+
+
+7713	whats the name of a river in iran that is found in the country of <e>
+/location/location/contains
+
+
+7730	name a chiropractic college located outside <e>
+/location/location/contains
+
+
+7762	where in austrailia is <e> the located in
+/location/location/containedby
+
+
+7774	what state is <e> in
+/location/location/containedby
+
+
+7784	where is <e>
+/location/location/containedby
+
+
+7794	where is <e>
+/location/location/containedby
+
+
+7852	what is place located in <e>
+/location/location/contains
+
+
+7853	what region in the southern part of guinea contains <e>
+/location/location/containedby
+
+
+7875	where is <e> located
+/location/location/containedby
+
+
+7889	<e> is located in what hud county place
+/location/hud_county_place/county
+
+
+7934	what is in <e>
+/location/location/contains
+
+
+7945	where is <e> located
+/location/location/containedby
+
+
+7951	what 's a neighborhood found in <e>
+/location/location/contains
+
+
+7987	what school is located in <e>
+/location/location/contains
+
+
+7988	where is <e> 's location
+/location/location/containedby
+
+
+8014	where in canada is <e> located
+/location/location/containedby
+
+
+8050	where is <e> located
+/location/location/containedby
+
+
+8057	what 's a city in <e>
+/location/location/contains
+
+
+8101	where is <e>
+/location/location/containedby
+
+
+8105	which location is found in <e>
+/location/location/contains
+
+
+8123	name a city located in the country <e>
+/location/location/contains
+
+
+8152	which country is the city of <e> located
+/location/location/containedby
+
+
+8166	what 's the name of a community in <e>
+/location/location/contains
+
+
+8168	<e> can be found in which district in india
+/location/location/containedby
+
+
+8178	name a university in <e>
+/location/location/contains
+
+
+8188	what is a capital state in <e>
+/location/location/contains
+
+
+8193	what 's a tourist attraction in <e>
+/location/location/contains
+
+
+8247	which country was <e> associated with
+/location/location/contains
+
+
+8250	which county is <e> located in
+/location/location/containedby
+
+
+8265	in which county in michigan is the village <e> located
+/location/location/containedby
+
+
+8306	where is <e> located
+/location/location/containedby
+
+
+8323	which country is <e> based in
+/location/location/containedby
+
+
+8368	what state is <e> contained in
+/location/location/containedby
+
+
+8377	where is <e> located
+/location/location/containedby
+
+
+8381	where is <e>
+/location/location/containedby
+
+
+8392	which city contains <e>
+/location/location/containedby
+
+
+8436	what is the name of a place located in <e>
+/location/location/contains
+
+
+8482	which country locates <e>
+/location/location/containedby
+
+
+8483	which country contains <e>
+/location/location/containedby
+
+
+8504	which places contain the <e>
+/location/location/containedby
+
+
+8560	where is the <e> located
+/location/location/contains
+
+
+8564	where is <e> located
+/location/location/containedby
+
+
+8605	which country is <e> in
+/location/location/containedby
+
+
+8608	what is a building <e>
+/location/location/contains
+
+
+8657	<e> is within was area
+/location/location/containedby
+
+
+8687	what city is located in <e>
+/location/location/contains
+
+
+8707	which educational institution is located in <e>
+/location/location/contains
+
+
+8708	where is the location of <e>
+/location/location/containedby
+
+
+8733	where is <e> located at
+/location/location/containedby
+
+
+8741	what 's a city in <e>
+/location/location/contains
+
+
+8752	in which county in pennsylvania is <e> located
+/location/location/containedby
+
+
+8770	what area is the <e> ( san francisco bay area ) located in
+/location/location/containedby
+
+
+8772	what county is <e> located in
+/location/location/containedby
+
+
+8781	where would you find <e>
+/location/location/containedby
+
+
+8801	which country is <e> in
+/location/location/containedby
+
+
+8811	in which state is <e> located
+/location/location/containedby
+
+
+8837	where is <e>
+/location/location/containedby
+
+
+8838	what county does <e> belong to
+/location/hud_county_place/county
+
+
+8842	in which australian state is <e> located in
+/location/location/containedby
+
+
+8865	what western state does contain <e>
+/location/location/containedby
+
+
+8894	which creek is located in <e>
+/location/location/contains
+
+
+8912	where is the famous <e>
+/location/location/containedby
+
+
+8914	where is <e> located
+/location/location/containedby
+
+
+8950	where is <e> located
+/location/location/containedby
+
+
+8951	what country is <e> in
+/location/location/containedby
+
+
+8977	what is a place formerly known as boyd 's ferry located in <e>
+/location/location/contains
+
+
+8998	where is <e> located
+/location/location/containedby
+
+
+9004	what 's a city in <e>
+/location/location/contains
+
+
+9011	what 's a landmark within <e>
+/location/location/contains
+
+
+9012	what country does <e> belong to
+/location/location/containedby
+
+
+9055	name a college in <e>
+/location/location/contains
+
+
+9062	which country is <e> in
+/location/location/containedby
+
+
+9080	what is the name of a place located in <e>
+/location/location/contains
+
+
+9095	where is <e> located
+/location/location/containedby
+
+
+9107	what state is <e> in
+/location/location/containedby
+
+
+9134	which county is in <e>
+/location/location/contains
+
+
+9140	which county is <e> a part of
+/location/location/containedby
+
+
+9141	where is <e> located
+/location/location/containedby
+
+
+9157	which state is <e> located
+/location/location/containedby
+
+
+9160	which county is the <e> located in
+/location/location/containedby
+
+
+9174	what state is <e> in
+/location/location/containedby
+
+
+9183	what region is the city of <e> in
+/location/location/containedby
+
+
+9186	which city contains <e>
+/location/location/containedby
+
+
+9241	what cities are in <e>
+/location/location/contains
+
+
+9252	what city is <e> in
+/location/location/containedby
+
+
+9260	where is the location of <e>
+/location/location/containedby
+
+
+9275	what is an attraction is <e> ( city )
+/location/location/contains
+
+
+9283	name one of the townships in <e>
+/location/location/contains
+
+
+9285	what is a village in <e>
+/location/location/contains
+
+
+9294	what is in <e>
+/location/location/contains
+
+
+9316	where is <e> located
+/location/location/containedby
+
+
+9324	which district in essex is <e> in
+/location/location/containedby
+
+
+9329	where is <e> located
+/location/location/containedby
+
+
+9344	what is an attraction in <e>
+/location/location/contains
+
+
+9370	where is <e> contained
+/location/location/containedby
+
+
+9376	which place in the netherlands contains <e>
+/location/location/containedby
+
+
+9394	name a location in <e> ( u.s. state )
+/location/location/contains
+
+
+9436	where can <e> be found
+/location/location/containedby
+
+
+9456	which state is <e> located in
+/location/location/containedby
+
+
+9492	where in the world is <e>
+/location/location/containedby
+
+
+9518	what does <e> contain
+/location/location/contains
+
+
+9539	where is <e> located
+/location/hud_county_place/county
+
+
+9554	<e> is a city in which northern state
+/location/location/containedby
+
+
+9593	what does <e> contain
+/location/location/contains
+
+
+9597	what county is <e> in
+/location/hud_county_place/county
+
+
+9602	name one <e> 's thirteen states that lies on the western coast of the peninsula and south of kuala lumpur
+/location/location/contains
+
+
+9616	where is <e>
+/location/location/containedby
+
+
+9635	what country is <e> located
+/location/hud_county_place/county
+
+
+9638	what state is <e> located in
+/location/location/containedby
+
+
+9646	which us state is <e> in
+/location/location/containedby
+
+
+9680	what state is <e> in
+/location/location/containedby
+
+
+9686	where is <e>
+/location/location/containedby
+
+
+9711	what is contained in <e>
+/location/location/contains
+
+
+9723	were is <e> located
+/location/location/containedby
+
+
+9741	what country is <e> ( yeshiva university ) in
+/location/location/containedby
+
+
+9761	what bigger area is <e> in
+/location/location/containedby
+
+
+9791	which country is <e> based in
+/location/location/containedby
+
+
+9805	what 's inside <e>
+/location/location/contains
+
+
+9811	in what state is <e> located
+/location/location/containedby
+
+
+9826	what 's a peak in <e>
+/location/location/contains
+
+
+9829	where is the <e> located
+/location/location/containedby
+
+
+9842	name a location in <e>
+/location/location/contains
+
+
+9853	where is <e> located
+/location/location/containedby
+
+
+9866	what county is <e> located in
+/location/location/containedby
+
+
+9923	in what county within the u.s. is <e> located
+/location/location/containedby
+
+
+9928	which district locates <e>
+/location/location/containedby
+
+
+9960	where are <e> located
+/location/location/containedby
+
+
+9978	where is <e> located
+/location/location/containedby
+
+
+9989	where is <e>
+/location/location/containedby
+
+
+9994	what schools are in <e>
+/location/location/contains
+
+
+10017	in what state is <e> found
+/location/location/containedby
+
+
+10028	what city is <e> located in
+/location/location/containedby
+
+
+10032	what city is located inside of <e>
+/location/location/contains
+
+
+10047	which country locates <e>
+/location/location/containedby
+
+
+10073	where is <e> located
+/location/location/containedby
+
+
+10089	what country is <e> within
+/location/location/containedby
+
+
+10090	which county is <e> located in
+/location/hud_county_place/county
+
+
+10101	what city and state is <e> located
+/location/location/containedby
+
+
+10106	what is a city within <e>
+/location/location/contains
+
+
+10141	which county is <e> in
+/location/hud_county_place/county
+
+
+10205	where is <e>
+/location/location/containedby
+
+
+10276	what county is in <e>
+/location/hud_county_place/county
+
+
+10303	where is <e> located
+/location/location/containedby
+
+

@@ -1,0 +1,36 @@
+135	what airport do you fly into to get to <e>
+location.location.nearby_airports
+
+
+213	which airport to fly into <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+
+
+283	what airport is near <e>
+location.location.nearby_airports
+
+
+369	what is <e> airport
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+
+
+380	which airport to fly into in <e>
+location.location.nearby_airports
+
+
+614	which is the main train station in <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+
+
+782	what is the name of airport in <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+
+
+1038	which <e> airport is closest to the port
+location.location.nearby_airports
+
+
+1505	what airport do you fly into in <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+
+

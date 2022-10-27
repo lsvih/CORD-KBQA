@@ -1,0 +1,220 @@
+66	where is <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+66	where is <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+83	what city and state was <e> established
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+147	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+148	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+148	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+149	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+299	where is <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+302	where is the <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+327	what state is <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+328	what state is <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+441	where is the <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+522	where is located <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+530	where do <e> come from
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+545	where is the <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+545	where is the <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+555	where does <e> operate
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+575	where is headquarters of <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+585	where is <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+609	where is the <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+610	where is the <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+637	what city is fc <e> 04 in
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+657	where is the <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+657	where is the <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+784	where is the head office of <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+966	where is <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+966	where is <e> located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1050	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1095	what state is <e> online located
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1489	where is the university of <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1719	where are <e> brakes from
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1722	where 's <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1722	where 's <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1723	where 's <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1723	where 's <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1727	where is the <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1727	where is the <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1735	where is <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1796	in what state was <e> established
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1847	where is <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1874	where are the headquarters of the <e> organization found
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+1927	what state is <e> located in
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+1941	what city is <e> located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2026	where is <e> based
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2115	where is <e> at
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+2201	where is <e> from
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2201	where is <e> from
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+2261	where is the main headquarters of the <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2293	where is <e> headquarters
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2355	where is <e> based out of
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2501	where are <e> headquarters located
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2825	where is located <e>
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2895	what state is the <e> in
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+
+2944	where is <e> made
+organization.organization.headquarters..location.mailing_address.citytown
+
+
+2954	where is <e>
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+

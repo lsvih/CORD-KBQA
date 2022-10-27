@@ -1,0 +1,580 @@
+9	where is the <e> located
+location.location.containedby
+disaster-affected_structure
+
+10	what countries are part of the <e>
+base.aareas.schema.administrative_area.administrative_children
+country
+
+23	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+23	what county is <e> in
+location.location.containedby
+city/town/village
+
+27	where is the <e> located on a world map
+location.location.containedby
+island_group
+
+40	what county is <e>
+location.location.containedby
+city/town/village
+
+41	what county is <e>
+location.hud_county_place.county
+location
+
+41	what county is <e>
+location.location.containedby
+location
+
+53	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+53	what county is <e> in
+location.location.containedby
+city/town/village
+
+63	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+63	what county is <e> in
+location.location.containedby
+city/town/village
+
+74	what continent does <e> belong to
+base.locations.countries.continent
+country
+
+91	where is the <e> located
+location.location.containedby
+mountain_range
+
+122	where is <e> located
+location.location.containedby
+building
+
+126	what countries does <e> share borders with
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+137	what countries are part of the <e>
+location.location.contains
+administrative_division
+
+151	what region of the world is <e> associated with
+location.location.containedby
+country
+
+158	what places make up <e>
+location.location.contains
+region
+
+166	where is <e>
+location.location.containedby
+college/university
+
+167	where is <e> in world map
+location.location.containedby
+country
+
+169	what countries are near <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+174	where are the <e> located on a map
+location.location.containedby
+geographical_feature
+
+176	in which continent is <e>
+base.locations.countries.continent
+country
+
+179	where is the <e> on world map
+base.locations.countries.continent
+country
+
+179	where is the <e> on world map
+location.location.containedby
+country
+
+181	what state is <e> in
+location.location.containedby
+mountain
+
+187	what countries does the <e> go through
+location.location.containedby
+body_of_water
+
+203	what countries included in the <e>
+base.aareas.schema.administrative_area.administrative_children
+country
+
+209	where was <e>
+location.location.containedby
+location
+
+221	where was <e> located
+location.location.containedby
+project_focus
+
+224	what county is <e> in
+location.location.containedby
+city/town/village
+
+226	which countries share a border with <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+259	what two continents is <e> on
+base.locations.countries.continent
+country
+
+262	where was the <e> built
+location.location.containedby
+building_complex
+
+271	what countries share borders with <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+274	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+274	what county is <e> in
+location.location.containedby
+city/town/village
+
+298	where is <e> volcano
+location.location.containedby
+mountain
+
+313	where is the <e> located
+location.location.containedby
+college/university
+
+332	where is <e> located
+location.location.containedby
+city/town/village
+
+337	where is <e> located
+location.location.containedby
+tourist_attraction
+
+339	what states make up the <e> us
+location.location.contains
+administrative_division
+
+352	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+352	what county is <e> in
+location.location.containedby
+city/town/village
+
+403	where is <e> situated
+location.location.containedby
+country
+
+415	what country borders <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+423	what is the second biggest state in the <e>
+location.location.contains
+country
+
+444	what is <e>
+location.location.street_address..location.mailing_address.citytown
+building
+
+451	what are the 7 countries that are part of <e>
+location.location.contains
+region
+
+472	what part of the country is <e>
+location.location.containedby
+region
+
+498	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+498	what county is <e> in
+location.location.containedby
+city/town/village
+
+526	where is <e> located on the map
+location.location.containedby
+region
+
+534	what county is <e> fl in
+location.hud_county_place.county
+us_census_designated_place
+
+534	what county is <e> fl in
+location.location.containedby
+us_census_designated_place
+
+535	what did the <e> include
+location.location.contains
+country
+
+566	what countries have territories in <e>
+location.location.contains
+administrative_division
+
+567	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+567	what county is <e> in
+location.location.containedby
+city/town/village
+
+627	what county is <e> tx in
+location.hud_county_place.county
+city/town/village
+
+631	where is the <e>
+location.location.containedby
+accommodation
+
+640	what states share a border with <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+us_state
+
+650	where was the <e> based
+location.location.containedby
+country
+
+655	what does <e> border
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+673	where are the <e>
+location.location.contains
+region
+
+677	what province is <e> in ( 7 letters )
+location.location.containedby
+city/town/village
+
+680	what other states border <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+us_state
+
+689	where is ancient <e>
+location.location.containedby
+location
+
+707	what 5 countries border <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+716	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+717	where is <e> wa
+location.location.containedby
+protected_site
+
+725	what countries are in the <e> yahoo
+base.aareas.schema.administrative_area.administrative_children
+country
+
+733	what countries does <e> border
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+753	what country does <e> belong to
+base.biblioness.bibs_location.country
+us_state
+
+754	where is <e>
+location.hud_county_place.county
+city/town/village
+
+761	what county is <e>
+location.hud_county_place.county
+city/town/village
+
+772	what two countries make up the <e>
+location.location.contains
+country
+
+796	what countries included in <e>
+location.location.contains
+administrative_division
+
+804	where is <e>
+location.location.containedby
+city/town/village
+
+862	what country was <e> found
+location.location.containedby
+location
+
+885	where is <e>
+location.location.containedby
+city/town/village
+
+893	where is <e> located
+location.location.containedby
+mountain
+
+895	what countries makes up the <e>
+base.aareas.schema.administrative_area.administrative_children
+country
+
+905	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+906	what county is <e> in
+location.location.containedby
+airport
+
+907	which country in <e> is divided into provinces
+location.location.contains
+continent
+
+913	where is the <e> on a map
+location.location.containedby
+river
+
+914	where <e> in the world
+location.location.containedby
+country
+
+927	what are the seven nations of <e>
+location.location.contains
+region
+
+931	what rainforest is in <e>
+location.location.contains
+continent
+
+938	where is <e> ga
+location.location.containedby
+us_county
+
+1002	where is <e> city
+location.location.containedby
+city/town/village
+
+1010	where is <e>
+location.hud_county_place.county
+city/town/village
+
+1010	where is <e>
+location.location.containedby
+city/town/village
+
+1014	what part of the country is <e> considered
+location.location.containedby
+us_state
+
+1034	what city is <e> in
+location.location.containedby
+mountain
+
+1043	what continent does <e> belong to
+base.locations.countries.continent
+country
+
+1043	what continent does <e> belong to
+location.location.containedby
+country
+
+1060	what the largest city in <e>
+location.location.contains
+country
+
+1073	what is the most populated state in <e>
+base.aareas.schema.administrative_area.administrative_children
+country
+
+1081	what is utah 's <e>
+location.location.street_address..location.mailing_address.citytown
+building
+
+1088	what two states is <e> in
+location.location.containedby
+city/town/village
+
+1091	what are the four nations of the <e>
+base.aareas.schema.administrative_area.administrative_children
+country
+
+1095	where is the <e>
+location.location.containedby
+disaster-affected_structure
+
+1104	where is <e>
+location.location.containedby
+english_civil_parish
+
+1110	what province is <e> located
+location.location.containedby
+administrative_division
+
+1115	what other countries border <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+1126	what other countries does <e> share borders with
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+1152	what places are in the <e>
+base.aareas.schema.administrative_area.administrative_children
+english_metropolitan_county
+
+1152	what places are in the <e>
+location.location.contains
+english_metropolitan_county
+
+1153	what places are in the <e>
+location.location.contains
+english_region
+
+1220	what continent is <e> located
+location.location.containedby
+country
+
+1230	where is <e> located
+base.locations.countries.continent
+country
+
+1230	where is <e> located
+location.location.containedby
+country
+
+1258	what are all the countries in <e>
+location.location.contains
+literature_subject
+
+1279	where is the <e> in winnipeg
+location.location.containedby
+venue
+
+1303	where do the <e> run
+location.location.containedby
+mountain_range
+
+1306	what ocean is around <e>
+location.location.containedby
+geographical_feature
+
+1324	where is <e> on a map
+location.location.containedby
+country
+
+1325	where is <e> on a map
+base.locations.countries.continent
+city/town/village
+
+1349	where is <e> located
+location.location.containedby
+college/university
+
+1375	where is <e> located
+location.location.containedby
+mountain
+
+1376	what county is <e> in
+location.location.containedby
+city/town/village
+
+1395	where is <e>
+location.hud_county_place.county
+city/town/village
+
+1395	where is <e>
+location.location.containedby
+city/town/village
+
+1399	where does the <e> flow
+location.location.containedby
+river
+
+1404	where do most of the people live in <e>
+location.location.contains
+country
+
+1405	where is <e> located
+location.location.containedby
+country
+
+1413	where is <e> country
+base.locations.countries.continent
+country
+
+1413	where is <e> country
+location.location.containedby
+country
+
+1424	what 3 states border <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+us_state
+
+1429	what region is <e> considered
+base.locations.countries.continent
+country
+
+1434	where is the city <e>
+location.location.containedby
+country
+
+1441	where are the <e> located
+location.location.containedby
+geographical_feature
+
+1453	where is <e> scotland
+location.location.containedby
+scottish_council_area
+
+1476	what state is <e> in
+location.location.containedby
+college/university
+
+1502	what countries are located near <e>
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+country
+
+1545	where was <e> located
+location.location.containedby
+film_subject
+
+1554	what county is <e> in
+location.hud_county_place.county
+city/town/village
+
+1554	what county is <e> in
+location.location.containedby
+city/town/village
+
+1611	what part of the country is <e> in
+location.location.containedby
+us_state
+
+1612	which island is <e> on
+location.location.containedby
+us_census_designated_place
+
+1647	where was the <e> located
+location.location.containedby
+tourist_attraction
+
+1648	where is roswell <e>
+location.location.containedby
+film_subject
+

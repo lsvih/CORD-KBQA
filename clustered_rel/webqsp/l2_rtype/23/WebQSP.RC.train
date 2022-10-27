@@ -1,0 +1,920 @@
+8	where did <e> live
+people.person.place_of_birth
+people.person
+
+14	what is <e> nationality
+people.person.nationality
+people.person
+
+29	what city did <e> live in
+people.person.place_of_birth
+people.person
+
+56	where does <e> live
+people.person.place_of_birth
+people.person
+
+87	what countries did <e> reign over
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+136	where was <e> born
+people.person.place_of_birth
+people.person
+
+199	what city was <e> from
+people.person.place_of_birth
+people.person
+
+214	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+217	what country did <e> come from
+people.person.nationality
+people.person
+
+225	where is she from <e>
+people.person.nationality
+music.artist
+
+261	where is <e> from
+people.person.place_of_birth
+people.person
+
+263	where does <e> live now
+people.person.places_lived..people.place_lived.location
+people.person
+
+347	what state did <e> represent
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+355	where is <e> hometown
+people.person.place_of_birth
+people.person
+
+371	where does lala <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+376	where was <e> born
+people.person.place_of_birth
+people.person
+
+381	where did <e> grew up
+people.person.place_of_birth
+people.person
+
+382	what state is <e> from
+people.person.place_of_birth
+people.person
+
+383	what countries does <e> reign
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+394	where <e> grew up
+people.person.place_of_birth
+people.person
+
+400	what nationality was <e>
+people.person.nationality
+people.person
+
+401	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+413	where did <e> come from
+people.person.place_of_birth
+people.person
+
+456	where did <e> live
+people.person.place_of_birth
+people.person
+
+488	what city was <e> born in
+people.person.place_of_birth
+people.person
+
+503	what is <e> 's nationality
+people.person.nationality
+people.person
+
+512	where did <e> come from
+people.person.nationality
+music.artist
+
+512	where did <e> come from
+people.person.place_of_birth
+music.artist
+
+512	where did <e> come from
+people.person.places_lived..people.place_lived.location
+music.artist
+
+516	what state did <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+527	what was <e> nationality
+people.person.nationality
+people.person
+
+529	where was <e> from
+people.person.place_of_birth
+people.person
+
+548	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+578	where did <e> come from
+people.person.place_of_birth
+people.person
+
+579	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+583	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+588	where was <e> raised
+people.person.place_of_birth
+people.person
+
+592	what country was <e> from
+people.person.nationality
+people.person
+
+594	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+605	where did <e> live in nyc
+people.person.places_lived..people.place_lived.location
+people.person
+
+613	where did <e> come from
+people.person.place_of_birth
+people.person
+
+619	where does <e> live map
+people.person.places_lived..people.place_lived.location
+people.person
+
+636	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+639	where did <e> come from
+people.person.place_of_birth
+people.person
+
+647	where was president <e> from
+people.person.place_of_birth
+people.person
+
+659	where do <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+674	where did <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+697	where was <e> born
+people.person.place_of_birth
+people.person
+
+704	where are they now <e>
+people.person.places_lived..people.place_lived.location
+people.person
+
+736	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+749	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+773	where <e> was born
+people.person.place_of_birth
+people.person
+
+785	where was <e> from
+people.person.place_of_birth
+people.person
+
+797	what countries did <e> rule
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+817	what state was <e> from
+people.person.place_of_birth
+people.person
+
+820	where was <e> from
+people.person.place_of_birth
+people.person
+
+827	where was <e> born
+people.person.place_of_birth
+people.person
+
+851	where was <e> born
+people.person.place_of_birth
+people.person
+
+865	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+885	where <e> come from
+people.person.place_of_birth
+people.person
+
+896	where does <e> live now
+people.person.places_lived..people.place_lived.location
+people.person
+
+897	where was <e> born
+people.person.place_of_birth
+people.person
+
+924	where is <e> from
+people.person.place_of_birth
+people.person
+
+926	in what city did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+951	what state did <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+965	what state did <e> represent
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+990	what state was <e> a senator for
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+1019	what country did <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+1024	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1070	where did <e> grew up
+people.person.place_of_birth
+people.person
+
+1071	what district does <e> represent
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+1090	where did <e> live before the war
+people.person.places_lived..people.place_lived.location
+people.person
+
+1091	where was <e> born
+people.person.place_of_birth
+people.person
+
+1111	what city was <e> born in
+people.person.place_of_birth
+people.person
+
+1116	what country did <e> came from
+people.person.nationality
+people.person
+
+1120	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1122	where <e> was born
+people.person.place_of_birth
+people.person
+
+1144	where was <e> really born
+people.person.place_of_birth
+people.person
+
+1176	where was <e> born
+people.person.place_of_birth
+people.person
+
+1179	what colony is <e> from
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+1188	where is <e> now
+people.person.places_lived..people.place_lived.location
+people.person
+
+1194	where does <e> live now
+people.person.places_lived..people.place_lived.location
+people.person
+
+1231	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1246	where was <e> born and in what year
+people.person.place_of_birth
+people.person
+
+1248	where is <e> from
+people.person.place_of_birth
+people.person
+
+1275	where was <e> born
+people.person.place_of_birth
+people.person
+
+1279	where was <e> born
+people.person.place_of_birth
+people.person
+
+1302	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+1327	what state did <e> represent
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+1328	what country was <e> born in
+people.person.place_of_birth
+people.person
+
+1364	where is <e> from
+people.person.place_of_birth
+people.person
+
+1373	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1422	where is <e> from where was he born
+people.person.place_of_birth
+people.person
+
+1426	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1441	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1452	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1454	where is <e> from
+people.person.place_of_birth
+people.person
+
+1480	where is <e> from
+people.person.place_of_birth
+people.person
+
+1502	what country did <e> represent
+people.person.nationality
+people.person
+
+1517	where <e> were born
+people.person.place_of_birth
+people.person
+
+1520	where does <e> live now
+people.person.places_lived..people.place_lived.location
+people.person
+
+1535	what country did <e> came from
+people.person.nationality
+people.person
+
+1540	where did <e> live
+people.person.places_lived..people.place_lived.location
+music.artist
+
+1545	where was <e> born and raised
+people.person.place_of_birth
+people.person
+
+1554	what state did <e> represent at the constitutional convention
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+1561	where does <e> live now
+people.person.places_lived..people.place_lived.location
+people.person
+
+1562	what country did vasco <e> come from
+people.person.nationality
+people.person
+
+1585	where was <e> born
+people.person.place_of_birth
+people.person
+
+1586	where was <e> born
+people.person.place_of_birth
+people.person
+
+1591	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1595	where was <e> from
+people.person.place_of_birth
+people.person
+
+1608	where did <e> live
+people.person.place_of_birth
+people.person
+
+1634	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1653	where does <e> live right now 2010
+people.person.places_lived..people.place_lived.location
+people.person
+
+1660	where <e> was raised
+people.person.place_of_birth
+people.person
+
+1666	where does <e> live now
+people.person.places_lived..people.place_lived.location
+people.person
+
+1690	where is <e> from originally
+people.person.place_of_birth
+people.person
+
+1707	what nation did <e> lead
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+1713	what city did <e> grew up in
+people.person.place_of_birth
+people.person
+
+1732	what country did <e> come from
+people.person.nationality
+people.person
+
+1781	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+1795	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1815	where was <e> born and raised
+people.person.place_of_birth
+people.person
+
+1818	what is <e> 's hometown
+people.person.place_of_birth
+people.person
+
+1830	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1837	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+1843	where is <e> from
+people.person.place_of_birth
+people.person
+
+1846	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+1851	where is <e> from
+people.person.place_of_birth
+people.person
+
+1862	what country did <e> explored for
+people.person.nationality
+people.person
+
+1872	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1876	what state did <e> governor
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+1880	where <e> was born
+people.person.place_of_birth
+people.person
+
+1896	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1929	where was governor <e> born
+people.person.place_of_birth
+people.person
+
+1930	where was governor <e> born
+people.person.place_of_birth
+people.person
+
+1947	what country is <e> from
+people.person.nationality
+people.person
+
+1963	where was <e> born
+people.person.place_of_birth
+people.person
+
+1974	where was <e> born and raised
+people.person.place_of_birth
+people.person
+
+2013	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2015	where did <e> live
+people.person.place_of_birth
+people.person
+
+2022	where did <e> come from
+people.person.place_of_birth
+people.person
+
+2029	where is <e> from
+people.person.place_of_birth
+people.person
+
+2050	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2060	what state did <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+2062	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+2068	what country did <e> lead
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+2095	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2102	what nationality is <e>
+people.person.nationality
+people.person
+
+2111	what city did <e> grow up in
+people.person.place_of_birth
+people.person
+
+2116	where was <e> born and raised
+people.person.place_of_birth
+people.person
+
+2146	in what town did <e> and his family grow up
+people.person.place_of_birth
+people.person
+
+2151	when was <e>
+people.person.nationality
+people.person
+
+2165	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2181	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2183	where is <e> from
+people.person.place_of_birth
+people.person
+
+2184	where was <e> born
+people.person.place_of_birth
+people.person
+
+2202	what country was <e> born
+people.person.place_of_birth
+people.person
+
+2217	what state was <e> governor of
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+2260	where was <e> born
+people.person.place_of_birth
+people.person
+
+2270	what country was <e> born in
+people.person.place_of_birth
+people.person
+
+2272	what country was <e> from
+people.person.nationality
+people.person
+
+2283	where <e> lives
+people.person.places_lived..people.place_lived.location
+people.person
+
+2311	where was <e> raised
+people.person.place_of_birth
+people.person
+
+2320	where does <e> teach
+people.person.places_lived..people.place_lived.location
+people.person
+
+2322	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2325	what country is <e> from
+people.person.place_of_birth
+people.person
+
+2332	where is <e> from
+people.person.place_of_birth
+people.person
+
+2345	what city was <e> born in
+people.person.place_of_birth
+people.person
+
+2359	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2363	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2365	where was <e> born
+people.person.place_of_birth
+people.person
+
+2383	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2398	where does <e> live now
+people.person.places_lived..people.place_lived.location
+people.person
+
+2401	where was emperor <e> born
+people.person.place_of_birth
+people.person
+
+2417	what country is <e> from
+people.person.nationality
+people.person
+
+2423	where was <e> from
+people.person.place_of_birth
+people.person
+
+2438	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2445	where was president <e> born
+people.person.place_of_birth
+people.person
+
+2453	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+2463	what town was <e> born in
+people.person.place_of_birth
+people.person
+
+2468	where does <e> live 2010
+people.person.places_lived..people.place_lived.location
+people.person
+
+2471	where did <e> live
+people.person.place_of_birth
+people.person
+
+2493	where was <e> raised
+people.person.place_of_birth
+people.person
+
+2528	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2537	where is <e> from
+people.person.place_of_birth
+people.person
+
+2547	where was <e> born
+people.person.place_of_birth
+people.person
+
+2550	where did <e> live as a kid
+people.person.place_of_birth
+people.person
+
+2580	where was <e> born
+people.person.place_of_birth
+people.person
+
+2595	what state is <e> senator for
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+2607	what country did <e> represent
+people.person.nationality
+people.person
+
+2619	what country was <e> born
+people.person.place_of_birth
+people.person
+
+2623	where does president <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2632	where was <e> originally from
+people.person.place_of_birth
+people.person
+
+2633	what country <e> from
+people.person.nationality
+people.person
+
+2638	where is <e> gymnast from
+people.person.place_of_birth
+people.person
+
+2641	where is <e> from sui
+people.person.place_of_birth
+people.person
+
+2661	what country did ponce <e> live in
+people.person.nationality
+people.person
+
+2698	where is <e> from
+people.person.place_of_birth
+people.person
+
+2700	where did <e> grew up
+people.person.place_of_birth
+people.person
+
+2721	what nationality is <e>
+people.person.nationality
+people.person
+
+2735	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2747	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2750	where is <e> from
+people.person.place_of_birth
+people.person
+
+2763	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2766	what state <e> was born
+people.person.place_of_birth
+people.person
+
+2771	where did <e> live before he died
+people.person.places_lived..people.place_lived.location
+people.person
+
+2788	what country did <e> come from
+people.person.place_of_birth
+people.person
+
+2792	where did <e> live
+people.person.place_of_birth
+people.person
+
+2806	where is <e> from
+people.person.place_of_birth
+people.person
+
+2829	where <e> was born
+people.person.place_of_birth
+people.person
+
+2833	where is <e> born
+people.person.place_of_birth
+people.person
+
+2838	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2852	where is <e> from
+people.person.place_of_birth
+people.person
+
+2872	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2900	where was emperor <e> born
+people.person.place_of_birth
+people.person
+
+2918	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2920	where was <e> from
+people.person.place_of_birth
+people.person
+
+2926	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+2937	what country was <e> from
+people.person.place_of_birth
+people.person
+
+2945	where was <e> born
+people.person.place_of_birth
+people.person
+
+2971	what city was <e> born in
+people.person.place_of_birth
+people.person
+
+3000	where did <e> grew up
+people.person.place_of_birth
+people.person
+
+3003	where was <e> a senator
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+3024	where did <e> come from
+people.person.place_of_birth
+people.person
+
+3040	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+3045	where in georgia does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+3061	where was dr <e> born
+people.person.place_of_birth
+people.person
+
+3083	where is <e> from
+people.person.place_of_birth
+people.person
+
+3114	where did <e> live
+people.person.place_of_birth
+people.person
+

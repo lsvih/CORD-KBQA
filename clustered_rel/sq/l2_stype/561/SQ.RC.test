@@ -1,0 +1,3448 @@
+26	name a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+43	what is the name of a <e> ( genre ) film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+44	name a netflix film that uses <e>
+/media_common/netflix_genre/titles
+human_language
+
+70	what would be a <e> album
+/music/genre/albums
+musical_genre
+
+91	name a <e> album
+/music/genre/albums
+film_genre
+
+116	what 's an example of a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+213	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+241	what is a <e>
+/music/album_content_type/albums
+musical_genre
+
+245	what is the name of a <e>
+/music/album_content_type/albums
+media_genre
+
+247	what is the name of a movie whose genre is <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+252	what is the name of an underground <e>
+/music/album_content_type/albums
+musical_genre
+
+253	which film is classified as a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+271	what is an example of a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+290	whats a <e> by ida corr
+/music/album_content_type/albums
+_NOTYPE_
+
+330	what types of movie is <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+343	what are <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+399	what is a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+404	name a movie title under the netflix genre <e>
+/media_common/netflix_genre/titles
+country
+
+409	name an <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+434	name a <e>
+/film/film_genre/films_in_this_genre
+composition_type
+
+447	what is the name of a <e> album
+/music/genre/albums
+musical_album
+
+493	what 's an <e> by jerry lee lewis
+/music/album_release_type/albums
+_NOTYPE_
+
+587	what <e> featured fatty arbuckle
+/film/film_genre/films_in_this_genre
+film_genre
+
+599	what is a <e> by polish jazz band nrd
+/music/album_content_type/albums
+media_genre
+
+611	which 2009 <e> film was released as a documentary
+/film/film_genre/films_in_this_genre
+film_genre
+
+646	which album is a <e> album
+/music/genre/albums
+musical_genre
+
+658	what 's a <e> released in 2012
+/film/film_genre/films_in_this_genre
+film_genre
+
+705	what is a chinese <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+711	what 's a <e> by ian van dahl
+/music/genre/albums
+composition_type
+
+712	what is an example of a <e> album
+/music/genre/albums
+musical_genre
+
+807	what is the title of the netlix film in the genre of <e>
+/media_common/netflix_genre/titles
+country
+
+823	which <e> from 1967
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+898	what is a <e> title on netflix
+/media_common/netflix_genre/titles
+language_in_fiction
+
+952	what <e> was released in 1950
+/film/film_genre/films_in_this_genre
+film_genre
+
+969	what 's a <e> film released in 2008
+/film/film_genre/films_in_this_genre
+tv_genre
+
+990	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+1012	what american animation movie is <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+1016	name a <e> genre flim
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+1052	what is a <e> on netflix
+/media_common/netflix_genre/titles
+film_genre
+
+1116	what is the name of a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+1131	what is the name of a 1952 <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+1145	name a <e> album
+/music/genre/albums
+musical_genre
+
+1171	<e> show on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+1173	what 's a <e> from germany
+/film/film_genre/films_in_this_genre
+film_genre
+
+1190	what is the name of a <e>
+/music/album_content_type/albums
+industry
+
+1250	what <e> flms are on netflix
+/media_common/netflix_genre/titles
+film_format
+
+1268	what 's the name of a <e> by dj drama
+/music/album_content_type/albums
+_NOTYPE_
+
+1271	what is the name of an <e> by koda kumi
+/music/album_release_type/albums
+_NOTYPE_
+
+1290	what is the name of a <e> netflix genre
+/media_common/netflix_genre/titles
+film_genre
+
+1325	what is the title of a film that is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+1337	what movie is classified as a <e> film
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+1425	what album is <e>
+/music/genre/albums
+musical_genre
+
+1447	what would be a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+1453	what is a 2005 musical <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+1454	what is the name os a <e> album
+/music/genre/albums
+musical_genre
+
+1500	name a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+1503	what is the name of a film in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+1510	what is an example of a <e> album
+/music/genre/albums
+film_genre
+
+1517	whats the name of a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+1529	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+1660	which <e> were released by captain beefheart and the magic band
+/music/album_release_type/albums
+_NOTYPE_
+
+1713	what is an example of a <e>
+/film/film_genre/films_in_this_genre
+disease_or_medical_condition
+
+1780	what is a <e>
+/film/film_genre/films_in_this_genre
+industry
+
+1841	what 's the name of a <e> album
+/music/genre/albums
+musical_genre
+
+1842	name a film in <e> film genre
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+1882	which <e> albums were produced in brooklyn
+/music/genre/albums
+film_genre
+
+1892	what is the title of a <e>
+/music/album_content_type/albums
+film_genre
+
+1963	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+1985	what is an <e> by this means you
+/music/album_release_type/albums
+_NOTYPE_
+
+2005	name a <e> ablum
+/music/genre/albums
+musical_genre
+
+2010	what is a <e> album
+/music/genre/albums
+musical_genre
+
+2051	name a <e> album
+/music/genre/albums
+musical_genre
+
+2062	which movie is <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+2097	what is a name of an album by `` <e>
+/music/genre/albums
+_NOTYPE_
+
+2124	name a <e> album
+/music/genre/albums
+musical_genre
+
+2137	what is the title of a netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+2140	what movie is a type of <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+2152	what polish movie is <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+2160	what <e> did osvaldo pugliese release
+/music/album_content_type/albums
+musical_genre
+
+2181	what is an album with <e> content
+/music/album_content_type/albums
+_NOTYPE_
+
+2189	name a <e> ( genre ) film from the 2000 's
+/film/film_genre/films_in_this_genre
+tv_genre
+
+2193	which album is in the <e> genre
+/music/genre/albums
+musical_genre
+
+2203	what 's a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+2312	what 's an example of an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+2338	what film is a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+2360	what movie will be found under the <e> netflix genre
+/media_common/netflix_genre/titles
+country
+
+2374	what 's an example of a <e>
+/music/album_content_type/albums
+media_genre
+
+2385	name a 1971 <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+2423	what is the name of an <e> that was released as an album
+/music/album_release_type/albums
+_NOTYPE_
+
+2442	name a <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+2448	what is the name of an <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+2466	name a <e>
+/music/album_content_type/albums
+musical_genre
+
+2491	what is a film in the <e> genre
+/film/film_genre/films_in_this_genre
+tv_genre
+
+2494	which album is <e>
+/music/album_content_type/albums
+media_genre
+
+2522	what is an <e> album
+/music/genre/albums
+musical_genre
+
+2548	which album is <e>
+/music/genre/albums
+musical_genre
+
+2552	what is an <e> genre
+/music/genre/albums
+musical_genre
+
+2606	what are <e> series
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+2616	what 's an example of a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+2638	what is a film in the genre <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+2645	name a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+2671	name a <e>
+/film/film_genre/films_in_this_genre
+literary_genre
+
+2673	what is the title of a <e> album
+/music/genre/albums
+film_genre
+
+2723	which film is a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+2753	what album is considered <e>
+/music/genre/albums
+musical_genre
+
+2760	which movie is <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+2790	name a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+2808	what is an example of a <e>
+/music/album_content_type/albums
+film_genre
+
+2828	what album has <e> music
+/music/genre/albums
+musical_genre
+
+2866	which album is <e>
+/music/genre/albums
+musical_genre
+
+2873	what 's a <e> released in 2008
+/music/album_content_type/albums
+musical_genre
+
+2926	whats the name of a <e> thats on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+2931	what is a 1966 french <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+2934	which lloyd bacon movie qualifies as a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+2946	which <e> albums were released by billy idol
+/music/genre/albums
+film_genre
+
+3010	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+3018	what is an <e> album
+/music/genre/albums
+musical_genre
+
+3033	whats a 1990 <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+3046	name a popular <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+3067	which movie is <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+3166	what <e> movie was directed by sudarshan nag
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+3174	whats an example of a <e>
+/music/album_content_type/albums
+organism_classification_rank
+
+3189	what is the sixth compilation album by the serbian <e> rock band
+/music/genre/albums
+musical_genre
+
+3219	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+3229	what is a type of <e>
+/film/film_genre/films_in_this_genre
+type_of_planetographic_feature
+
+3237	which album is <e>
+/music/genre/albums
+musical_genre
+
+3298	what 's a <e> by rod stewartt
+/music/album_content_type/albums
+musical_genre
+
+3348	what is a 2008 <e> album
+/music/genre/albums
+film_genre
+
+3373	what is the name of a netflix <e>
+/media_common/netflix_genre/titles
+film_genre
+
+3387	what is a film within the <e> genre
+/film/film_genre/films_in_this_genre
+tv_genre
+
+3388	what 's an <e> by portable sunsets
+/music/album_release_type/albums
+_NOTYPE_
+
+3391	which movie is <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+3400	what 's an example of an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+3413	what 's an example of a <e>
+/music/album_content_type/albums
+media_genre
+
+3420	what 's a <e> on netflix featuring dave attell
+/media_common/netflix_genre/titles
+tv_genre
+
+3469	whats a 2012 <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+3479	what is a 1985 rock <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+3484	what 's a <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+3541	whats the name of a movie title thats classified as a <e> netflix genre
+/media_common/netflix_genre/titles
+human_language
+
+3619	what is an album that has <e> a release type
+/music/album_release_type/albums
+_NOTYPE_
+
+3626	which album is consider an <e> album
+/music/genre/albums
+musical_genre
+
+3640	which <e> was filmed in 1939
+/film/film_genre/films_in_this_genre
+film_genre
+
+3669	what 's an example of a <e>
+/music/album_content_type/albums
+composition_type
+
+3693	what album is in <e>
+/music/album_content_type/albums
+musical_genre
+
+3727	what is the title of an <e> netflix film
+/media_common/netflix_genre/titles
+film_genre
+
+3758	what is an example of a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+3778	what is the name of an album that is apart of <e> genre
+/music/genre/albums
+musical_genre
+
+3819	name an <e> by the crusaders
+/music/album_release_type/albums
+_NOTYPE_
+
+3843	what film is a type of <e> ( genre )
+/film/film_genre/films_in_this_genre
+tv_genre
+
+3848	what is the title of a <e> netlfix film
+/media_common/netflix_genre/titles
+language_in_fiction
+
+3884	what <e> was released in 1983
+/film/film_genre/films_in_this_genre
+film_genre
+
+3901	name a <e> album
+/music/genre/albums
+musical_genre
+
+3992	what is a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+4030	what is a film in the <e> genre
+/film/film_genre/films_in_this_genre
+tv_genre
+
+4033	which film was done in the <e> genre
+/film/film_genre/films_in_this_genre
+tv_genre
+
+4036	what is an example of a <e>
+/music/album_content_type/albums
+industry
+
+4092	which <e> were produced by the new york philharmonic
+/music/album_release_type/albums
+_NOTYPE_
+
+4144	<e> netflix genre include this movie
+/media_common/netflix_genre/titles
+human_language
+
+4147	what album is an example of <e>
+/music/genre/albums
+musical_genre
+
+4186	what is an <e> movie
+/media_common/netflix_genre/titles
+tv_genre
+
+4203	what are <e> ( genre ) movies on netflix
+/media_common/netflix_genre/titles
+tv_genre
+
+4235	name a <e> ( genre ) film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+4260	whats the name of a netlfix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+4283	what album includes <e> music
+/music/genre/albums
+musical_genre
+
+4338	what is a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+4392	what is the name of the <e> released by a brazilian band
+/music/album_content_type/albums
+_NOTYPE_
+
+4417	what album is a <e>
+/music/album_content_type/albums
+media_genre
+
+4424	what movie is in <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+4467	what album is <e>
+/music/genre/albums
+musical_genre
+
+4471	what <e> album was the debut album for the antlers
+/music/genre/albums
+musical_genre
+
+4478	whats the title of a <e> by the statler brothers
+/music/album_content_type/albums
+_NOTYPE_
+
+4483	what is an example of a <e>
+/film/film_genre/films_in_this_genre
+building_function
+
+4512	what is a <e>
+/music/album_content_type/albums
+industry
+
+4517	which animated <e> was released in 2013
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+4519	what is the name of a <e> by blue october
+/music/genre/albums
+musical_genre
+
+4559	who made the album <e>
+/music/genre/albums
+musical_genre
+
+4584	which <e> was also a release album
+/music/album_release_type/albums
+_NOTYPE_
+
+4606	what is a film that falls under the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+4609	name an album from the <e> genre
+/music/genre/albums
+musical_genre
+
+4634	what are albums in the genre of <e>
+/music/genre/albums
+musical_genre
+
+4661	what is a title of a film in the <e> genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+4684	what is short <e> from the year 2010
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+4688	what film in in the genre <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+4690	what is an <e> album
+/music/genre/albums
+musical_genre
+
+4727	what is a <e> ( music ) album
+/music/album_release_type/albums
+musical_genre
+
+4739	what 's a movie available in the <e> category on netflix
+/media_common/netflix_genre/titles
+human_language
+
+4752	what 's a good example of a <e>
+/music/album_content_type/albums
+tv_genre
+
+4813	what is a type of <e> netflix genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+4837	what 's a <e> movie
+/film/film_genre/films_in_this_genre
+tv_genre
+
+4838	what is a <e> netflix film
+/media_common/netflix_genre/titles
+country
+
+4852	what title is in <e> genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+4904	what <e> did thin lizzy release
+/music/album_content_type/albums
+musical_genre
+
+4924	what is a disney movie found on <e> in netflix
+/media_common/netflix_genre/titles
+film_genre
+
+4938	what is the title of a <e> netflix genre
+/media_common/netflix_genre/titles
+invention
+
+4943	what is a <e> album released in 2007
+/music/genre/albums
+musical_genre
+
+4945	what was a body of work that was released as an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+4972	what 's the name of the jesu <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+4991	what is a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+4999	what is an album that was released as a <e> ( music )
+/music/album_release_type/albums
+musical_genre
+
+5004	what are some <e> albums
+/music/genre/albums
+musical_genre
+
+5081	what movie is a type of <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+5085	name a film in the genre <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+5132	what is an example of a movie title from the netflix genre <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+5148	what movie is considered to be a <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+5149	which file is in the genre <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+5216	what is a 1936 american musical <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+5218	whats a 1968 <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+5220	name a title from the <e> netflix genre
+/media_common/netflix_genre/titles
+country
+
+5227	whats an <e> recorded by francesco guccini
+/music/album_release_type/albums
+_NOTYPE_
+
+5240	what is a type of netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+5246	what 's an example of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+5253	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+celestial_object_category
+
+5278	which movie is <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+5305	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+5354	what is a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+5385	whats the name of a <e>
+/film/film_genre/films_in_this_genre
+profession
+
+5407	what is a greatest hits <e> by hard rock vocalist david lee roth
+/music/album_release_type/albums
+_NOTYPE_
+
+5411	this <e> by tom waits , released in 1993 on island records , is called
+/music/album_content_type/albums
+_NOTYPE_
+
+5422	what is an album that features <e>
+/music/genre/albums
+film_genre
+
+5431	which album is <e>
+/music/genre/albums
+musical_genre
+
+5497	what is an album from the <e> genre
+/music/genre/albums
+musical_genre
+
+5508	what is the title of a <e> album
+/music/genre/albums
+film_genre
+
+5511	what is a film in <e> genre
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+5561	name an <e> by julian priester
+/music/album_release_type/albums
+_NOTYPE_
+
+5562	what is a jazz <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+5676	name a 2014 <e> ( genre )
+/film/film_genre/films_in_this_genre
+tv_genre
+
+5752	what is a well known <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+5760	what is an <e> from 2003
+/music/album_release_type/albums
+_NOTYPE_
+
+5764	what is a film in the <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+5804	name a band that falls under the <e> genre
+/music/genre/albums
+musical_genre
+
+5863	what are <e> on netflix
+/media_common/netflix_genre/titles
+film_genre
+
+5867	which movie is released in <e>
+/media_common/netflix_genre/titles
+country
+
+5904	what is a <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+5916	what is a 1941 western comedy <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+5922	name a <e> album by two hours traffic
+/music/genre/albums
+musical_genre
+
+5926	what is one of the <e> that can be found on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+5937	what is the <e> by nils lofgren called
+/music/album_content_type/albums
+musical_genre
+
+5943	what album is <e>
+/music/genre/albums
+musical_genre
+
+5962	what is the name of a title from the <e> genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+5973	what is a <e>
+/music/album_content_type/albums
+quotation_subject
+
+5975	what 's an <e> album by kimya dawson
+/music/genre/albums
+musical_genre
+
+5980	what is a 2004 <e> album
+/music/genre/albums
+musical_genre
+
+5997	what is the album in the <e> genre
+/music/genre/albums
+musical_genre
+
+6004	which movie speak <e> in netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+6059	what <e> was released in 1989
+/music/album_release_type/albums
+_NOTYPE_
+
+6085	what 's a <e> by the doors
+/music/album_content_type/albums
+media_genre
+
+6097	what is an example of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+6115	what is a <e> ( genre ) film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+6124	what would be an <e> album
+/music/genre/albums
+musical_genre
+
+6145	what film is in the genre <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+6149	name an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+6152	what movie is a type of <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+6198	what movie title is classified as a netflix <e> genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+6214	what is a notable album from the heavy <e>
+/music/genre/albums
+_NOTYPE_
+
+6257	what is the name of a <e> on netflix
+/media_common/netflix_genre/titles
+media_genre
+
+6259	what could be an <e> album
+/music/genre/albums
+_NOTYPE_
+
+6277	what is the name of the french-italian <e> from 1962
+/film/film_genre/films_in_this_genre
+film_genre
+
+6283	what is a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+6359	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+6378	what is an <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+6396	what would be a <e> album
+/music/genre/albums
+musical_genre
+
+6414	what is a title under the netflix genre <e>
+/media_common/netflix_genre/titles
+film_genre
+
+6427	what 's an <e> released by def leppard
+/music/album_release_type/albums
+_NOTYPE_
+
+6451	which netflix title is in the genre <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+6468	what 's an album that features a lot of <e>
+/music/genre/albums
+musical_genre
+
+6524	what is a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+6558	name a netflix <e> about elvis
+/media_common/netflix_genre/titles
+tv_genre
+
+6576	which 1969 albums were released as a <e>
+/music/genre/albums
+musical_genre
+
+6586	what is a <e> released in new york
+/music/album_content_type/albums
+media_genre
+
+6591	what 's an <e> released in 2011
+/film/film_genre/films_in_this_genre
+film_genre
+
+6609	name a netflix <e> title
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+6612	name a <e>
+/film/film_genre/films_in_this_genre
+profession
+
+6633	what is a 2007 <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+6654	name a title in the <e> genre
+/media_common/netflix_genre/titles
+film_genre
+
+6675	which <e> is created by rod stewart
+/music/album_release_type/albums
+_NOTYPE_
+
+6714	what is a <e> album
+/music/genre/albums
+musical_genre
+
+6730	what 's a <e> album featuring boney m
+/music/genre/albums
+musical_genre
+
+6740	what album was produce by <e> brazilian vocalist
+/music/genre/albums
+musical_genre
+
+6741	what is the name of a film in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+6766	what 's a movie in the <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+6783	what is a <e> nominated for classical album of the year
+/music/album_content_type/albums
+musical_genre
+
+6852	what is a 1958 <e> comedy film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+6874	which film is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+6876	what is a 1960 <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+6896	what is a 2011 <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+6899	what is a title in the netflix genre <e>
+/media_common/netflix_genre/titles
+film_genre
+
+6905	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+6943	which album is <e>
+/music/genre/albums
+musical_genre
+
+6948	what album is of the genre <e>
+/music/genre/albums
+musical_genre
+
+6982	what is a netflix genre from <e>
+/media_common/netflix_genre/titles
+country
+
+6989	what is a classic <e> title
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+7008	an example of a <e> album is what
+/music/genre/albums
+musical_genre
+
+7012	what is a <e> title
+/film/film_genre/films_in_this_genre
+film_genre
+
+7018	what 's an example of a <e> album
+/music/genre/albums
+musical_genre
+
+7041	an album that falls under the genre <e> is what
+/music/genre/albums
+musical_genre
+
+7060	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+7066	what is an <e> by jerry garcia
+/music/album_release_type/albums
+_NOTYPE_
+
+7101	whats the name of a <e> thats about partisan divides in american society
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+7124	what is a disney <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+7148	what is a movie found in the <e> in netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+7161	what a flim in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+7212	what 's a <e> ( genre ) directed by rod holcomb
+/film/film_genre/films_in_this_genre
+tv_genre
+
+7213	name a film from the <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+7227	which movie is <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+7259	what is a film based on <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+7273	what is the title of a <e>
+/media_common/netflix_genre/titles
+musical_genre
+
+7285	what 's an <e> featuring jerry goldsmith
+/music/album_release_type/albums
+_NOTYPE_
+
+7307	what is a netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+7318	what is a title in the <e> genre of netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+7320	what is a <e>
+/media_common/netflix_genre/titles
+musical_genre
+
+7389	what i the tittle of the 2009 <e> directed by jean-marie téno
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+7393	which title is considered <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+7432	name a <e> directed by dylan fries and michael sanders
+/film/film_genre/films_in_this_genre
+film_genre
+
+7506	what is the name of an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+7542	which 1993 <e> ( genre ) films released in netflix
+/media_common/netflix_genre/titles
+tv_genre
+
+7557	name a <e> starring michael j fox
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+7583	what <e> was released in 1971 by deep purple
+/music/album_content_type/albums
+_NOTYPE_
+
+7619	what is the name of a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+7653	what is an <e> that can be found on netflix
+/media_common/netflix_genre/titles
+film_genre
+
+7687	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+7710	what is an example of an <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+7762	name a <e> by johnny cash
+/music/album_content_type/albums
+musical_genre
+
+7865	what is the name of a film that is considered a <e> ( genre )
+/film/film_genre/films_in_this_genre
+tv_genre
+
+7940	name a <e> by a german band
+/music/album_content_type/albums
+_NOTYPE_
+
+7962	which <e> film was released in 1990
+/film/film_genre/films_in_this_genre
+tv_genre
+
+7995	which movie is <e> in netflix
+/media_common/netflix_genre/titles
+country
+
+8093	what <e> were released in 1996
+/music/album_release_type/albums
+_NOTYPE_
+
+8099	what 's an irish <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+8113	what are some <e> albums
+/music/genre/albums
+musical_genre
+
+8121	what movie can be found under the netflix genre <e>
+/media_common/netflix_genre/titles
+country
+
+8129	name a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+8137	what is the name of an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+8169	name a album from the <e> genre
+/music/genre/albums
+musical_genre
+
+8190	what is a <e> title
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+8211	name a <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+8220	what is a netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+8379	name a film in the netflix genre of <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+8453	what is the name of the 1950 <e> directed by earl mcevoy
+/film/film_genre/films_in_this_genre
+tv_genre
+
+8477	what is a <e> album
+/music/genre/albums
+film_genre
+
+8495	name an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+8542	what movie contain <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+8560	what <e> is a 2007 film directed by jos luis gutierrez
+/media_common/netflix_genre/titles
+language_in_fiction
+
+8579	name a film classified as a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+8622	what film is considered a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+8678	whats the name of an album whose genre is <e>
+/music/genre/albums
+musical_genre
+
+8721	name a filipino <e> album
+/music/genre/albums
+_NOTYPE_
+
+8726	what is the album released by <e> duo wisin and yandel
+/music/genre/albums
+_NOTYPE_
+
+8762	name a <e>
+/music/album_content_type/albums
+profession
+
+8826	name a <e> album
+/music/genre/albums
+musical_genre
+
+8834	what are some <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+8856	what <e> ( genre ) movie was produced by chuck workman
+/film/film_genre/films_in_this_genre
+tv_genre
+
+8865	what is the name of a 1990 <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+8871	what is an <e>
+/music/album_release_type/albums
+video_game_genre
+
+8874	what is a known <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+8880	what is the name of a <e> that follows a band
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+8886	which <e> came out in 1911
+/film/film_genre/films_in_this_genre
+film_genre
+
+8911	what <e> was directed by félix enríquez alcalá
+/film/film_genre/films_in_this_genre
+tv_genre
+
+8916	what is the name of a title from the <e> netflix genre
+/media_common/netflix_genre/titles
+country
+
+8982	what 's the title of a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+9006	name a <e>
+/music/album_content_type/albums
+profession
+
+9059	name a film in <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+9072	what 's the name of a <e> album
+/music/genre/albums
+musical_genre
+
+9074	what is a <e> album recorded in 1966
+/music/genre/albums
+musical_genre
+
+9083	what 's a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+9086	what is a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+9094	what are the names of netflix movies in <e>
+/media_common/netflix_genre/titles
+tv_network
+
+9096	what is a <e> album
+/music/genre/albums
+film_genre
+
+9146	an example of a <e> is
+/music/album_content_type/albums
+_NOTYPE_
+
+9149	what 's an example of an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+9166	what movie is <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+9198	what is a <e> album made by a german metal ground
+/music/genre/albums
+musical_genre
+
+9223	which <e> did neal morse create
+/music/album_release_type/albums
+_NOTYPE_
+
+9265	what 's a <e> album by the j. geils band
+/music/genre/albums
+film_genre
+
+9315	what is the name of an <e> album
+/music/genre/albums
+musical_genre
+
+9367	what is a film that could be found within the netflix genre <e>
+/media_common/netflix_genre/titles
+film_genre
+
+9378	what is the name of an album that is considered <e>
+/music/genre/albums
+musical_genre
+
+9421	what is an <e> released in 1986
+/music/album_release_type/albums
+_NOTYPE_
+
+9422	what is the title of a netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+9450	name a <e>
+/film/film_genre/films_in_this_genre
+profession
+
+9454	what is an <e> by lou barlow
+/music/album_release_type/albums
+_NOTYPE_
+
+9501	what <e> was released in 1927
+/film/film_genre/films_in_this_genre
+film_genre
+
+9524	name a film in the netflix genre <e>
+/media_common/netflix_genre/titles
+musical_genre
+
+9538	state an <e> album
+/music/genre/albums
+_NOTYPE_
+
+9543	what an example of a <e> album
+/music/genre/albums
+musical_genre
+
+9579	what is the title of a movie whose genre is <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+9584	what is a 1997 <e> by ella fitzgerald
+/music/album_release_type/albums
+_NOTYPE_
+
+9591	name a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+9593	what is an <e> album
+/music/genre/albums
+musical_genre
+
+9629	what 's a british <e> film
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+9658	what 's the title of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+9663	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+9673	name a <e>
+/music/album_content_type/albums
+musical_genre
+
+9690	what is the title of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+9765	what would be an example of a christmas <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+9783	name a <e> film
+/film/film_genre/films_in_this_genre
+film_genre
+
+9784	what is the <e> of john mayer
+/music/album_release_type/albums
+_NOTYPE_
+
+9795	which title falls under the <e> ( genre )
+/media_common/netflix_genre/titles
+tv_genre
+
+9849	what is the name of an <e> released on june 8 , 2010
+/music/album_release_type/albums
+_NOTYPE_
+
+9859	what is a film in the genre <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+9911	whats the title of a <e> album
+/music/genre/albums
+_NOTYPE_
+
+9985	what is the name of a film in the <e>
+/film/film_genre/films_in_this_genre
+film
+
+9998	what film is a type of <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+10003	which album is <e>
+/music/album_content_type/albums
+composition_type
+
+10022	what is a <e> film on netflix
+/media_common/netflix_genre/titles
+tv_genre
+
+10052	name an <e>
+/music/album_release_type/albums
+profession
+
+10078	what is the name of a 1970s <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+10086	what 's the <e> from the movie i robot
+/music/album_content_type/albums
+composition_type
+
+10088	name a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+10148	what is the name of a <e> album
+/music/album_content_type/albums
+musical_genre
+
+10177	what is a film in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+10209	what <e> can be found on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+10236	what are netflix <e> titles
+/media_common/netflix_genre/titles
+film_genre
+
+10238	name a <e> album
+/music/genre/albums
+composition_type
+
+10245	what is an example of a <e>
+/music/album_content_type/albums
+school_category
+
+10286	what is a <e> film in netflix
+/media_common/netflix_genre/titles
+film_genre
+
+10300	name a <e>
+/film/film_genre/films_in_this_genre
+profession
+
+10310	what is a album in the heavy <e>
+/music/genre/albums
+_NOTYPE_
+
+10317	name an album from the <e> genre
+/music/genre/albums
+musical_genre
+
+10329	what is an artist that creates <e> music
+/music/genre/albums
+musical_genre
+
+10331	what <e> did the runaways release in 1987
+/music/album_release_type/albums
+_NOTYPE_
+
+10344	which movie is classified as a <e> on netflix
+/media_common/netflix_genre/titles
+tv_genre
+
+10363	name <e> film genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+10520	what is a film in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+10528	what is a <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+10674	what is a film in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+10694	what is a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+10697	this film falls under the <e> netflix genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+10698	what album is classified as <e>
+/music/genre/albums
+_NOTYPE_
+
+10718	name a flamenco influenced <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+10720	what is the name of a <e> album
+/music/genre/albums
+_NOTYPE_
+
+10734	what is a type of <e> album
+/music/genre/albums
+musical_genre
+
+10752	what is a <e>
+/music/album_content_type/albums
+dog_breed
+
+10761	what are some <e> titles on netflix
+/media_common/netflix_genre/titles
+tv_genre
+
+10775	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+10789	what is smokie 's <e> called
+/music/album_content_type/albums
+musical_genre
+
+10816	what 's a musical <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+10849	what is the title in the netflix genre <e>
+/media_common/netflix_genre/titles
+country
+
+10862	what is an <e> album
+/music/genre/albums
+musical_genre
+
+10867	what 's a <e> album
+/music/genre/albums
+musical_genre
+
+10877	name a netflix title from the <e> genre
+/media_common/netflix_genre/titles
+location
+
+10907	what 's a <e> released in 1966
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+10956	what is the name of a popular <e> fil ,
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+10966	what is a <e>
+/film/film_genre/films_in_this_genre
+literary_genre
+
+11004	which <e> albums were released in canada
+/music/genre/albums
+musical_genre
+
+11005	what 's a <e> motion picture directed by philip cruz
+/film/film_genre/films_in_this_genre
+film_genre
+
+11019	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+star_system
+
+11058	what is an american motion picture in <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11062	what is the name of a title under the <e> genre on netflix
+/media_common/netflix_genre/titles
+invention
+
+11066	which <e> was unfinished by orson welles
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11099	name an album from the <e> genre
+/music/genre/albums
+musical_genre
+
+11158	name a <e> by garin nugroho
+/film/film_genre/films_in_this_genre
+film_genre
+
+11186	what film is in the genre <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11200	what is a movie that can be found in the netflix <e> section
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+11224	what is a <e> album
+/music/genre/albums
+musical_genre
+
+11285	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+organization_type
+
+11293	what 's an example of a <e> album
+/music/genre/albums
+film_genre
+
+11294	what is a <e> album
+/music/genre/albums
+film_genre
+
+11312	name a film in the <e> netflix genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+11313	what 's a <e> film
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+11343	name a film under the genre of <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+11344	what is the name of a 2009 indian <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+11354	which <e> that contains an athlete 's experience with drugs
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11366	what is a <e> from czech
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11379	name <e> album with a numerical name
+/music/genre/albums
+_NOTYPE_
+
+11407	which album is <e>
+/music/genre/albums
+musical_genre
+
+11408	what is the name of a <e>
+/music/album_content_type/albums
+quotation_subject
+
+11410	name a <e> film
+/film/film_genre/films_in_this_genre
+film_genre
+
+11430	what japanese album is <e>
+/music/album_content_type/albums
+musical_genre
+
+11450	which film is of the <e> genre
+/film/film_genre/films_in_this_genre
+tv_genre
+
+11505	what is a title of <e> netflix film
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+11526	what is an example of a <e>
+/music/album_content_type/albums
+type_of_museum
+
+11527	what is an album in the genre of <e>
+/music/genre/albums
+_NOTYPE_
+
+11538	what is the name of a <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+11541	what is a title in the genre <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+11556	what is a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+11574	what is the name of an <e> album
+/music/genre/albums
+musical_genre
+
+11576	what music album is type of <e> in video game
+/music/album_content_type/albums
+musical_genre
+
+11640	what are <e> ( genre ) films
+/film/film_genre/films_in_this_genre
+tv_genre
+
+11646	what album is a type of <e>
+/music/genre/albums
+musical_genre
+
+11713	which album is <e> ( music )
+/music/album_release_type/albums
+musical_genre
+
+11724	what is a <e> album
+/music/genre/albums
+musical_genre
+
+11786	name an <e> album
+/music/genre/albums
+musical_genre
+
+11810	what 's a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11816	what is a film in the <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11850	what 's an <e> released in 1994
+/film/film_genre/films_in_this_genre
+film_genre
+
+11855	what is the name of a <e> involving september 11
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11857	name a <e>
+/music/album_content_type/albums
+tv_genre
+
+11882	a film in the <e> genre is
+/film/film_genre/films_in_this_genre
+musical_genre
+
+11930	which film is considered to be a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+11952	what is the title of a netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+11954	what is an example of a <e> ( genre )
+/film/film_genre/films_in_this_genre
+tv_genre
+
+11968	what 's an example of a <e>
+/film/film_genre/films_in_this_genre
+literature_subject
+
+11975	what album is <e>
+/music/genre/albums
+film_genre
+
+12003	what is the film of the netflix genre <e>
+/media_common/netflix_genre/titles
+country
+
+12017	what is the name of a film in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+12020	what is a compilation <e> in the progressive rock genre
+/music/album_release_type/albums
+_NOTYPE_
+
+12023	what is the title of a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+12032	name a <e> album
+/music/genre/albums
+film_genre
+
+12038	what are the names of <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+12052	what film is a type of <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+12054	what is the title an <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+12074	what are <e> albums
+/music/genre/albums
+musical_genre
+
+12089	what 's a title available in the <e> on netflix
+/media_common/netflix_genre/titles
+human_language
+
+12090	what are <e> by ella fitzgerald
+/music/album_release_type/albums
+_NOTYPE_
+
+12120	what is a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+12136	name a <e> album that consists of remix compilation
+/music/genre/albums
+musical_genre
+
+12157	what movie is considered to be an <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+12158	what 's an example of a <e>
+/film/film_genre/films_in_this_genre
+school_category
+
+12173	what is an <e> named
+/music/album_release_type/albums
+_NOTYPE_
+
+12189	what is the name of a popular <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+12215	what movie uses <e> in netflix
+/media_common/netflix_genre/titles
+language_in_fiction
+
+12229	name a <e>
+/music/album_content_type/albums
+literary_genre
+
+12232	which film is in the genre <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+12236	what is an <e> by bo diddley
+/music/album_release_type/albums
+_NOTYPE_
+
+12257	what is an example of a <e> ( genre ) film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+12259	what is a <e> album
+/music/genre/albums
+musical_genre
+
+12314	name a <e>
+/music/album_content_type/albums
+profession
+
+12340	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+12367	what film is an example of <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+12374	what is an example of an <e> album
+/music/genre/albums
+musical_genre
+
+12382	what is the title of a <e> featuring more than one artist
+/music/album_content_type/albums
+musical_genre
+
+12405	name a <e>
+/film/film_genre/films_in_this_genre
+profession
+
+12414	what is an example of a <e>
+/film/film_genre/films_in_this_genre
+geographical_feature_category
+
+12427	what are <e> albums
+/music/genre/albums
+musical_genre
+
+12434	which 1967 <e> features poverty in america
+/film/film_genre/films_in_this_genre
+film_genre
+
+12439	what is a album of <e>
+/music/genre/albums
+musical_genre
+
+12458	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+12480	what is an <e> album
+/music/genre/albums
+musical_genre
+
+12482	which movie is <e> netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+12484	name an <e>
+/film/film_genre/films_in_this_genre
+profession
+
+12519	what 's an <e> released in 1911
+/film/film_genre/films_in_this_genre
+film_genre
+
+12533	name a film in the <e> genre
+/film/film_genre/films_in_this_genre
+tv_genre
+
+12561	what is an example of <e>
+/music/genre/albums
+automotive_class
+
+12569	what album is in the heavy <e>
+/music/genre/albums
+_NOTYPE_
+
+12570	what is an <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+12598	name an <e> album
+/music/genre/albums
+musical_genre
+
+12603	name a <e> album
+/music/genre/albums
+musical_genre
+
+12619	what is a <e> album
+/music/genre/albums
+musical_genre
+
+12624	what is the name of the <e> by ben holmes
+/film/film_genre/films_in_this_genre
+film_genre
+
+12656	what <e> features experiences from the author 's life
+/film/film_genre/films_in_this_genre
+film_genre
+
+12659	what <e> film was released in 1989
+/film/film_genre/films_in_this_genre
+tv_genre
+
+12682	what 's an example of a <e> album
+/music/genre/albums
+musical_genre
+
+12691	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+12716	which cherish <e> was an album release
+/music/album_release_type/albums
+_NOTYPE_
+
+12717	name a film from the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+12718	name a <e> album
+/music/genre/albums
+_NOTYPE_
+
+12721	what japanese detective film depicts <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+12775	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+12798	what is the title of a <e> album
+/music/genre/albums
+musical_genre
+
+12863	what is a <e> album
+/music/genre/albums
+musical_genre
+
+12871	which <e> was released in 1922
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+12873	what 's an example of an <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+12975	what is a title in <e> genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+12979	name a <e> album released in september 2012
+/music/genre/albums
+_NOTYPE_
+
+12988	what 's an example of a <e> album
+/music/genre/albums
+musical_genre
+
+13002	what is a <e> genre film in netflix
+/media_common/netflix_genre/titles
+country
+
+13029	what 's a <e> by tom tom club
+/music/album_content_type/albums
+musical_genre
+
+13080	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+13138	name a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+13192	which movie is an example of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+13196	name a <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+13218	what is a <e> album
+/music/genre/albums
+musical_genre
+
+13237	what is an album of <e>
+/music/genre/albums
+_NOTYPE_
+
+13272	what is a <e> album released by roger deltray
+/music/genre/albums
+film_genre
+
+13294	what are <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+13328	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+13335	what 's an example of a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+13367	name a title that can be found in the netflix genre <e>
+/media_common/netflix_genre/titles
+country
+
+13376	what is the title of an <e> album
+/music/genre/albums
+musical_genre
+
+13377	what 's a <e> album
+/music/genre/albums
+musical_genre
+
+13414	what are some titles of <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+13428	name a <e>
+/film/film_genre/films_in_this_genre
+composition_type
+
+13453	which album was released as a <e> ( music )
+/music/album_release_type/albums
+musical_genre
+
+13495	what album is in the genre <e>
+/music/genre/albums
+_NOTYPE_
+
+13509	name a <e> album by to speak of wolves
+/music/genre/albums
+musical_genre
+
+13538	name a <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+13548	what 's an example of an <e> featuring remixes
+/music/album_release_type/albums
+_NOTYPE_
+
+13610	what is an <e> album by rosanne cash
+/music/genre/albums
+musical_genre
+
+13763	what is the <e> of a british romantic comedy
+/music/album_content_type/albums
+composition_type
+
+13787	what album is listed under the <e> genre
+/music/genre/albums
+musical_genre
+
+13818	what is a type of <e>
+/film/film_genre/films_in_this_genre
+school_category
+
+13850	what movie is <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+13883	what 's the name of the the damned 's <e>
+/music/album_content_type/albums
+media_genre
+
+13921	whats the name of a <e> album
+/music/genre/albums
+musical_genre
+
+13925	whats the title of a movie that is a <e> film about world war two
+/film/film_genre/films_in_this_genre
+tv_genre
+
+13955	which album was released as a <e> ( music )
+/music/album_release_type/albums
+musical_genre
+
+13962	what 's a movie available under the <e> category on netflix
+/media_common/netflix_genre/titles
+film_genre
+
+13997	name a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+14011	name a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+14026	what is a <e> album
+/music/genre/albums
+musical_genre
+
+14029	what 's a movie categorized under <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+14033	what was the name of g-dragon 's solo <e> album
+/music/genre/albums
+musical_genre
+
+14049	which album is a <e>
+/music/album_content_type/albums
+musical_genre
+
+14055	what is a album that represents <e>
+/music/genre/albums
+musical_genre
+
+14059	whats an example of a known <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+14069	what is a film in the genre of <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+14072	name an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+14073	name a famous <e> album in 2003
+/music/genre/albums
+_NOTYPE_
+
+14088	this 2009 short <e> was directed by sidharth meskeri , hormaz barai and balmeet kohli
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+14112	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+14132	what is an album of the genre <e>
+/music/genre/albums
+musical_genre
+
+14159	what is a film with the <e> genre
+/film/film_genre/films_in_this_genre
+tv_genre
+
+14162	which <e> stars the three stooges
+/film/film_genre/films_in_this_genre
+film_genre
+
+14192	what is an <e> album made by peter hammill
+/music/genre/albums
+musical_genre
+
+14228	name a <e>
+/music/album_content_type/albums
+school_category
+
+14233	what is an <e> by tony bennett released on 2011
+/music/album_release_type/albums
+_NOTYPE_
+
+14264	what is the title of a <e> netflix genre
+/media_common/netflix_genre/titles
+human_language
+
+14277	what 's an <e> made in britain
+/film/film_genre/films_in_this_genre
+film_genre
+
+14319	what is an punjabi <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+14330	what are <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+14351	what 's an example of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+14366	what is the title of an <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+14368	which <e> were released by madonna
+/music/album_content_type/albums
+_NOTYPE_
+
+14372	what is the title of a <e> album
+/music/genre/albums
+musical_genre
+
+14475	what 's the name of the groove coverage <e>
+/music/album_content_type/albums
+musical_genre
+
+14534	what is a name of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+14565	what is a <e> ( genre ) film released in 1995
+/film/film_genre/films_in_this_genre
+tv_genre
+
+14595	what 's an <e> released in 1940
+/film/film_genre/films_in_this_genre
+film_genre
+
+14664	whats a movie title that is considered to be <e> genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+14683	what 's a <e> album by chuck mangione
+/music/genre/albums
+musical_genre
+
+14733	what 's a movie in the <e> genre on netflix
+/media_common/netflix_genre/titles
+film_genre
+
+14738	whats an album name found in the <e>
+/music/genre/albums
+_NOTYPE_
+
+14822	what is the name of a popular <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+14838	name an <e> album
+/music/genre/albums
+musical_genre
+
+14884	which album is considered <e>
+/music/genre/albums
+musical_genre
+
+14925	what 's an <e> by the inner circle
+/music/album_release_type/albums
+_NOTYPE_
+
+14933	an example of a <e> would be what
+/film/film_genre/films_in_this_genre
+film_genre
+
+14935	what 's a movie title in the netflix designation <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+14974	what is the fifth studio album from japanese <e> duo , boom boom satellites
+/music/genre/albums
+_NOTYPE_
+
+14995	whats the name of an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+15026	what 's a <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+15032	what is <e> by the bee gees released on 1969
+/music/album_release_type/albums
+_NOTYPE_
+
+15059	what is a type of <e> film
+/film/film_genre/films_in_this_genre
+film_genre
+
+15081	what movie is a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+15094	what is a <e> for a 2003 film of the same name
+/music/album_content_type/albums
+composition_type
+
+15141	which film from <e> deals with a money-making scheme
+/media_common/netflix_genre/titles
+country
+
+15224	<e> is the genre that best describes this film
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+15247	what album has <e>
+/music/genre/albums
+_NOTYPE_
+
+15306	what are <e> albums
+/music/genre/albums
+musical_genre
+
+15308	what is a type of <e> album
+/music/genre/albums
+musical_genre
+
+15313	what is a title from the <e> genre in netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+15333	what album is in the genre of <e>
+/music/genre/albums
+film_genre
+
+15345	what is the second studio <e> album by Émilie simon
+/music/genre/albums
+_NOTYPE_
+
+15349	what 's an <e> recorded live at the fillmore
+/music/album_release_type/albums
+_NOTYPE_
+
+15379	which animates <e> was released in 2011
+/film/film_genre/films_in_this_genre
+film_genre
+
+15409	what was a <e> released in 195
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+15442	what 's a movie available under the <e> category on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+15466	what film is a type of <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+15469	which <e> were produced by the keith emerson band
+/music/album_content_type/albums
+_NOTYPE_
+
+15473	what is the name of a <e> album
+/music/genre/albums
+music_video_performer
+
+15486	what <e> was made by lada gag
+/music/album_content_type/albums
+_NOTYPE_
+
+15513	whats the name of an <e> based off a play
+/music/album_release_type/albums
+_NOTYPE_
+
+15558	what is a <e> from 1959
+/film/film_genre/films_in_this_genre
+film_genre
+
+15579	what is an <e> from 1995
+/music/album_release_type/albums
+_NOTYPE_
+
+15586	which <e> were released by a japanese pop-rock band
+/music/album_release_type/albums
+_NOTYPE_
+
+15589	what is an <e> ( music ) album
+/music/genre/albums
+musical_genre
+
+15594	name an album from the <e> genre
+/music/genre/albums
+musical_genre
+
+15598	whats the name of a <e>
+/music/album_content_type/albums
+school_category
+
+15613	what title is <e> in
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+15623	what is the title of a <e> netflix genre
+/media_common/netflix_genre/titles
+language_in_fiction
+
+15662	what is the name of an <e> album
+/music/genre/albums
+musical_genre
+
+15682	what is an example of a <e> album
+/music/genre/albums
+musical_genre
+
+15699	what is an example of a <e>
+/film/film_genre/films_in_this_genre
+musical_genre
+
+15723	what film can be found in the <e> netflix genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+15745	what is a <e> by dolly parton
+/music/album_content_type/albums
+musical_genre
+
+15757	what is the name of a <e> film
+/film/film_genre/films_in_this_genre
+film_genre
+
+15813	what is a <e> ( genre ) on netflix
+/media_common/netflix_genre/titles
+tv_genre
+
+15848	what is the tittle of a <e> by country singer willie nelson
+/music/album_content_type/albums
+musical_genre
+
+15850	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+15874	what 's a <e> from pakistan
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+15902	name an <e> film
+/film/film_genre/films_in_this_genre
+film_genre
+
+15914	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+15962	name a notable <e> album
+/music/genre/albums
+film_genre
+
+15963	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+16006	whats the title of <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+16023	whats the title of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+16044	what 's the title of an <e> released in 2001
+/music/album_release_type/albums
+_NOTYPE_
+
+16058	what film in from the genre <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+16090	what is a 2002 <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+16098	whats the title of a movie that is classified as a netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+16101	what is the name of a <e> remake
+/film/film_genre/films_in_this_genre
+film_genre
+
+16144	what 's an <e> that features dalida
+/music/album_release_type/albums
+_NOTYPE_
+
+16172	what is a film that is apart of the netflix genre <e>
+/media_common/netflix_genre/titles
+human_language
+
+16187	what 's a film available under the <e> section on netflix
+/media_common/netflix_genre/titles
+film_genre
+
+16190	what 's an example of a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+16193	name a movie title in the <e> genre
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+16234	which <e> albums were released by atlantic records
+/music/genre/albums
+musical_genre
+
+16254	which album is <e>
+/music/genre/albums
+musical_genre
+
+16271	name a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+16284	what are types of <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+16287	which <e> were released in 1989
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+16289	what album is from the <e> genre
+/music/genre/albums
+musical_genre
+
+16321	what album is by <e>
+/music/genre/albums
+musical_genre
+
+16324	what is that spanish named <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+16351	what is the name of a film based in <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+16379	what is a <e> made by the band donots
+/music/album_content_type/albums
+_NOTYPE_
+
+16393	what is a movie that you can find under netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+16399	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+16419	whats an <e> by the districts
+/music/album_release_type/albums
+_NOTYPE_
+
+16427	which album is <e>
+/music/album_content_type/albums
+musical_genre
+
+16433	what is the name of a <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+16448	what is an example of a film that is an <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+16449	what movie is in <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+16453	name a popular <e> album
+/music/genre/albums
+musical_genre
+
+16504	what is a <e> album that included michael jackson in it
+/music/genre/albums
+musical_genre
+
+16516	which album is of the content type <e>
+/music/album_content_type/albums
+composition_type
+
+16534	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+16598	what would be an example of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+16623	what film is a type of <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+16662	what 's an example of a <e> album
+/music/genre/albums
+musical_genre
+
+16670	what <e> did pantera release
+/music/album_content_type/albums
+musical_genre
+
+16679	what <e> was released in 2007
+/film/film_genre/films_in_this_genre
+film_genre
+
+16701	what 's an example of a <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+16707	which album is <e>
+/music/genre/albums
+film_genre
+
+16834	what is the drama film where <e> technique was used
+/film/film_genre/films_in_this_genre
+tv_genre
+
+16884	what is an <e> by patrick watson
+/music/album_release_type/albums
+_NOTYPE_
+
+17073	what movie has theme as <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+17119	name a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+17150	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+17166	which <e> is by nu : tone
+/music/album_content_type/albums
+_NOTYPE_
+
+17175	what is a 2010 <e> movie
+/film/film_genre/films_in_this_genre
+tv_genre
+
+17242	which <e> featured bruce lee as the leading actor
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+17266	what is the name of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+17270	what is the title of a movie that is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+17281	what is the title of a <e> netflix film
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+17319	what is a 2008 <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+17347	what is the name of an <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+17471	which album is of the <e> genre
+/music/genre/albums
+musical_genre
+
+17491	what is a <e> released in 1974
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+17521	what is a kind of <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+17532	what is the name of the movie in the netflix genre <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+17561	what is an <e> that was released by figurines
+/music/album_release_type/albums
+_NOTYPE_
+
+17570	what movie titles belong to the netflix genre <e>
+/media_common/netflix_genre/titles
+film_genre
+
+17619	what 's a title in the <e> netflix genre
+/media_common/netflix_genre/titles
+media_genre
+
+17627	name an <e> album
+/music/genre/albums
+musical_genre
+
+17658	what album type is a <e>
+/music/album_content_type/albums
+musical_genre
+
+17672	what <e> came out in 2009
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+17675	what are some <e> albums
+/music/genre/albums
+broadcast_genre
+
+17676	what is an <e> album
+/music/genre/albums
+_NOTYPE_
+
+17684	what <e> album was released by ken hirai
+/music/genre/albums
+musical_genre
+
+17709	what movie is <e> in netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+17713	what 's an example of a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+17838	what 's the title of a foreign <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+17840	name a <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+17863	which artist recorded <e>
+/music/genre/albums
+musical_genre
+
+17867	what is the name of buddy holly 's <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+17890	what 's a metalcore <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+17928	which film is about <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+17952	what is an example of a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+17969	what movie is a 2003 american animated <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+17988	which <e> were released by owl city
+/music/album_release_type/albums
+_NOTYPE_
+
+18016	name a <e> by david bowie
+/music/genre/albums
+_NOTYPE_
+
+18030	what 's a <e> album by beau dommage
+/music/genre/albums
+musical_genre
+
+18057	what is a <e> film
+/film/film_genre/films_in_this_genre
+film_genre
+
+18081	what 's the name of a <e> movie
+/media_common/netflix_genre/titles
+media_genre
+
+18100	name a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+18161	what <e> was released in the 1990 's
+/music/genre/albums
+film_genre
+
+18174	what are some <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+18183	what movie is <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+18190	what is an <e> by phil ochs
+/music/album_release_type/albums
+_NOTYPE_
+
+18236	what album is part of <e> genre
+/music/genre/albums
+musical_genre
+
+18239	an example of an <e> film is what
+/film/film_genre/films_in_this_genre
+tv_genre
+
+18277	what movie is classified as a <e> title
+/media_common/netflix_genre/titles
+film_genre
+
+18282	name an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+18284	what is cher 's compilation <e> titled
+/music/album_release_type/albums
+_NOTYPE_
+
+18285	what 's a soundtrack that features <e>
+/music/genre/albums
+_NOTYPE_
+
+18286	whats an example of a <e> album
+/music/genre/albums
+musical_genre
+
+18342	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+18348	what album is a type <e>
+/music/genre/albums
+_NOTYPE_
+
+18362	what 's the name of maureen tucker 's <e>
+/music/album_content_type/albums
+media_genre
+
+18369	what 's a <e> featuring inti-illimani
+/music/album_content_type/albums
+musical_genre
+
+18397	which <e> ( genre ) film in netflix takes place in a city
+/media_common/netflix_genre/titles
+tv_genre
+
+18412	what is an album of <e> music
+/music/genre/albums
+musical_genre
+
+18417	what 's a <e> released in 2010
+/film/film_genre/films_in_this_genre
+film_genre
+
+18422	what is an example of an <e> album
+/music/genre/albums
+broadcast_genre
+
+18432	name a title in the netflix genre <e>
+/media_common/netflix_genre/titles
+human_language
+
+18458	what movie is a <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+18480	what is the name of an italian <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+18484	what is a <e> album
+/music/genre/albums
+musical_genre
+
+18492	what is the name of a <e> ( genre ) film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+18513	what is a <e> on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+18538	what would be called a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+18558	what is an example of a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+18601	name a title in the <e> genre of netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+18647	what is the name of an <e> album
+/music/genre/albums
+musical_genre
+
+18656	what film is in the <e> film genre
+/film/film_genre/films_in_this_genre
+tv_genre
+
+18739	name a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+18748	what is the title for a 1929 <e>
+/film/film_genre/films_in_this_genre
+film_genre
+
+18754	what is a <e> album by nicki minaj
+/music/genre/albums
+musical_genre
+
+18788	what 's a <e> ( genre ) film released in the early 50 's
+/film/film_genre/films_in_this_genre
+tv_genre
+
+18791	what is the album of <e> genre
+/music/genre/albums
+musical_genre
+
+18796	what is the name of a <e> album
+/music/genre/albums
+film_genre
+
+18806	what is an <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+18833	what 's a <e> made in 1967
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+18875	which <e> were directed by johannes ridder
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+18878	what 's a <e> directed by victor trivas
+/film/film_genre/films_in_this_genre
+tv_genre
+
+18883	what is a techno <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+18898	name a 2007 american film <e>
+/film/film_genre/films_in_this_genre
+tv_genre
+
+18950	whats the title of a <e> ( genre ) movie
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+18973	what is an <e> title including the history of elmore james
+/music/album_release_type/albums
+_NOTYPE_
+
+18988	what 's an album within the <e> genre
+/music/genre/albums
+musical_genre
+
+18998	what is a film that fits in the <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+19039	what is the name of a film that is apart of the <e> ( genre )
+/film/film_genre/films_in_this_genre
+tv_genre
+
+19077	name a 90 's <e> album
+/music/genre/albums
+musical_genre
+
+19113	what is a <e> found on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+19128	what is a <e> released by al di meola
+/music/album_content_type/albums
+musical_genre
+
+19133	what is the name of an <e> album
+/music/genre/albums
+broadcast_genre
+
+19150	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+19175	what album has <e> music
+/music/genre/albums
+musical_genre
+
+19206	what is the <e> album name by mcauley schneker group
+/music/genre/albums
+musical_genre
+
+19229	is scooby doo or antologia an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+19234	name a <e> album
+/music/genre/albums
+_NOTYPE_
+
+19252	what is a 1990s <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+19339	what is the name of a <e> album
+/music/genre/albums
+musical_genre
+
+19351	what is a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+19365	what is a <e> film on netflix
+/media_common/netflix_genre/titles
+tv_genre
+
+19388	what is the name of a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+19448	whats an example of an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+19509	what is the name of a <e> movie
+/film/film_genre/films_in_this_genre
+tv_genre
+
+19530	name a movie in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+19544	what is an <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+19629	what is an example of an <e> album
+/music/genre/albums
+musical_genre
+
+19631	what is a film in the <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+19637	name an <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+19643	what are <e> albums
+/music/genre/albums
+musical_genre
+
+19672	what is a 1921 <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+19741	what is a 2005 <e> by kelly clarkson
+/music/album_release_type/albums
+musical_genre
+
+19798	name a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+19837	what is a netflix <e> title
+/media_common/netflix_genre/titles
+tv_genre
+
+19890	what was name of <e> released by demis roussos
+/music/album_release_type/albums
+_NOTYPE_
+
+19920	whats an <e> released in 1988
+/music/album_release_type/albums
+_NOTYPE_
+
+19947	who loves <e>
+/music/genre/albums
+musical_genre
+
+19959	name a movie in the <e> genre
+/film/film_genre/films_in_this_genre
+film_genre
+
+19961	what film is in the <e> genre
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+19985	what album contains <e>
+/music/album_content_type/albums
+musical_performance_role
+
+20002	name a 1998 <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+20040	which album is of the <e> genre
+/music/genre/albums
+film_genre
+
+20060	which films are considered to be <e> ( genre ) films
+/film/film_genre/films_in_this_genre
+tv_genre
+
+20075	what is a title of a <e> netflix film
+/media_common/netflix_genre/titles
+tv_genre
+
+20088	which movie is <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+20108	what is the tittle of the <e> film on netflix
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+20114	what is a <e> from 2008
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+20153	what is a <e> genre in netflix
+/media_common/netflix_genre/titles
+human_language
+
+20157	what album is <e> house
+/music/genre/albums
+musical_genre
+
+20160	which album is <e> by the cars
+/music/genre/albums
+musical_genre
+
+20169	what 's the name of an <e>
+/music/album_release_type/albums
+_NOTYPE_
+
+20214	what <e> film was shown
+/film/film_genre/films_in_this_genre
+film_genre
+
+20216	what is an example of a <e> film
+/film/film_genre/films_in_this_genre
+tv_genre
+
+20223	what is the title name of a <e>
+/film/film_genre/films_in_this_genre
+_NOTYPE_
+
+20226	what is a type of <e> album
+/music/genre/albums
+musical_genre
+
+20245	what is a <e> compilation album
+/music/genre/albums
+musical_genre
+
+20267	which netflix <e> stars mandy moore
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+20286	what 's an example of an <e> release
+/music/genre/albums
+musical_genre
+
+20302	what is an <e> from broadway
+/music/album_release_type/albums
+_NOTYPE_
+
+20306	what is an example of a <e>
+/music/album_content_type/albums
+_NOTYPE_
+
+20330	name a netflix <e>
+/media_common/netflix_genre/titles
+_NOTYPE_
+
+20366	what pink floyd album was a <e>
+/music/album_content_type/albums
+musical_genre
+
+20468	what is a <e> album
+/music/genre/albums
+_NOTYPE_
+
+20487	which <e> was released in 1990
+/music/album_content_type/albums
+musical_genre
+
+20553	what is a <e> from 1927
+/film/film_genre/films_in_this_genre
+film_genre
+
+20568	what 's a movie in the <e> netflix genre
+/media_common/netflix_genre/titles
+country
+
+20590	what <e> did thad jones release in 1957
+/music/album_release_type/albums
+_NOTYPE_
+

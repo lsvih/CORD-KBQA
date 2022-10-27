@@ -1,0 +1,1284 @@
+9	what was <e> 's profession
+/people/person/profession
+politician
+
+20	what job does <e> have
+/people/person/profession
+comic_book_creator
+
+31	what was <e> 's profession
+/people/person/profession
+tv_actor
+
+55	what is <e>
+/common/topic/notable_types
+location
+
+90	what profession does <e> have
+/people/person/profession
+film_costumer_designer
+
+112	what is <e> 's profession
+/people/person/profession
+record_producer
+
+121	what is <e> 's profession
+/people/person/profession
+author
+
+150	what is <e> 's profession
+/common/topic/notable_types
+film_editor
+
+160	name the profession of <e>
+/people/person/profession
+film_producer
+
+168	what would be a music spin with the topic of <e>
+/common/topic/notable_types
+musical_recording
+
+169	what is <e>
+/common/topic/notable_types
+transit_stop
+
+267	what was <e>
+/common/topic/notable_types
+musical_release
+
+328	what is <e> 's profession
+/people/person/profession
+musical_artist
+
+347	what does <e> do for a job
+/common/topic/notable_types
+fictional_character_creator
+
+359	what is <e> 's profession
+/people/person/profession
+film_actor
+
+390	what is <e> 's profession
+/people/person/profession
+musical_artist
+
+417	what kind of a noun is a <e> ( bird )
+/type/object/type
+animal
+
+438	what was <e> 's profession
+/people/person/profession
+film_director
+
+462	what is <e>
+/common/topic/notable_types
+film_character
+
+502	who is <e>
+/people/person/profession
+baseball_player
+
+529	what is <e>
+/common/topic/notable_types
+lake
+
+545	what is <e> known for
+/common/topic/notable_types
+author
+
+560	what occupation is <e> known for
+/common/topic/notable_types
+baseball_player
+
+567	what is <e> 's profession
+/people/person/profession
+mountaineer
+
+576	what is <e> profession
+/people/person/profession
+author
+
+579	what kind of work does <e> do
+/people/person/profession
+film_director
+
+581	what is <e> 's profession
+/people/person/profession
+film_actor
+
+661	what is <e> known as
+/type/object/type
+politician
+
+667	what is <e> known for
+/common/topic/notable_types
+author
+
+676	what is <e> 's profession
+/common/topic/notable_types
+film_producer
+
+714	what does <e> do for a living
+/people/person/profession
+musical_artist
+
+749	what is <e>
+/common/topic/notable_types
+tv_program
+
+803	what is the notable type of <e>
+/common/topic/notable_types
+musical_recording
+
+817	who is <e>
+/common/topic/notable_types
+u.s._congressperson
+
+856	what is <e> best know as
+/common/topic/notable_types
+person
+
+857	what was the occupation of <e>
+/common/topic/notable_types
+_NOTYPE_
+
+875	who is <e>
+/common/topic/notable_types
+author
+
+913	what occupation is <e> most known for
+/common/topic/notable_types
+author
+
+930	which type of circulation is <e> known for
+/common/topic/notable_types
+school_newspaper
+
+1034	what does <e> do for a living
+/common/topic/notable_types
+football_player
+
+1181	what is <e> ( bb-58 )
+/common/topic/notable_types
+_NOTYPE_
+
+1254	<e> is what kind of a player
+/people/person/profession
+tennis_player
+
+1281	what is <e> known for
+/common/topic/notable_types
+film_director
+
+1288	what is <e> known for
+/common/topic/notable_types
+guitarist
+
+1302	what type of ruler was <e>
+/common/topic/notable_types
+monarch
+
+1307	what is <e>
+/common/topic/notable_types
+city/town/village
+
+1319	what does <e> do for a living
+/common/topic/notable_types
+musician
+
+1343	what is <e> known as
+/common/topic/notable_types
+songwriter
+
+1344	what is <e> 's occupation
+/common/topic/notable_types
+author
+
+1358	what is <e> known for
+/common/topic/notable_types
+film_producer
+
+1378	what is <e> a notable type of
+/common/topic/notable_types
+musical_recording
+
+1415	what did <e> do
+/common/topic/notable_types
+film_director
+
+1461	is <e> a politician or a technician
+/common/topic/notable_types
+politician
+
+1482	what is <e>
+/common/topic/notable_types
+musical_album
+
+1490	what is <e> best known for
+/common/topic/notable_types
+film_producer
+
+1519	what is <e> most known for
+/common/topic/notable_types
+us_census_designated_place
+
+1567	what is <e> known for
+/common/topic/notable_types
+football_player
+
+1583	what is <e> knows most for
+/common/topic/notable_types
+_NOTYPE_
+
+1602	what profession is <e> known for
+/common/topic/notable_types
+american_football_player
+
+1633	what is <e>
+/common/topic/notable_types
+person
+
+1665	what is <e> known for being
+/common/topic/notable_types
+film_producer
+
+1760	what profession is <e>
+/common/topic/notable_types
+politician
+
+1773	what is <e> known to be
+/common/topic/notable_types
+baseball_player
+
+1789	is <e> a movie or a tv episode
+/common/topic/notable_types
+tv_episode
+
+1795	what is <e> 's gender
+/people/person/profession
+tv_actor
+
+1860	what is <e> known as
+/common/topic/notable_types
+film_producer
+
+1874	what type of establishment is the <e>
+/common/topic/notable_types
+hospital
+
+1903	what is <e> known for
+/common/topic/notable_types
+city/town/village
+
+1945	what is <e> 's profession
+/common/topic/notable_types
+basketball_player
+
+2026	what does <e> do for a living
+/people/person/profession
+academic
+
+2044	what is <e> a notable example of
+/common/topic/notable_types
+theater_production
+
+2069	what is <e> known as
+/common/topic/notable_types
+visual_artist
+
+2080	what is <e> known for
+/common/topic/notable_types
+guitarist
+
+2096	what 's <e> most famous for
+/common/topic/notable_types
+musical_artist
+
+2147	what is <e> a notable example of
+/common/topic/notable_types
+football_player
+
+2153	what is the profession of <e>
+/people/person/profession
+musical_artist
+
+2157	what is <e>
+/common/topic/notable_types
+drug_formulation
+
+2166	what is <e>
+/common/topic/notable_types
+asteroid
+
+2236	what is <e> 's job
+/people/person/profession
+politician
+
+2290	who is <e>
+/common/topic/notable_types
+fictional_character
+
+2292	what is <e> notable example of
+/common/topic/notable_types
+musical_album
+
+2299	what is <e> known for
+/common/topic/notable_types
+american_football_player
+
+2328	what is <e> 's job
+/people/person/profession
+film_actor
+
+2341	which department is <e> a part of
+/common/topic/notable_types
+french_department
+
+2379	which title did <e> have in the military
+/common/topic/notable_types
+military_commander
+
+2387	what is <e> known for
+/common/topic/notable_types
+baseball_player
+
+2465	who is <e>
+/common/topic/notable_types
+author
+
+2467	what profession did jewish <e> have
+/common/topic/notable_types
+architect
+
+2470	what is <e> 's profession
+/people/person/profession
+musical_artist
+
+2523	who is <e> known to be
+/common/topic/notable_types
+fictional_character
+
+2595	what is <e> 's profession
+/common/topic/notable_types
+author
+
+2604	what is <e>
+/common/topic/notable_types
+musical_album
+
+2640	what is <e> 's profession
+/people/person/profession
+author
+
+2730	what type of thing is <e>
+/common/topic/notable_types
+musical_recording
+
+2738	what does <e> do professionally
+/common/topic/notable_types
+film_director
+
+2758	what is <e> known for doing as a profession
+/common/topic/notable_types
+author
+
+2802	what is <e> 's profession in the entertainment industry
+/people/person/profession
+tv_personality
+
+2867	what is <e>
+/common/topic/notable_types
+educational_institution
+
+2913	what is the profession of <e>
+/common/topic/notable_types
+author
+
+2922	what is <e> ( album )
+/common/topic/notable_types
+musical_album
+
+2938	what kind of album is <e>
+/common/topic/notable_types
+musical_album
+
+2954	what is <e> known for
+/common/topic/notable_types
+football_player
+
+2964	what is <e> 's profession
+/people/person/profession
+tv_actor
+
+3011	what is the <e> known as
+/common/topic/notable_types
+musical_group
+
+3031	what is <e>
+/common/topic/notable_types
+food
+
+3046	what is <e> known for
+/common/topic/notable_types
+musician
+
+3069	what did <e> do for a living
+/people/person/profession
+film_costumer_designer
+
+3152	what profession was <e>
+/people/person/profession
+deceased_person
+
+3195	what is <e> 's profession
+/people/person/profession
+politician
+
+3227	who is <e>
+/common/topic/notable_types
+film_director
+
+3414	what is <e> know for being
+/common/topic/notable_types
+baseball_player
+
+3425	what type of character is <e>
+/common/topic/notable_types
+film_character
+
+3445	how does <e> make a living
+/people/person/profession
+film_actor
+
+3457	who is <e>
+/common/topic/notable_types
+organization_founder
+
+3486	what is <e> known as
+/common/topic/notable_types
+author
+
+3520	what is <e> 's career
+/common/topic/notable_types
+basketball_coach
+
+3594	what is <e>
+/common/topic/notable_types
+musical_recording
+
+3618	what is <e> best known for
+/common/topic/notable_types
+film_director
+
+3621	what does <e> do for a living
+/people/person/profession
+film_producer
+
+3622	what does <e> do for a living
+/people/person/profession
+film_writer
+
+3632	what is <e> 's job
+/people/person/profession
+author
+
+3701	what is the career of <e>
+/common/topic/notable_types
+film_director
+
+3759	who is <e>
+/people/person/profession
+author
+
+3793	what was <e> 's profession
+/people/person/profession
+tv_actor
+
+3809	what is <e> 's profession
+/common/topic/notable_types
+film_actor
+
+3819	what was <e> professionally
+/common/topic/notable_types
+author
+
+3849	what is <e> known as
+/common/topic/notable_types
+musical_recording
+
+3853	what is teh profession of <e>
+/people/person/profession
+film_actor
+
+3869	what is the profession of <e>
+/people/person/profession
+author
+
+3885	what was <e> famous as
+/people/person/profession
+film_director
+
+3888	what is <e> a notable example of
+/common/topic/notable_types
+city/town/village
+
+3900	what is <e>
+/common/topic/notable_types
+drug_formulation
+
+3906	what is <e>
+/common/topic/notable_types
+literary_genre
+
+3923	what does <e> do
+/common/topic/notable_types
+film_director
+
+3956	what is <e> profession
+/people/person/profession
+_NOTYPE_
+
+3957	what is the profession of <e>
+/people/person/profession
+film_actor
+
+3978	what category does <e> belong to
+/common/topic/notable_types
+product_category
+
+4004	what is <e> best known for
+/people/person/profession
+film_producer
+
+4025	what is <e> 's profession in the entertainment industry
+/people/person/profession
+film_actor
+
+4026	who is <e>
+/common/topic/notable_types
+author
+
+4067	what is <e>
+/common/topic/notable_types
+musical_album
+
+4147	what is <e> 's profession
+/common/topic/notable_types
+musical_artist
+
+4172	what is <e> 's profession
+/common/topic/notable_types
+politician
+
+4176	what is <e> known as
+/common/topic/notable_types
+book_edition
+
+4218	what type of educational institution is <e>
+/common/topic/notable_types
+college/university
+
+4243	what is the notable type of <e>
+/common/topic/notable_types
+organization
+
+4318	what topic is <e>
+/common/topic/notable_types
+musical_recording
+
+4327	who is <e>
+/common/topic/notable_types
+film_director
+
+4336	what exactly is <e>
+/common/topic/notable_types
+military_post
+
+4348	what did <e> do as an occupation
+/common/topic/notable_types
+composer
+
+4358	what is <e>
+/common/topic/notable_types
+musical_recording
+
+4367	what is <e> 's career
+/people/person/profession
+film_actor
+
+4412	what can <e> be considered
+/common/topic/notable_types
+musical_recording
+
+4479	what is <e>
+/common/topic/notable_types
+location
+
+4504	what is <e> 's profession
+/people/person/profession
+baseball_player
+
+4512	what is <e> 's profession in literature
+/people/person/profession
+award_winner
+
+4561	which profession is <e> known for pursuing
+/common/topic/notable_types
+politician
+
+4655	what is <e> 's job
+/people/person/profession
+film_director
+
+4717	what does <e> do for a living
+/people/person/profession
+film_actor
+
+4772	what does <e> do for a living
+/people/person/profession
+film_director
+
+4801	what is <e> 's profession
+/people/person/profession
+film_actor
+
+4815	what is <e> 's profession
+/common/topic/notable_types
+person
+
+4838	what is the profession of <e>
+/people/person/profession
+deceased_person
+
+4876	what does <e> do for a living
+/common/topic/notable_types
+film_director
+
+4894	what is <e> 's job
+/people/person/profession
+politician
+
+4930	what is <e> ( host ) well known for
+/common/topic/notable_types
+tv_writer
+
+4948	what was <e> 's profession
+/common/topic/notable_types
+politician
+
+4963	who is <e>
+/common/topic/notable_types
+musical_artist
+
+4984	what is <e> 's job
+/people/person/profession
+author
+
+4998	what is <e> best known for
+/common/topic/notable_types
+_NOTYPE_
+
+5002	what is <e> known for doing during his lifetime
+/people/person/profession
+deity
+
+5006	what is <e> 's profession
+/people/person/profession
+author
+
+5008	what is <e> 's job
+/people/person/profession
+author
+
+5071	what does <e> do for a living
+/common/topic/notable_types
+film_actor
+
+5090	what is the profession of <e>
+/people/person/profession
+film_actor
+
+5122	what is <e>
+/common/topic/notable_types
+musical_recording
+
+5131	what is <e> profession
+/people/person/profession
+_NOTYPE_
+
+5144	what is <e>
+/common/topic/notable_types
+asteroid
+
+5187	what is <e> a notable type of
+/common/topic/notable_types
+ship
+
+5214	what is <e> known for
+/common/topic/notable_types
+tv_character
+
+5268	what is <e>
+/common/topic/notable_types
+author
+
+5342	what is <e> famous for
+/common/topic/notable_types
+composer
+
+5364	<e> is a notable example of a
+/common/topic/notable_types
+politician
+
+5380	what is <e> 's profession
+/people/person/profession
+film_actor
+
+5420	what is <e> 's profession
+/people/person/profession
+songwriter
+
+5439	what did <e> do for a living
+/people/person/profession
+baseball_player
+
+5483	who is <e>
+/common/topic/notable_types
+baseball_player
+
+5501	what is the occupation of <e>
+/common/topic/notable_types
+film_director
+
+5517	what is <e> 's literary profession
+/people/person/profession
+author
+
+5518	what was <e> 's career
+/common/topic/notable_types
+author
+
+5579	what is <e> 's profession
+/people/person/profession
+author
+
+5625	what is <e>
+/common/topic/notable_types
+film_actor
+
+5654	who is <e>
+/common/topic/notable_types
+football_player
+
+5655	what is <e>
+/common/topic/notable_types
+asteroid
+
+5665	what is the profession of <e>
+/people/person/profession
+politician
+
+5717	what does <e> do for a living
+/people/person/profession
+film_actor
+
+5737	what is the profession of <e>
+/people/person/profession
+astronomer
+
+5775	what is the profession that <e> is known for
+/common/topic/notable_types
+record_producer
+
+5784	what is <e> known for in the entertainment industry
+/common/topic/notable_types
+record_producer
+
+5843	what does <e> do for a living
+/people/person/profession
+author
+
+5847	what is <e> known for
+/common/topic/notable_types
+film_director
+
+5895	what is <e> known for
+/common/topic/notable_types
+baseball_player
+
+5921	what is <e> known as
+/common/topic/notable_types
+film_character
+
+5939	what is the profession of <e>
+/common/topic/notable_types
+film_director
+
+5951	what is <e> 's profession
+/common/topic/notable_types
+film_director
+
+6005	whats the photo titled <e>
+/common/topic/notable_types
+artwork
+
+6011	what is <e>
+/common/topic/notable_types
+disease_or_medical_condition
+
+6025	what is <e> 's profession
+/common/topic/notable_types
+tv_producer
+
+6056	what is the profession of <e>
+/people/person/profession
+author
+
+6126	what is <e> 's profession
+/people/person/profession
+monarch
+
+6261	what job is <e> famous for
+/common/topic/notable_types
+politician
+
+6288	what 's <e> 's profession
+/people/person/profession
+musical_artist
+
+6304	what profession is <e>
+/people/person/profession
+politician
+
+6347	where can i find information about <e>
+/common/topic/notable_types
+book
+
+6357	who is <e>
+/common/topic/notable_types
+baseball_player
+
+6360	who is <e>
+/common/topic/notable_types
+tv_writer
+
+6368	what is <e> known for
+/common/topic/notable_types
+author
+
+6380	what 's <e> 's profession
+/people/person/profession
+author
+
+6398	what is the occupation of <e>
+/people/person/profession
+american_football_player
+
+6412	what is <e> 's job
+/common/topic/notable_types
+author
+
+6445	who is <e>
+/common/topic/notable_types
+olympic_athlete
+
+6502	what is <e> known as
+/common/topic/notable_types
+_NOTYPE_
+
+6581	what 's <e> 's profession
+/people/person/profession
+film_director
+
+6587	what is <e> 's profession
+/people/person/profession
+architect
+
+6589	what is <e>
+/common/topic/notable_types
+organism_classification
+
+6617	who is <e>
+/common/topic/notable_types
+deceased_person
+
+6635	what is <e> considered to be
+/common/topic/notable_types
+city/town/village
+
+6666	what is <e> 's profession
+/people/person/profession
+u.s._congressperson
+
+6672	what is <e> 's profession
+/people/person/profession
+film_cinematographer
+
+6687	what is <e>
+/common/topic/notable_types
+location
+
+6689	what type of person is <e>
+/common/topic/notable_types
+_NOTYPE_
+
+6690	what 's <e> 's profession
+/people/person/profession
+inventor
+
+6752	what is <e> most commonly known as
+/common/topic/notable_types
+department
+
+6762	what is <e>
+/common/topic/notable_types
+musical_album
+
+6856	who is <e>
+/people/person/profession
+ethnicity
+
+6919	what is <e> known for
+/common/topic/notable_types
+film_director
+
+6947	what type of profession does <e> have
+/people/person/profession
+person
+
+6954	what was <e> 's occupation
+/people/person/profession
+american_football_player
+
+7018	what is <e> 's profession
+/people/person/profession
+film_producer
+
+7036	what did <e> do
+/common/topic/notable_types
+politician
+
+7051	what is <e> 's profession
+/common/topic/notable_types
+musical_artist
+
+7101	what is <e> 's line of work
+/common/topic/notable_types
+record_producer
+
+7149	what is <e>
+/type/object/type
+invention
+
+7183	what is <e>
+/common/topic/notable_types
+film_director
+
+7250	who was <e>
+/common/topic/notable_types
+film_director
+
+7395	what is <e> 's profession
+/people/person/profession
+tv_writer
+
+7437	what is <e> 's profession
+/people/person/profession
+author
+
+7462	what is <e> known to be
+/common/topic/notable_types
+composition
+
+7472	what is <e>
+/common/topic/notable_types
+software
+
+7488	<e> is a notable type of what
+/common/topic/notable_types
+city/town/village
+
+7513	what was <e> most known for
+/common/topic/notable_types
+_NOTYPE_
+
+7535	what is <e> known for
+/people/person/profession
+composer
+
+7536	what is <e> 's profession
+/common/topic/notable_types
+film_director
+
+7666	what is <e> known as
+/common/topic/notable_types
+_NOTYPE_
+
+7679	what is <e> notable for
+/common/topic/notable_types
+baseball_player
+
+7754	which profession in sports is <e> known for
+/common/topic/notable_types
+football_player
+
+7772	what is the profession of <e>
+/people/person/profession
+composer
+
+7791	what is <e>
+/common/topic/notable_types
+award_winner
+
+7838	what type of album is <e>
+/common/topic/notable_types
+musical_album
+
+7855	name <e> 's profession
+/people/person/profession
+film_director
+
+7953	what is the job title of <e>
+/people/person/profession
+organization_founder
+
+7981	what does <e> do for a living
+/common/topic/notable_types
+film_actor
+
+8091	what is <e> know for being
+/common/topic/notable_types
+film_director
+
+8163	what is <e>
+/common/topic/notable_types
+composition
+
+8197	what is the profession of <e>
+/people/person/profession
+film_actor
+
+8222	what was <e> 's profession
+/people/person/profession
+person
+
+8236	what is <e> famous for being
+/common/topic/notable_types
+songwriter
+
+8257	what is <e>
+/common/topic/notable_types
+star
+
+8261	what is <e>
+/common/topic/notable_types
+musical_group
+
+8267	what is <e> known for
+/common/topic/notable_types
+olympic_athlete
+
+8301	what is <e> known for
+/common/topic/notable_types
+award_winner
+
+8376	what is <e> 's profession
+/people/person/profession
+film_actor
+
+8609	what is <e>
+/common/topic/notable_types
+religious_leader
+
+8611	what is <e>
+/common/topic/notable_types
+musical_album
+
+8620	what is the notable type of <e>
+/common/topic/notable_types
+political_district
+
+8714	what is <e> 's in the entertainment industry
+/people/person/profession
+film_story_contributor
+
+8787	what does <e> do for a living
+/people/person/profession
+author
+
+8924	what is <e> 's profession in the entertainment industry
+/people/person/profession
+film_actor
+
+8936	what is <e> known for
+/common/topic/notable_types
+film_director
+
+8944	what is the profession of <e>
+/people/person/profession
+film_director
+
+8995	what is <e> known for
+/common/topic/notable_types
+political_district
+
+9016	what is <e> 's profession
+/common/topic/notable_types
+author
+
+9101	what is the profession of <e>
+/people/person/profession
+_NOTYPE_
+
+9124	for what subject was <e> known for
+/common/topic/notable_types
+religion
+
+9176	who is <e>
+/common/topic/notable_types
+musical_artist
+
+9200	what did <e> do for a living
+/people/person/profession
+author
+
+9289	what is <e>
+/common/topic/notable_types
+comic_book_character
+
+9340	what is <e> 's profession
+/people/person/profession
+author
+
+9371	what is <e> notable for
+/common/topic/notable_types
+film_director
+
+9373	what is <e> most known for in sports
+/common/topic/notable_types
+martial_artist
+
+9386	what is <e> 's job
+/common/topic/notable_types
+_NOTYPE_
+
+9390	what is <e>
+/common/topic/notable_types
+film_character
+
+9411	what is <e> known for being
+/common/topic/notable_types
+film_producer
+
+9417	what is <e> 's profession
+/people/person/profession
+author
+
+9428	which sports profession does <e> play as
+/people/person/profession
+american_football_player
+
+9439	what is <e>
+/type/object/type
+star
+
+9469	what type of establishment is the <e>
+/common/topic/notable_types
+airport
+
+9480	what 's <e> 's profession
+/people/person/profession
+film_writer
+
+9498	what is <e>
+/common/topic/notable_types
+_NOTYPE_
+
+9528	what does <e> do for a living
+/people/person/profession
+_NOTYPE_
+
+9534	who is <e>
+/common/topic/notable_types
+profession
+
+9561	what is <e>
+/common/topic/notable_types
+_NOTYPE_
+
+9684	who is <e>
+/common/topic/notable_types
+_NOTYPE_
+
+9694	what is <e> notable for
+/common/topic/notable_types
+american_football_player
+
+9698	what is <e> known for
+/common/topic/notable_types
+film_director
+
+9701	what is <e> 's profession
+/people/person/profession
+deceased_person
+
+9703	what was <e> 's profession
+/people/person/profession
+film_actor
+
+9715	what is <e> 's profession
+/people/person/profession
+film_actor
+
+9729	what is <e> known for
+/common/topic/notable_types
+film_director
+
+9793	what is <e> 's profession
+/people/person/profession
+author
+
+9794	what is the profession of <e>
+/people/person/profession
+_NOTYPE_
+
+9808	what is <e>
+/common/topic/notable_types
+_NOTYPE_
+
+9882	what does <e> do for a living ÷
+/people/person/profession
+_NOTYPE_
+
+9915	<e> is a notable what
+/common/topic/notable_types
+educational_institution_campus
+
+10179	what is <e>
+/common/topic/notable_types
+_NOTYPE_
+
+10203	what type of work does <e> do
+/people/person/profession
+film_director
+
+10232	what profession does <e> have
+/people/person/profession
+politician
+
+10247	what is <e>
+/type/object/type
+_NOTYPE_
+
+10269	what is the profession of <e>
+/common/topic/notable_types
+_NOTYPE_
+
+10270	what is <e> 's profession
+/people/person/profession
+film_director
+
+10305	what is <e> 's profession
+/people/person/profession
+baseball_player
+

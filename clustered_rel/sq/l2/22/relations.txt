@@ -1,0 +1,2 @@
+/music/release_track/recording
+/music/release_track/release

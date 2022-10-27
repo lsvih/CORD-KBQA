@@ -1,0 +1,472 @@
+19	what is a song by <e>
+/music/artist/track
+
+
+114	what is a song by <e>
+/music/artist/track
+
+
+115	what is a song from <e>
+/music/artist/track
+
+
+196	what song is by <e>
+/music/artist/track
+
+
+355	what was produced by <e>
+/music/producer/tracks_produced
+
+
+416	what is a track produced by <e>
+/music/producer/tracks_produced
+
+
+472	what is the name of a single by <e>
+/music/artist/track
+
+
+504	what is a song recorded by <e>
+/music/artist/track
+
+
+578	what is a song made by <e>
+/music/artist/track
+
+
+703	what track did <e> produce
+/music/producer/tracks_produced
+
+
+733	what are <e> 's songs
+/music/artist/track
+
+
+750	what is a track by <e>
+/music/artist/track
+
+
+757	what tract is released by <e>
+/music/artist/track
+
+
+788	what tracks are by <e>
+/music/artist/track
+
+
+1121	name a track produced by <e>
+/music/producer/tracks_produced
+
+
+1211	what tracks did <e> produce
+/music/producer/tracks_produced
+
+
+1276	which tracks were produced by the artist <e>
+/music/artist/track
+
+
+1279	name a track by <e>
+/music/artist/track
+
+
+1409	what is one of <e> 's track titles
+/music/artist/track
+
+
+1429	what track is named after a famous painting and made by <e>
+/music/artist/track
+
+
+1493	what songs have <e> produced
+/music/producer/tracks_produced
+
+
+1613	what is a known track by <e>
+/music/artist/track
+
+
+1637	what is a track by the artist <e>
+/music/artist/track
+
+
+1923	what is a song by <e>
+/music/artist/track
+
+
+1943	name a song written by <e>
+/music/artist/track
+
+
+1951	what is a track composed by the <e> duo
+/music/artist/track
+
+
+2056	which track did <e> make
+/music/artist/track
+
+
+2172	what 's a song written by <e>
+/music/artist/track
+
+
+2275	what track did <e> sing
+/music/artist/track
+
+
+2317	what is a track from <e>
+/music/artist/track
+
+
+2417	what track did <e> produce
+/music/producer/tracks_produced
+
+
+2609	what song was performed by <e>
+/music/artist/track
+
+
+2616	what is a song by <e>
+/music/artist/track
+
+
+2691	what song was produce by <e>
+/music/producer/tracks_produced
+
+
+2727	what 's a remix made by <e>
+/music/artist/track
+
+
+2733	what is a name of a track made by the artist <e>
+/music/artist/track
+
+
+2798	what is one of the songs released by <e>
+/music/artist/track
+
+
+2821	what track is by <e>
+/music/artist/track
+
+
+2842	what 's a track from <e>
+/music/artist/track
+
+
+3064	what 's a track written by <e>
+/music/artist/track
+
+
+3124	what is a song by <e>
+/music/artist/track
+
+
+3289	what is a well known song by <e>
+/music/artist/track
+
+
+3358	what songs are by <e>
+/music/artist/track
+
+
+3390	what is the title of a track by <e>
+/music/artist/track
+
+
+3527	name a song that credits <e> as a producer
+/music/producer/tracks_produced
+
+
+3533	what song did <e> sing
+/music/artist/track
+
+
+3684	what track did <e> ( producer ) produce
+/music/producer/tracks_produced
+
+
+3695	what is a track made by <e>
+/music/artist/track
+
+
+3800	what 's a song by <e> from bluebells
+/music/artist/track
+
+
+3825	name a track by the artist <e>
+/music/artist/track
+
+
+3925	which track was produced by <e>
+/music/producer/tracks_produced
+
+
+4021	what is a track by <e>
+/music/artist/track
+
+
+4073	what is a track name from the <e>
+/music/artist/track
+
+
+4080	name a track by <e>
+/music/artist/track
+
+
+4273	what track is from <e>
+/music/artist/track
+
+
+4285	who is a track by <e>
+/music/artist/track
+
+
+4354	what is a track that <e> performed
+/music/artist/track
+
+
+4439	what track was recorded by <e>
+/music/artist/track
+
+
+4493	which track was created by <e>
+/music/artist/track
+
+
+4494	what tracks are from <e>
+/music/artist/track
+
+
+4597	what is the name of one of <e> songs
+/music/artist/track
+
+
+4637	what tracks has <e> produced
+/music/producer/tracks_produced
+
+
+4745	what 's a song written by <e>
+/music/artist/track
+
+
+4835	what 's a song written by <e>
+/music/artist/track
+
+
+4903	what is a track produced by <e>
+/music/producer/tracks_produced
+
+
+4906	what is the name of a track created by <e>
+/music/artist/track
+
+
+5132	what is a track <e> produced
+/music/producer/tracks_produced
+
+
+5172	what is a track by <e>
+/music/artist/track
+
+
+5174	what songs has <e> created
+/music/artist/track
+
+
+5210	what track was performed by <e> ( guitarist )
+/music/artist/track
+
+
+5276	what is a track by <e>
+/music/artist/track
+
+
+5372	what 's a song written by <e>
+/music/artist/track
+
+
+5578	what 's a song made by <e>
+/music/artist/track
+
+
+5605	what is a song by <e>
+/music/artist/track
+
+
+5705	what song is by <e>
+/music/artist/track
+
+
+5978	what 's a song performed by <e>
+/music/artist/track
+
+
+6049	what is a song by <e>
+/music/artist/track
+
+
+6223	what is a song by <e>
+/music/artist/track
+
+
+6278	which tracks were produced by <e>
+/music/artist/track
+
+
+6393	what 's a song that <e> produced
+/music/producer/tracks_produced
+
+
+6539	what 's a song that <e> wrote and perfroms
+/music/artist/track
+
+
+6680	what is a track from <e>
+/music/artist/track
+
+
+6681	what is a song by the artist <e>
+/music/artist/track
+
+
+6711	<e> created this track
+/music/artist/track
+
+
+6832	what is a song by <e>
+/music/artist/track
+
+
+6863	what is the name of <e> music track
+/music/artist/track
+
+
+7063	what is the name of a track by <e>
+/music/artist/track
+
+
+7075	what is a song by <e>
+/music/artist/track
+
+
+7229	what is a track by <e>
+/music/artist/track
+
+
+7565	what song did <e> produce
+/music/producer/tracks_produced
+
+
+7815	what is the name of a track by the artist <e>
+/music/artist/track
+
+
+7902	what songs are by <e>
+/music/artist/track
+
+
+8003	what tracks were produced by <e>
+/music/producer/tracks_produced
+
+
+8160	what is a track done by the artist <e>
+/music/artist/track
+
+
+8338	what is a song by <e>
+/music/artist/track
+
+
+8401	what songs have <e> produced in his career
+/music/producer/tracks_produced
+
+
+8431	name a popular track from the artist <e>
+/music/artist/track
+
+
+8678	what is a song by <e>
+/music/artist/track
+
+
+8863	what is a song by <e>
+/music/artist/track
+
+
+8918	<e> created what track
+/music/artist/track
+
+
+8927	whats the name of one of <e> songs
+/music/artist/track
+
+
+8982	name a track by <e>
+/music/artist/track
+
+
+9060	whats the name of one of <e> 's song
+/music/artist/track
+
+
+9074	name a track by <e>
+/music/artist/track
+
+
+9105	what 's a song by <e>
+/music/artist/track
+
+
+9148	what band wrote <e>
+/music/artist/track
+
+
+9216	what song is by <e>
+/music/artist/track
+
+
+9248	what songs have <e> recorded
+/music/artist/track
+
+
+9449	name a track recorded by <e>
+/music/artist/track
+
+
+9531	<e> wrote what track
+/music/artist/track
+
+
+9768	what is a song by <e>
+/music/artist/track
+
+
+9795	what is a track by <e>
+/music/artist/track
+
+
+9814	what is the name of a track by <e>
+/music/artist/track
+
+
+9886	what is a track by <e>
+/music/artist/track
+
+
+9936	what is a track recorded by <e>
+/music/artist/track
+
+
+10006	whats a song by the artist <e>
+/music/artist/track
+
+
+10008	what is a song by <e>
+/music/artist/track
+
+
+10131	what is a track from the artist <e>
+/music/artist/track
+
+

@@ -1,0 +1,160 @@
+15	what books did <e> right
+book.author.book_editions_published
+author
+
+15	what books did <e> right
+book.author.works_written
+author
+
+31	what is <e> known for
+book.book_subject.works
+deceased_person
+
+41	what was the name of <e> book
+book.author.works_written
+author
+
+115	what did st. <e> do
+book.author.works_written
+deceased_person
+
+142	what other books did <e> wrote
+book.author.book_editions_published
+author
+
+245	what 's the book <e> wrote in prison
+book.author.works_written
+military_commander
+
+267	what is the name of the book <e> wrote while in prison
+book.book_subject.works
+military_commander
+
+438	what book did <e> write
+book.author.book_editions_published
+politician
+
+438	what book did <e> write
+book.author.works_written
+politician
+
+543	what was the title of the first book <e> wrote
+book.author.works_written
+author
+
+584	what books did <e> wrote
+book.author.book_editions_published
+author
+
+618	what did <e> write
+book.author.works_written
+tv_writer
+
+814	what did writers of the <e> write about
+book.book_subject.works
+literary_school_or_movement
+
+1076	what is the name of book written by <e>
+book.author.works_written
+author
+
+1084	what books did <e> wright
+book.author.book_editions_published
+author
+
+1252	what is the work of <e>
+book.book_subject.works
+academic
+
+1353	what was the name of the book <e> wrote while in prison
+book.author.works_written
+military_commander
+
+1431	what books did <e> wrote
+book.author.works_written
+author
+
+1504	what books did <e> write
+book.author.works_written
+us_president
+
+1600	what did <e> do as an abolitionist
+book.author.works_written
+author
+
+1675	what book did <e> wrote
+book.author.works_written
+author
+
+1758	what books did <e> wrote
+book.author.book_editions_published
+author
+
+1767	what books did <e> wrote
+book.author.works_written
+author
+
+1825	what book did <e> write on evolution
+book.author.works_written
+academic
+
+1915	what books has <e> written
+book.author.book_editions_published
+author
+
+1983	which <e> books are movies
+book.author.works_written
+author
+
+2010	what is the name of <e> 's first novel
+book.author.works_written
+tv_program_creator
+
+2064	what famous book did <e> wrote
+book.author.works_written
+u.s._congressperson
+
+2195	what book did <e> wrote about the people in the dust bowl
+book.author.works_written
+author
+
+2284	what did <e> write
+book.author.book_editions_published
+author
+
+2284	what did <e> write
+book.author.works_written
+author
+
+2765	what children 's books did <e> wrote
+book.author.works_written
+author
+
+2835	what did <e> write
+book.author.works_written
+author
+
+2903	what did the <e> created
+book.book_subject.works
+literary_school_or_movement
+
+2943	what did <e> wrote
+book.author.works_written
+us_president
+
+3017	what was the name of the book that <e> wrote
+book.author.works_written
+academic
+
+3027	what did <e> writer
+book.author.book_editions_published
+author
+
+3027	what did <e> writer
+book.author.works_written
+author
+
+3081	what book did <e> wrote
+book.author.book_editions_published
+author
+

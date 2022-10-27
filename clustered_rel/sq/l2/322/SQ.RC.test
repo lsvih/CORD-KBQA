@@ -1,0 +1,396 @@
+183	which film was produced by <e>
+/film/producer/films_executive_produced
+
+
+254	<e> produced what american film
+/film/producer/film
+
+
+557	what 's a movie where <e> was the executive producer
+/film/producer/films_executive_produced
+
+
+736	which film did <e> executively produce
+/film/producer/films_executive_produced
+
+
+1003	what film was produced by <e>
+/film/producer/film
+
+
+1005	what movie is produced by <e>
+/film/producer/films_executive_produced
+
+
+1448	which movie is produced by <e>
+/film/producer/films_executive_produced
+
+
+1890	what movie did <e> help produce
+/film/producer/film
+
+
+1900	which project did <e> earn a producer credit
+/film/producer/film
+
+
+2163	what is the name of a film that was created by <e>
+/film/producer/film
+
+
+2308	what movie was produced by <e>
+/film/producer/film
+
+
+2341	what film was produced by <e>
+/film/producer/films_executive_produced
+
+
+2422	what movie is <e> credited for producing
+/film/producer/film
+
+
+2632	what films have been produced by <e>
+/film/producer/film
+
+
+2755	what movie did <e> produce
+/film/producer/film
+
+
+2948	which movie was produced by <e>
+/film/producer/film
+
+
+3236	what is a film produced by <e>
+/film/producer/film
+
+
+3376	what 's a film produced by <e>
+/film/producer/film
+
+
+3486	what film is produced by <e>
+/film/producer/film
+
+
+3839	what film is produced by <e>
+/film/producer/film
+
+
+4272	what 2009 film is <e> an executive producer of
+/film/producer/films_executive_produced
+
+
+4475	what movie did <e> produce
+/film/producer/film
+
+
+4490	what film did <e> produce
+/film/producer/film
+
+
+4575	which film is <e> credited as a producer
+/film/producer/film
+
+
+5061	what film was <e> the producer of
+/film/producer/film
+
+
+5120	which film did <e> produce
+/film/producer/films_executive_produced
+
+
+5808	which film was produced by executive producer <e>
+/film/producer/films_executive_produced
+
+
+6542	what is the name of a film produced by <e>
+/film/producer/film
+
+
+6671	what film is produced by <e>
+/film/producer/film
+
+
+6796	what 's a film produced by <e>
+/film/producer/film
+
+
+6800	what film did <e> executive produced
+/film/producer/films_executive_produced
+
+
+6838	what film did <e> executively produce
+/film/producer/films_executive_produced
+
+
+7237	name a film that <e> produced
+/film/producer/film
+
+
+7399	which films have <e> produced
+/film/producer/films_executive_produced
+
+
+7570	what film was <e> the producer of
+/film/producer/film
+
+
+7612	which film did <e> produce
+/film/producer/film
+
+
+7913	what film did <e> produce
+/film/producer/film
+
+
+8202	what 2006 film did <e> produce
+/film/producer/films_executive_produced
+
+
+8535	what film is produced by <e>
+/film/producer/film
+
+
+8728	what film did <e> produce
+/film/producer/film
+
+
+8966	which 1976 comedy film did <e> produce
+/film/producer/film
+
+
+9262	which movie is produced by <e>
+/film/producer/film
+
+
+9617	what is a film executive produced by <e>
+/film/producer/films_executive_produced
+
+
+9903	name a film by <e>
+/film/producer/film
+
+
+9922	what napoleon film did <e> produce
+/film/producer/film
+
+
+10419	<e> was an executive producer for which film
+/film/producer/films_executive_produced
+
+
+10455	which film did <e> produce
+/film/producer/films_executive_produced
+
+
+10514	what is the name of a film that was produced by <e>
+/film/producer/films_executive_produced
+
+
+10818	which film did <e> produce
+/film/producer/film
+
+
+10886	what film did <e> produce
+/film/producer/film
+
+
+11272	what is a film that was executively produced by <e>
+/film/producer/films_executive_produced
+
+
+11888	<e> was the executive producer on what film
+/film/producer/films_executive_produced
+
+
+12294	name of <e> films that he was a producer on
+/film/producer/film
+
+
+12360	which films has <e> produced
+/film/producer/film
+
+
+12401	which film did <e> produce
+/film/producer/film
+
+
+12449	what is a film produced by <e>
+/film/producer/film
+
+
+12595	what 's the name of a movie that <e> produced
+/film/producer/film
+
+
+12622	what film was produced by <e>
+/film/producer/film
+
+
+12907	what film did <e> produce
+/film/producer/film
+
+
+12937	what 's a film that <e> produced
+/film/producer/film
+
+
+13325	what is a film about tornados that was produced by <e>
+/film/producer/film
+
+
+13390	name the thriller film written by <e>
+/film/producer/films_executive_produced
+
+
+13391	name a film produced by <e>
+/film/producer/films_executive_produced
+
+
+13679	what is a film <e> executive producer
+/film/producer/films_executive_produced
+
+
+13776	what 's a lesser known film that <e> produced
+/film/producer/film
+
+
+13861	what films have <e> produced in his career
+/film/producer/films_executive_produced
+
+
+13866	what is the name of a film produced by <e>
+/film/producer/film
+
+
+13878	name a film that <e> produced
+/film/producer/films_executive_produced
+
+
+13890	what 's a film that <e> was the executive producer on
+/film/producer/films_executive_produced
+
+
+14291	which movie is produced by <e>
+/film/producer/film
+
+
+14610	what film did <e> executive produce
+/film/producer/films_executive_produced
+
+
+14834	what film did <e> produce
+/film/producer/film
+
+
+14892	what film did <e> produce
+/film/producer/film
+
+
+14893	what film is produced by <e>
+/film/producer/film
+
+
+15009	which film has <e> produced
+/film/producer/film
+
+
+15479	what film was executively produced by <e>
+/film/producer/films_executive_produced
+
+
+15530	what movie did <e> produce
+/film/producer/film
+
+
+15540	what is a film that was produced by <e>
+/film/producer/film
+
+
+15570	which films have <e> produced
+/film/producer/film
+
+
+16180	what is a film by <e>
+/film/producer/film
+
+
+16412	what movie was produced by <e>
+/film/producer/film
+
+
+16493	what is the name of a film that was produced by <e>
+/film/producer/film
+
+
+16511	what film did <e> produce
+/film/producer/film
+
+
+16514	what movie did <e> produce
+/film/producer/film
+
+
+16839	what film was produced by <e>
+/film/producer/film
+
+
+16976	what is the film that was produced by <e>
+/film/producer/films_executive_produced
+
+
+17297	what film did <e> produce
+/film/producer/film
+
+
+17589	what is a film that was executively produced by <e>
+/film/producer/films_executive_produced
+
+
+17725	what film did <e> produce
+/film/producer/film
+
+
+18485	which 2005 fantasy film was produced by <e>
+/film/producer/films_executive_produced
+
+
+18532	what films has <e> produced
+/film/producer/film
+
+
+18728	what is the film of that <e> produced
+/film/producer/film
+
+
+19114	which film did <e> produce
+/film/producer/film
+
+
+19477	what film was executively produced by <e>
+/film/producer/films_executive_produced
+
+
+19597	what is the name of a film that <e> produced
+/film/producer/films_executive_produced
+
+
+19921	what movie credits <e> as an executive producer
+/film/producer/films_executive_produced
+
+
+20224	what film did <e> produce
+/film/producer/film
+
+
+20363	which film did <e> produce
+/film/producer/films_executive_produced
+
+
+20596	what films have been produced by <e>
+/film/producer/films_executive_produced
+
+

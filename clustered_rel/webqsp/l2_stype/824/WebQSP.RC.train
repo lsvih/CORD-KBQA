@@ -1,0 +1,88 @@
+16	where to fly into <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+indonesian_province
+
+189	which airport to fly in <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+italian_comune
+
+336	what airport is closest to sandals grande in <e>
+location.location.nearby_airports
+country
+
+399	what airport in <e>
+location.location.nearby_airports
+city/town/village
+
+591	what airport do you fly into for <e>
+location.location.nearby_airports
+city/town/village
+
+635	what airport is closer to downtown <e>
+location.location.nearby_airports
+city/town/village
+
+640	what airport is close to <e>
+location.location.nearby_airports
+city/town/village
+
+764	what are the airports in <e>
+location.location.nearby_airports
+city/town/village
+
+1115	what major airport is near <e>
+location.location.nearby_airports
+city/town/village
+
+1289	what airport is closest to <e>
+location.location.nearby_airports
+city/town/village
+
+1354	what is the name of the main train station in <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+us_county
+
+1360	what airlines hub in <e>
+location.location.nearby_airports
+city/town/village
+
+1381	which airport is closest to <e>
+location.location.nearby_airports
+city/town/village
+
+1676	what airport is close to <e>
+location.location.nearby_airports
+city/town/village
+
+1822	what airport fly into <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+city/town/village
+
+1944	what airport is closest to downtown <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+city/town/village
+
+1968	what airport does southwest fly to in <e>
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+city/town/village
+
+2220	what airport to fly into to get to <e>
+location.location.nearby_airports
+city/town/village
+
+2307	what airport is closest to <e>
+location.location.nearby_airports
+city/town/village
+
+2446	where to fly in for <e>
+location.location.nearby_airports
+island_group
+
+2811	which airport is closest to <e> port
+location.location.nearby_airports
+administrative_division
+
+3087	what airport do you fly into for <e>
+location.location.nearby_airports
+city/town/village
+

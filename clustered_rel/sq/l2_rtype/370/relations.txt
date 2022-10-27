@@ -1,0 +1,2 @@
+/book/book_subject/works
+/media_common/literary_genre/books_in_this_genre

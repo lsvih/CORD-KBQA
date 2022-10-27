@@ -1,0 +1,376 @@
+3	where is <e> from
+people.person.place_of_birth
+people.person
+
+4	where was <e> from
+people.person.place_of_birth
+people.person
+
+18	what electorate does <e> represent
+government.politician.government_positions_held..government.government_position_held.district_represented
+government.politician
+
+31	where was <e> born and raised
+people.person.place_of_birth
+people.person
+
+33	where <e> was born
+people.person.place_of_birth
+people.person
+
+38	what country did <e> control
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+62	what country did <e> come from
+people.person.nationality
+people.person
+
+84	where is <e> from
+people.person.place_of_birth
+people.person
+
+97	where did <e> come from
+people.person.place_of_birth
+people.person
+
+107	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+146	what state does <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+168	where is <e> from
+people.person.place_of_birth
+people.person
+
+173	where was <e> born
+people.person.place_of_birth
+people.person
+
+194	where did <e> live as a child
+people.person.place_of_birth
+people.person
+
+215	where was <e> raised
+people.person.place_of_birth
+people.person
+
+219	where did <e> 's parents come from
+people.person.place_of_birth
+people.person
+
+242	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+250	where was country singer <e> born
+people.person.place_of_birth
+people.person
+
+269	what nationality is <e>
+people.person.nationality
+people.person
+
+285	where did <e> live
+people.person.place_of_birth
+people.person
+
+324	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+331	what country did <e> represent
+people.person.nationality
+people.person
+
+349	where is <e> from
+people.person.place_of_birth
+music.artist
+
+360	where did <e> come from
+people.person.place_of_birth
+people.person
+
+372	where did <e> come from
+people.person.place_of_birth
+people.person
+
+376	where does <e> live 2011
+people.person.places_lived..people.place_lived.location
+people.person
+
+390	where was <e> born
+people.person.place_of_birth
+people.deceased_person
+
+404	where was <e> 's house
+people.person.places_lived..people.place_lived.location
+people.person
+
+418	where does <e> come from
+people.person.place_of_birth
+people.person
+
+449	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+459	where <e> come from
+people.person.place_of_birth
+people.person
+
+471	where did <e> come from
+people.person.nationality
+olympics.olympic_athlete
+
+485	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+492	what nationality is <e> jacob black
+people.person.nationality
+people.person
+
+509	where did <e> live
+people.person.place_of_birth
+people.person
+
+542	where does chef <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+582	where does <e> come from
+people.person.place_of_birth
+people.person
+
+624	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+634	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+657	what country does <e> come from
+people.person.nationality
+people.person
+
+660	where is <e> from
+people.person.place_of_birth
+people.person
+
+674	what country sponsored <e>
+people.person.nationality
+people.person
+
+683	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+698	where was <e> from
+people.person.place_of_birth
+people.person
+
+708	what country did <e> govern
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+797	what country is <e> from
+people.person.nationality
+people.person
+
+803	what district does <e> represent
+government.politician.government_positions_held..government.government_position_held.district_represented
+people.person
+
+809	where did <e> come from
+people.person.place_of_birth
+people.person
+
+810	what town did <e> grew up in
+people.person.places_lived..people.place_lived.location
+people.person
+
+828	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+851	where is <e> from
+people.person.place_of_birth
+people.person
+
+863	where did <e> and his descendants live
+people.person.places_lived..people.place_lived.location
+people.person
+
+866	where <e> was born
+people.person.place_of_birth
+people.person
+
+892	where was <e> born
+people.person.place_of_birth
+people.person
+
+894	where was <e> born
+people.person.place_of_birth
+people.person
+
+923	where did <e> and his wife live
+people.person.places_lived..people.place_lived.location
+people.person
+
+943	where is <e> from originally
+people.person.place_of_birth
+people.person
+
+973	which country was <e> born
+people.person.place_of_birth
+people.person
+
+975	what country was <e> in charge of
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office
+government.politician
+
+977	what nationality is <e>
+people.person.nationality
+people.person
+
+987	where is <e> from
+people.person.nationality
+people.person
+
+1031	where did <e> grew up
+people.person.place_of_birth
+people.person
+
+1069	where is <e> from
+people.person.nationality
+music.artist
+
+1084	what is <e> nationality
+people.person.nationality
+people.person
+
+1107	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1148	where is <e> from
+people.person.place_of_birth
+people.person
+
+1158	where all did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1165	where does <e> live now
+people.person.places_lived..people.place_lived.location
+people.person
+
+1169	where did <e> grew up
+people.person.place_of_birth
+people.person
+
+1198	where does <e> live 2012
+people.person.places_lived..people.place_lived.location
+people.person
+
+1211	where was <e> born
+people.person.place_of_birth
+people.person
+
+1248	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1351	where did <e> grow up
+people.person.place_of_birth
+people.person
+
+1357	where was <e> born
+people.person.place_of_birth
+people.person
+
+1388	where did <e> wrote
+people.person.places_lived..people.place_lived.location
+people.person
+
+1389	what is <e> jr nationality
+people.person.nationality
+people.person
+
+1415	what city does <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+1428	where is <e>
+people.person.places_lived..people.place_lived.location
+people.person
+
+1435	what country does <e> play for
+people.person.nationality
+people.person
+
+1455	where is <e> 's family from
+people.person.place_of_birth
+people.person
+
+1457	what city was <e> born in
+people.person.place_of_birth
+people.person
+
+1472	where was <e> raised
+people.person.place_of_birth
+people.person
+
+1488	what country did <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+1489	where <e> lived
+people.person.places_lived..people.place_lived.location
+people.person
+
+1507	where does <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1548	where was <e> born at
+people.person.place_of_birth
+people.person
+
+1567	where <e> from
+people.person.place_of_birth
+music.artist
+
+1581	where was the prophet <e> from
+people.person.place_of_birth
+people.person
+
+1585	where is <e> from
+people.person.place_of_birth
+people.person
+
+1598	where did <e> live
+people.person.places_lived..people.place_lived.location
+people.person
+
+1602	where does <e> come from
+people.person.place_of_birth
+people.person
+
+1604	what state did <e> live in
+people.person.places_lived..people.place_lived.location
+people.person
+
+1635	where does <e> come from
+people.person.place_of_birth
+people.person
+
+1649	when was <e> born
+people.person.place_of_birth
+people.person
+

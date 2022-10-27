@@ -1,0 +1,296 @@
+12	what did st <e> do
+people.person.profession
+people.person
+
+29	what did <e> do
+people.person.profession
+people.person
+
+39	who is <e>
+people.person.profession
+people.person
+
+64	what did <e> do
+people.person.profession
+people.person
+
+87	what was <e> role in the declaration of independence
+people.person.profession
+people.person
+
+92	what was <e>
+people.person.profession
+people.person
+
+104	what was <e>
+people.person.profession
+people.person
+
+108	what type of books did <e> wrote
+people.person.profession
+people.person
+
+124	where did <e> conduct his research
+people.person.employment_history..business.employment_tenure.company
+people.person
+
+128	what did <e> become famous for
+people.person.profession
+people.person
+
+152	what did <e> do
+people.person.profession
+people.person
+
+182	who is <e>
+people.person.profession
+people.person
+
+188	what is <e> famous for
+people.person.profession
+people.person
+
+189	what did <e> do
+people.person.profession
+people.person
+
+192	what colleges did <e> teach at
+people.person.employment_history..business.employment_tenure.company
+people.person
+
+210	what is <e> known for
+people.person.profession
+people.person
+
+232	who was <e>
+people.person.profession
+people.person
+
+237	who is sir <e>
+people.person.profession
+people.person
+
+238	what were <e> 's achievements
+people.person.profession
+people.person
+
+251	what did <e> become famous for
+people.person.profession
+people.person
+
+267	who is <e> for kids
+people.person.profession
+people.person
+
+290	what makes <e> famous
+people.person.profession
+people.person
+
+302	what was <e> famous for
+people.person.profession
+people.person
+
+401	who were <e>
+people.person.profession
+people.person
+
+421	what does <e> do
+people.person.profession
+people.person
+
+447	what is <e> famous for
+people.person.profession
+people.person
+
+457	what did <e> do to become famous
+people.person.profession
+people.person
+
+497	what is <e> famous for
+people.person.profession
+people.person
+
+504	who was <e>
+people.person.profession
+people.person
+
+529	what did <e> do
+people.person.profession
+people.person
+
+558	who is <e>
+people.person.profession
+people.person
+
+595	what was <e> famous for
+people.person.profession
+people.person
+
+638	what did <e> do
+people.person.profession
+people.person
+
+704	who is <e>
+people.person.profession
+people.person
+
+739	what jobs did <e> have before he was president
+people.person.profession
+people.person
+
+784	where did <e> work
+people.person.employment_history..business.employment_tenure.company
+people.person
+
+786	who is <e>
+people.person.profession
+people.person
+
+821	what has <e> accomplished
+people.person.profession
+people.person
+
+824	what was <e>
+people.person.profession
+people.person
+
+827	who was <e>
+people.person.profession
+people.person
+
+877	who was <e> and what did he do
+people.person.profession
+people.person
+
+884	who is <e> facts
+people.person.profession
+people.person
+
+904	what area of science did <e> study
+people.person.profession
+people.person
+
+962	what does <e> work as
+people.person.profession
+people.person
+
+968	what was <e> contributions
+people.person.profession
+people.person
+
+974	who was <e>
+people.person.profession
+people.person
+
+998	who was sir <e> and what did he do
+people.person.profession
+people.person
+
+1001	who is <e>
+people.person.profession
+people.person
+
+1018	what did <e> do
+people.person.profession
+people.person
+
+1026	what does <e> do
+people.person.profession
+people.person
+
+1042	what was <e> known for
+people.person.profession
+people.person
+
+1044	what does <e> do for a living
+people.person.profession
+people.person
+
+1102	what did <e> study
+people.person.profession
+people.person
+
+1112	what did <e> do to earn a living
+people.person.profession
+people.person
+
+1113	what was <e> known for
+people.person.profession
+people.person
+
+1121	what jobs did <e> have
+people.person.profession
+people.person
+
+1135	what did <e> do in his life
+people.person.profession
+people.person
+
+1166	what was <e> famous for
+people.person.profession
+people.person
+
+1175	what was <e> contribution
+people.person.profession
+people.person
+
+1190	who is <e> the golfer
+people.person.profession
+people.person
+
+1213	who was <e>
+people.person.profession
+people.person
+
+1241	what is <e> well known for
+people.person.profession
+people.person
+
+1281	what was <e> 's former occupation
+people.person.profession
+people.person
+
+1372	what did <e> do
+people.person.profession
+people.person
+
+1397	who was <e> and what did he do
+people.person.profession
+people.person
+
+1417	what did <e> do
+people.person.profession
+people.person
+
+1422	what did <e> do
+people.person.profession
+american_football.football_player
+
+1459	what kind of writing is <e> famous for
+people.person.profession
+people.person
+
+1503	what made <e> famous
+people.person.profession
+people.person
+
+1511	what did <e> do for living
+people.person.profession
+people.person
+
+1557	who is <e>
+people.person.profession
+people.person
+
+1570	who is <e> facts
+people.person.profession
+people.person
+
+1628	where does <e> work
+people.person.employment_history..business.employment_tenure.company
+people.person
+
+1637	what did <e> do for a living
+people.person.profession
+people.person
+

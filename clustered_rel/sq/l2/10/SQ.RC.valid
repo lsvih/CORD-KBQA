@@ -1,0 +1,1896 @@
+27	what is the release type of the album <e>
+/music/album/release_type
+
+
+35	what music genre is <e>
+/music/album/genre
+
+
+106	how was the album <e> released
+/music/album/release_type
+
+
+113	what type of album was <e>
+/music/album/album_content_type
+
+
+127	what style if music is <e> released in
+/music/album/genre
+
+
+172	what type of music is on the album <e>
+/music/album/genre
+
+
+179	is <e> a album or dvd
+/music/album/release_type
+
+
+206	what type of music is featured on <e>
+/music/album/genre
+
+
+235	what type of release did <e> have
+/music/album/release_type
+
+
+241	the album <e> is classified within what genre
+/music/album/genre
+
+
+283	what genre of music is the album <e>
+/music/album/genre
+
+
+312	what is the release type of the album <e>
+/music/album/release_type
+
+
+376	which genre of music is on the album <e>
+/music/album/genre
+
+
+394	what type of music is <e> considered
+/music/album/genre
+
+
+399	what type of music does the <e> album contain
+/music/album/genre
+
+
+426	what was <e>
+/music/album/release_type
+
+
+431	what type of music is <e> ( disc 4 : rare tracks )
+/music/album/genre
+
+
+458	what kind of music is played in the <e> album
+/music/album/genre
+
+
+489	what kind of music is made by <e>
+/music/album/genre
+
+
+522	what genre is <e>
+/music/album/genre
+
+
+530	what type of music is the album <e>
+/music/album/genre
+
+
+555	what was the release type of <e>
+/music/album/release_type
+
+
+566	what kind of release is <e>
+/music/album/release_type
+
+
+590	what format does the <e> album is played
+/music/album/album_content_type
+
+
+607	what type of music is <e> classified under
+/music/album/genre
+
+
+617	<e> was released under what music format
+/music/album/release_type
+
+
+635	what genre is <e>
+/music/album/genre
+
+
+637	what is <e>
+/music/album/release_type
+
+
+643	what type of album is <e>
+/music/album/album_content_type
+
+
+668	what type of music is on the album <e>
+/music/album/genre
+
+
+671	what type of release did <e> have
+/music/album/release_type
+
+
+805	what type of album is <e>
+/music/album/album_content_type
+
+
+839	what is the genre of the album <e>
+/music/album/genre
+
+
+894	which genre of music is the album <e>
+/music/album/genre
+
+
+899	what genre of music is <e>
+/music/album/genre
+
+
+945	what genre of music is <e>
+/music/album/genre
+
+
+950	what genre of music is the album <e>
+/music/album/genre
+
+
+964	the album <e> is what type of musical genre
+/music/album/genre
+
+
+965	what is the genre of <e>
+/music/album/genre
+
+
+1042	what kind of release was <e>
+/music/album/release_type
+
+
+1061	what is the release type of the album <e>
+/music/album/release_type
+
+
+1098	what kind of release is <e>
+/music/album/release_type
+
+
+1104	what type of music is <e>
+/music/album/genre
+
+
+1133	what format was <e> released as
+/music/album/release_type
+
+
+1151	what type of album is <e>
+/music/album/album_content_type
+
+
+1159	what kind of music is on the album <e>
+/music/album/genre
+
+
+1160	what type of album is <e>
+/music/album/album_content_type
+
+
+1184	which two genres does <e> blend together
+/music/album/genre
+
+
+1186	what type of release is <e>
+/music/album/release_type
+
+
+1190	what kinds of music is <e>
+/music/album/genre
+
+
+1192	is <e> pop music or rock
+/music/album/genre
+
+
+1216	what type of release is <e>
+/music/album/release_type
+
+
+1220	what genre is <e>
+/music/album/genre
+
+
+1227	what kind of music is played in <e>
+/music/album/genre
+
+
+1240	what type of music genre is <e>
+/music/album/genre
+
+
+1277	what kind of music is <e>
+/music/album/genre
+
+
+1289	what is the content type of <e>
+/music/album/album_content_type
+
+
+1306	is <e> a song or album
+/music/album/release_type
+
+
+1308	what type of album is <e>
+/music/album/album_content_type
+
+
+1371	what kinds of music is <e>
+/music/album/genre
+
+
+1382	how was <e> released
+/music/album/release_type
+
+
+1384	how was <e> released
+/music/album/release_type
+
+
+1386	what genre of music is the album <e>
+/music/album/genre
+
+
+1405	what type of album is <e>
+/music/album/album_content_type
+
+
+1410	what time of album is the `` <e>
+/music/album/album_content_type
+
+
+1431	what style of rock music does <e> play
+/music/album/genre
+
+
+1453	what type of musical compilation is the <e>
+/music/album/album_content_type
+
+
+1454	what kind of music is <e>
+/music/album/genre
+
+
+1464	what genre is <e>
+/music/album/genre
+
+
+1475	how was <e> distributed
+/music/album/release_type
+
+
+1479	what genre of music did <e> produce
+/music/album/genre
+
+
+1491	what 's the best genre description of the album <e>
+/music/album/genre
+
+
+1508	what is <e>
+/music/album/release_type
+
+
+1511	is <e> an album or studio album
+/music/album/release_type
+
+
+1538	what is the genre of the album <e>
+/music/album/genre
+
+
+1539	what types of album is in <e>
+/music/album/album_content_type
+
+
+1549	what kind of release was the album <e>
+/music/album/release_type
+
+
+1600	what kind of album is <e>
+/music/album/album_content_type
+
+
+1606	what type of album is <e>
+/music/album/album_content_type
+
+
+1618	what is the genre of the album <e>
+/music/album/genre
+
+
+1624	what genre is <e>
+/music/album/genre
+
+
+1654	what genre is the album <e>
+/music/album/genre
+
+
+1660	what kind of rock music is <e>
+/music/album/genre
+
+
+1673	what kind of release was <e>
+/music/album/release_type
+
+
+1701	what is the type of release of <e>
+/music/album/release_type
+
+
+1709	what kind of release is <e>
+/music/album/release_type
+
+
+1745	what kind of album is <e>
+/music/album/album_content_type
+
+
+1780	what genre music is <e>
+/music/album/genre
+
+
+1796	which type of music is the album <e>
+/music/album/genre
+
+
+1839	what is <e>
+/music/album/release_type
+
+
+1868	what music genre is <e> under
+/music/album/genre
+
+
+1888	what kind of album is <e>
+/music/album/album_content_type
+
+
+1889	what is the release format of <e>
+/music/album/release_type
+
+
+1905	what type of release is <e>
+/music/album/release_type
+
+
+1976	which kind of album is the <e>
+/music/album/album_content_type
+
+
+1983	how was <e> released
+/music/album/release_type
+
+
+2061	what genre is the album <e> considered to be
+/music/album/genre
+
+
+2068	what type of music is on the album <e>
+/music/album/genre
+
+
+2090	which music format is <e>
+/music/album/release_type
+
+
+2094	what style of music is featured on <e>
+/music/album/genre
+
+
+2097	what type of body of work is <e>
+/music/album/release_type
+
+
+2098	what kind of album is <e>
+/music/album/genre
+
+
+2163	what is <e>
+/music/album/release_type
+
+
+2176	what kind of album is <e>
+/music/album/album_content_type
+
+
+2178	what kind of album is <e>
+/music/album/album_content_type
+
+
+2208	what would you call <e>
+/music/album/genre
+
+
+2224	what was the release type of the album <e>
+/music/album/release_type
+
+
+2231	what type of album is <e>
+/music/album/album_content_type
+
+
+2312	what sort of album is <e>
+/music/album/genre
+
+
+2331	what style of music is the <e> released in
+/music/album/genre
+
+
+2332	what kind of album is <e>
+/music/album/album_content_type
+
+
+2334	is <e> rock music or metal
+/music/album/genre
+
+
+2355	what kind of album is <e>
+/music/album/album_content_type
+
+
+2408	what kind of album was <e>
+/music/album/album_content_type
+
+
+2435	what is the album content type of <e>
+/music/album/album_content_type
+
+
+2437	what genre of music is the album <e>
+/music/album/genre
+
+
+2441	what type of album is the album <e>
+/music/album/album_content_type
+
+
+2464	what type of music is featured on <e>
+/music/album/genre
+
+
+2486	what type of music can be found on <e>
+/music/album/genre
+
+
+2513	in what format is <e> presented
+/music/album/release_type
+
+
+2540	what kind of music is played on <e>
+/music/album/genre
+
+
+2558	what kind of release was <e>
+/music/album/release_type
+
+
+2575	is <e> heavy metal or pop
+/music/album/genre
+
+
+2579	what type of album is <e> considered to be
+/music/album/album_content_type
+
+
+2584	what type of music is the album <e>
+/music/album/genre
+
+
+2621	what is the album type of <e>
+/music/album/album_content_type
+
+
+2669	what type of album content is <e>
+/music/album/album_content_type
+
+
+2689	what type of album is <e>
+/music/album/album_content_type
+
+
+2698	what type of music is on the album <e>
+/music/album/genre
+
+
+2710	which genre is the album <e> associated with
+/music/album/genre
+
+
+2743	what genre is <e>
+/music/album/genre
+
+
+2773	what kind of music is <e>
+/music/album/genre
+
+
+2782	what genre is the album <e> classifed under
+/music/album/genre
+
+
+2838	how was <e> released
+/music/album/release_type
+
+
+2878	what kind of release is <e>
+/music/album/release_type
+
+
+2899	in what format is <e> played
+/music/album/release_type
+
+
+2928	how was <e> released
+/music/album/release_type
+
+
+2947	what format does <e> have
+/music/album/album_content_type
+
+
+2977	which genre of music would <e> fall into
+/music/album/genre
+
+
+2982	what type of music is on the album <e>
+/music/album/genre
+
+
+2996	what kind of album is <e>
+/music/album/album_content_type
+
+
+3036	what is the release type of the album `` <e>
+/music/album/release_type
+
+
+3037	what kind of release is <e>
+/music/album/release_type
+
+
+3042	in what format is <e> presented
+/music/album/album_content_type
+
+
+3056	what type of music is <e> affiliated with
+/music/album/genre
+
+
+3075	what is <e> 's album content type
+/music/album/album_content_type
+
+
+3080	what type of release was <e>
+/music/album/release_type
+
+
+3115	which genre is the album <e>
+/music/album/genre
+
+
+3127	what is <e>
+/music/album/release_type
+
+
+3136	what type of album is <e>
+/music/album/album_content_type
+
+
+3177	what music label best describes <e>
+/music/album/genre
+
+
+3179	what type of musical release is <e>
+/music/album/release_type
+
+
+3201	what album content type is the album <e>
+/music/album/album_content_type
+
+
+3236	what type of music is <e>
+/music/album/genre
+
+
+3254	what type of release was the album <e>
+/music/album/release_type
+
+
+3302	what type of content does <e> contain
+/music/album/album_content_type
+
+
+3329	what kind of release did <e> have
+/music/album/release_type
+
+
+3343	what kind of music was featured by the album <e>
+/music/album/genre
+
+
+3360	what genre is <e>
+/music/album/genre
+
+
+3364	what kind of music is the album <e>
+/music/album/genre
+
+
+3369	what is the release type of <e>
+/music/album/release_type
+
+
+3374	<e> is what type of music
+/music/album/genre
+
+
+3397	how was <e> released
+/music/album/release_type
+
+
+3404	what style of music is the album <e>
+/music/album/genre
+
+
+3405	what type of album is <e>
+/music/album/album_content_type
+
+
+3412	what kind of album is <e>
+/music/album/album_content_type
+
+
+3485	what type of album is <e>
+/music/album/album_content_type
+
+
+3523	<e> is what type of album
+/music/album/album_content_type
+
+
+3539	in what format was <e> released
+/music/album/release_type
+
+
+3559	is <e> an album or an ep
+/music/album/release_type
+
+
+3613	what type of music is featured in the <e> album
+/music/album/genre
+
+
+3615	what kind of music can be found on the album called <e>
+/music/album/genre
+
+
+3648	what kind of album is <e>
+/music/album/album_content_type
+
+
+3705	what kind of album is <e>
+/music/album/album_content_type
+
+
+3709	what kind of music does <e> played
+/music/album/genre
+
+
+3713	what type of release is <e>
+/music/album/release_type
+
+
+3728	what kind of album is <e>
+/music/album/release_type
+
+
+3801	what type of music is off the <e> album
+/music/album/genre
+
+
+3811	what is the type of release of <e>
+/music/album/release_type
+
+
+3816	what genre is <e>
+/music/album/genre
+
+
+3835	what kind of album is <e>
+/music/album/album_content_type
+
+
+3859	what format was <e> released
+/music/album/release_type
+
+
+3890	what kind of music is the album <e>
+/music/album/genre
+
+
+3951	what was the album <e> 's genre
+/music/album/genre
+
+
+3959	what type of music is <e>
+/music/album/genre
+
+
+4007	is <e> a dvd or an album
+/music/album/release_type
+
+
+4019	how is <e> released as
+/music/album/release_type
+
+
+4023	what kind of album is <e>
+/music/album/album_content_type
+
+
+4061	<e> was released on what music type
+/music/album/release_type
+
+
+4069	what sort of music is featured on the album <e>
+/music/album/genre
+
+
+4138	what type of rock is played on <e>
+/music/album/genre
+
+
+4141	what kind of music is <e>
+/music/album/genre
+
+
+4180	what type of album is <e>
+/music/album/album_content_type
+
+
+4194	what genre is the album <e>
+/music/album/genre
+
+
+4206	<e> is what genre of music
+/music/album/genre
+
+
+4269	what kind of music does <e> play
+/music/album/genre
+
+
+4292	what kind of an album is <e>
+/music/album/album_content_type
+
+
+4299	what was the release type of the album <e>
+/music/album/release_type
+
+
+4310	what kind of release was <e>
+/music/album/release_type
+
+
+4372	what kind of release is <e>
+/music/album/release_type
+
+
+4397	what types of music is <e>
+/music/album/genre
+
+
+4408	what type of music is <e> considered
+/music/album/genre
+
+
+4415	what kind of music does the album <e> exhibit
+/music/album/genre
+
+
+4416	what sort of music is featured on <e>
+/music/album/genre
+
+
+4447	how was <e> released
+/music/album/release_type
+
+
+4476	what genre of music is the album <e> released in
+/music/album/genre
+
+
+4501	what is the genre of the album <e>
+/music/album/genre
+
+
+4509	what type of release is <e>
+/music/album/release_type
+
+
+4551	which album is <e> associated with
+/music/album/genre
+
+
+4555	what type of musical composition is the <e>
+/music/album/release_type
+
+
+4572	which release type was <e> released as
+/music/album/release_type
+
+
+4576	what type of music genre is <e>
+/music/album/genre
+
+
+4604	what kind of release is <e>
+/music/album/release_type
+
+
+4609	what kind of album is <e>
+/music/album/album_content_type
+
+
+4612	what type of album is <e>
+/music/album/album_content_type
+
+
+4613	what album content type is <e>
+/music/album/album_content_type
+
+
+4636	what is the type of album that <e> is
+/music/album/album_content_type
+
+
+4664	the genre of the album <e> is
+/music/album/genre
+
+
+4685	what kind of music is <e>
+/music/album/genre
+
+
+4689	what genre is the album <e>
+/music/album/genre
+
+
+4714	what kind of album is <e>
+/music/album/album_content_type
+
+
+4723	what kind of music is <e>
+/music/album/genre
+
+
+4728	what type of music is in <e>
+/music/album/genre
+
+
+4742	what music genre is <e>
+/music/album/genre
+
+
+4743	what genre is <e>
+/music/album/genre
+
+
+4749	how was <e> released
+/music/album/release_type
+
+
+4768	what is <e>
+/music/album/release_type
+
+
+4776	is <e> an album or other
+/music/album/release_type
+
+
+4817	what kind of an album is <e>
+/music/album/album_content_type
+
+
+4880	was <e> a studio or live album
+/music/album/album_content_type
+
+
+4899	<e> is what type of work piece
+/music/album/release_type
+
+
+4905	what genre would the <e> album fall under
+/music/album/genre
+
+
+4922	what is the release type of the album <e>
+/music/album/release_type
+
+
+4962	what genre is the album <e>
+/music/album/genre
+
+
+4972	what format does <e> have
+/music/album/album_content_type
+
+
+5011	what is the genre of music on the album <e>
+/music/album/genre
+
+
+5023	what genre is <e>
+/music/album/genre
+
+
+5032	what kind of music is on the album <e>
+/music/album/genre
+
+
+5085	what category of music is <e> considered to be
+/music/album/genre
+
+
+5142	what type of release is <e>
+/music/album/release_type
+
+
+5149	what type of album is <e>
+/music/album/album_content_type
+
+
+5171	what musical genre is <e>
+/music/album/genre
+
+
+5248	what genre is the album <e>
+/music/album/genre
+
+
+5249	what kind of music was exemplified by the album <e>
+/music/album/genre
+
+
+5340	what type of release was <e>
+/music/album/release_type
+
+
+5359	what type of album is <e>
+/music/album/album_content_type
+
+
+5369	what type of release is <e>
+/music/album/release_type
+
+
+5374	what genre is the album <e>
+/music/album/genre
+
+
+5384	what is the release type of the album <e>
+/music/album/release_type
+
+
+5412	what kind of music is the album <e>
+/music/album/genre
+
+
+5423	what format does <e> album have
+/music/album/album_content_type
+
+
+5427	what album content type is <e> ( disc 3 )
+/music/album/album_content_type
+
+
+5431	what format was <e> released as
+/music/album/release_type
+
+
+5457	what genre of music is <e>
+/music/album/genre
+
+
+5532	what is the type of the album <e>
+/music/album/album_content_type
+
+
+5543	what type of music is <e>
+/music/album/genre
+
+
+5610	what genre of music is <e>
+/music/album/genre
+
+
+5620	what genre of music is found on <e>
+/music/album/genre
+
+
+5659	what type of music is <e>
+/music/album/genre
+
+
+5670	what is the release type of <e>
+/music/album/release_type
+
+
+5677	what type of album content is <e>
+/music/album/album_content_type
+
+
+5690	what type of content album is <e> : singles 1992 -- 2005
+/music/album/album_content_type
+
+
+5750	what genre best describes <e>
+/music/album/genre
+
+
+5781	what genre is <e>
+/music/album/genre
+
+
+5791	in what format is <e> album presented
+/music/album/release_type
+
+
+5839	what genre is the album <e>
+/music/album/genre
+
+
+5841	what format does <e> album have
+/music/album/album_content_type
+
+
+5842	what genre does the album <e> belong to
+/music/album/genre
+
+
+5870	what type of release was <e>
+/music/album/release_type
+
+
+5924	what type of music is <e>
+/music/album/genre
+
+
+5974	what type of album is <e>
+/music/album/album_content_type
+
+
+5993	what album content type is <e>
+/music/album/album_content_type
+
+
+6023	what type of album is <e>
+/music/album/album_content_type
+
+
+6071	what is the release type of the album <e>
+/music/album/release_type
+
+
+6081	what kind album is <e>
+/music/album/album_content_type
+
+
+6096	what genre is the album <e>
+/music/album/genre
+
+
+6112	what kind of album is <e> released in
+/music/album/album_content_type
+
+
+6119	what rock genre does <e> fall under
+/music/album/genre
+
+
+6134	what type of music genre is `` <e>
+/music/album/genre
+
+
+6192	what kind of music is <e>
+/music/album/genre
+
+
+6219	what format was <e> released in
+/music/album/release_type
+
+
+6243	what type of album is <e>
+/music/album/album_content_type
+
+
+6258	what genre is <e>
+/music/album/genre
+
+
+6318	what music genre is <e>
+/music/album/genre
+
+
+6330	what genre is the album <e>
+/music/album/genre
+
+
+6331	what kind of album is <e>
+/music/album/album_content_type
+
+
+6384	what kind of music is featured on <e>
+/music/album/album_content_type
+
+
+6403	what type of music is <e> ( rock n roll )
+/music/album/genre
+
+
+6425	what types of album is <e>
+/music/album/album_content_type
+
+
+6432	what kind of music is the <e>
+/music/album/genre
+
+
+6449	what kind of music is on <e>
+/music/album/genre
+
+
+6450	what type of content is the album <e>
+/music/album/album_content_type
+
+
+6465	what is the album content type of <e>
+/music/album/album_content_type
+
+
+6476	what type of album is <e>
+/music/album/album_content_type
+
+
+6485	what genre is <e>
+/music/album/genre
+
+
+6529	is <e> a compilation album or soundtrack
+/music/album/album_content_type
+
+
+6550	what kinds of music is <e>
+/music/album/genre
+
+
+6569	what subgenre of music was on <e>
+/music/album/genre
+
+
+6583	how was <e> released
+/music/album/release_type
+
+
+6620	what type of music is featured in <e>
+/music/album/genre
+
+
+6623	what sort of music is recorded on <e>
+/music/album/genre
+
+
+6624	what genre of music is the album <e>
+/music/album/genre
+
+
+6670	what kind of album is <e>
+/music/album/album_content_type
+
+
+6694	what type of music is <e>
+/music/album/genre
+
+
+6702	what type of album is <e>
+/music/album/album_content_type
+
+
+6708	what type of release is <e>
+/music/album/release_type
+
+
+6715	what kind of music is <e>
+/music/album/genre
+
+
+6720	what type of rap album is <e>
+/music/album/genre
+
+
+6733	what kind of album is <e>
+/music/album/album_content_type
+
+
+6759	what genre was the musical album <e>
+/music/album/genre
+
+
+6780	what album style is <e>
+/music/album/genre
+
+
+6786	what type of album is <e>
+/music/album/album_content_type
+
+
+6793	what kind of album is <e>
+/music/album/album_content_type
+
+
+6796	what kind of music genre is <e>
+/music/album/genre
+
+
+6814	which genre is <e> considered to be
+/music/album/genre
+
+
+6816	what type of music is <e>
+/music/album/genre
+
+
+6822	what genre of music does the album <e> belong to
+/music/album/genre
+
+
+6830	what genre is the album <e>
+/music/album/genre
+
+
+6831	what kind of music format is <e>
+/music/album/album_content_type
+
+
+6844	what type of album was <e>
+/music/album/album_content_type
+
+
+6852	whats the release type of <e>
+/music/album/release_type
+
+
+6853	what release format is <e>
+/music/album/release_type
+
+
+6878	what genre is the album <e> considered to be
+/music/album/genre
+
+
+6914	what kind of release is <e>
+/music/album/album_content_type
+
+
+6961	what type of music is <e>
+/music/album/genre
+
+
+6973	what is the format of <e>
+/music/album/release_type
+
+
+7003	what type of album is <e>
+/music/album/album_content_type
+
+
+7020	what types of album is <e>
+/music/album/album_content_type
+
+
+7026	what classification is the album <e>
+/music/album/genre
+
+
+7048	what was the release type of the album <e>
+/music/album/release_type
+
+
+7083	what format was <e> released in
+/music/album/release_type
+
+
+7123	what kind of genre is <e>
+/music/album/genre
+
+
+7145	what is the genre of the album <e>
+/music/album/genre
+
+
+7179	what type of album is <e>
+/music/album/album_content_type
+
+
+7204	what kind of music is on <e>
+/music/album/genre
+
+
+7206	what types of music is <e>
+/music/album/genre
+
+
+7221	what type of music is <e> released in
+/music/album/genre
+
+
+7234	what type of music does <e> play
+/music/album/genre
+
+
+7290	how was the album <e> released
+/music/album/release_type
+
+
+7293	what is the release type of the album <e>
+/music/album/release_type
+
+
+7312	what is the release type of <e>
+/music/album/release_type
+
+
+7402	what kind of album is <e>
+/music/album/album_content_type
+
+
+7415	what format was <e> released in
+/music/album/release_type
+
+
+7423	what format was <e> released in
+/music/album/release_type
+
+
+7425	what is the release type of <e>
+/music/album/release_type
+
+
+7477	what is the release type of <e>
+/music/album/release_type
+
+
+7497	what type of album is <e>
+/music/album/album_content_type
+
+
+7498	what is the genre associated with <e>
+/music/album/genre
+
+
+7544	what kinds of music is <e>
+/music/album/genre
+
+
+7549	what format was <e> released in
+/music/album/release_type
+
+
+7574	what kind of release did <e> get
+/music/album/release_type
+
+
+7615	what is the type of album of <e>
+/music/album/album_content_type
+
+
+7616	how was <e> released
+/music/album/release_type
+
+
+7619	what is the musical format of <e>
+/music/album/release_type
+
+
+7711	what genre of music is <e>
+/music/album/genre
+
+
+7715	what genre of music is the album <e> # 2 released in
+/music/album/genre
+
+
+7729	what type of album is <e>
+/music/album/album_content_type
+
+
+7741	<e> by dean martin , is what kind of album
+/music/album/album_content_type
+
+
+7755	what genre is <e>
+/music/album/genre
+
+
+7757	what kind of album was <e>
+/music/album/album_content_type
+
+
+7761	what is the genre of the album <e>
+/music/album/genre
+
+
+7789	what kind of album is <e>
+/music/album/album_content_type
+
+
+7816	what type of music is found on <e>
+/music/album/genre
+
+
+7822	what music genre is on <e>
+/music/album/genre
+
+
+7843	what kind of release is <e> in
+/music/album/release_type
+
+
+7851	what is the genre of the album <e>
+/music/album/genre
+
+
+7882	what is the release type of <e>
+/music/album/release_type
+
+
+7901	what is <e>
+/music/album/release_type
+
+
+7917	what type of album is <e>
+/music/album/album_content_type
+
+
+7940	what kind of music is featured on <e>
+/music/album/genre
+
+
+7957	is <e> a studio or compilation album
+/music/album/album_content_type
+
+
+7989	what format was <e> released as
+/music/album/release_type
+
+
+7999	what genre is the album <e>
+/music/album/genre
+
+
+8002	what types of music is <e>
+/music/album/genre
+
+
+8012	how was <e> released
+/music/album/release_type
+
+
+8033	what type of music is played on <e>
+/music/album/genre
+
+
+8047	what format was <e> released in
+/music/album/release_type
+
+
+8113	how was <e> released
+/music/album/release_type
+
+
+8118	what is the album content type of `` <e>
+/music/album/album_content_type
+
+
+8133	what types of album is <e>
+/music/album/album_content_type
+
+
+8161	what is the release type of the album <e>
+/music/album/release_type
+
+
+8181	how was <e> released
+/music/album/release_type
+
+
+8202	what kind of album is <e>
+/music/album/album_content_type
+
+
+8233	what type of music is <e>
+/music/album/genre
+
+
+8244	<e> is what album content type
+/music/album/album_content_type
+
+
+8264	what was <e>
+/music/album/release_type
+
+
+8266	what kind of album is <e>
+/music/album/album_content_type
+
+
+8268	what type of release was <e>
+/music/album/release_type
+
+
+8440	what kind of album is <e>
+/music/album/album_content_type
+
+
+8489	is <e> a studio album or a compilation album
+/music/album/album_content_type
+
+
+8530	what type of music did <e> play
+/music/album/genre
+
+
+8541	what kind of release was <e>
+/music/album/release_type
+
+
+8548	what genre of music is the album <e>
+/music/album/genre
+
+
+8554	what was the original release type of <e>
+/music/album/release_type
+
+
+8561	what type of album is <e>
+/music/album/album_content_type
+
+
+8565	what genre of music is the album <e> in
+/music/album/genre
+
+
+8589	what is the genre of the album <e>
+/music/album/genre
+
+
+8614	what kind of album is <e>
+/music/album/album_content_type
+
+
+8617	what is the content type of <e>
+/music/album/album_content_type
+
+
+8645	what kind of release was <e>
+/music/album/release_type
+
+
+8654	what types of music is <e>
+/music/album/genre
+
+
+8655	is <e> power pop or rock
+/music/album/genre
+
+
+8668	what genre is the album <e>
+/music/album/genre
+
+
+8683	what was the release type of <e>
+/music/album/release_type
+
+
+8702	what kind of music is the album <e>
+/music/album/genre
+
+
+8755	what formatting does <e> have
+/music/album/album_content_type
+
+
+8758	what is the release type of <e>
+/music/album/release_type
+
+
+8767	what genre is <e> volume 1
+/music/album/genre
+
+
+8805	is <e> a funk or edm album
+/music/album/genre
+
+
+8832	what type of album was <e>
+/music/album/album_content_type
+
+
+8859	how was <e> released
+/music/album/release_type
+
+
+8898	what type of music is the album <e>
+/music/album/genre
+
+
+8905	what kind of album is <e>
+/music/album/genre
+
+
+8935	what kind of album is <e>
+/music/album/genre
+
+
+8953	what kind of music is on the album <e>
+/music/album/genre
+
+
+8957	which type of album is <e>
+/music/album/album_content_type
+
+
+8981	what genre of music does <e> represent
+/music/album/genre
+
+
+8993	in what format was <e> produce
+/music/album/release_type
+
+
+9015	what kind of album <e>
+/music/album/album_content_type
+
+
+9036	which genre is the album <e> from
+/music/album/genre
+
+
+9047	what type of music is <e>
+/music/album/genre
+
+
+9061	what type of release was <e> by smiley culture
+/music/album/release_type
+
+
+9071	what kind of album is <e>
+/music/album/album_content_type
+
+
+9076	is <e> a compilation album or soundtrack
+/music/album/album_content_type
+
+
+9084	what kind of release is <e>
+/music/album/release_type
+
+
+9099	what kind of release is <e>
+/music/album/release_type
+
+
+9117	what is the type of release of <e>
+/music/album/release_type
+
+
+9169	how was <e> released
+/music/album/release_type
+
+
+9179	what release type did <e> have
+/music/album/release_type
+
+
+9202	what is the genre of the music album <e>
+/music/album/genre
+
+
+9211	what musical genre is the album <e>
+/music/album/genre
+
+
+9217	what was the release type of <e>
+/music/album/release_type
+
+
+9224	what type of release is <e>
+/music/album/release_type
+
+
+9236	what is the release type of <e>
+/music/album/release_type
+
+
+9254	is <e> punk rock or classical
+/music/album/genre
+
+
+9271	what type of release was <e>
+/music/album/release_type
+
+
+9272	what type of release is <e>
+/music/album/release_type
+
+
+9278	what type of musical album is <e>
+/music/album/genre
+
+
+9293	what genre is the album <e>
+/music/album/genre
+
+
+9299	what genre of music is off the album <e>
+/music/album/genre
+
+
+9374	what genre is <e>
+/music/album/genre
+
+
+9399	what kind of album is <e>
+/music/album/album_content_type
+
+
+9448	what type of album is <e>
+/music/album/album_content_type
+
+
+9455	what is <e>
+/music/album/release_type
+
+
+9488	what is the music genre of <e>
+/music/album/genre
+
+
+9517	which genre of music is the <e>
+/music/album/genre
+
+
+9536	what type of album was <e>
+/music/album/album_content_type
+
+
+9612	what genre of music is <e>
+/music/album/genre
+
+
+9620	what format was <e> released in
+/music/album/release_type
+
+
+9661	what music would mostly accurately be found on <e>
+/music/album/genre
+
+
+9679	what kind of album is <e>
+/music/album/album_content_type
+
+
+9700	what kind of release was <e>
+/music/album/release_type
+
+
+9709	how is <e> released as
+/music/album/release_type
+
+
+9749	<e> was what type of album type
+/music/album/album_content_type
+
+
+9770	what format was <e> released on
+/music/album/release_type
+
+
+9780	what musical format was <e> released as
+/music/album/release_type
+
+
+9850	what kind of music is <e>
+/music/album/genre
+
+
+9869	what music genre does <e> fall under
+/music/album/genre
+
+
+9870	what kind of music genre is <e>
+/music/album/genre
+
+
+9912	what release type was <e>
+/music/album/release_type
+
+
+9992	<e> is what type of album
+/music/album/album_content_type
+
+
+10005	what kind of music is <e>
+/music/album/genre
+
+
+10013	what kind of album is <e>
+/music/album/album_content_type
+
+
+10033	what kind of music is on the album <e>
+/music/album/genre
+
+
+10045	what type of music is on the album <e>
+/music/album/genre
+
+
+10068	what types of music is <e>
+/music/album/release_type
+
+
+10085	what type of release is <e>
+/music/album/release_type
+
+
+10088	what type of music is <e>
+/music/album/genre
+
+
+10091	what kinds of music is <e>
+/music/album/genre
+
+
+10129	what genre of music is <e> considered
+/music/album/genre
+
+
+10157	what kind of music is <e> classified under
+/music/album/genre
+
+
+10216	what format does <e> have
+/music/album/album_content_type
+
+
+10218	how was <e> released
+/music/album/release_type
+
+
+10272	what is the genre of the album <e>
+/music/album/genre
+
+

@@ -1,0 +1,68 @@
+198	what style of art is <e>
+visual_art.visual_artist.art_forms
+
+
+349	what type of art is <e> famous for
+visual_art.visual_artist.associated_periods_or_movements
+
+
+385	what art movements was <e> involved in
+visual_art.visual_artist.associated_periods_or_movements
+
+
+469	what style of art does <e> do
+visual_art.visual_artist.associated_periods_or_movements
+
+
+801	what kind of artist is <e>
+visual_art.visual_artist.art_forms
+
+
+822	what type of art does <e> do
+visual_art.visual_artist.art_forms
+
+
+858	what kind of art did <e> produce
+visual_art.visual_artist.art_forms
+
+
+1016	what style of art did <e> do
+visual_art.visual_artist.associated_periods_or_movements
+
+
+1222	what kind of paintings did <e> do
+visual_art.visual_artist.associated_periods_or_movements
+
+
+1332	what type of artwork did <e> produce
+visual_art.visual_artist.associated_periods_or_movements
+
+
+1587	what techniques did <e> use in her paintings
+visual_art.visual_artist.associated_periods_or_movements
+
+
+1704	what art movement was <e> apart of
+visual_art.visual_artist.associated_periods_or_movements
+
+
+2251	what style of art did <e> use
+visual_art.visual_artist.associated_periods_or_movements
+
+
+2374	what art movement was <e> part of
+visual_art.visual_artist.associated_periods_or_movements
+
+
+2680	what style of art did <e> produce
+visual_art.visual_artist.associated_periods_or_movements
+
+
+2683	what type of paintings did <e> do
+visual_art.visual_artist.associated_periods_or_movements
+
+
+3110	what art movement does <e> belong to
+visual_art.visual_artist.associated_periods_or_movements
+
+

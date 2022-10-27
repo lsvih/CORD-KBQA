@@ -1,0 +1,3 @@
+people.person.education..education.education.major_field_of_study
+people.person.education..education.education.degree
+people.person.education..education.education.institution

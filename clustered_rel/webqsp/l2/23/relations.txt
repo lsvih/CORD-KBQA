@@ -1,0 +1,5 @@
+people.person.places_lived..people.place_lived.location
+people.person.nationality
+government.politician.government_positions_held..government.government_position_held.district_represented
+people.person.place_of_birth
+government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office

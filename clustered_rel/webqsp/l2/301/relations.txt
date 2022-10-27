@@ -1,0 +1,2 @@
+location.country.official_language
+location.country.languages_spoken

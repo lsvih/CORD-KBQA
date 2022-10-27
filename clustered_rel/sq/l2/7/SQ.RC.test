@@ -1,0 +1,5280 @@
+20	where is <e> from
+/people/person/nationality
+
+
+33	where was <e> born
+/people/person/place_of_birth
+
+
+34	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+61	where was <e> born
+/people/person/place_of_birth
+
+
+81	where was <e> born
+/people/person/place_of_birth
+
+
+84	which country is <e> from
+/people/person/nationality
+
+
+106	what nationality is <e>
+/people/person/nationality
+
+
+114	where was <e> born
+/people/person/place_of_birth
+
+
+118	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+121	which nationality is <e>
+/people/person/nationality
+
+
+127	which indian city was <e> born in
+/people/person/place_of_birth
+
+
+131	where was <e> born
+/people/person/place_of_birth
+
+
+174	where was <e> born
+/people/person/place_of_birth
+
+
+176	what is <e> 's birth place
+/people/person/place_of_birth
+
+
+184	which country was <e> born in
+/people/person/place_of_birth
+
+
+233	where was <e> born
+/people/person/place_of_birth
+
+
+237	was <e> born in washington , d.c. or washington state
+/people/person/place_of_birth
+
+
+244	what is the nationality of <e>
+/people/person/nationality
+
+
+246	what country is <e> a citizen of
+/people/person/nationality
+
+
+255	what is <e> 's nationality
+/people/person/nationality
+
+
+276	which country is <e> from
+/people/person/nationality
+
+
+289	where was <e> born
+/people/person/place_of_birth
+
+
+295	where was <e> born
+/people/person/place_of_birth
+
+
+332	is <e> from the united states or canada
+/people/person/nationality
+
+
+348	of what nationality is <e>
+/people/person/nationality
+
+
+350	what is the nationality of <e>
+/people/person/nationality
+
+
+382	where was <e> birthed
+/people/person/place_of_birth
+
+
+391	what is <e> 's nationality
+/people/person/nationality
+
+
+419	what is <e> 's origin
+/people/person/nationality
+
+
+422	where was <e> born
+/people/person/place_of_birth
+
+
+425	which city was <e> born in
+/people/person/place_of_birth
+
+
+426	in which city was <e> born
+/people/person/place_of_birth
+
+
+494	which country was <e> born
+/people/person/place_of_birth
+
+
+512	what city and state was <e> born in
+/people/person/place_of_birth
+
+
+514	what is <e> 's nationality
+/people/person/nationality
+
+
+521	which country is <e> from
+/people/person/nationality
+
+
+533	where was <e> born
+/people/person/place_of_birth
+
+
+547	what is <e> 's country of nationality
+/people/person/nationality
+
+
+555	where was <e> born
+/people/person/place_of_birth
+
+
+568	where was <e> birthed
+/people/person/place_of_birth
+
+
+579	<e> was born in what country
+/people/person/nationality
+
+
+603	where is the birthplace of <e>
+/people/person/place_of_birth
+
+
+624	<e> is a national of which state
+/people/person/nationality
+
+
+643	where is <e> from
+/people/person/nationality
+
+
+653	where was <e> born
+/people/person/place_of_birth
+
+
+662	what nation is <e> originally from
+/people/person/nationality
+
+
+664	what nation is <e> from
+/people/person/nationality
+
+
+672	which country is <e> from
+/people/person/nationality
+
+
+686	which canadian city was <e> born in
+/people/person/place_of_birth
+
+
+688	what nationality is <e>
+/people/person/nationality
+
+
+689	what is the nationality of <e>
+/people/person/nationality
+
+
+696	which southern united state was <e> born in
+/people/person/place_of_birth
+
+
+713	where was <e> given birth
+/people/person/place_of_birth
+
+
+720	what is <e> 's nation of origin
+/people/person/nationality
+
+
+778	which city was <e> born
+/people/person/place_of_birth
+
+
+782	which city was <e> born
+/people/person/place_of_birth
+
+
+784	where in europe was <e> born
+/people/person/place_of_birth
+
+
+805	where was <e> born
+/people/person/place_of_birth
+
+
+821	where is <e> from
+/people/person/nationality
+
+
+831	where in england was <e> 's place of birth
+/people/person/place_of_birth
+
+
+845	what is the nationality of <e>
+/people/person/nationality
+
+
+846	where was <e> 's birthplace
+/people/person/place_of_birth
+
+
+851	what is the country from which <e> nationality is derived
+/people/person/nationality
+
+
+872	where was <e> place of birth
+/people/person/place_of_birth
+
+
+884	where was <e> birthed
+/people/person/place_of_birth
+
+
+892	which city was <e> born in
+/people/person/place_of_birth
+
+
+905	which country is <e> from
+/people/person/nationality
+
+
+937	what country does <e> represent
+/people/person/nationality
+
+
+946	what country is <e> from
+/people/person/nationality
+
+
+954	where in europe was <e> born
+/people/person/place_of_birth
+
+
+961	where was <e> born
+/people/person/place_of_birth
+
+
+972	what city was <e> born
+/people/person/place_of_birth
+
+
+979	where was <e> born
+/people/person/place_of_birth
+
+
+994	what is <e> 's birth place
+/people/person/place_of_birth
+
+
+1018	which european nationality does <e> belong to
+/people/person/nationality
+
+
+1073	what is the nationality of <e>
+/people/person/nationality
+
+
+1079	where was <e> born
+/people/person/place_of_birth
+
+
+1090	where did <e> begin his life
+/people/person/place_of_birth
+
+
+1094	which city was <e> born
+/people/person/place_of_birth
+
+
+1127	which city was <e> born in
+/people/person/place_of_birth
+
+
+1159	where is <e> from
+/people/person/nationality
+
+
+1163	what is <e> 's country of nationality
+/people/person/nationality
+
+
+1183	where was <e> born
+/people/person/place_of_birth
+
+
+1203	where was <e> born
+/people/person/place_of_birth
+
+
+1209	where was <e> born in europe
+/people/person/place_of_birth
+
+
+1214	what is <e> 's nationality
+/people/person/nationality
+
+
+1226	where was <e> born
+/people/person/place_of_birth
+
+
+1229	what is <e> 's country of nationality
+/people/person/nationality
+
+
+1231	what country is <e> from
+/people/person/nationality
+
+
+1243	what nationality is <e>
+/people/person/nationality
+
+
+1244	where is <e> from
+/people/person/nationality
+
+
+1245	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+1257	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+1289	what is <e> 's birthplace
+/people/person/place_of_birth
+
+
+1297	what country is <e> originally from
+/people/person/nationality
+
+
+1323	what is the nationality of <e>
+/people/person/nationality
+
+
+1326	what nationality is <e>
+/people/person/nationality
+
+
+1385	what nationality is <e>
+/people/person/nationality
+
+
+1398	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+1399	where is <e> originally from
+/people/person/place_of_birth
+
+
+1417	what nationality is <e>
+/people/person/nationality
+
+
+1420	where exactly was the location of <e> 's birth
+/people/person/place_of_birth
+
+
+1439	where was <e> born
+/people/person/place_of_birth
+
+
+1497	what is <e> 's county of nationality
+/people/person/nationality
+
+
+1498	where was <e> born
+/people/person/place_of_birth
+
+
+1534	which city was <e> born in
+/people/person/place_of_birth
+
+
+1544	what is <e> 's nationality
+/people/person/nationality
+
+
+1557	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+1565	where in california was <e> born
+/people/person/place_of_birth
+
+
+1569	where was <e> born
+/people/person/place_of_birth
+
+
+1576	where was <e> born
+/people/person/place_of_birth
+
+
+1582	where was <e> born
+/people/person/place_of_birth
+
+
+1595	where was <e> born
+/people/person/place_of_birth
+
+
+1597	where is <e> from
+/people/person/nationality
+
+
+1599	where was <e> born
+/people/person/place_of_birth
+
+
+1608	where is <e> from
+/people/person/nationality
+
+
+1614	where was <e> place of birth
+/people/person/place_of_birth
+
+
+1615	where in asia was <e> born
+/people/person/place_of_birth
+
+
+1639	which country is <e> from
+/people/person/nationality
+
+
+1646	where was <e> born
+/people/person/place_of_birth
+
+
+1648	where is <e> from
+/people/person/nationality
+
+
+1650	what country is <e> from
+/people/person/nationality
+
+
+1678	where was <e> born
+/people/person/place_of_birth
+
+
+1689	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+1691	what is <e> place of birth
+/people/person/place_of_birth
+
+
+1712	what is the nationality of <e>
+/people/person/nationality
+
+
+1721	what is <e> 's ethnicity
+/people/person/nationality
+
+
+1730	where was <e> born
+/people/person/place_of_birth
+
+
+1734	what is <e> 's birthplace
+/people/person/place_of_birth
+
+
+1758	what country is <e> from
+/people/person/nationality
+
+
+1775	where was <e> given birth at
+/people/person/place_of_birth
+
+
+1776	which country is <e> from
+/people/person/nationality
+
+
+1779	which country is <e> from
+/people/person/nationality
+
+
+1801	where is <e> from
+/people/person/nationality
+
+
+1804	what is <e> 's nationality
+/people/person/nationality
+
+
+1819	what is the nationality of <e>
+/people/person/nationality
+
+
+1850	what large city in brazil was <e> born
+/people/person/place_of_birth
+
+
+1855	where was <e> born
+/people/person/place_of_birth
+
+
+1873	where is <e> 's place of birth
+/people/person/place_of_birth
+
+
+1876	what is the nationality of <e>
+/people/person/nationality
+
+
+1906	where is <e> from
+/people/person/nationality
+
+
+1949	where was <e> born
+/people/person/place_of_birth
+
+
+2009	what nation is <e> from
+/people/person/nationality
+
+
+2033	what is <e> 's nationality
+/people/person/nationality
+
+
+2038	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+2039	where was <e> born
+/people/person/place_of_birth
+
+
+2059	which country is <e> from
+/people/person/nationality
+
+
+2066	what european country is <e> from
+/people/person/nationality
+
+
+2072	where was <e> born
+/people/person/place_of_birth
+
+
+2091	what is <e> 's nationality
+/people/person/nationality
+
+
+2094	where was <e> born
+/people/person/place_of_birth
+
+
+2108	what country is <e> from
+/people/person/nationality
+
+
+2130	where was <e> born
+/people/person/place_of_birth
+
+
+2131	what city on the west coast is the place of birth of <e>
+/people/person/place_of_birth
+
+
+2133	which country is <e> ( writer ) from
+/people/person/nationality
+
+
+2148	which country is <e> from
+/people/person/nationality
+
+
+2162	where was <e> born
+/people/person/place_of_birth
+
+
+2185	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+2222	what swedish city was <e> born in
+/people/person/place_of_birth
+
+
+2231	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+2251	where was <e> born
+/people/person/place_of_birth
+
+
+2269	which city was <e> born
+/people/person/place_of_birth
+
+
+2282	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+2284	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+2293	is <e> from united kingdom or united states
+/people/person/nationality
+
+
+2296	where was <e> born
+/people/person/place_of_birth
+
+
+2316	what is <e> 's nationality
+/people/person/nationality
+
+
+2342	where was <e> born
+/people/person/place_of_birth
+
+
+2346	what is <e> 's nationality
+/people/person/nationality
+
+
+2358	what is the nationality of <e>
+/people/person/nationality
+
+
+2408	what country was <e> from
+/people/person/nationality
+
+
+2420	what country is <e> a citizen of
+/people/person/nationality
+
+
+2427	where was <e> born
+/people/person/place_of_birth
+
+
+2445	where was <e> born
+/people/person/place_of_birth
+
+
+2512	what nationality is <e>
+/people/person/nationality
+
+
+2513	what is <e> 's country of nationality
+/people/person/nationality
+
+
+2527	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+2529	what is <e> 's nationality
+/people/person/nationality
+
+
+2536	which empire is <e> from
+/people/person/nationality
+
+
+2553	where is <e> from
+/people/person/nationality
+
+
+2566	where was <e> born
+/people/person/place_of_birth
+
+
+2576	is <e> from austria or russia
+/people/person/nationality
+
+
+2586	what is the nationality of <e>
+/people/person/nationality
+
+
+2589	what is the nationality of <e>
+/people/person/nationality
+
+
+2602	what is <e> 's nationality
+/people/person/nationality
+
+
+2611	what is <e> 's country of nationality
+/people/person/nationality
+
+
+2613	in what us city was <e> born
+/people/person/place_of_birth
+
+
+2659	what is <e> 's nationality
+/people/person/nationality
+
+
+2663	what country is <e> from
+/people/person/nationality
+
+
+2678	where was <e> born
+/people/person/place_of_birth
+
+
+2690	where was <e> born
+/people/person/place_of_birth
+
+
+2705	what nationality is <e>
+/people/person/nationality
+
+
+2726	where was <e> given birth
+/people/person/place_of_birth
+
+
+2731	where was <e> born
+/people/person/place_of_birth
+
+
+2747	where was <e> born
+/people/person/place_of_birth
+
+
+2773	where in mississippi was <e> born
+/people/person/place_of_birth
+
+
+2796	where was the birthplace of <e>
+/people/person/place_of_birth
+
+
+2801	what nationality is <e>
+/people/person/nationality
+
+
+2804	what nation is <e> from
+/people/person/nationality
+
+
+2806	which country is <e> from
+/people/person/nationality
+
+
+2851	which city was <e> born
+/people/person/place_of_birth
+
+
+2864	which russian city was <e> born
+/people/person/place_of_birth
+
+
+2871	what city was <e> born in
+/people/person/place_of_birth
+
+
+2883	what country is <e> from
+/people/person/nationality
+
+
+2884	which country does <e> have nationality in
+/people/person/nationality
+
+
+2894	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+2900	what city was <e> ( american football ) born
+/people/person/place_of_birth
+
+
+2901	where in japan was <e> born
+/people/person/place_of_birth
+
+
+2909	what country is <e> from
+/people/person/nationality
+
+
+2944	where was <e> born
+/people/person/place_of_birth
+
+
+2955	where was <e> born at
+/people/person/place_of_birth
+
+
+2962	what country is <e> originally from
+/people/person/nationality
+
+
+2968	what is <e> 's nationality
+/people/person/nationality
+
+
+2971	where was <e> born
+/people/person/place_of_birth
+
+
+2975	where was <e> born
+/people/person/place_of_birth
+
+
+2979	which city was <e> given birth at
+/people/person/place_of_birth
+
+
+2983	what is <e> 's nationality
+/people/person/nationality
+
+
+3013	where was <e> born
+/people/person/place_of_birth
+
+
+3024	what is <e> 's nationality
+/people/person/nationality
+
+
+3034	where was <e> born
+/people/person/place_of_birth
+
+
+3063	where was <e> born
+/people/person/place_of_birth
+
+
+3072	what nationality is <e>
+/people/person/nationality
+
+
+3083	where was <e> born
+/people/person/place_of_birth
+
+
+3089	what is <e> 's nationality
+/people/person/nationality
+
+
+3096	where city in minnesota was <e> born
+/people/person/place_of_birth
+
+
+3105	where was <e> born
+/people/person/place_of_birth
+
+
+3112	what nation is <e> from
+/people/person/nationality
+
+
+3140	which country is <e> from
+/people/person/nationality
+
+
+3153	where is <e> from
+/people/person/nationality
+
+
+3163	which major city was <e> born in
+/people/person/place_of_birth
+
+
+3178	where was <e> born
+/people/person/place_of_birth
+
+
+3179	where is <e> originally from
+/people/person/nationality
+
+
+3184	where was <e> place of birth
+/people/person/place_of_birth
+
+
+3198	what is <e> 's nationality
+/people/person/nationality
+
+
+3217	where was <e> born
+/people/person/place_of_birth
+
+
+3225	where was <e> born
+/people/person/place_of_birth
+
+
+3233	what nation is <e> from
+/people/person/nationality
+
+
+3258	what nationality is <e>
+/people/person/nationality
+
+
+3265	where was <e> born
+/people/person/place_of_birth
+
+
+3277	what city was <e> born in
+/people/person/place_of_birth
+
+
+3288	where was <e> born
+/people/person/place_of_birth
+
+
+3300	which city was <e> born
+/people/person/place_of_birth
+
+
+3311	where is <e> from
+/people/person/nationality
+
+
+3314	what is <e> 's nationality
+/people/person/nationality
+
+
+3315	what nationality is <e>
+/people/person/nationality
+
+
+3316	which nation is <e> from
+/people/person/nationality
+
+
+3325	what is <e> 's nationality
+/people/person/nationality
+
+
+3368	what was <e> born
+/people/person/place_of_birth
+
+
+3382	is <e> from the united states or canada
+/people/person/nationality
+
+
+3406	what country is <e> from
+/people/person/nationality
+
+
+3412	what is <e> 's nationality
+/people/person/nationality
+
+
+3416	where was <e> given birth
+/people/person/place_of_birth
+
+
+3417	what nationality is <e>
+/people/person/nationality
+
+
+3424	what country is <e> a citizen of
+/people/person/nationality
+
+
+3440	what country is <e> from
+/people/person/nationality
+
+
+3471	what is <e> 's nationality
+/people/person/nationality
+
+
+3483	where was <e> born
+/people/person/place_of_birth
+
+
+3513	where was <e> born
+/people/person/place_of_birth
+
+
+3517	where is <e> from
+/people/person/nationality
+
+
+3528	which country is <e> from
+/people/person/nationality
+
+
+3535	what city was <e> born
+/people/person/place_of_birth
+
+
+3543	which country does <e> hail from
+/people/person/nationality
+
+
+3550	where is <e> from
+/people/person/nationality
+
+
+3562	which country is <e> from originally
+/people/person/nationality
+
+
+3622	what is <e> 's nationality
+/people/person/nationality
+
+
+3644	what is the nationality of <e>
+/people/person/nationality
+
+
+3650	which city in california was <e> born
+/people/person/place_of_birth
+
+
+3670	what canadian city was <e> birthed in
+/people/person/place_of_birth
+
+
+3672	what country is <e> from
+/people/person/nationality
+
+
+3678	where was <e> born
+/people/person/place_of_birth
+
+
+3709	where was <e> given birth
+/people/person/place_of_birth
+
+
+3714	what is <e> 's nationality
+/people/person/nationality
+
+
+3736	<e> is a citizen of what country
+/people/person/nationality
+
+
+3738	where was <e> born
+/people/person/place_of_birth
+
+
+3749	which country does <e> have nationality in
+/people/person/nationality
+
+
+3760	what is the nationality of <e>
+/people/person/nationality
+
+
+3769	what is country did <e> originate from
+/people/person/nationality
+
+
+3770	what country does <e> have nationality in
+/people/person/nationality
+
+
+3782	what nationality is <e>
+/people/person/nationality
+
+
+3796	what is <e> 's nationality
+/people/person/nationality
+
+
+3831	where was <e> born
+/people/person/place_of_birth
+
+
+3837	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+3863	which country is <e> from
+/people/person/nationality
+
+
+3873	what west coast city was <e> born in
+/people/person/place_of_birth
+
+
+3913	where is <e> from
+/people/person/nationality
+
+
+3921	where is <e> from
+/people/person/nationality
+
+
+3926	what country is <e> from
+/people/person/nationality
+
+
+3949	which country is <e> from
+/people/person/nationality
+
+
+3960	where was <e> born
+/people/person/place_of_birth
+
+
+3976	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+3995	what is <e> 's nationality
+/people/person/nationality
+
+
+4001	what country is <e> from
+/people/person/nationality
+
+
+4013	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+4015	where in the united states was <e> born
+/people/person/place_of_birth
+
+
+4022	what is the nationality of <e>
+/people/person/nationality
+
+
+4029	where was <e> born in
+/people/person/place_of_birth
+
+
+4032	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+4040	which city was <e> born
+/people/person/place_of_birth
+
+
+4052	which place was <e> born in
+/people/person/place_of_birth
+
+
+4086	what south american country gives <e> his nationality
+/people/person/nationality
+
+
+4101	where is <e> from
+/people/person/nationality
+
+
+4102	which country is <e> from
+/people/person/nationality
+
+
+4116	where was <e> born in
+/people/person/place_of_birth
+
+
+4130	where was <e> born
+/people/person/place_of_birth
+
+
+4137	where is <e> 's place of birth
+/people/person/place_of_birth
+
+
+4190	what is <e> 's country of nationality
+/people/person/nationality
+
+
+4194	what country is <e> from
+/people/person/nationality
+
+
+4207	where is <e> from
+/people/person/nationality
+
+
+4216	which city was <e> born in
+/people/person/place_of_birth
+
+
+4223	what state was <e> born in
+/people/person/place_of_birth
+
+
+4227	what nationality is <e>
+/people/person/nationality
+
+
+4239	which nation is <e> from
+/people/person/nationality
+
+
+4266	what country is <e> from
+/people/person/nationality
+
+
+4270	where was <e> born
+/people/person/place_of_birth
+
+
+4273	which nation state is <e> from
+/people/person/nationality
+
+
+4276	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+4287	where was <e> born
+/people/person/place_of_birth
+
+
+4290	where is <e> born
+/people/person/place_of_birth
+
+
+4310	what nationality is <e>
+/people/person/nationality
+
+
+4316	which country is <e> from
+/people/person/nationality
+
+
+4368	where was <e> born
+/people/person/place_of_birth
+
+
+4373	what californian city was <e> born
+/people/person/place_of_birth
+
+
+4385	where in norway was <e> 's place of birth
+/people/person/place_of_birth
+
+
+4391	what eastern country contains <e> 's nationality
+/people/person/nationality
+
+
+4399	which country does <e> have nationality in
+/people/person/nationality
+
+
+4425	which country is <e> from
+/people/person/nationality
+
+
+4456	where was <e> born
+/people/person/place_of_birth
+
+
+4462	where in louisiana is <e> from
+/people/person/place_of_birth
+
+
+4473	where was <e> born
+/people/person/place_of_birth
+
+
+4499	where was the birthplace of <e>
+/people/person/place_of_birth
+
+
+4503	from which european country is <e> from
+/people/person/nationality
+
+
+4520	what is the birthplace of <e>
+/people/person/place_of_birth
+
+
+4567	in which texas city <e> was born in
+/people/person/place_of_birth
+
+
+4585	which country does <e> have nationality in
+/people/person/nationality
+
+
+4587	where was <e> born
+/people/person/place_of_birth
+
+
+4591	<e> the israeli spy , was born in what city
+/people/person/place_of_birth
+
+
+4592	is <e> from the untied states or canada
+/people/person/nationality
+
+
+4599	what european country is <e> from
+/people/person/nationality
+
+
+4655	where is <e> from
+/people/person/nationality
+
+
+4668	where was <e> born
+/people/person/place_of_birth
+
+
+4678	what is <e> 's nationality
+/people/person/nationality
+
+
+4681	which city was <e> born in
+/people/person/place_of_birth
+
+
+4710	where was <e> born
+/people/person/nationality
+
+
+4777	what is the nationality of <e>
+/people/person/nationality
+
+
+4802	where was <e> ( economist ) born
+/people/person/place_of_birth
+
+
+4825	where in england was <e> born in
+/people/person/place_of_birth
+
+
+4828	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+4849	where was <e> born
+/people/person/place_of_birth
+
+
+4883	which city was <e> born
+/people/person/place_of_birth
+
+
+4894	what nationality does <e> belong to
+/people/person/nationality
+
+
+4898	what country was <e> born in
+/people/person/place_of_birth
+
+
+4905	which country was <e> born in
+/people/person/nationality
+
+
+4911	which country is <e> from
+/people/person/nationality
+
+
+4951	which city was <e> born
+/people/person/place_of_birth
+
+
+4965	what is <e> 's nationality
+/people/person/nationality
+
+
+4970	what is <e> 's place of origin
+/people/person/nationality
+
+
+4978	what latin city is <e> from
+/people/person/place_of_birth
+
+
+4983	where was <e> born
+/people/person/place_of_birth
+
+
+4989	what is the nationality of <e>
+/people/person/nationality
+
+
+4995	which natinoality is <e>
+/people/person/nationality
+
+
+5026	where was <e> born
+/people/person/place_of_birth
+
+
+5068	where was <e> born
+/people/person/place_of_birth
+
+
+5102	where was <e> born
+/people/person/place_of_birth
+
+
+5108	where was <e> born
+/people/person/place_of_birth
+
+
+5133	where is <e> from
+/people/person/nationality
+
+
+5164	where was <e> born
+/people/person/place_of_birth
+
+
+5178	where is <e> from
+/people/person/nationality
+
+
+5208	<e> is a citizen of what european country
+/people/person/nationality
+
+
+5248	what is <e> 's nationality
+/people/person/nationality
+
+
+5250	where was <e> birthed
+/people/person/place_of_birth
+
+
+5262	where was <e> born
+/people/person/place_of_birth
+
+
+5277	what is the nationality of <e>
+/people/person/nationality
+
+
+5317	where was <e> born
+/people/person/place_of_birth
+
+
+5351	which south american nation is <e> place of death
+/people/person/place_of_birth
+
+
+5371	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+5375	where was <e> born
+/people/person/place_of_birth
+
+
+5400	what is the nationality of <e>
+/people/person/nationality
+
+
+5425	where was <e> born
+/people/person/place_of_birth
+
+
+5428	what is the nationality of <e>
+/people/person/nationality
+
+
+5441	of what nationality is <e>
+/people/person/nationality
+
+
+5443	where was <e> born
+/people/person/place_of_birth
+
+
+5445	where was <e> born
+/people/person/place_of_birth
+
+
+5452	what is the nationality of <e>
+/people/person/nationality
+
+
+5493	where was <e> born
+/people/person/place_of_birth
+
+
+5504	what country is <e> from
+/people/person/nationality
+
+
+5516	which country was <e> from
+/people/person/nationality
+
+
+5542	where was <e> born
+/people/person/place_of_birth
+
+
+5550	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+5551	where was <e> born
+/people/person/place_of_birth
+
+
+5575	where was <e> born
+/people/person/place_of_birth
+
+
+5583	what is the nationality of <e>
+/people/person/nationality
+
+
+5584	what nation is <e> from
+/people/person/nationality
+
+
+5588	where was <e> born
+/people/person/place_of_birth
+
+
+5596	where is <e> from
+/people/person/nationality
+
+
+5631	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+5642	what city was <e> born in
+/people/person/place_of_birth
+
+
+5734	whats <e> 's country of origin
+/people/person/nationality
+
+
+5763	where was <e> born
+/people/person/place_of_birth
+
+
+5766	what country gives <e> his nationality
+/people/person/nationality
+
+
+5781	where was the place of birth of <e>
+/people/person/place_of_birth
+
+
+5783	which nordic country does <e> belong to
+/people/person/nationality
+
+
+5787	what country was <e> born in
+/people/person/place_of_birth
+
+
+5791	which country does <e> come from
+/people/person/nationality
+
+
+5822	where was <e> born
+/people/person/place_of_birth
+
+
+5857	in which city was <e> born
+/people/person/place_of_birth
+
+
+5866	where is <e> originally from
+/people/person/place_of_birth
+
+
+5872	where is <e> from
+/people/person/nationality
+
+
+5897	what is the nationality of <e>
+/people/person/nationality
+
+
+5902	what country is <e> from
+/people/person/nationality
+
+
+5906	where was <e> born
+/people/person/place_of_birth
+
+
+5923	where is <e> from
+/people/person/place_of_birth
+
+
+5924	what is the nationality of <e>
+/people/person/nationality
+
+
+5930	what is <e> 's place of origin
+/people/person/nationality
+
+
+5941	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+5949	where was <e> born
+/people/person/place_of_birth
+
+
+5953	what country gives <e> his nationality
+/people/person/nationality
+
+
+5985	where was <e> born at
+/people/person/place_of_birth
+
+
+6038	where is the birth place of <e>
+/people/person/place_of_birth
+
+
+6056	where was <e> born
+/people/person/place_of_birth
+
+
+6060	where was <e> born at
+/people/person/place_of_birth
+
+
+6071	what city was <e> born
+/people/person/place_of_birth
+
+
+6077	what city and china was <e> born
+/people/person/place_of_birth
+
+
+6093	what country is <e> ( politician ) from
+/people/person/nationality
+
+
+6098	what is the nationality of <e>
+/people/person/nationality
+
+
+6141	what country is <e> from
+/people/person/nationality
+
+
+6150	what is <e> 's nationality
+/people/person/nationality
+
+
+6207	which european nation does <e> belong to
+/people/person/nationality
+
+
+6221	what is the nationality of <e>
+/people/person/nationality
+
+
+6231	where was the <e> born
+/people/person/place_of_birth
+
+
+6244	where was <e> born
+/people/person/place_of_birth
+
+
+6252	where was <e> born
+/people/person/place_of_birth
+
+
+6265	where was <e> born
+/people/person/place_of_birth
+
+
+6320	where in italy was <e> born
+/people/person/place_of_birth
+
+
+6352	which city in europe was <e> born in
+/people/person/place_of_birth
+
+
+6357	what is <e> place of birth
+/people/person/place_of_birth
+
+
+6376	in what city was <e> born
+/people/person/place_of_birth
+
+
+6384	name the nationality of <e>
+/people/person/nationality
+
+
+6389	what nationality is <e>
+/people/person/nationality
+
+
+6397	what country is <e> from
+/people/person/nationality
+
+
+6421	where was <e> born
+/people/person/place_of_birth
+
+
+6436	where is <e> from
+/people/person/nationality
+
+
+6456	where was <e> born
+/people/person/place_of_birth
+
+
+6475	which country is <e> from
+/people/person/nationality
+
+
+6485	what is the nationality of <e>
+/people/person/nationality
+
+
+6514	what is <e> 's nationality
+/people/person/nationality
+
+
+6516	where was <e> born
+/people/person/place_of_birth
+
+
+6526	what is <e> country of nationality
+/people/person/nationality
+
+
+6553	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+6599	what country is <e> from
+/people/person/nationality
+
+
+6619	what country is <e> from
+/people/person/nationality
+
+
+6640	where was <e> born
+/people/person/place_of_birth
+
+
+6645	what is the nationality of <e>
+/people/person/nationality
+
+
+6677	from which country is <e> from
+/people/person/nationality
+
+
+6694	what is <e> nationality
+/people/person/nationality
+
+
+6697	which country was <e> from
+/people/person/nationality
+
+
+6711	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+6715	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+6717	what is <e> 's nationality
+/people/person/nationality
+
+
+6738	which nationality is <e>
+/people/person/nationality
+
+
+6782	what is <e> 's nationality
+/people/person/nationality
+
+
+6799	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+6835	where was <e> born
+/people/person/place_of_birth
+
+
+6836	what is <e> 's nationality
+/people/person/nationality
+
+
+6887	what nationality is <e>
+/people/person/nationality
+
+
+6923	where in australia was <e> born in
+/people/person/place_of_birth
+
+
+6926	what city in new york was <e> born in
+/people/person/place_of_birth
+
+
+7004	where was <e> born
+/people/person/place_of_birth
+
+
+7053	where was <e> born
+/people/person/place_of_birth
+
+
+7090	where was <e> born
+/people/person/place_of_birth
+
+
+7103	what is the nationality of <e>
+/people/person/nationality
+
+
+7113	where is <e> from
+/people/person/nationality
+
+
+7132	which country is <e> from
+/people/person/nationality
+
+
+7134	which country is <e> from
+/people/person/nationality
+
+
+7146	which country does <e> have nationality in
+/people/person/nationality
+
+
+7147	what is the nationality of <e>
+/people/person/nationality
+
+
+7162	in what city of suriname was <e> born
+/people/person/place_of_birth
+
+
+7169	what is the nationality of <e>
+/people/person/nationality
+
+
+7180	which country is <e> from
+/people/person/nationality
+
+
+7186	what nationality is <e>
+/people/person/nationality
+
+
+7201	what is <e> 's nationality
+/people/person/nationality
+
+
+7206	where was <e> born at
+/people/person/place_of_birth
+
+
+7207	which country was <e> born in
+/people/person/nationality
+
+
+7222	<e> was born in which mexican city
+/people/person/place_of_birth
+
+
+7290	what nationality is <e>
+/people/person/nationality
+
+
+7344	in which city and state was <e> born
+/people/person/place_of_birth
+
+
+7416	which city was <e> born
+/people/person/place_of_birth
+
+
+7420	where was the place of birth of <e>
+/people/person/place_of_birth
+
+
+7435	which country was <e> born
+/people/person/place_of_birth
+
+
+7436	where was <e> born
+/people/person/place_of_birth
+
+
+7443	what is <e> 's nationality
+/people/person/nationality
+
+
+7444	what country is the italian <e> from
+/people/person/nationality
+
+
+7479	where was <e> born
+/people/person/place_of_birth
+
+
+7491	which city was <e> born in
+/people/person/place_of_birth
+
+
+7527	where is the place of birth of <e>
+/people/person/place_of_birth
+
+
+7558	which city was <e> born in
+/people/person/place_of_birth
+
+
+7581	what nation is <e> from
+/people/person/nationality
+
+
+7582	which county in pennsylvania is <e> from
+/people/person/place_of_birth
+
+
+7616	what is <e> 's nationality
+/people/person/nationality
+
+
+7623	which city was <e> born
+/people/person/place_of_birth
+
+
+7626	what city was <e> born in
+/people/person/place_of_birth
+
+
+7628	where was <e> born
+/people/person/place_of_birth
+
+
+7645	where was <e> born
+/people/person/place_of_birth
+
+
+7671	where is <e> nationality of origin
+/people/person/nationality
+
+
+7701	what is the nationality of journalist <e>
+/people/person/nationality
+
+
+7730	where was <e> born
+/people/person/place_of_birth
+
+
+7737	where was <e> born
+/people/person/place_of_birth
+
+
+7756	is <e> from argentina or costa rica
+/people/person/nationality
+
+
+7761	is <e> from the united kingdom or france
+/people/person/nationality
+
+
+7777	what country is <e> from
+/people/person/place_of_birth
+
+
+7794	what is the nationality of <e>
+/people/person/nationality
+
+
+7813	where was <e> born
+/people/person/place_of_birth
+
+
+7842	which city was <e> born
+/people/person/place_of_birth
+
+
+7875	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+7881	where was <e> born
+/people/person/place_of_birth
+
+
+7895	which country is <e> from
+/people/person/nationality
+
+
+7903	where was <e> born
+/people/person/place_of_birth
+
+
+7908	where was <e> 's first breath taken
+/people/person/place_of_birth
+
+
+7936	which country is <e> originally from
+/people/person/place_of_birth
+
+
+7954	what nationality is <e>
+/people/person/nationality
+
+
+7964	where was <e> born
+/people/person/place_of_birth
+
+
+7982	what was <e> born
+/people/person/place_of_birth
+
+
+7991	what nation does <e> claim nationality from
+/people/person/nationality
+
+
+8000	what is <e> 's nationality
+/people/person/nationality
+
+
+8030	which city was was <e> born
+/people/person/place_of_birth
+
+
+8050	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+8069	where does <e> claim nationality
+/people/person/nationality
+
+
+8091	which city was <e> born
+/people/person/place_of_birth
+
+
+8133	what city was <e> born in
+/people/person/place_of_birth
+
+
+8155	which caribbean country is <e> from
+/people/person/nationality
+
+
+8158	what is <e> european nationality
+/people/person/nationality
+
+
+8160	which country is <e> from
+/people/person/nationality
+
+
+8199	where is <e> from originally
+/people/person/nationality
+
+
+8221	what nationality is <e>
+/people/person/nationality
+
+
+8233	where is <e> from
+/people/person/nationality
+
+
+8240	which country is <e> from
+/people/person/nationality
+
+
+8265	where was the birthplace of <e>
+/people/person/place_of_birth
+
+
+8278	which country is <e> from
+/people/person/nationality
+
+
+8280	what is <e> 's birthplace
+/people/person/place_of_birth
+
+
+8289	which us state is <e> 's birthplace
+/people/person/place_of_birth
+
+
+8292	where was <e> born
+/people/person/place_of_birth
+
+
+8302	what is <e> nationality
+/people/person/nationality
+
+
+8308	which country is <e> from
+/people/person/nationality
+
+
+8309	what city in texas was <e> born in
+/people/person/place_of_birth
+
+
+8348	in which midwestern city was <e> born
+/people/person/place_of_birth
+
+
+8350	<e> is of what nationality
+/people/person/nationality
+
+
+8354	where was the <e> born
+/people/person/place_of_birth
+
+
+8376	what country is <e> from
+/people/person/nationality
+
+
+8380	where was <e> born
+/people/person/place_of_birth
+
+
+8381	what country is <e> from
+/people/person/nationality
+
+
+8413	what is <e> 's country of nationality
+/people/person/nationality
+
+
+8415	which country is <e> from
+/people/person/nationality
+
+
+8421	where does <e> hail from
+/people/person/nationality
+
+
+8435	where was <e> born
+/people/person/place_of_birth
+
+
+8441	where is <e> from
+/people/person/nationality
+
+
+8472	where was <e> born
+/people/person/place_of_birth
+
+
+8486	where was <e> born
+/people/person/place_of_birth
+
+
+8513	which nationality does <e> belong to
+/people/person/nationality
+
+
+8515	what country is <e> from originally
+/people/person/nationality
+
+
+8563	where was <e> born
+/people/person/place_of_birth
+
+
+8567	what israeli city is <e> from
+/people/person/place_of_birth
+
+
+8585	which country is <e> from
+/people/person/nationality
+
+
+8588	what city was <e> born in
+/people/person/place_of_birth
+
+
+8597	where was <e> born
+/people/person/place_of_birth
+
+
+8621	what nationality is <e>
+/people/person/nationality
+
+
+8630	what is the nationality of <e>
+/people/person/nationality
+
+
+8655	where did <e> 's life start
+/people/person/place_of_birth
+
+
+8666	which country is <e> from
+/people/person/nationality
+
+
+8668	what nationality was <e>
+/people/person/nationality
+
+
+8676	what is the nationality of someone from <e>
+/people/person/nationality
+
+
+8677	where was <e> born
+/people/person/place_of_birth
+
+
+8680	where was <e> born
+/people/person/place_of_birth
+
+
+8707	<e> was born in what city that is home to the eiffel tower
+/people/person/place_of_birth
+
+
+8720	where was hungarian football player <e> born
+/people/person/place_of_birth
+
+
+8724	which country is <e> from
+/people/person/nationality
+
+
+8748	where was <e> born
+/people/person/place_of_birth
+
+
+8754	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+8757	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+8781	where in michigan was <e> born
+/people/person/place_of_birth
+
+
+8784	where was <e> from
+/people/person/place_of_birth
+
+
+8807	what country is <e> from
+/people/person/nationality
+
+
+8833	where was <e> born
+/people/person/place_of_birth
+
+
+8891	where is <e> form
+/people/person/nationality
+
+
+8903	what country was <e> born
+/people/person/nationality
+
+
+8905	where is <e> from
+/people/person/nationality
+
+
+8907	where is <e> from
+/people/person/nationality
+
+
+8931	where was <e> born
+/people/person/place_of_birth
+
+
+8935	what country is <e> from
+/people/person/nationality
+
+
+8964	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+8968	what is the nationality of <e>
+/people/person/nationality
+
+
+9018	where was <e> born
+/people/person/place_of_birth
+
+
+9022	where was <e> born
+/people/person/place_of_birth
+
+
+9033	what country is <e> from
+/people/person/nationality
+
+
+9050	what country was <e> born in
+/people/person/place_of_birth
+
+
+9055	what country was <e> born in
+/people/person/place_of_birth
+
+
+9062	where was <e> born
+/people/person/place_of_birth
+
+
+9071	which country is <e> from
+/people/person/nationality
+
+
+9080	where was <e> born
+/people/person/place_of_birth
+
+
+9082	what country is <e> a citizen of
+/people/person/nationality
+
+
+9114	what was the place of birth of <e>
+/people/person/place_of_birth
+
+
+9116	where was <e> born
+/people/person/place_of_birth
+
+
+9117	what country gave <e> his or her nationality
+/people/person/nationality
+
+
+9144	in which northern french city was <e> born
+/people/person/place_of_birth
+
+
+9148	where was <e> birthed
+/people/person/place_of_birth
+
+
+9155	where in england was <e> born
+/people/person/place_of_birth
+
+
+9190	what country is <e> from
+/people/person/nationality
+
+
+9212	what country gives <e> his nationality
+/people/person/nationality
+
+
+9214	what country is <e> from
+/people/person/nationality
+
+
+9216	where was <e> born
+/people/person/place_of_birth
+
+
+9220	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+9250	what is <e> 's nationality
+/people/person/nationality
+
+
+9273	which country is <e> from
+/people/person/nationality
+
+
+9274	where is <e> from
+/people/person/nationality
+
+
+9275	where was <e> born at
+/people/person/place_of_birth
+
+
+9303	what city was <e> given birth in
+/people/person/place_of_birth
+
+
+9308	where was <e> born
+/people/person/place_of_birth
+
+
+9321	where was <e> born
+/people/person/place_of_birth
+
+
+9363	which country was <e> from
+/people/person/nationality
+
+
+9376	what city was <e> born in
+/people/person/place_of_birth
+
+
+9377	what is <e> 's nationality
+/people/person/nationality
+
+
+9385	where was <e> given birth
+/people/person/place_of_birth
+
+
+9399	what is <e> 's nationality
+/people/person/nationality
+
+
+9445	what is <e> 's place of birth in europe
+/people/person/place_of_birth
+
+
+9448	where was <e> born in
+/people/person/place_of_birth
+
+
+9463	where was <e> born
+/people/person/place_of_birth
+
+
+9465	where was <e> born
+/people/person/place_of_birth
+
+
+9487	where was <e> born
+/people/person/place_of_birth
+
+
+9491	where was <e> born
+/people/person/place_of_birth
+
+
+9504	what country is <e> from
+/people/person/nationality
+
+
+9510	what city in westchester county is <e> from
+/people/person/place_of_birth
+
+
+9567	where was <e> born
+/people/person/place_of_birth
+
+
+9575	what country is <e> from
+/people/person/nationality
+
+
+9582	what is the nationality of <e>
+/people/person/nationality
+
+
+9602	which country is <e> from
+/people/person/nationality
+
+
+9620	which russian city was <e> born in
+/people/person/place_of_birth
+
+
+9623	what is <e> 's nationality
+/people/person/nationality
+
+
+9647	where in brazil was <e> born
+/people/person/place_of_birth
+
+
+9664	what is the nationality of <e>
+/people/person/nationality
+
+
+9675	where was <e> born
+/people/person/place_of_birth
+
+
+9676	where in austria was <e> born
+/people/person/place_of_birth
+
+
+9738	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+9767	what is the nationality of <e>
+/people/person/nationality
+
+
+9773	what country is <e> from
+/people/person/nationality
+
+
+9797	where was <e> born
+/people/person/place_of_birth
+
+
+9814	what nationality is <e>
+/people/person/nationality
+
+
+9846	which netherlands city was <e> born in
+/people/person/place_of_birth
+
+
+9872	where is <e> from
+/people/person/nationality
+
+
+9896	where was <e> born
+/people/person/place_of_birth
+
+
+9933	which country does <e> have nationality in
+/people/person/nationality
+
+
+9935	which country was <e> born in
+/people/person/nationality
+
+
+9938	what is the nationality of <e>
+/people/person/nationality
+
+
+9973	what is <e> 's nationality
+/people/person/nationality
+
+
+9974	what is <e> 's country of nationality
+/people/person/nationality
+
+
+9984	where was <e> born
+/people/person/place_of_birth
+
+
+9997	what is <e> 's nationality
+/people/person/nationality
+
+
+10047	what is <e> 's nationality
+/people/person/nationality
+
+
+10064	what city was <e> born in
+/people/person/place_of_birth
+
+
+10085	which city was <e> born in
+/people/person/place_of_birth
+
+
+10100	where was <e> born
+/people/person/place_of_birth
+
+
+10102	what country is <e> a citizen of
+/people/person/nationality
+
+
+10103	where is <e> from
+/people/person/place_of_birth
+
+
+10119	where was <e> born
+/people/person/place_of_birth
+
+
+10131	what is <e> 's nationality
+/people/person/nationality
+
+
+10169	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+10196	what is <e> 's nationality
+/people/person/nationality
+
+
+10200	what is <e> 's nationality
+/people/person/nationality
+
+
+10215	which country does <e> belong to
+/people/person/nationality
+
+
+10221	was <e> born in manhattan or boston
+/people/person/place_of_birth
+
+
+10277	where in europe is <e> from
+/people/person/nationality
+
+
+10285	where was <e> born
+/people/person/place_of_birth
+
+
+10294	what is <e> 's nationality
+/people/person/nationality
+
+
+10295	where is <e> from
+/people/person/nationality
+
+
+10306	what is <e> 's nationality
+/people/person/nationality
+
+
+10308	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+10316	what country is <e> from
+/people/person/nationality
+
+
+10337	where is <e> from
+/people/person/nationality
+
+
+10396	where was actor <e> born in
+/people/person/place_of_birth
+
+
+10416	which country is <e> from
+/people/person/nationality
+
+
+10432	where was <e> born
+/people/person/place_of_birth
+
+
+10459	where was <e> born
+/people/person/place_of_birth
+
+
+10466	which country is <e> from
+/people/person/nationality
+
+
+10472	where was <e> born
+/people/person/place_of_birth
+
+
+10486	where was <e> born
+/people/person/place_of_birth
+
+
+10495	which nationality is <e>
+/people/person/nationality
+
+
+10501	where was <e> born
+/people/person/place_of_birth
+
+
+10549	where was <e> born
+/people/person/place_of_birth
+
+
+10552	what is <e> 's nationality
+/people/person/nationality
+
+
+10561	which city was <e> born in
+/people/person/place_of_birth
+
+
+10569	which state was <e> born
+/people/person/place_of_birth
+
+
+10577	where is <e> originally from
+/people/person/nationality
+
+
+10601	what city was <e> born in
+/people/person/place_of_birth
+
+
+10604	which middle eastern city was <e> born in
+/people/person/place_of_birth
+
+
+10630	which country is <e> from
+/people/person/nationality
+
+
+10635	where was <e> born
+/people/person/place_of_birth
+
+
+10637	what italian city was the place of birth of <e>
+/people/person/place_of_birth
+
+
+10642	what country was <e> from
+/people/person/nationality
+
+
+10676	which northern country was <e> born in
+/people/person/place_of_birth
+
+
+10677	where was <e> born in
+/people/person/place_of_birth
+
+
+10678	where in california was <e> born
+/people/person/place_of_birth
+
+
+10689	what is <e> 's nationality
+/people/person/nationality
+
+
+10725	where was <e> born
+/people/person/place_of_birth
+
+
+10765	what is the nationality of <e>
+/people/person/nationality
+
+
+10781	where in italy was <e> born
+/people/person/place_of_birth
+
+
+10800	what country is <e> from
+/people/person/nationality
+
+
+10846	where was <e> born
+/people/person/place_of_birth
+
+
+10847	what is the nationality of <e>
+/people/person/nationality
+
+
+10857	where was <e> born
+/people/person/place_of_birth
+
+
+10858	what is <e> 's country of nationality
+/people/person/nationality
+
+
+10864	where was <e> born
+/people/person/place_of_birth
+
+
+10871	where was <e> born
+/people/person/place_of_birth
+
+
+10876	where was <e> born
+/people/person/place_of_birth
+
+
+10880	which country did <e> have nationality
+/people/person/nationality
+
+
+10900	where was <e> born
+/people/person/place_of_birth
+
+
+10910	where is <e> from
+/people/person/nationality
+
+
+10912	where was <e> born
+/people/person/place_of_birth
+
+
+10927	what country is <e> from
+/people/person/nationality
+
+
+10935	what nation is <e> from
+/people/person/nationality
+
+
+10986	what north american country was <e> born into
+/people/person/nationality
+
+
+11006	which country is <e> from
+/people/person/nationality
+
+
+11022	what nation is <e> from
+/people/person/nationality
+
+
+11035	what country was <e> ( governor ) born in
+/people/person/nationality
+
+
+11055	where is <e> from
+/people/person/nationality
+
+
+11071	where was <e> born
+/people/person/place_of_birth
+
+
+11074	where was <e> born
+/people/person/place_of_birth
+
+
+11088	what nationality is <e>
+/people/person/nationality
+
+
+11093	which nationality is <e>
+/people/person/nationality
+
+
+11095	what is <e> 's birth place
+/people/person/place_of_birth
+
+
+11102	where is <e> 's country of nationality
+/people/person/nationality
+
+
+11121	where is <e> from
+/people/person/nationality
+
+
+11126	where exactly was <e> born
+/people/person/place_of_birth
+
+
+11164	where was <e> born
+/people/person/place_of_birth
+
+
+11201	what american country does <e> claim nationality
+/people/person/nationality
+
+
+11204	which state was <e> born
+/people/person/place_of_birth
+
+
+11233	what is <e> 's country of nationality
+/people/person/nationality
+
+
+11234	where is <e> from
+/people/person/nationality
+
+
+11246	where was <e> born
+/people/person/place_of_birth
+
+
+11253	where is <e> from
+/people/person/nationality
+
+
+11329	what is <e> 's birthplace
+/people/person/place_of_birth
+
+
+11341	which country is <e> from
+/people/person/nationality
+
+
+11373	where is <e> from
+/people/person/nationality
+
+
+11383	what country is <e> from
+/people/person/nationality
+
+
+11402	where is <e> from
+/people/person/nationality
+
+
+11405	which city was <e> born in
+/people/person/place_of_birth
+
+
+11412	where was <e> born
+/people/person/place_of_birth
+
+
+11431	what country is <e> from
+/people/person/nationality
+
+
+11458	what is the nationality of <e>
+/people/person/nationality
+
+
+11462	where was <e> born
+/people/person/place_of_birth
+
+
+11464	what is the nationality of <e>
+/people/person/nationality
+
+
+11475	where was <e> born in
+/people/person/place_of_birth
+
+
+11481	which nationality is <e>
+/people/person/nationality
+
+
+11492	what is <e> 's nationality
+/people/person/nationality
+
+
+11504	where was <e> born
+/people/person/place_of_birth
+
+
+11509	what nationality is <e>
+/people/person/nationality
+
+
+11519	where was <e> born
+/people/person/nationality
+
+
+11546	where was <e> born
+/people/person/place_of_birth
+
+
+11550	which city was <e> born in
+/people/person/place_of_birth
+
+
+11560	where was <e> born
+/people/person/place_of_birth
+
+
+11567	where was <e> born in
+/people/person/place_of_birth
+
+
+11580	where was <e> born
+/people/person/place_of_birth
+
+
+11585	which european country is <e> from
+/people/person/nationality
+
+
+11609	what is <e> 's nationality
+/people/person/nationality
+
+
+11647	which country is <e> from
+/people/person/nationality
+
+
+11656	what country is <e> from
+/people/person/nationality
+
+
+11678	where was <e> born
+/people/person/place_of_birth
+
+
+11705	where was <e> born
+/people/person/place_of_birth
+
+
+11717	what is <e> 's nationality
+/people/person/nationality
+
+
+11743	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+11751	where was <e> born
+/people/person/place_of_birth
+
+
+11752	what is <e> 's nationality
+/people/person/nationality
+
+
+11758	in which city of new jersey was <e> born
+/people/person/place_of_birth
+
+
+11782	what is the name of the city where <e> was born
+/people/person/place_of_birth
+
+
+11801	which country is <e> from
+/people/person/nationality
+
+
+11826	what is the nationality of <e>
+/people/person/nationality
+
+
+11843	what nationality is <e>
+/people/person/nationality
+
+
+11845	where was the birth place of <e>
+/people/person/place_of_birth
+
+
+11846	where was <e> born
+/people/person/place_of_birth
+
+
+11852	what city was <e> born in
+/people/person/place_of_birth
+
+
+11856	what is the country that <e> claims nationality
+/people/person/nationality
+
+
+11869	which country was <e> born in
+/people/person/place_of_birth
+
+
+11872	what is <e> 's country of nationality
+/people/person/nationality
+
+
+11873	where was <e> born
+/people/person/place_of_birth
+
+
+11939	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+11961	what is <e> 's nationality
+/people/person/nationality
+
+
+11977	what is <e> 's nationality
+/people/person/nationality
+
+
+11983	according to records , where was <e> born
+/people/person/place_of_birth
+
+
+11988	what is <e> 's nationality
+/people/person/nationality
+
+
+11991	where was <e> born
+/people/person/place_of_birth
+
+
+12010	what nationality is <e>
+/people/person/nationality
+
+
+12059	where is <e> from
+/people/person/nationality
+
+
+12061	what is <e> birthplace
+/people/person/place_of_birth
+
+
+12096	what is <e> 's nationality
+/people/person/nationality
+
+
+12148	where was <e> born at
+/people/person/place_of_birth
+
+
+12150	what is <e> 's nationality
+/people/person/nationality
+
+
+12161	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+12192	what country was <e> born in
+/people/person/place_of_birth
+
+
+12214	which country is <e> ( politician ) from
+/people/person/nationality
+
+
+12216	which city and country was <e> born in
+/people/person/place_of_birth
+
+
+12224	where was <e> born
+/people/person/place_of_birth
+
+
+12239	what is the nationality of <e>
+/people/person/nationality
+
+
+12253	<e> is from which country
+/people/person/nationality
+
+
+12268	where was <e> born
+/people/person/place_of_birth
+
+
+12271	where was <e> born
+/people/person/place_of_birth
+
+
+12283	what nationality is <e>
+/people/person/nationality
+
+
+12293	what country gives <e> her nationality
+/people/person/nationality
+
+
+12302	where was <e> born
+/people/person/place_of_birth
+
+
+12316	where was the birthplace of <e>
+/people/person/place_of_birth
+
+
+12327	what is <e> ( singer ) 's nationality
+/people/person/nationality
+
+
+12337	what nationality is <e>
+/people/person/nationality
+
+
+12387	where was <e> born
+/people/person/place_of_birth
+
+
+12388	where was <e> born
+/people/person/place_of_birth
+
+
+12391	what is the nationality of <e>
+/people/person/nationality
+
+
+12393	where was <e> born
+/people/person/place_of_birth
+
+
+12397	where city was <e> born in
+/people/person/place_of_birth
+
+
+12409	where was <e> born
+/people/person/place_of_birth
+
+
+12419	where was <e> born
+/people/person/place_of_birth
+
+
+12431	where was <e> born
+/people/person/place_of_birth
+
+
+12445	where is <e> from
+/people/person/nationality
+
+
+12447	of which nationality is <e>
+/people/person/nationality
+
+
+12470	where was <e> born
+/people/person/place_of_birth
+
+
+12499	where was <e> born
+/people/person/place_of_birth
+
+
+12509	where is <e> from
+/people/person/nationality
+
+
+12515	where in scandinavia is <e> from
+/people/person/nationality
+
+
+12536	what country is <e> from
+/people/person/nationality
+
+
+12537	what is the nationality of <e>
+/people/person/nationality
+
+
+12550	what country gives nationality to <e>
+/people/person/nationality
+
+
+12555	where was <e> born
+/people/person/place_of_birth
+
+
+12566	what nationality is <e>
+/people/person/nationality
+
+
+12578	which country was <e> born in
+/people/person/place_of_birth
+
+
+12587	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+12592	is <e> from sweden or finland
+/people/person/nationality
+
+
+12606	where was <e> born
+/people/person/place_of_birth
+
+
+12667	where was <e> born
+/people/person/place_of_birth
+
+
+12676	where was <e> born
+/people/person/place_of_birth
+
+
+12687	<e> claims nationality from which nation
+/people/person/nationality
+
+
+12690	what is <e> 's nationality
+/people/person/nationality
+
+
+12734	what city is <e> from
+/people/person/place_of_birth
+
+
+12736	what nationality is <e>
+/people/person/nationality
+
+
+12747	where was <e> born
+/people/person/place_of_birth
+
+
+12754	what nation is <e> from
+/people/person/nationality
+
+
+12757	which country is <e> from
+/people/person/nationality
+
+
+12778	where was <e> born
+/people/person/place_of_birth
+
+
+12791	what is <e> 's nationality
+/people/person/nationality
+
+
+12804	where was <e> born
+/people/person/place_of_birth
+
+
+12845	what is <e> 's nationality
+/people/person/nationality
+
+
+12849	what is <e> 's country of origin
+/people/person/nationality
+
+
+12869	what country is <e> from
+/people/person/nationality
+
+
+12886	what country gives nationality to <e>
+/people/person/nationality
+
+
+12890	which country is <e> from
+/people/person/nationality
+
+
+12891	what is <e> nationality
+/people/person/nationality
+
+
+12908	where was <e> born
+/people/person/place_of_birth
+
+
+13046	what is the nationality of <e>
+/people/person/nationality
+
+
+13058	where was <e> born
+/people/person/place_of_birth
+
+
+13068	which city was <e> born
+/people/person/place_of_birth
+
+
+13076	where was <e> born
+/people/person/place_of_birth
+
+
+13095	what is <e> 's birth place
+/people/person/place_of_birth
+
+
+13125	in what city was <e> born
+/people/person/place_of_birth
+
+
+13132	what country is <e> from
+/people/person/nationality
+
+
+13134	what is <e> 's nationality
+/people/person/nationality
+
+
+13146	where is <e> from
+/people/person/nationality
+
+
+13157	what state did <e> originate from
+/people/person/place_of_birth
+
+
+13171	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+13208	what is <e> 's nationality
+/people/person/nationality
+
+
+13219	where was <e> born
+/people/person/place_of_birth
+
+
+13226	what is <e> 's nationality
+/people/person/nationality
+
+
+13243	where was <e> born
+/people/person/place_of_birth
+
+
+13281	where was <e> born
+/people/person/place_of_birth
+
+
+13290	what is <e> 's nationality
+/people/person/nationality
+
+
+13311	whats the nationality of <e>
+/people/person/nationality
+
+
+13323	where was <e> born
+/people/person/place_of_birth
+
+
+13353	what is <e> 's nationality
+/people/person/nationality
+
+
+13356	is <e> a citizen of the united states or australia
+/people/person/nationality
+
+
+13360	where was <e> born
+/people/person/place_of_birth
+
+
+13368	what is <e> 's nationality
+/people/person/nationality
+
+
+13374	what is the nationality of <e>
+/people/person/nationality
+
+
+13386	which country is <e> from
+/people/person/nationality
+
+
+13400	what is the nationality of <e>
+/people/person/nationality
+
+
+13406	where was <e> born
+/people/person/place_of_birth
+
+
+13409	what nationality is <e>
+/people/person/nationality
+
+
+13413	which country does <e> have nationality in
+/people/person/nationality
+
+
+13419	which country is <e> from
+/people/person/nationality
+
+
+13420	what is <e> 's nationality
+/people/person/nationality
+
+
+13422	what is <e> 's nationality
+/people/person/nationality
+
+
+13436	which nation is <e> from
+/people/person/nationality
+
+
+13466	which city was <e> born
+/people/person/place_of_birth
+
+
+13505	what nationality is <e>
+/people/person/nationality
+
+
+13516	which country was <e> born in
+/people/person/place_of_birth
+
+
+13522	where 's <e> from
+/people/person/nationality
+
+
+13526	where was <e> originally from
+/people/person/nationality
+
+
+13533	which country was <e> born in
+/people/person/place_of_birth
+
+
+13534	where was <e> born
+/people/person/place_of_birth
+
+
+13606	what north american country is <e> from
+/people/person/nationality
+
+
+13615	what is <e> 's nationality
+/people/person/nationality
+
+
+13619	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+13636	which city was <e> born
+/people/person/place_of_birth
+
+
+13642	what nationality is <e>
+/people/person/nationality
+
+
+13643	where is <e> born
+/people/person/place_of_birth
+
+
+13646	what is <e> 's country of nationality
+/people/person/nationality
+
+
+13648	where was <e> born
+/people/person/place_of_birth
+
+
+13653	which country is <e> from
+/people/person/nationality
+
+
+13676	what is <e> 's nationality
+/people/person/nationality
+
+
+13723	where is <e> from
+/people/person/nationality
+
+
+13731	where was the birthplace of <e>
+/people/person/place_of_birth
+
+
+13740	where was <e> born
+/people/person/place_of_birth
+
+
+13780	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+13810	which country is <e> from
+/people/person/nationality
+
+
+13823	what nationality is <e>
+/people/person/nationality
+
+
+13828	where in brazil was <e> born
+/people/person/place_of_birth
+
+
+13829	which country is <e> from
+/people/person/nationality
+
+
+13835	where country is <e> from
+/people/person/nationality
+
+
+13836	where was <e> born
+/people/person/place_of_birth
+
+
+13872	which country does <e> claim nationality from
+/people/person/nationality
+
+
+13888	which country is <e> from
+/people/person/nationality
+
+
+13966	where is <e> originally from
+/people/person/nationality
+
+
+13984	where is <e> from
+/people/person/nationality
+
+
+13995	which nation is <e> a citizen of
+/people/person/nationality
+
+
+14005	is <e> 's nationality from the united states or mexico
+/people/person/nationality
+
+
+14006	what country is <e> from
+/people/person/nationality
+
+
+14007	where is <e> from
+/people/person/nationality
+
+
+14042	where was basketball player <e> born
+/people/person/place_of_birth
+
+
+14065	where was <e> born
+/people/person/place_of_birth
+
+
+14113	what is the nationality of <e>
+/people/person/nationality
+
+
+14115	where was <e> born
+/people/person/place_of_birth
+
+
+14123	which nationalisty is <e>
+/people/person/nationality
+
+
+14136	where was <e> born
+/people/person/place_of_birth
+
+
+14139	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+14141	what nationality is <e>
+/people/person/nationality
+
+
+14146	where was <e> born
+/people/person/place_of_birth
+
+
+14165	where did <e> die
+/people/person/place_of_birth
+
+
+14182	what is <e> 's nationality
+/people/person/nationality
+
+
+14207	what is <e> 's nationality
+/people/person/nationality
+
+
+14218	what part of italy was <e> born in
+/people/person/place_of_birth
+
+
+14238	in which city was <e> born
+/people/person/place_of_birth
+
+
+14251	what was the nationality of <e>
+/people/person/nationality
+
+
+14262	what country is <e> from
+/people/person/nationality
+
+
+14305	what is <e> ( portuguese footballer ) 's nationality
+/people/person/nationality
+
+
+14312	what country is <e> from
+/people/person/nationality
+
+
+14316	what was the nationality of <e>
+/people/person/nationality
+
+
+14332	what is the birthplace of <e>
+/people/person/place_of_birth
+
+
+14337	what is <e> 's birth place
+/people/person/place_of_birth
+
+
+14344	which state is <e> originally from
+/people/person/place_of_birth
+
+
+14349	which turkey city was <e> born in
+/people/person/place_of_birth
+
+
+14352	where is <e> originally from
+/people/person/nationality
+
+
+14353	where did <e> 's mother give birth to her
+/people/person/place_of_birth
+
+
+14361	what is <e> 's county of nationality
+/people/person/nationality
+
+
+14391	where in california was <e> born
+/people/person/place_of_birth
+
+
+14398	what was <e> 's birthplace
+/people/person/place_of_birth
+
+
+14414	what country is <e> from
+/people/person/nationality
+
+
+14428	what country is <e> from
+/people/person/nationality
+
+
+14491	which nation is <e> from
+/people/person/nationality
+
+
+14518	which country is <e> from
+/people/person/nationality
+
+
+14523	is <e> from the united kingdom or france
+/people/person/nationality
+
+
+14533	what is <e> 's nationality
+/people/person/nationality
+
+
+14553	where was <e> given birth
+/people/person/place_of_birth
+
+
+14592	where is <e> from
+/people/person/nationality
+
+
+14613	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+14626	where was <e> born
+/people/person/place_of_birth
+
+
+14629	where was <e> born
+/people/person/place_of_birth
+
+
+14639	where was <e> born
+/people/person/place_of_birth
+
+
+14661	what country is louis Émile <e> citizen of
+/people/person/nationality
+
+
+14697	what is the nationality of <e>
+/people/person/nationality
+
+
+14743	where was the woman <e> born
+/people/person/place_of_birth
+
+
+14756	where was <e> born
+/people/person/place_of_birth
+
+
+14786	where was the place of birth of <e>
+/people/person/place_of_birth
+
+
+14792	where is <e> from
+/people/person/nationality
+
+
+14793	what is <e> 's nationality
+/people/person/nationality
+
+
+14852	what country is <e> originally from
+/people/person/nationality
+
+
+14889	what country does <e> live
+/people/person/nationality
+
+
+14908	this is the nationality of actress and entertainer <e>
+/people/person/nationality
+
+
+14914	what is the nationality of <e>
+/people/person/nationality
+
+
+14930	where was <e> born
+/people/person/place_of_birth
+
+
+14940	which california city was <e> born in
+/people/person/place_of_birth
+
+
+14946	where is <e> from
+/people/person/nationality
+
+
+14961	what nationality is <e>
+/people/person/nationality
+
+
+14973	where was <e> born
+/people/person/place_of_birth
+
+
+14978	what nationality is <e>
+/people/person/nationality
+
+
+14986	where was <e> born
+/people/person/place_of_birth
+
+
+14992	what nationality does <e> belong to
+/people/person/nationality
+
+
+15016	where was <e> born
+/people/person/place_of_birth
+
+
+15025	this city in belgium is where actor <e> was born
+/people/person/place_of_birth
+
+
+15061	which city in california was <e> born in
+/people/person/place_of_birth
+
+
+15086	what is <e> 's nationality
+/people/person/nationality
+
+
+15087	what country does <e> get his nationality from
+/people/person/nationality
+
+
+15124	what city is the birth place of <e>
+/people/person/place_of_birth
+
+
+15129	what nationality is <e>
+/people/person/nationality
+
+
+15148	where was <e> born
+/people/person/place_of_birth
+
+
+15162	where was <e> born
+/people/person/place_of_birth
+
+
+15193	what location was <e> born in
+/people/person/place_of_birth
+
+
+15199	where was <e> born
+/people/person/place_of_birth
+
+
+15207	what is <e> 's country of origin
+/people/person/nationality
+
+
+15225	what nationality is <e>
+/people/person/nationality
+
+
+15245	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+15249	what is the nationality of <e>
+/people/person/nationality
+
+
+15250	what country is <e> from
+/people/person/nationality
+
+
+15263	what is the birth place of <e>
+/people/person/place_of_birth
+
+
+15330	what is the nationality of <e>
+/people/person/nationality
+
+
+15350	where was <e> born
+/people/person/place_of_birth
+
+
+15354	which city was <e> born in
+/people/person/place_of_birth
+
+
+15363	what country is <e> from
+/people/person/nationality
+
+
+15372	what country gives nationality to <e>
+/people/person/nationality
+
+
+15375	what nationality is <e>
+/people/person/nationality
+
+
+15381	what was the place of birth of <e>
+/people/person/place_of_birth
+
+
+15390	where was <e> 's birth place
+/people/person/place_of_birth
+
+
+15427	what is the nationality of <e>
+/people/person/nationality
+
+
+15429	what is <e> 's nationality
+/people/person/nationality
+
+
+15440	where was <e> birthed
+/people/person/place_of_birth
+
+
+15448	where is <e> from
+/people/person/nationality
+
+
+15464	what country is <e> from
+/people/person/nationality
+
+
+15508	what is <e> 's nationality
+/people/person/nationality
+
+
+15556	where is <e> from
+/people/person/nationality
+
+
+15560	where was <e> given birth
+/people/person/place_of_birth
+
+
+15564	which country is <e> from
+/people/person/nationality
+
+
+15569	what country is <e> from
+/people/person/nationality
+
+
+15617	where was <e> born
+/people/person/place_of_birth
+
+
+15630	what is the nationality of <e>
+/people/person/nationality
+
+
+15716	what is <e> 's nationality
+/people/person/nationality
+
+
+15722	what is <e> nationality
+/people/person/nationality
+
+
+15750	what is the place of birth for <e>
+/people/person/place_of_birth
+
+
+15781	what nationality is <e>
+/people/person/nationality
+
+
+15792	what nationality is <e>
+/people/person/nationality
+
+
+15799	where is <e> from
+/people/person/nationality
+
+
+15830	which country was <e> born in
+/people/person/place_of_birth
+
+
+15838	what country is <e> originally from
+/people/person/nationality
+
+
+15839	which city was <e> born
+/people/person/place_of_birth
+
+
+15853	where is <e> from
+/people/person/nationality
+
+
+15866	where was <e> born
+/people/person/place_of_birth
+
+
+15901	what is <e> 's nationality
+/people/person/nationality
+
+
+15908	what country does <e> declare nationality
+/people/person/nationality
+
+
+15910	where is <e> from
+/people/person/nationality
+
+
+15923	what was the place of birth of <e>
+/people/person/place_of_birth
+
+
+15956	what is <e> 's nationality
+/people/person/nationality
+
+
+15996	what is the nationality of <e>
+/people/person/nationality
+
+
+16003	where was <e> born
+/people/person/place_of_birth
+
+
+16040	which country was <e> born in
+/people/person/place_of_birth
+
+
+16045	what is <e> 's nationality
+/people/person/nationality
+
+
+16056	which country was <e> born in
+/people/person/nationality
+
+
+16063	which city was <e> born in
+/people/person/place_of_birth
+
+
+16069	where was <e> born
+/people/person/place_of_birth
+
+
+16071	where was the birth place of <e>
+/people/person/place_of_birth
+
+
+16072	what country was <e> from
+/people/person/nationality
+
+
+16086	what country is <e> from
+/people/person/nationality
+
+
+16130	which country is <e> from
+/people/person/nationality
+
+
+16147	what nationality is <e>
+/people/person/nationality
+
+
+16177	whats that nationality of <e>
+/people/person/nationality
+
+
+16223	where is <e> from
+/people/person/place_of_birth
+
+
+16258	where was <e> born
+/people/person/place_of_birth
+
+
+16264	what state was <e> born in
+/people/person/place_of_birth
+
+
+16274	where is <e> from
+/people/person/nationality
+
+
+16282	what is the place of birth of <e> Švankmajer
+/people/person/place_of_birth
+
+
+16316	what nationality is <e>
+/people/person/nationality
+
+
+16319	which city in mexico was <e> born in
+/people/person/place_of_birth
+
+
+16320	what is <e> 's nationality
+/people/person/nationality
+
+
+16330	what is the nationality of <e>
+/people/person/nationality
+
+
+16356	what is <e> 's country of nationality
+/people/person/nationality
+
+
+16380	where was <e> born
+/people/person/place_of_birth
+
+
+16382	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+16398	where is <e> from
+/people/person/nationality
+
+
+16465	what nationality does <e> belong to
+/people/person/nationality
+
+
+16489	which country is <e> from
+/people/person/nationality
+
+
+16508	which country is <e> from
+/people/person/nationality
+
+
+16543	which nation is <e> from
+/people/person/nationality
+
+
+16558	what is <e> 's nationality
+/people/person/nationality
+
+
+16559	what is <e> 's nationality
+/people/person/nationality
+
+
+16561	where is <e> from
+/people/person/place_of_birth
+
+
+16583	what nationality is <e>
+/people/person/nationality
+
+
+16585	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+16592	where was <e> born
+/people/person/place_of_birth
+
+
+16594	what nation is <e> from
+/people/person/nationality
+
+
+16595	what is the nationality of <e>
+/people/person/nationality
+
+
+16605	what county and state did <e> originate from
+/people/person/place_of_birth
+
+
+16615	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+16645	where in canada was <e> born
+/people/person/place_of_birth
+
+
+16663	where was <e> born
+/people/person/place_of_birth
+
+
+16696	what is the nationality of <e>
+/people/person/nationality
+
+
+16706	which country does <e> have nationality in
+/people/person/nationality
+
+
+16739	what country is <e> from
+/people/person/nationality
+
+
+16743	what is <e> 's nationality
+/people/person/nationality
+
+
+16744	what is <e> 's nationality
+/people/person/nationality
+
+
+16752	where was <e> born
+/people/person/place_of_birth
+
+
+16766	where is <e> from
+/people/person/nationality
+
+
+16787	what is the nationality of the famous person <e>
+/people/person/nationality
+
+
+16792	what is <e> 's nationality
+/people/person/nationality
+
+
+16798	what country is <e> from
+/people/person/nationality
+
+
+16800	where in estonia was <e> born
+/people/person/place_of_birth
+
+
+16811	which country is <e> from
+/people/person/nationality
+
+
+16817	what city was <e> born in
+/people/person/place_of_birth
+
+
+16836	what country is <e> from
+/people/person/nationality
+
+
+16875	where was <e> born
+/people/person/place_of_birth
+
+
+16919	where was <e> originally from
+/people/person/place_of_birth
+
+
+16924	what is <e> 's nationality
+/people/person/nationality
+
+
+16930	where was <e> born
+/people/person/place_of_birth
+
+
+16964	what is <e> 's nationality
+/people/person/nationality
+
+
+16985	what is <e> 's nationality
+/people/person/nationality
+
+
+17046	where was <e> born
+/people/person/place_of_birth
+
+
+17075	where was <e> born
+/people/person/nationality
+
+
+17078	which country does <e> belong to
+/people/person/nationality
+
+
+17097	what country is <e> a citizen of
+/people/person/nationality
+
+
+17144	where was <e> born
+/people/person/place_of_birth
+
+
+17178	where was <e> born
+/people/person/place_of_birth
+
+
+17194	what state was <e> born in
+/people/person/place_of_birth
+
+
+17239	what is the nationality of <e>
+/people/person/nationality
+
+
+17259	where was <e> born
+/people/person/place_of_birth
+
+
+17269	what country gives nationality to <e>
+/people/person/nationality
+
+
+17272	which american city was <e> born in
+/people/person/place_of_birth
+
+
+17289	where was <e> born
+/people/person/place_of_birth
+
+
+17314	where was <e> born
+/people/person/place_of_birth
+
+
+17321	what country is <e> from
+/people/person/nationality
+
+
+17335	what is <e> 's nationality
+/people/person/nationality
+
+
+17364	what is the nationality of <e>
+/people/person/nationality
+
+
+17378	which city was <e> born
+/people/person/place_of_birth
+
+
+17421	which was <e> born
+/people/person/place_of_birth
+
+
+17430	which country does <e> represent
+/people/person/nationality
+
+
+17451	what is the nationality of <e>
+/people/person/nationality
+
+
+17459	which country is <e> from
+/people/person/nationality
+
+
+17464	which hawaiian city is <e> 's place of birth
+/people/person/place_of_birth
+
+
+17474	<e> is a citizen of what european country
+/people/person/nationality
+
+
+17507	where was <e> born
+/people/person/place_of_birth
+
+
+17533	which city was <e> born in
+/people/person/place_of_birth
+
+
+17554	where was <e> born
+/people/person/place_of_birth
+
+
+17565	what nationality is <e>
+/people/person/nationality
+
+
+17579	where was <e> born
+/people/person/place_of_birth
+
+
+17587	where is <e> from
+/people/person/nationality
+
+
+17604	what nationality is <e>
+/people/person/nationality
+
+
+17656	what city is <e> from
+/people/person/place_of_birth
+
+
+17662	where is <e> from
+/people/person/nationality
+
+
+17668	where was <e> born
+/people/person/place_of_birth
+
+
+17699	where in the us was <e> born
+/people/person/place_of_birth
+
+
+17701	which country is <e> from
+/people/person/nationality
+
+
+17705	what is the nationality of <e>
+/people/person/nationality
+
+
+17730	what country was <e> born at
+/people/person/place_of_birth
+
+
+17743	which county was <e> born
+/people/person/place_of_birth
+
+
+17748	where was <e> born
+/people/person/place_of_birth
+
+
+17750	what city did <e> originate from
+/people/person/place_of_birth
+
+
+17769	what country was <e> born in
+/people/person/nationality
+
+
+17771	where was <e> born
+/people/person/place_of_birth
+
+
+17791	what country is <e> from
+/people/person/nationality
+
+
+17793	what is <e> 's country of nationality
+/people/person/nationality
+
+
+17807	where was <e> born
+/people/person/place_of_birth
+
+
+17815	where was <e> born
+/people/person/place_of_birth
+
+
+17822	where was <e> born
+/people/person/place_of_birth
+
+
+17844	where was <e> born
+/people/person/place_of_birth
+
+
+17851	what is <e> 's country of nationality
+/people/person/nationality
+
+
+17875	what country was <e> born in
+/people/person/place_of_birth
+
+
+17887	what is the nationality of <e>
+/people/person/nationality
+
+
+17892	what is <e> 's nationality
+/people/person/nationality
+
+
+17902	where was costume designer <e> born
+/people/person/place_of_birth
+
+
+17905	where was <e> born
+/people/person/place_of_birth
+
+
+17921	what is <e> nationality
+/people/person/nationality
+
+
+17953	where is <e> from
+/people/person/nationality
+
+
+17963	where is <e> from
+/people/person/nationality
+
+
+17984	what is <e> 's nationality
+/people/person/nationality
+
+
+17993	what is <e> 's nationality
+/people/person/nationality
+
+
+17995	where was <e> born
+/people/person/place_of_birth
+
+
+18023	what nation is <e> from
+/people/person/nationality
+
+
+18024	what is the nationality of <e>
+/people/person/nationality
+
+
+18063	what is <e> 's nationality
+/people/person/nationality
+
+
+18077	where was <e> born
+/people/person/place_of_birth
+
+
+18187	where was <e> born
+/people/person/place_of_birth
+
+
+18202	which country was <e> born in
+/people/person/nationality
+
+
+18209	which nation was <e> born into
+/people/person/nationality
+
+
+18245	where was <e> born
+/people/person/place_of_birth
+
+
+18259	where was <e> born
+/people/person/place_of_birth
+
+
+18275	what is the nationality of <e>
+/people/person/nationality
+
+
+18288	where was <e> born
+/people/person/place_of_birth
+
+
+18289	where was <e> born
+/people/person/place_of_birth
+
+
+18298	what is <e> 's nationality
+/people/person/nationality
+
+
+18301	where was <e> born
+/people/person/place_of_birth
+
+
+18325	where was <e> born
+/people/person/place_of_birth
+
+
+18326	in which country was <e> born
+/people/person/place_of_birth
+
+
+18336	which city was <e> born
+/people/person/place_of_birth
+
+
+18366	where is <e> 's place of birth
+/people/person/place_of_birth
+
+
+18401	what country is <e> from
+/people/person/nationality
+
+
+18416	what is the place of birth of <e>
+/people/person/place_of_birth
+
+
+18429	what empire was <e> a part of
+/people/person/nationality
+
+
+18430	what city was <e> born
+/people/person/place_of_birth
+
+
+18431	what is <e> 's nationality
+/people/person/nationality
+
+
+18433	where in asia was <e> born
+/people/person/place_of_birth
+
+
+18434	what is <e> 's country of nationality
+/people/person/nationality
+
+
+18436	which hampton was <e> born in
+/people/person/place_of_birth
+
+
+18486	what is the nationality of <e>
+/people/person/nationality
+
+
+18490	what is <e> 's nationality
+/people/person/nationality
+
+
+18539	where did <e> 's mother give birth
+/people/person/place_of_birth
+
+
+18544	where was <e> born
+/people/person/place_of_birth
+
+
+18568	where was <e> born
+/people/person/place_of_birth
+
+
+18574	to what nation does <e> belong
+/people/person/nationality
+
+
+18581	which city was <e> born
+/people/person/place_of_birth
+
+
+18625	what nationality is <e>
+/people/person/nationality
+
+
+18637	what nationality is <e> from
+/people/person/nationality
+
+
+18653	where was <e> born in
+/people/person/place_of_birth
+
+
+18668	which country does <e> have nationality in
+/people/person/nationality
+
+
+18672	where is <e> 's country of nationality
+/people/person/nationality
+
+
+18687	where was <e> born
+/people/person/place_of_birth
+
+
+18718	where was <e> born
+/people/person/place_of_birth
+
+
+18731	what is the nationality of <e>
+/people/person/nationality
+
+
+18734	which country does <e> have nationality in
+/people/person/nationality
+
+
+18755	where in illinois was <e> born
+/people/person/place_of_birth
+
+
+18789	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+18801	where was <e> born
+/people/person/place_of_birth
+
+
+18813	where in italy was <e> 's birth place
+/people/person/place_of_birth
+
+
+18823	what country gives <e> his or her nationality
+/people/person/nationality
+
+
+18826	what is <e> 's country of origin
+/people/person/nationality
+
+
+18836	which city did <e> die
+/people/person/place_of_birth
+
+
+18851	what nationality is <e>
+/people/person/nationality
+
+
+18888	where was <e> born
+/people/person/place_of_birth
+
+
+18892	what city was <e> born in
+/people/person/place_of_birth
+
+
+18905	which country was <e> born in
+/people/person/nationality
+
+
+18908	what country is <e> from
+/people/person/nationality
+
+
+18909	what city was <e> born in
+/people/person/place_of_birth
+
+
+18929	which city was <e> born in
+/people/person/place_of_birth
+
+
+18937	where is <e> from
+/people/person/nationality
+
+
+18970	where was <e> born
+/people/person/place_of_birth
+
+
+18974	<e> was born in which large uruguay city
+/people/person/place_of_birth
+
+
+18984	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+18993	what town was <e> born in
+/people/person/place_of_birth
+
+
+18999	where was <e> born
+/people/person/place_of_birth
+
+
+19003	what country does <e> get her nationality from
+/people/person/nationality
+
+
+19025	which city was <e> born
+/people/person/place_of_birth
+
+
+19030	what is <e> 's nationality
+/people/person/nationality
+
+
+19035	what historical nationality does <e> belong to
+/people/person/nationality
+
+
+19042	where was <e> given birth
+/people/person/place_of_birth
+
+
+19053	where was <e> born
+/people/person/place_of_birth
+
+
+19081	which country is <e> from
+/people/person/nationality
+
+
+19089	what is <e> 's nationality
+/people/person/nationality
+
+
+19093	which city was <e> born
+/people/person/place_of_birth
+
+
+19104	where was <e> born
+/people/person/place_of_birth
+
+
+19106	where was <e> born
+/people/person/place_of_birth
+
+
+19112	where was <e> born
+/people/person/place_of_birth
+
+
+19125	what country is <e> from
+/people/person/nationality
+
+
+19129	what country is <e> from
+/people/person/nationality
+
+
+19139	where was <e> born
+/people/person/place_of_birth
+
+
+19147	where was <e> born
+/people/person/place_of_birth
+
+
+19176	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+19181	which city was <e> born
+/people/person/place_of_birth
+
+
+19187	what is <e> 's birthplace
+/people/person/place_of_birth
+
+
+19192	where was the birthplace of <e>
+/people/person/place_of_birth
+
+
+19239	where was <e> born
+/people/person/place_of_birth
+
+
+19261	in what eastern county was <e> born
+/people/person/place_of_birth
+
+
+19272	what is the nationality of <e>
+/people/person/nationality
+
+
+19322	what is the nationality of <e>
+/people/person/nationality
+
+
+19328	where was <e> born
+/people/person/place_of_birth
+
+
+19342	what is <e> 's country of nationality
+/people/person/nationality
+
+
+19350	where was <e> born
+/people/person/place_of_birth
+
+
+19380	what is <e> 's nationality
+/people/person/nationality
+
+
+19404	what is <e> 's nationality
+/people/person/nationality
+
+
+19409	where is <e> from
+/people/person/place_of_birth
+
+
+19413	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+19418	what is the nationality of <e>
+/people/person/nationality
+
+
+19446	where is <e> 's nationality
+/people/person/nationality
+
+
+19461	what country is <e> from
+/people/person/nationality
+
+
+19465	what is <e> 's nationality
+/people/person/nationality
+
+
+19476	where is <e> from
+/people/person/nationality
+
+
+19480	what country is <e> from
+/people/person/nationality
+
+
+19522	what city and state was <e> born
+/people/person/place_of_birth
+
+
+19534	what is <e> birth place
+/people/person/place_of_birth
+
+
+19559	what nation is <e> from
+/people/person/nationality
+
+
+19573	what is <e> 's nationality
+/people/person/nationality
+
+
+19588	where is <e> from
+/people/person/nationality
+
+
+19625	what is <e> 's birth place
+/people/person/place_of_birth
+
+
+19654	where was <e> born
+/people/person/place_of_birth
+
+
+19673	where was the birthplace of <e>
+/people/person/place_of_birth
+
+
+19699	where was <e> born
+/people/person/place_of_birth
+
+
+19704	<e> was born here
+/people/person/place_of_birth
+
+
+19715	what nationality is <e>
+/people/person/nationality
+
+
+19736	which country was <e> born in
+/people/person/place_of_birth
+
+
+19750	where was <e> born
+/people/person/place_of_birth
+
+
+19759	where was <e> 's place of birth
+/people/person/place_of_birth
+
+
+19783	where was <e> born
+/people/person/place_of_birth
+
+
+19790	where is the birth place of <e>
+/people/person/place_of_birth
+
+
+19812	where was <e> born
+/people/person/place_of_birth
+
+
+19828	which country is <e> from
+/people/person/nationality
+
+
+19852	where in texas was <e> born
+/people/person/place_of_birth
+
+
+19874	which country gives <e> his or her nationality
+/people/person/nationality
+
+
+19910	what nationality is <e>
+/people/person/nationality
+
+
+19935	what is the nationality of <e>
+/people/person/nationality
+
+
+19942	what nationality is <e>
+/people/person/nationality
+
+
+19964	which country does <e> identify with
+/people/person/nationality
+
+
+19965	which european country is <e> from
+/people/person/nationality
+
+
+19982	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+19991	which nation is <e> originally from
+/people/person/nationality
+
+
+20003	where was <e> born
+/people/person/place_of_birth
+
+
+20021	where is the birthplace of <e>
+/people/person/place_of_birth
+
+
+20024	where was <e> born
+/people/person/place_of_birth
+
+
+20025	what country is <e> a citizen of
+/people/person/nationality
+
+
+20050	where was <e> born
+/people/person/place_of_birth
+
+
+20071	which famous city is <e> from
+/people/person/place_of_birth
+
+
+20086	what is the nationality of <e> ( painter )
+/people/person/nationality
+
+
+20104	what was <e> 's place of birth
+/people/person/place_of_birth
+
+
+20107	where was <e> born
+/people/person/place_of_birth
+
+
+20113	where was <e> born
+/people/person/place_of_birth
+
+
+20152	what country is <e> from
+/people/person/place_of_birth
+
+
+20156	what is <e> 's nationality
+/people/person/nationality
+
+
+20186	where was <e> born
+/people/person/place_of_birth
+
+
+20198	what is <e> 's place of birth
+/people/person/place_of_birth
+
+
+20204	where is <e> originally from
+/people/person/nationality
+
+
+20231	what country gives <e> nationality
+/people/person/nationality
+
+
+20239	what is the nationality of <e>
+/people/person/nationality
+
+
+20261	where was <e> born
+/people/person/place_of_birth
+
+
+20284	which italian city was <e> born
+/people/person/place_of_birth
+
+
+20300	where was <e> from
+/people/person/nationality
+
+
+20303	which city in france was <e> born
+/people/person/place_of_birth
+
+
+20333	where was <e> born
+/people/person/place_of_birth
+
+
+20342	where was <e> born
+/people/person/place_of_birth
+
+
+20355	whats the nationality of <e>
+/people/person/nationality
+
+
+20377	what country is <e> from
+/people/person/nationality
+
+
+20381	<e> was born here
+/people/person/place_of_birth
+
+
+20389	what was the name of the town <e> was born in
+/people/person/place_of_birth
+
+
+20401	where was <e> born
+/people/person/place_of_birth
+
+
+20403	where was <e> born
+/people/person/place_of_birth
+
+
+20433	where was <e> born
+/people/person/place_of_birth
+
+
+20454	where was <e> born
+/people/person/place_of_birth
+
+
+20460	what is <e> 's nation of origin
+/people/person/nationality
+
+
+20463	what is the nationality of <e>
+/people/person/nationality
+
+
+20493	where was <e> born
+/people/person/place_of_birth
+
+
+20501	what country is <e> from
+/people/person/nationality
+
+
+20529	which country does <e> belong to
+/people/person/nationality
+
+
+20531	where was <e> born
+/people/person/place_of_birth
+
+
+20541	what is <e> 's nationality
+/people/person/nationality
+
+
+20558	what country is <e> from
+/people/person/nationality
+
+
+20575	what country is <e> a citizen of
+/people/person/nationality
+
+
+20582	what country was <e> born to
+/people/person/nationality
+
+
+20600	where was <e> born in denmark
+/people/person/place_of_birth
+
+
+20609	what nationality is <e>
+/people/person/nationality
+
+

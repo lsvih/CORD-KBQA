@@ -1,0 +1,116 @@
+45	what countries do people speak <e>
+language.human_language.countries_spoken_in
+human_language
+
+45	what countries do people speak <e>
+language.human_language.main_country
+human_language
+
+210	which countries have <e> as native language
+language.human_language.main_country
+language_in_fiction
+
+306	who speaks <e>
+language.human_language.countries_spoken_in
+human_language
+
+342	what countries around the world speak <e>
+language.human_language.countries_spoken_in
+language_in_fiction
+
+405	in what country do they speak <e>
+language.human_language.countries_spoken_in
+human_language
+
+569	what country speak <e> as native language
+language.human_language.countries_spoken_in
+language_in_fiction
+
+1112	what countries speak <e> wikipedia
+language.human_language.countries_spoken_in
+language_in_fiction
+
+1212	what countries do they speak <e>
+language.human_language.countries_spoken_in
+human_language
+
+1312	what two countries speak <e>
+language.human_language.main_country
+human_language
+
+1457	what countries in the world speak <e>
+language.human_language.countries_spoken_in
+language_in_fiction
+
+1563	what country do they speak <e>
+language.human_language.countries_spoken_in
+human_language
+
+1824	where is <e> used
+language.human_language.countries_spoken_in
+human_language
+
+1824	where is <e> used
+language.human_language.main_country
+human_language
+
+2052	where is <e> language spoken
+language.human_language.countries_spoken_in
+human_language
+
+2052	where is <e> language spoken
+language.human_language.main_country
+human_language
+
+2080	which countries speak <e>
+language.human_language.countries_spoken_in
+language_in_fiction
+
+2346	what countries in the world speak <e>
+language.human_language.countries_spoken_in
+human_language
+
+2346	what countries in the world speak <e>
+language.human_language.main_country
+human_language
+
+2496	where do people speak <e>
+language.human_language.main_country
+human_language
+
+2764	where people speak <e>
+language.human_language.countries_spoken_in
+human_language
+
+2805	where <e> is spoken in the world
+language.human_language.countries_spoken_in
+language_in_fiction
+
+2805	where <e> is spoken in the world
+language.human_language.main_country
+language_in_fiction
+
+2826	who speaks <e> language
+language.human_language.countries_spoken_in
+human_language
+
+2826	who speaks <e> language
+language.human_language.main_country
+human_language
+
+2869	what present day countries use <e> as their national language
+language.human_language.countries_spoken_in
+language_in_fiction
+
+2902	which country does <e> come from
+language.human_language.main_country
+human_language
+
+2923	where is <e> the official language
+language.human_language.countries_spoken_in
+human_language
+
+2984	where is <e> spoken around the world
+language.human_language.countries_spoken_in
+human_language
+

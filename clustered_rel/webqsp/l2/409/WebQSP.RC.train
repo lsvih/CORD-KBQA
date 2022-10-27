@@ -1,0 +1,108 @@
+7	where are the nfl <e> from
+sports.sports_team.location
+
+
+39	where do the <e> play home games
+sports.sports_team.arena_stadium
+
+
+72	where do the <e> play
+sports.sports_team.arena_stadium
+
+
+100	where do <e> play
+sports.sports_team.arena_stadium
+
+
+433	where do <e> play
+sports.sports_team.arena_stadium
+
+
+485	where does the <e> play football
+sports.sports_team.arena_stadium
+
+
+637	what city is fc <e> 04 in
+sports.sports_team.location
+
+
+821	where do the fla <e> play
+sports.sports_team.arena_stadium
+
+
+919	what is the name of the <e> football stadium
+sports.sports_team.arena_stadium
+
+
+956	where do the <e> play
+sports.sports_team.location
+
+
+1085	where does the <e> soccer team play
+sports.sports_team.arena_stadium
+
+
+1092	where do the <e> play baseball
+sports.sports_team.arena_stadium
+
+
+1234	where do <e> play
+sports.sports_team.arena_stadium
+
+
+1468	where does the <e> play
+sports.sports_team.arena_stadium
+
+
+1583	where are the <e> located
+sports.sports_team.location
+
+
+1633	where is <e> stadium located
+sports.sports_team.arena_stadium
+
+
+1679	where do the <e> play
+sports.sports_team.arena_stadium
+
+
+2012	where is <e> stadium
+sports.sports_team.arena_stadium
+
+
+2097	where does the <e> practice
+sports.sports_team.arena_stadium
+
+
+2118	where do the <e> play basketball
+sports.sports_team.arena_stadium
+
+
+2210	where do the <e> play
+sports.sports_team.arena_stadium
+
+
+2228	where are the <e> from
+sports.sports_team.location
+
+
+2268	where did the <e> play
+sports.sports_team.arena_stadium
+
+
+2610	what city is the <e> from
+sports.sports_team.location
+
+
+2644	where did the <e>
+sports.sports_team.location
+
+
+2856	where do the <e> play
+sports.sports_team.arena_stadium
+
+
+3102	where is <e> home stadium
+sports.sports_team.arena_stadium
+
+

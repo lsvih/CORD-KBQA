@@ -1,0 +1,2 @@
+visual_art.visual_artist.associated_periods_or_movements
+visual_art.visual_artist.art_forms

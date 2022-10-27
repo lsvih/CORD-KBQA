@@ -1,0 +1,2 @@
+sports.sports_team.location
+sports.sports_team.arena_stadium

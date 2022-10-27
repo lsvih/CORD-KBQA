@@ -1,0 +1,8 @@
+location.location.containedby
+location.location.contains
+base.locations.countries.continent
+location.location.street_address..location.mailing_address.citytown
+location.hud_county_place.county
+base.biblioness.bibs_location.country
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+base.aareas.schema.administrative_area.administrative_children

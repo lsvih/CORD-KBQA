@@ -1,0 +1,108 @@
+7	where are the nfl <e> from
+sports.sports_team.location
+professional_sports_team
+
+39	where do the <e> play home games
+sports.sports_team.arena_stadium
+professional_sports_team
+
+72	where do the <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+100	where do <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+433	where do <e> play
+sports.sports_team.arena_stadium
+ice_hockey_team
+
+485	where does the <e> play football
+sports.sports_team.arena_stadium
+professional_sports_team
+
+637	what city is fc <e> 04 in
+sports.sports_team.location
+football_team
+
+821	where do the fla <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+919	what is the name of the <e> football stadium
+sports.sports_team.arena_stadium
+professional_sports_team
+
+956	where do the <e> play
+sports.sports_team.location
+professional_sports_team
+
+1085	where does the <e> soccer team play
+sports.sports_team.arena_stadium
+football_team
+
+1092	where do the <e> play baseball
+sports.sports_team.arena_stadium
+professional_sports_team
+
+1234	where do <e> play
+sports.sports_team.arena_stadium
+baseball_team
+
+1468	where does the <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+1583	where are the <e> located
+sports.sports_team.location
+american_football_team
+
+1633	where is <e> stadium located
+sports.sports_team.arena_stadium
+professional_sports_team
+
+1679	where do the <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+2012	where is <e> stadium
+sports.sports_team.arena_stadium
+professional_sports_team
+
+2097	where does the <e> practice
+sports.sports_team.arena_stadium
+professional_sports_team
+
+2118	where do the <e> play basketball
+sports.sports_team.arena_stadium
+professional_sports_team
+
+2210	where do the <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+2228	where are the <e> from
+sports.sports_team.location
+professional_sports_team
+
+2268	where did the <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+2610	what city is the <e> from
+sports.sports_team.location
+professional_sports_team
+
+2644	where did the <e>
+sports.sports_team.location
+professional_sports_team
+
+2856	where do the <e> play
+sports.sports_team.arena_stadium
+professional_sports_team
+
+3102	where is <e> home stadium
+sports.sports_team.arena_stadium
+professional_sports_team
+
